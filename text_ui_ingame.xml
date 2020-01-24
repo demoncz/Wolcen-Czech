@@ -1,0 +1,1073 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Audio script template</Title>
+  <Author>Maëlenn Lumineau</Author>
+  <LastAuthor>PC</LastAuthor>
+  <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
+  <Created>2002-06-17T19:14:00Z</Created>
+  <LastSaved>2018-03-30T19:54:16Z</LastSaved>
+  <Company>Electronic Arts</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\Copy of Dialog_Asset_List_Final_edit.xls</Path>
+   <SheetName>DropDown</SheetName>
+   <SheetName>Conversations</SheetName>
+   <Xct>
+    <Count>2</Count>
+    <SheetIndex>0</SheetIndex>
+    <Crn>
+     <Row>6</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>4</ColLast>
+     <Text>clean</Text>
+     <Text>TV</Text>
+     <Text>radio (disturbed) </Text>
+     <Text>radio (low)</Text>
+     <Text>radio (heavy)</Text>
+    </Crn>
+    <Crn>
+     <Row>9</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>41</ColLast>
+     <Text>Player</Text>
+     <Text>Barnes</Text>
+     <Text>Hawker</Text>
+     <Text>Sykes</Text>
+     <Text>Johnson</Text>
+     <Text>Cortez</Text>
+     <Text>Beck</Text>
+     <Text>Miller</Text>
+     <Text>Baxter</Text>
+     <Text>American scientist</Text>
+     <Text>Shark</Text>
+     <Text>Chia</Text>
+     <Text>Kirovski</Text>
+     <Text>Michaels</Text>
+     <Text>Chang</Text>
+     <Text>Marine Soldier a</Text>
+     <Text>Marine Soldier b</Text>
+     <Text>Chinese Soldier a</Text>
+     <Text>Chinese Soldier b</Text>
+     <Text>Chinese Soldier c</Text>
+     <Text>Chinese Soldier d</Text>
+     <Text>Chinese Soldier e</Text>
+     <Text>Chinese Soldier f</Text>
+     <Text>Chinese Officer a</Text>
+     <Text>Chinese Officer b</Text>
+     <Text>Chinese Scientist a</Text>
+     <Text>Chinese Scientist b</Text>
+     <Text>Chinese Scientist Female a</Text>
+     <Text>Chinese Scientist Female b</Text>
+     <Text>Filmcrew Member</Text>
+     <Text>Morrison</Text>
+     <Text>C17 Pilot a</Text>
+     <Text>C17 Pilot b</Text>
+     <Text>Submarine Commander Davis</Text>
+     <Text>Pilot (camera)</Text>
+     <Text>Bridge officer 1</Text>
+     <Text>Bridge officer 2</Text>
+     <Text>Carrier deck guide</Text>
+     <Text>Jet Pilot</Text>
+     <Text>VTOL Pilot</Text>
+     <Text>Commander (camera)</Text>
+     <Text>Team Two (camera)</Text>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <WindowHeight>12225</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <TabRatio>274</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s27" ss:Name="Insatisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#800000"/>
+   <Interior ss:Color="#FFC7CE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s28" ss:Name="Neutre">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
+   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s26" ss:Name="Satisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m448021344" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m448021364">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m448021384">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m448021404">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m448021424">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s85">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s86">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s87">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s89" ss:Parent="s27">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s90" ss:Parent="s26">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s93" ss:Parent="s27">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s94" ss:Parent="s26">
+   <Borders/>
+  </Style>
+  <Style ss:ID="s102">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="characters"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R10C1:R10C42"/>
+  <NamedRange ss:Name="type"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R7C1:R7C5"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="411" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
+   <Column ss:Width="336.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="370.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="329.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Key</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Original text</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Translated text</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m448021344"><Data ss:Type="String">Main user interface</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_skilllocked</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Locked</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Zamčeno</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_skillunlocked</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Unlocked</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Odemčeno</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_ranged</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ranged</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Na dálku</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_skill_slot</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Empty skill slot</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Prázdný dovednostní slot</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_you_can_assign_a_skill_to_this_skill_slot</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can assign any skill to this slot</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Můžete sem přiřadit jakkoukoliv dovednost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_lockedskillslot</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Locked skill slot</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Zamčený dovednostní slot</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_lockedskillslot_desc</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">This slot will automatically unlock at level %1</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Tento slot se automatický odemče na úrovni %1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_playerchest_unlockcost</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Unlock for %1 gold</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Odemčít za %1 zlata</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_blockedhit</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Blocked</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Blokován</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_inv_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Inventory</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Inventář</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m448021364"><Data ss:Type="String">On-screen messages</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_keycolor_red</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Red</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Červený</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_keypicking</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You have found a %1 key .</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Našel jsi %1 klíč</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_keyrequired</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You need a %1 key to open this door.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Potřebuješ %1 klíč k otevření těchto dvěří.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Not_enough_gold</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Not enough gold.</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Nedostatek zlata.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Not_enough_room_in_inventory</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Not enough room in inventory.</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Nedostatek místa.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">It_took_time_to_heal_your_wounds_enemies_have_repopulated_the_world</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Your wounds have been healed, but forces of evil had time to regroup.</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Tvé rány se zhojily, ovšem zlé síly se mezitím přeskupily.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_you_cannot_replace_default_skills</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You cannot replace default spells.</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Základní dovednosti nelze vyměnit.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_unable_to_equip_item_while_using_skill</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't equip an item while using a spell.</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Nelze použít tento předmět při používání kouzla.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_no_town_portal_here</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't use a town portal here.</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Zde nelze položit portál.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_too_far_from_waypoint_to_teleport</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You need to stand near a waypoint to teleport.</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Pro teleport je nutné stát blízko cestovního bodu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_pst_not_available</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Passive Skill Tree is disabled</Data></Cell>
+    <Cell ss:StyleID="s89"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_notenoughmana</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Not enough umbra!</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Nedostatek umbry!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_notenoughrage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Not enough rage!</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Nedostatek zuřivosti!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_notenoughstamina</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Not enough stamina!</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Nedostatek výdrže!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_notenoughstacks</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Not enough charges!</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Nedostatek použití!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_unable_equip_craft_element</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">You can not equip a crafting component.</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Spotřební materiály nelze vybavit.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_strreqnotmatching_text</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Your ferocity is too low for equipping this item.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Tvá dravost je příliš nízká pro vybavení předmětu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_dexreqnotmatching_text</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Your agility is too low for equipping this item.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Tvá hbitost je příliš nízká pro vybavení předmětu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_powreqnotmatching_text</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Your willpower is too low for equipping this item.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Tvá vůle je příliš nízká pro vybavení předmětu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_conreqnotmatching_text</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Your toughness is too low for equipping this item.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Tvá houževnatost je příliš nízká pro vybavení předmětu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_levelreqnotmatching_text</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Your level is too low for this item.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Tvá úroveň je příliš nízká pro vybavení předmětu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_killbossfirst</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">You need to kill the boss before going further.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Musíš zabít bosse aby mohl pokračovat dál.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_cantusethisnow</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">You can't use this right now.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Nelze právě použít.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_inventory_cannotequiphere</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">You can't equip this item in this slot.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Nelze použít předmět v tomto slotu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_cannot_replace_used_skill</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">You can't move a spell during its cooldown.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Kouzlo nelze přetáhnout v průběhu času nabíjení.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_cant_equip_unique_twice</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">You can't equip the same unique item twice.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Nelze použít dva stejné unikátní předměty najednou.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_spellalreadyknown_text</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">You already know this spell.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Kouzlo už znáš.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_requirestarget</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">This spell requires a valid target.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Kouzlo vyžaduje platný cíl.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_skill_already_max_lvl</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">This spell is already at maximum level.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Kouzlo je již na maximální úrovni.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_not_enough_knowledge</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Not enough knowledge.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Nedostatek znalosti</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_can_not_sell_item_to_archivist</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">You can not sell this item to the archivist.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Nelze prodat tento předmět archiváři.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_locked_chest_panel</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">This inventory panel is locked.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Tento panel je zamčený.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">Ui_cantswapitems</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't swap these items.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Nelze zaměnit tyto předměty.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">Ui_stance_not_available_yet</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">This weapons combination is not available yet.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Tato kombinace zbraní není zatím zakomponována.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">Ui_gem_socketnotempty</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">This gem socket is not empty.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Místo pro klenot není prázdné</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">Ui_gem_cantsocketbasicinunique</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't put a basic gem into a unique socket.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Nelze použít základní klenot do unikátního místa.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">Ui_gem_cantsocketuniqueinbasic</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't put a unique gem into a basic socket.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Nelze použít unikátní klenot do základního místa.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">Ui_gem_levelprereqnotsatisfied</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">The level of this item is too low for this gem.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Úroveň předmětu je příliš nízká pro tento klenot.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell><Data ss:Type="String">ui_no_teleport_to_friend_here</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't teleport to your friend from here.</Data></Cell>
+    <Cell ss:StyleID="s93"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m448021384"><Data ss:Type="String">Archivist</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_knowledge</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Knowledge</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Znalost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_archivist_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Archivist</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Archivář</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_level_up</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Level up</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Zvýšit úroveň</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_archivist_header</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can sell your spell books to the archivist and earn knowledge. \Nknowledge can be used to increase your spells level.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Archiváři lze prodat knihy kouzel a získat tak znalost \nznalost lze použít ke zvýšení úrovně tvých kouzel.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m448021404"><Data ss:Type="String">Jeweler</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_jeweler</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Jeweler</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Klenotník</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_jeweler_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Jeweler</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Klenotník</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_jeweler_itemhasnosocket</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">This item does not have a gem socket.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Tento předmět nemá místo pro klenot.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_jeweler_itemhasnogem</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">There is no gem to remove from this item.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Předmět nemá klenot.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_jeweler_unsocketcost</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gem removal cost</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Cena za odstranění klenotu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_jeweler_unsocket</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Remove gem</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Odstranit klenot</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_jeweler_header</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can remove the gems from your items at the jeweler's workshop.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Klenoty z předmětů lze odstranit u klenotníka.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m448021424"><Data ss:Type="String">Misc / unsorted / refactoring in progress</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_xp_at_level</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Xp at level</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Zk. Na úrovni</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ui_damagereduction</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Damage reduction</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Snížení poškození</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Level_up</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Level up</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Úroveň zvýšena</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">You_have_reach_level</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Level</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Level</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Dodge</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Dodge</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Vyhnutí</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_no_belt_slot_available</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">No belt slot available</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Slot pro opasek není volný.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_dialogtitlemsg</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Message</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Zpráva</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_seconds</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Seconds</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Sekund</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_during</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">During</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">V průběhu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_level</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Level</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Level</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_level</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Level</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Level</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_mana</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbra</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Umbra</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_rage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Rage</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Zuřivost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_stamina</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Stamina</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Výdrž</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_equipped</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Equipped</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Vybaveno</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_requierement</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Requierements</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Požadavky</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_unlock</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Unlock</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Odemčít</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_health</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Health</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Zdraví</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_objectives</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Objectives</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Objektivy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_ok</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ok</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ok</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_xpreward</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Experience</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Zkušenosti</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_goldreward</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gold</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Zlata</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_gold</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gold</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Zlato</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_reclaims</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Reclaims</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Koupit zpět</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_weapons</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Weapons</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Zbraně</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_consumables</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Consumables</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Poživatiny</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_mutations</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Mutations</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Mutace</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_mercenaries</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Mercenaries</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Žoldáci</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_passiveskills</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Passive skills</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Pasivní dovednosti</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_activeskills</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Active skills</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Aktivní dovednosti</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_damage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Damage</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Poškození</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_attackspeed</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Attack speed</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Rychlost útoku</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_dodgechance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Dodge</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Vyhnutí</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_critical_damage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Critical damage</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Kritické poškození</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_critical</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Critical chance</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Šance na kritický zásah</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_fire_resistance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Fire resistance</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ohnivá odolnost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_frost_resistance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Frost resistance</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ledová odolnost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_lightning_resistance</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Lightning resistance</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Blesková odolnost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_fire_damage</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Fire damage</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Ohnivé poškození</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_numberofcharge</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Number of charges</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Počet použití</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_magicfind</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Magic find</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Nalezení magický předmětů</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_goldfind</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Gold find</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Nalezení zlata</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_character</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Character</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Postava</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_attributes</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Attributes</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Atributy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_strength</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ferocity</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Dravost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_dexterity</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Agility</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Hbitost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_power</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Willpower</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Vůle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_constitution</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Toughness</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Houževnatost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_remaining_points</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Remaining points</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Zbývající body</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_health_regen</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Health regeneration</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Regenerace zdraví</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_mana_regen</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbra regeneration</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Regenerace umbry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_stamina_regeneration</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Stamina regeneration</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Regenerace výdrže</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_item_level</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Item level</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Úroveň předmětu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_requiered_level</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Requiered level</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Potřebná úroveň</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_durability</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Durability</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Trvanlivost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_sell_value</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Sell value</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Prodejní hodnota</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_to</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">To</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">K</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_immediate_gain</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Immediate gain</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Okamžité získání</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_hp</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Health points</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Body zdraví</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_refresh_time</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Refresh time</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Čas obnovení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_mana_cost</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbra cost</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Cena umbry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_mana_generation</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Umbra generation</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Tvoření umbry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_rage_cost</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Rage cost</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Cena zuřivosti</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_rage_generation</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Rage generation</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Tvoření zuřivosti</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_stamina_cost</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Stamina cost</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Cena výdrže</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_levelup</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Level up!</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Získal jsi další úroveň!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_startbounty</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Start bounty!</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Začít odměnu!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_bountycraft</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Bounty</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Odměna</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_you_are_dead</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You are dead</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Zemřel jsi.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_revive_in_town</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Return to amarth</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Vrátit se do amarthu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_revive</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Return to last checkpoint</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Vrátit se k poslednímu záchytnému bodu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_exit</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Exit wolcen</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Opustit wolcen</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_attack_speed</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Attack speed</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Rychlost útoku</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_range</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Range</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Dosah</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Right_click_to_learn_or_increase_current_level</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Right click to learn or increase current level.</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Pravým tlačítkem se naučíte nebo zvýšíte aktuální úřoveň.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Ui_basic_chest</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Chest</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Truhla</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Ui_rare_chest</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Rare chest</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Vzácná truhla</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Skill_unlocked</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Skill unlocked</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Dovednost odemčena</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:Index="3" ss:StyleID="s77"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:Index="3" ss:StyleID="s77"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="45"/>
+   <Row ss:Index="193" ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="198" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="201" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="205" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="208" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="212" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="215" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
+   <Row ss:Index="229" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="51"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="234" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="238" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="242" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="51"/>
+   <Row ss:AutoFitHeight="0" ss:Height="45"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="251" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="254" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="258" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="75.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="85.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="272" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="274" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="281" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="286" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="290" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
+   <Row ss:Index="294" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="296" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="299" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="303" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="305" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="309" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="312" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="319" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="322" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
+   <Row ss:Index="331" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="338" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.51181102362204722"
+     x:Data="&amp;LTime restriction sample script"/>
+    <Footer x:Margin="0.51181102362204722" x:Data="Page &amp;P"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
+     x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>70</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>85</Zoom>
+   <Selected/>
+   <TopRowVisible>9</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>36</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

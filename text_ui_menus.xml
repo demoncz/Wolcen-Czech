@@ -1,0 +1,2892 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Audio script template</Title>
+  <Author>Maëlenn Lumineau</Author>
+  <LastAuthor>Martin Dančevský</LastAuthor>
+  <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
+  <Created>2002-06-17T19:14:00Z</Created>
+  <LastSaved>2020-01-24T08:37:17Z</LastSaved>
+  <Company>Electronic Arts</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\Copy of Dialog_Asset_List_Final_edit.xls</Path>
+   <SheetName>DropDown</SheetName>
+   <SheetName>Conversations</SheetName>
+   <Xct>
+    <Count>2</Count>
+    <SheetIndex>0</SheetIndex>
+    <Crn>
+     <Row>6</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>4</ColLast>
+     <Text>clean</Text>
+     <Text>TV</Text>
+     <Text>radio (disturbed) </Text>
+     <Text>radio (low)</Text>
+     <Text>radio (heavy)</Text>
+    </Crn>
+    <Crn>
+     <Row>9</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>41</ColLast>
+     <Text>Player</Text>
+     <Text>Barnes</Text>
+     <Text>Hawker</Text>
+     <Text>Sykes</Text>
+     <Text>Johnson</Text>
+     <Text>Cortez</Text>
+     <Text>Beck</Text>
+     <Text>Miller</Text>
+     <Text>Baxter</Text>
+     <Text>American scientist</Text>
+     <Text>Shark</Text>
+     <Text>Chia</Text>
+     <Text>Kirovski</Text>
+     <Text>Michaels</Text>
+     <Text>Chang</Text>
+     <Text>Marine Soldier a</Text>
+     <Text>Marine Soldier b</Text>
+     <Text>Chinese Soldier a</Text>
+     <Text>Chinese Soldier b</Text>
+     <Text>Chinese Soldier c</Text>
+     <Text>Chinese Soldier d</Text>
+     <Text>Chinese Soldier e</Text>
+     <Text>Chinese Soldier f</Text>
+     <Text>Chinese Officer a</Text>
+     <Text>Chinese Officer b</Text>
+     <Text>Chinese Scientist a</Text>
+     <Text>Chinese Scientist b</Text>
+     <Text>Chinese Scientist Female a</Text>
+     <Text>Chinese Scientist Female b</Text>
+     <Text>Filmcrew Member</Text>
+     <Text>Morrison</Text>
+     <Text>C17 Pilot a</Text>
+     <Text>C17 Pilot b</Text>
+     <Text>Submarine Commander Davis</Text>
+     <Text>Pilot (camera)</Text>
+     <Text>Bridge officer 1</Text>
+     <Text>Bridge officer 2</Text>
+     <Text>Carrier deck guide</Text>
+     <Text>Jet Pilot</Text>
+     <Text>VTOL Pilot</Text>
+     <Text>Commander (camera)</Text>
+     <Text>Team Two (camera)</Text>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <WindowHeight>8964</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <TabRatio>274</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="40&#160;% - Accent1">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63" ss:Name="Insatisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#800000"/>
+   <Interior ss:Color="#FFC7CE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64" ss:Name="Neutre">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
+   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65" ss:Name="Satisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2728382300416" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2728382300436" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m2728382300456" ss:Parent="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s85" ss:Parent="s65">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s86">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s88" ss:Parent="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s91" ss:Parent="s63">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s94">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
+   <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s95" ss:Parent="s65">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s96">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s98" ss:Parent="s63">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s100" ss:Parent="s64">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s101">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s103">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s105" ss:Parent="s63">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="238" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s108" ss:Parent="s63">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="238" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="characters"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R10C1:R10C42"/>
+  <NamedRange ss:Name="type"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R7C1:R7C5"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="582" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s66" ss:DefaultColumnWidth="60"
+   ss:DefaultRowHeight="13.2">
+   <Column ss:StyleID="s67" ss:AutoFitWidth="0" ss:Width="363.59999999999997"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="430.8"/>
+   <Column ss:StyleID="s66" ss:Width="359.4"/>
+   <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="160.80000000000001"/>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s69">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Key</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Original text</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Translated text</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s69">
+    <Cell ss:MergeAcross="2" ss:StyleID="m2728382300416"><Data ss:Type="String">Game menu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="Default">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Language selection</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_selectlanguage</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select language</Data></Cell>
+    <Cell><Data ss:Type="String">Zvolit jazyk</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_english</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">English</Data></Cell>
+    <Cell><Data ss:Type="String">Anglicky</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_german</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">German</Data></Cell>
+    <Cell><Data ss:Type="String">Německy</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_japanese</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Japanese</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Japonsky</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_korean</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Korean</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Korejsky</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_chinese</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chinese</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Čínsky</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_hungarian</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Hungarian</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Maďarsky</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_spanish</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Spanish</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Španělsky</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_french</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">French</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Francouzký</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_russian</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Russian</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Rusky</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_czech</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Czech</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Česky</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_finnish</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Finnish</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">Finsky</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="Default">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Main menu</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_gametitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Wolcen</Data></Cell>
+    <Cell><Data ss:Type="String">Wolcen</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_welcomebeta1mainmenu</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Welcome to the P1 *Technical Beta* of Wolcen: Lords of Mayhem!\n\nThe goal of this experimental Beta is to spot the major issues related to the Multiplayer implementation and how the servers are handling the game. The content is therefore limited to selected features in order to make a progressive testing.\n\nP1 T-Beta will allow you to experiment the random dungeon with your friends and discover a portion of the new content we’re preparing for the Beta release.\n&#10;The servers will be opened starting October 18th until October 25th, 2018.\n\nAfter that, we will close the servers and the technical Beta to work on bug fixing, and prepare for the Phase 2.\n\nDon’t hesitate to join us on Discord and share your feedback with us!\nhttps://discord.gg/wolcenstudio</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Cílem této experimentální verze Beta je zjistit hlavní problémy související s implementací multiplayerů a způsob, jakým servery tuto hru zpracovávají. Obsah je proto omezen na vybrané funkce, aby bylo možné provádět progresivní testování. \ N \ nP1 T-Beta vám umožní experimentovat s náhodnými dungeony se svými přáteli a objevit část nového obsahu, který se chystáme na vydání Beta. . \ n&#10;Servery budou otevřeny od 18. října do 25. října 2018. \ n \ nPo tom zavřeme servery a technickou beta verzi, abychom mohli pracovat na opravě chyb, a připravit se na fázi 2. \ n \ n Neváhejte Připojte se k nám na Discordu a podělte se s námi o svůj názor! \ nhttps: //discord.gg/wolcenstudio</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_welcomebeta2mainmenu</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_welcomebetamainmenu</Data></Cell>
+    <Cell ss:StyleID="s85"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_apply</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Apply</Data></Cell>
+    <Cell><Data ss:Type="String">Použít</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_applytt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Apply changes</Data></Cell>
+    <Cell><Data ss:Type="String">Použít změny</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_applychanges</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Apply changes?</Data></Cell>
+    <Cell><Data ss:Type="String">Použít změny?</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_back</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Back</Data></Cell>
+    <Cell><Data ss:Type="String">Zpět</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_backtt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Back to previous page</Data></Cell>
+    <Cell><Data ss:Type="String">Zpět na předchozí stránku</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_reset</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Reset</Data></Cell>
+    <Cell><Data ss:Type="String">Obnovit</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_resettt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Reset to previous settings</Data></Cell>
+    <Cell><Data ss:Type="String">Obnovit předchozí nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_no</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Ne</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_ok</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Ok</Data></Cell>
+    <Cell><Data ss:Type="String">Ok</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_yes</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">Ano</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_exit</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Exit</Data></Cell>
+    <Cell><Data ss:Type="String">Opustit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_exittt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Exit game</Data></Cell>
+    <Cell><Data ss:Type="String">Opustit hru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_exitgame</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Do you want to exit the game?</Data></Cell>
+    <Cell><Data ss:Type="String">Přejete si opustit hru?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_exittomain</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Exit game</Data></Cell>
+    <Cell><Data ss:Type="String">Opustit hru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_exittomaintt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Exit game to main menu</Data></Cell>
+    <Cell><Data ss:Type="String">Vrátit se do hlavního menu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_exittomainq</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Do you want to exit to main menu?</Data></Cell>
+    <Cell><Data ss:Type="String">Chcete se vrátit do hlavního menu?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_resume</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Resume</Data></Cell>
+    <Cell><Data ss:Type="String">Pokračovat</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_resumett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Resume game</Data></Cell>
+    <Cell><Data ss:Type="String">Pokračovat hru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_loading</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Loading...</Data></Cell>
+    <Cell><Data ss:Type="String">Načítání...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_loadingengine</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Loading engine</Data></Cell>
+    <Cell><Data ss:Type="String">Načítání engine</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_unloadingspinner</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Unloading...</Data></Cell>
+    <Cell><Data ss:Type="String">Odnačítání...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_unloading</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Unloading</Data></Cell>
+    <Cell><Data ss:Type="String">Odnačítání</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_select</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select</Data></Cell>
+    <Cell><Data ss:Type="String">Vybrat</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_presstoselect</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Press to select</Data></Cell>
+    <Cell><Data ss:Type="String">Stiskem vyberte</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_settings</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Settings</Data></Cell>
+    <Cell><Data ss:Type="String">Nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_edit</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Edit</Data></Cell>
+    <Cell><Data ss:Type="String">Upravit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_buttonselect</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select item</Data></Cell>
+    <Cell><Data ss:Type="String">Vybrat předmět</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_difficulty</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Difficulty</Data></Cell>
+    <Cell><Data ss:Type="String">Obtížnost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_difficultytt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Difficulty of the game</Data></Cell>
+    <Cell><Data ss:Type="String">Obtížnost hry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_do_you_really_want_to_exit_the_game_?</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Do you really want to exit the game?</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Opravdu si přejete odejít ze hry?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_go_back_to_the_main_menu_?</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Go back to the main menu?</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vrátit se do hlavního menu?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_exittodesktop?</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Exit to desktop?</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Odejít na plochu?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_exittodesktop</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Exit to desktop</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Odejít na plochu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_exittodesktoptt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Exit the game to desktop</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Opustit hru a odejít na plochu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_playerlight3</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Ambient player light</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Okolní světlo postavy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_playerlight3tt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">A slightly multiplied ambient light around the player is improving visibility</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zvýšení okolního světla postavy zvýší viditelnost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_popup_title_confirmexitgame</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Exit game</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Opustit hru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_popup_content_confirmexitgame</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Are you sure you want to exit wolcen : lords of mayhem?</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Opravdu si přejete opustit wolcen : lords of mayhem?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_return_to_main_menu</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Return to main menu</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vrátit se do hlavního menu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_ReturnToGame</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">RETURN TO GAME</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">NÁVRAT DO HRY</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_mm_Options</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">OPTIONS</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">NASTAVENÍ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Difficulty menu</Data></Cell>
+    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s92"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Ui_normal</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Normal</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Normální</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Ui_gehenna</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Gehenna</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Gehenna</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Ui_apocalypse</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Apocalypse</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Apocalypsa</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Graphics menu</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_graphicsettingstitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Graphics settings</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Grafické nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Ui_graphicsettings</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Graphic settings</Data></Cell>
+    <Cell><Data ss:Type="String">Grafické nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_graphicsettingstt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Change graphic settings</Data></Cell>
+    <Cell><Data ss:Type="String">Změnit grafické nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_resolution</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Resolution</Data></Cell>
+    <Cell><Data ss:Type="String">Rozlišení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_resolutiontt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select screen resolution</Data></Cell>
+    <Cell><Data ss:Type="String">Vybrat rozlišení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_fullscreen</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Fullscreen</Data></Cell>
+    <Cell><Data ss:Type="String">Celý obraz</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_fullscreentt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Display in fullscreen mode</Data></Cell>
+    <Cell><Data ss:Type="String">Režim celého obrazu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_windowed</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Windowed</Data></Cell>
+    <Cell><Data ss:Type="String">V okně</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_windowedborderless</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Borderless window</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">V okně bez rámečků</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_quality</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Quality</Data></Cell>
+    <Cell><Data ss:Type="String">Kvalita</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_qualitytt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Global quality</Data></Cell>
+    <Cell><Data ss:Type="String">Celková kvalita</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_low</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Low</Data></Cell>
+    <Cell><Data ss:Type="String">Nízká</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_medium</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Medium</Data></Cell>
+    <Cell><Data ss:Type="String">Střední</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_high</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">High</Data></Cell>
+    <Cell><Data ss:Type="String">Vysoká</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_veryhigh</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Very high</Data></Cell>
+    <Cell><Data ss:Type="String">Velmi vysoká</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_ultra</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Ultra</Data></Cell>
+    <Cell><Data ss:Type="String">Ultra</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_maximum</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Maximum</Data></Cell>
+    <Cell><Data ss:Type="String">Maximum</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_svogi</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Svogi quality</Data></Cell>
+    <Cell><Data ss:Type="String">Svogi kvalita</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_occlusiononly</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Occlusion only</Data></Cell>
+    <Cell><Data ss:Type="String">Pouze osvětlení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_occlusiongi</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Full gi</Data></Cell>
+    <Cell><Data ss:Type="String">Plné globální osvětlení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_svogiprecision</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Svogi precision</Data></Cell>
+    <Cell><Data ss:Type="String">Svogo přesnost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_svogitt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Sparse voxel octree global illumination</Data></Cell>
+    <Cell><Data ss:Type="String">Sparse voxel octree globální osvětlení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_svogiactive</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Svogi</Data></Cell>
+    <Cell><Data ss:Type="String">Svogo přesnost</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_svogiprecisiontt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Precision of indirect ligh</Data></Cell>
+    <Cell><Data ss:Type="String">Přesnost nepřímého světla</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_svogiqualitytt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Mode of indirect light</Data></Cell>
+    <Cell><Data ss:Type="String">Režim nepřímého světla</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_on</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">On</Data></Cell>
+    <Cell><Data ss:Type="String">Zapnuto</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_off</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Off</Data></Cell>
+    <Cell><Data ss:Type="String">Vypnuto</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_global_settings</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Global</Data></Cell>
+    <Cell><Data ss:Type="String">Celkové nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_global_settingstt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Global graphic settings</Data></Cell>
+    <Cell><Data ss:Type="String">Celkové grafické nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_experimental_feature</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Experimental</Data></Cell>
+    <Cell><Data ss:Type="String">Experimentální</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_experimental_featurett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Experimental indirect lighting feature</Data></Cell>
+    <Cell><Data ss:Type="String">Experimentální funkce nepřímého osvětlení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_distant_dof</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Distant dof</Data></Cell>
+    <Cell><Data ss:Type="String">Vzdálenost dof (ostrost)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_distant_doftt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Distant depth of field</Data></Cell>
+    <Cell><Data ss:Type="String">Vzdálenost depth of field (ostrost)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_vsync</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Vsync</Data></Cell>
+    <Cell><Data ss:Type="String">Vsync</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_vsynctt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Vertical synchronisation</Data></Cell>
+    <Cell><Data ss:Type="String">Vertikální synchronizace</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_advancedgraphicstitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Advanced graphics</Data></Cell>
+    <Cell><Data ss:Type="String">Pokročilé grafické nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_advancedgraphics</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Advanced graphics</Data></Cell>
+    <Cell><Data ss:Type="String">Pokročilé grafické nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_advancedgraphicstt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Change advanced graphics</Data></Cell>
+    <Cell><Data ss:Type="String">Změnit pokročilé grafické nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_showfps</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Show fps</Data></Cell>
+    <Cell><Data ss:Type="String">Ukázat fps</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_showfpstt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Show frames per seconds </Data></Cell>
+    <Cell><Data ss:Type="String">Ukázat snímky za sekundu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_shadow</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Shadows quality</Data></Cell>
+    <Cell><Data ss:Type="String">Kvalita stínů</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_shadowtt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Shadows softness and resolution</Data></Cell>
+    <Cell><Data ss:Type="String">Měkkost a rozlišení stínů</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_object</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Objects details</Data></Cell>
+    <Cell><Data ss:Type="String">Detaily objektů</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_objecttt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Details and distance of objects</Data></Cell>
+    <Cell><Data ss:Type="String">Detaily a vzdálenost objektů</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_water</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Water quality</Data></Cell>
+    <Cell><Data ss:Type="String">Kvalita vody</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_watertt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Tesselation and caustics quality</Data></Cell>
+    <Cell><Data ss:Type="String">Kvalita teselace a kaustiky</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_texture</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Textures quality</Data></Cell>
+    <Cell><Data ss:Type="String">Kvalita textur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_texturett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Filtering quality and resolution</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Kvalita a rozlišení filtrování</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_svoti</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Global illumination quality</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Kvalita globálního osvětlení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_svotitt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">[experimental] svogi - sparse voxel octree global illumination. This feature enables high quality indirect lighting. Soft shadows and light bouncing, but can be fairly expensive.&#10;[Medium: occlusion only]   [high: full gi]    [very high: precise full gi]</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">[experimentální] svogo - sparse voxel octree globální osvětlení. Tato funkce umožnujě vysokou kvalitu nepřímého osvětlení. Jemné stíny a odrazy světla. Má dopad na výkon.&#10;[Střední: pouze osvětlení]   [vysoké: plné go]   [velmi vysoké: precizní plné go]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_animation</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Animation quality</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Kvalita animací</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_animationtt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Number of enemies with optimized animation</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Počet nepřátel s optimizovanou animací</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_volumetric</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Volumetric effects quality</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Kvalita volumetrických efektů</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sys_volumetrictt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Quality of the volumetric fog</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Kvalita volumetrické mlhy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_vlspecmode</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Performance mode</Data></Cell>
+    <Cell><Data ss:Type="String">Režim výkonu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_vlspecmodett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">This mode is meant to be used along with the low mode. It greatly improves performance. It disables many graphical effects, but can result to break some rendering elements, like the hair</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">[experimentálníl] tento režim je uřcen pro použití ve spojení s nízkým režimem. Velmi zvyšuje výkon, ale deaktivuje mnoho grafický efektů a může tak ve výsledku rozbít renderovací elementy jako vlasy.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_soft</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Soft</Data></Cell>
+    <Cell><Data ss:Type="String">Měkké</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_strong</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Strong</Data></Cell>
+    <Cell><Data ss:Type="String">Tvrdé</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_devchoice</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Dev choice</Data></Cell>
+    <Cell><Data ss:Type="String">Volba vývojářů</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_language</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Language</Data></Cell>
+    <Cell><Data ss:Type="String">Jazyk</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_languagett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Language of the game</Data></Cell>
+    <Cell><Data ss:Type="String">Jazyk hry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_camerashake</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Camera shake</Data></Cell>
+    <Cell><Data ss:Type="String">Otřes kamery</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_camerashakett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Camera shake when hitting an ennemy</Data></Cell>
+    <Cell><Data ss:Type="String">Otřes kamery při zasažení protivníka</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_questmarkers</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Quest markers</Data></Cell>
+    <Cell><Data ss:Type="String">Questové značky</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_questmarkerstt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Quest markers on the minimap</Data></Cell>
+    <Cell><Data ss:Type="String">Questové značky na minimapě. Zlaté jsou primární, stříbrné jsou sekundární.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">To_be_fully_fonctionnal_restart_game</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">You must restart wolcen in order to have your chosen language fully fonctionnal</Data></Cell>
+    <Cell><Data ss:Type="String">Pro plnou funkčnost zvoleného jazyka je potřeba wolcen restartovat</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_goremode</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Gore mode</Data></Cell>
+    <Cell><Data ss:Type="String">Režim krveprolití</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_goremodett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Visibility of blood</Data></Cell>
+    <Cell><Data ss:Type="String">Viditelnost krve</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_autoattack</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Auto attack</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Auto útok</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_autoattacktt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Automatically attack ais when the movement button is pressed</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Automaticky útočit na protivníky při stisku tlačítka pro pohyb</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_hudscale</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Hud scale</Data></Cell>
+    <Cell><Data ss:Type="String">Měřítko hud</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_hudscalett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Scale of the main hud</Data></Cell>
+    <Cell><Data ss:Type="String">Měřítko hlavního hud</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_aircampointplayer</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Dissociated camera</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Sledovací kamera</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_aircampointplayertt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The camera center is fixed to the player</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Kamera je fixovaná na postavu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_aircam_slowdown</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Camera speed</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Rychlost kamery</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_aircam_slowdowntt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Camera speed interpolation</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Interpolace rychlosti kamery</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_enemyblink</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Enemy blink</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Blikání nepřítele</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_enemyblinktt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Displaying of enemy blink (white)</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zobrazit blikání nepřítee (bíle)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_enemyhealth</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Enemy health bar</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Životy nepřítele</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_enemyhealthtt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Displaying enemy health bar</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zobrazit život nepřítele</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sharpen</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Sharpening</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ostření</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_sharpentt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Post effect sharpening</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Opoždený efekt ostření</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_chromaticaberration</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Chromatic aberration</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Chromatické odlehčení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_chromaticaberrationtt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Post effect chromatic aberration</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Opoždený efekt chromatické odlehčení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_antialiasing</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Antialiasing</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Antialiasing</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_antialiasingtt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Antialiasing modes</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Režimy antialiasingu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_smaa1x</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Low: smaa 1x</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nízký: smaa 1x</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_smaa1tx</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Med: smaa 1tx</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Střední: smaa 1tx</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_smaa2tx</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">High: smaa 2tx</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vysoký: smaa 2tx</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_vignetting</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Vignetting</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vignetting</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_vignettingtt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Vignetting</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vignetting</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_motionblur</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Motion blur</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Motion blur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_motionblurtt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Motion blur</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Motion blur</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_autoequippotions</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Auto equip potions</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Automaticky vybavit nápoje</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_autoequippotionstt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Auto equip a new potion if you have a free belt slot</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Automaticky vybavit nové nápoje pokud je v opasku místo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_autoequipskills</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Auto equip skills</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Automaticky vybavit dovednosti</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_autoequipskillstt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Auto equip a new skill if you have a free slot</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Automaticky vybavit dovednosti pokud je volné místo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_autoequiparmors</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Auto equip armors</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Automaticky vybavit brnění</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_autoequiparmorstt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Auto equip a new armor part if you have a free slot</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Automaticky vybavit brnění pokud je volné místo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_visualsettings</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Visual settings</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vizuální nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_visualsettingstt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Visual and gameplay settings</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Herní a vizuální nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_visualsettingstitle</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Visual settings</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vizální nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_enemysilhouette</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Enemy silhouette</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Silueta nepřítele</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_enemysilhouettett</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Red silhouette around enemies</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Červená silueta kolem nepřítele</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_usablesilhouette</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Usable silhouette</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Siluta použitelných věcí</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_usablesilhouettett</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Yellow silhouette around usable objects</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Žlutá silueta okolo použitelných objektů</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_friendlysilhouette</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Friendly silhouette</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Přátelská silueta</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_friendlysilhouettett</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Green silhouette around friendly characters</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zelená silueta kolem spojeneckých postav</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_showdamages</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Show damage</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukázat poškození</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_showdamagestt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Show damage when an enemy is hit</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukazovat poškození při zásahu nepřítele</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_displaycontextualtext</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Show contextual text</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukázat kontextuální text</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_displaycontextualtexttt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Show text around your character like &quot;dodged&quot;, &quot;blocked&quot; or &quot;+x gold&quot;</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukazovat text okolo postavy jako např &quot;vyhnutí&quot;, &quot;blokován&quot; nebo &quot;+x zlata&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_showtutorialmessages</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Show tutorial messages</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukázat zprávy tutoriálu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_showtutorialmessagestt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Show all the tutorial messages of the game</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukazovat všechny dostupné zprávy tutoriálu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lensflare</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Lens flares</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Lens flares</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lensflarett</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Display lens flares on lights sources</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Display lens flares on lights sources</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_displayrosvalues</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Display ros values</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukázat hodnoty vlastností</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.55">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_displayrosvaluestt</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Display values of health, umbra, and rage</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukazovat hodnoty zdraví, umbry a zuřivosti</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Singleplayer menu</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_singleplayertitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Singleplayer</Data></Cell>
+    <Cell><Data ss:Type="String">Singleplayer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Ui_singleplayer</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Singleplayer</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Singleplayer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_singleplayertt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Start singleplayer game</Data></Cell>
+    <Cell><Data ss:Type="String">Začít singleplayer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_loadlevel</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select level for singleplayer</Data></Cell>
+    <Cell><Data ss:Type="String">Vybrat úroveň u singleplayer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_load</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Load</Data></Cell>
+    <Cell><Data ss:Type="String">Načíst</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_loadtt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Load selected level</Data></Cell>
+    <Cell><Data ss:Type="String">Načít vybranou úroveň</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_savegameq</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Override current save game?</Data></Cell>
+    <Cell><Data ss:Type="String">Přepsat aktuální uloženou hru?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_savegame</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Save game</Data></Cell>
+    <Cell><Data ss:Type="String">Uložit hru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_savegamett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Save current game</Data></Cell>
+    <Cell><Data ss:Type="String">Uložit aktuální hru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_loadgame</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Load game</Data></Cell>
+    <Cell><Data ss:Type="String">Načíst hru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_loadgamett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Load last saved game</Data></Cell>
+    <Cell><Data ss:Type="String">Načíst poslední uloženou hru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Multiplayer menu</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_multiplayertitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Multiplayer</Data></Cell>
+    <Cell><Data ss:Type="String">Multiplayer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Ui_multiplayer</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Multiplayer</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Multiplayer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_multiplayertt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Join multiplayer game</Data></Cell>
+    <Cell><Data ss:Type="String">Začít multiplayer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_hostlan</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Host server</Data></Cell>
+    <Cell><Data ss:Type="String">Hostit server</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_hostlantt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Host multiplayer server</Data></Cell>
+    <Cell><Data ss:Type="String">Hostit multiplayer server</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_typelan</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Lan</Data></Cell>
+    <Cell><Data ss:Type="String">Lan</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_typeinternet</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Internet</Data></Cell>
+    <Cell><Data ss:Type="String">Internet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">User stats menu</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_userstats_title</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">User stats</Data></Cell>
+    <Cell><Data ss:Type="String">Hodnoty postavy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_userstats</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">User stats</Data></Cell>
+    <Cell><Data ss:Type="String">Hodnoty postavy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Leaderboard menu</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_leaderboard_title</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Leaderboard</Data></Cell>
+    <Cell><Data ss:Type="String">Žebříček</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_leaderboard</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Leaderboard</Data></Cell>
+    <Cell><Data ss:Type="String">Žebříček</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Class selection menu</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_classselectiontitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Class selection</Data></Cell>
+    <Cell><Data ss:Type="String">Výběr třídy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_classselection</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Class selection</Data></Cell>
+    <Cell><Data ss:Type="String">Výběr třídy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_classselectiontt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select your class</Data></Cell>
+    <Cell><Data ss:Type="String">Vyber si třídu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_playerclass</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Player class</Data></Cell>
+    <Cell><Data ss:Type="String">Třída postavy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_playerclasstt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select your class</Data></Cell>
+    <Cell><Data ss:Type="String">Vyber si třídu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Multiplayer menu - host</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_hostmptitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Host server</Data></Cell>
+    <Cell><Data ss:Type="String">Hostit server</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_servername</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Server</Data></Cell>
+    <Cell><Data ss:Type="String">Server</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_servernamett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Server address</Data></Cell>
+    <Cell><Data ss:Type="String">Adresa serveru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbyplayers</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Players</Data></Cell>
+    <Cell><Data ss:Type="String">Hráči</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbyplayerstt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Players list</Data></Cell>
+    <Cell><Data ss:Type="String">Seznam hráčů</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_playername</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Player name</Data></Cell>
+    <Cell><Data ss:Type="String">Jméno potavy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_playernamett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Player name for multiplayer</Data></Cell>
+    <Cell><Data ss:Type="String">Jméno postavy pro multiplayer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbytype</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Lobby type</Data></Cell>
+    <Cell><Data ss:Type="String">Typ čekárny</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbytypett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select lobby type</Data></Cell>
+    <Cell><Data ss:Type="String">Vybrat typ čekárny</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbylevelselect</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Level</Data></Cell>
+    <Cell><Data ss:Type="String">Úroveň</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbylevelselecttt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select a level</Data></Cell>
+    <Cell><Data ss:Type="String">Vyberte si úroveň</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbygametype</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Gametype</Data></Cell>
+    <Cell><Data ss:Type="String">Typ hry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbygametypett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select a game type</Data></Cell>
+    <Cell><Data ss:Type="String">Vybrat typ hry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbycreate</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Create</Data></Cell>
+    <Cell><Data ss:Type="String">Vytvořit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbycreatett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Create game</Data></Cell>
+    <Cell><Data ss:Type="String">Vytvořit hru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbytitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Lobby</Data></Cell>
+    <Cell><Data ss:Type="String">Čekárná</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbystartgame</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Start</Data></Cell>
+    <Cell><Data ss:Type="String">Start</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_lobbystartgamett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Start game</Data></Cell>
+    <Cell><Data ss:Type="String">Start hry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_hostmpcustomsettings</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Custom</Data></Cell>
+    <Cell><Data ss:Type="String">Vlastní</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_hostmpcustomsettingstt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Modify custom match settings</Data></Cell>
+    <Cell><Data ss:Type="String">Nastavit vlastní nastavení boje</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_playlistselect</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Playlist</Data></Cell>
+    <Cell><Data ss:Type="String">Playlist</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_playlistselecttt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select a playlist</Data></Cell>
+    <Cell><Data ss:Type="String">Vybrat playlist</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_variantselect</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Variant</Data></Cell>
+    <Cell><Data ss:Type="String">Varianta</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_variantselecttt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select a variant</Data></Cell>
+    <Cell><Data ss:Type="String">Vybrat variantu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_levelsfilter</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Filter mp levels</Data></Cell>
+    <Cell><Data ss:Type="String">Filtrovat mp úrovně</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_levelsfiltertt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Only display levels/multiplayer folder</Data></Cell>
+    <Cell><Data ss:Type="String">Ukazovat pouze úrovně/multiplayer složku</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s97">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Multiplayer menu - custom settings</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_hostmpcustomsettingstitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Custom settings</Data></Cell>
+    <Cell><Data ss:Type="String">Vlastní nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_maximumhealth</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Maximum health</Data></Cell>
+    <Cell><Data ss:Type="String">Maximální zdraví</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_maximumhealthtt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Set maximum health</Data></Cell>
+    <Cell><Data ss:Type="String">Nastavit maximální zdraví</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_base_camp_alpha02</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Gdc prototype</Data></Cell>
+    <Cell><Data ss:Type="String">Gdc prototyp</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s97">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Connection menu - custom settings</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_login</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Login</Data></Cell>
+    <Cell><Data ss:Type="String">Přihlášení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_password</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Password</Data></Cell>
+    <Cell><Data ss:Type="String">Heslo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_save_login</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Save login</Data></Cell>
+    <Cell><Data ss:Type="String">Uložit příhlášení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_play_online</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Play online</Data></Cell>
+    <Cell><Data ss:Type="String">Hrát online</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_play_onlinett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Not yet available</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zatím nedostupné</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_play_offline</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Play offline</Data></Cell>
+    <Cell><Data ss:Type="String">Hrát offline</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_play_offlinett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Local saving, no connection required</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Lokální ukládání, připojení není nutné</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_connection</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Connection</Data></Cell>
+    <Cell><Data ss:Type="String">Připojení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_chardelete</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Delete</Data></Cell>
+    <Cell><Data ss:Type="String">Smazat</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_charcreate</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Create</Data></Cell>
+    <Cell><Data ss:Type="String">Vytvořit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_charplay</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Play!</Data></Cell>
+    <Cell><Data ss:Type="String">Hrát!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_title_charlist</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Character list</Data></Cell>
+    <Cell><Data ss:Type="String">Seznam postav</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_returntomain</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Return to main menu</Data></Cell>
+    <Cell><Data ss:Type="String">Zpět do hlavního menu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_connect</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Connect</Data></Cell>
+    <Cell><Data ss:Type="String">Připojit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_disconnect</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Disconnect</Data></Cell>
+    <Cell><Data ss:Type="String">Odpojit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_cancel</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Cancel</Data></Cell>
+    <Cell><Data ss:Type="String">Zrušit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_close_game</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Close game?</Data></Cell>
+    <Cell><Data ss:Type="String">Zavřít hru?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_log_off</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Log off?</Data></Cell>
+    <Cell><Data ss:Type="String">Odhlásit?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_retocharselect</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Character list</Data></Cell>
+    <Cell><Data ss:Type="String">Seznam postav</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_charactername</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Character name</Data></Cell>
+    <Cell><Data ss:Type="String">Jméno postavy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_charmale</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Male</Data></Cell>
+    <Cell><Data ss:Type="String">Muž</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_charfemale</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Female</Data></Cell>
+    <Cell><Data ss:Type="String">Žena</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_available_soon</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Available soon</Data></Cell>
+    <Cell><Data ss:Type="String">Brzy dostupné</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_title_disconnectedfromgameservices</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">CONNECTION LOST</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_content_disconnectedfromgameservices</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">You've been disconnected from wolcen services.</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_title_offlinemodenotavailable</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">OFFLINE MODE UNAVAILABLE</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_content_offlinemodenotavailable</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The offline mode is currently unavailable.</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_reconnect</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">RECONNECT</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_title_steamRequestAuthSessionTicketFailed</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Authentication failed</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_content_steamRequestAuthSessionTicketFailed</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Failed to retreive your authentication information from steam</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_title_gamesparksConnectFailed</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Authentication failed</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_content_gamesparksConnectFailed</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Could not connect to game services</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_title_steamConnectFailed</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Authentication failed</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_content_steamConnectFailed</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Game services steam authentication failed</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Multiplayer Menu - Leave</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_mm_LeaveGroup</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Leave Group</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_title_confirmLeaveGroup</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Leave Group</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_content_confirmLeaveGroup</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Do you really want to leave the group?</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Multiplayer Menu - Create Game</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="Default">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">ui_Seconds</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Seconds</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_elapsedTime</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Elapsed Time</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_elapsedTime:</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Elapsed Time</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_mm_creatingYourGame</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Creating your game</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_title_cannotStartWhileInvitationsPending</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Invitations(s) still Pending</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s101"><Data ss:Type="String">ui_popup_content_cannotStartWhileInvitationsPending</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The game can't be launched while there are still invitations currently pending for this session.</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s101"><Data ss:Type="String">ui_popup_title_matchmakingTimeout</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Game Creation Failed</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s101"><Data ss:Type="String">ui_popup_content_matchmakingTimeout</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your game couldn't be created, please try again later. </Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s101"><Data ss:Type="String">ui_popup_title_matchmakingError</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Game Creation Failed</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s101"><Data ss:Type="String">ui_popup_content_matchmakingError</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your game couldn't be created, please try again later. </Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s101"><Data ss:Type="String">ui_popup_title_notPartyLeader</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Not Party Leader</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s101"><Data ss:Type="String">ui_popup_content_notPartyLeader</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">You can't launch the game while you aren't the party leader.</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Multiplayer Menu - Invites</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_title_alreadyInvited</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Already Invited</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_content_alreadyInvited</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">An Invitation for this Player is still Pending.</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_title_alreadyInGroup</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Already in Group</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_content_alreadyInGroup</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The Player you invited is Already in your group.</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_title_groupFull</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Group Full</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_content_groupFull</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Your group is currently full.</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s97">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Multiplayer menu - join</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_joinmptitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Join multiplayer</Data></Cell>
+    <Cell><Data ss:Type="String">Připojit se k multiplayer</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_joinlan</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Join server</Data></Cell>
+    <Cell><Data ss:Type="String">Připojit k serveru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_joinlantt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Join multiplayer server</Data></Cell>
+    <Cell><Data ss:Type="String">Připojit k multiplayer serveru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_joinmpbtn</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Join</Data></Cell>
+    <Cell><Data ss:Type="String">Připojit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_joinmpbtntt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Join server</Data></Cell>
+    <Cell><Data ss:Type="String">Připojit k serveru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_joinserversearch</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Search</Data></Cell>
+    <Cell><Data ss:Type="String">Hledat</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_joinserversearchtt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Search for muliplayer games</Data></Cell>
+    <Cell><Data ss:Type="String">Hledat multiplayer hry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_serverlist</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Server list</Data></Cell>
+    <Cell><Data ss:Type="String">Seznam serverů</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_serverlisttt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">List of available servers</Data></Cell>
+    <Cell><Data ss:Type="String">Seznam dostupných serverů</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_message_RequestUseDungeonEntrance_PendingJoinInProgressSynchronization_title</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Synchronization In Progress</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_message_RequestUseDungeonEntrance_PendingJoinInProgressSynchronization_content</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">The servers are currently busy, please try again in a few seconds</Data></Cell>
+    <Cell ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Multiplayer Menu - Friendlist</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_fl_Friendlist</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Friendlist</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_fl_AddFriends</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ADD FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_fl_AddFriend</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">ADD FRIENDS</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_fl_OnlineFriends</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Online Friends</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_fl_OfflineFriends</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Offline Friends</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_fl_enterWolcenTag</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Enter wolcen Tags</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_fl_SendRequest</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">SEND REQUEST</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_fl_PendingFriendRequests</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Pending Friend Requests</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_fl_Cancel</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">CANCEL</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_title_invalidFriendTag</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Invalid Wolcen Tag</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_popup_content_invalidFriendTag</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">This Wolcen Tag is invalid.</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_activity_InMainMenu</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">In main menu</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_activity_Matchmaking</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">In matchmaking</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_activity_JoiningGameSession</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Joining a game session</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_activity_InGame</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">In game</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_activity_LeavingGameSession</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Returning to main menu</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_activity_INVALID</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">   </Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s97">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Multiplayer menu - connecting</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_connecttitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Connect to server</Data></Cell>
+    <Cell><Data ss:Type="String">Připojit k serveru</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_connecting</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Connecting...</Data></Cell>
+    <Cell><Data ss:Type="String">Připojování...</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_connectionfailed</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Could not connect to server!</Data></Cell>
+    <Cell><Data ss:Type="String">Nepodařilo se připojit k serveru!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Random Dungeon Party</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_message_RequestResetRandomDungeon_PlayersStillInDungeon_title</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Random Dungeon Reset</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_message_RequestResetRandomDungeon_PlayersStillInDungeon_content</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The dungeon can't be reset, there are still player inside.</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_message_RequestUseDungeonEntrance_PendingPlayerConnections_title</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Dungeon Unavailable</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_message_RequestUseDungeonEntrance_PendingPlayerConnections_content</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">The dungeon is currently unavailable, some players in your party are still trying to connect to the game.</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_message_RequestUseDungeonEntrance_UnhandledError_title</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Internal Error</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_message_RequestUseDungeonEntrance_UnhandledError_content</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">An error occured while contacting the Server.</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_message_RequestResetRandomDungeon_Request_title</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Random Dungeon Reset</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_message_RequestResetRandomDungeon_Request_content</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Would you like to generate a new Dungeon?</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s97">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Game settings menu</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s97">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">ui_GameplaySettings</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">GAMEPLAY SETTINGS</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_gamesettingstitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Game settings</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Nastavení hry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Ui_gamesettings</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Game settings</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Nastavení hry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_gamesettingstt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Change game settings</Data></Cell>
+    <Cell><Data ss:Type="String">Změnit nastavení hry</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mousesensitivity</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Mouse sensitivity</Data></Cell>
+    <Cell><Data ss:Type="String">Citlivost myši</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mousesensitivitytt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Change mouse sensitivity</Data></Cell>
+    <Cell><Data ss:Type="String">Změnit citlivot myši</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_invertmouse</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Invert mouse</Data></Cell>
+    <Cell><Data ss:Type="String">Obrátit myš</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_invertmousett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Invert mouse y axis</Data></Cell>
+    <Cell><Data ss:Type="String">Obátit osu y</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_invertcontroller</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Invert controller</Data></Cell>
+    <Cell><Data ss:Type="String">Obráttit ovladač</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_invertcontrollertt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Invert controller y axis</Data></Cell>
+    <Cell><Data ss:Type="String">Obrátit osu y</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_playerturnrate</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Player turn rate</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Míra otáčení postavy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_playerturnratett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Changes the player's rotation speed when moving</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Mění míru otáčení postavy při pohybu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_minimapoverlayalpha</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Map overlay opacity</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Viditelné překrývající mapy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_minimapoverlayalphatt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Sets the opacity of the local map overlay</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nastavit viditelnost překrývající lokální mapy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s97">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Sound settings menu</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_soundsettingstitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Sound settings</Data></Cell>
+    <Cell><Data ss:Type="String">Nastavení zvuku</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Ui_soundsettings</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Sound settings</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Nastavení zvuku</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_soundsettingstt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Change sound settings</Data></Cell>
+    <Cell><Data ss:Type="String">Změnit nastavení zvuku</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_musicvolume</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Music</Data></Cell>
+    <Cell><Data ss:Type="String">Hudba</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_musicvolumett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Change music volume</Data></Cell>
+    <Cell><Data ss:Type="String">Změnit hlasitost hudby</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_soundvolume</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Fx</Data></Cell>
+    <Cell><Data ss:Type="String">Fx</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_soundvolumett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Change fx volume</Data></Cell>
+    <Cell><Data ss:Type="String">Změnit hlasitost efektů</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_videovolume</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Video</Data></Cell>
+    <Cell><Data ss:Type="String">Video</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_videovolumett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Change video volume</Data></Cell>
+    <Cell><Data ss:Type="String">Změnit hlasitost videí</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_ambvolume</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Ambience</Data></Cell>
+    <Cell><Data ss:Type="String">Okolí</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_ambvolumett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Change ambience volume</Data></Cell>
+    <Cell><Data ss:Type="String">Změnit hlasitost okolí</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_mastervolume</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Master volume</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Celkový zvuk</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_mastervolumett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Changes the global volume of the game</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Změnit hlasitost celkového zvuku</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s97">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Controls menu</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_controlssettingstitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Controls</Data></Cell>
+    <Cell><Data ss:Type="String">Nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Ui_gamepadlayout</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Controls</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Nastavení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_gamepadlayouttt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">View and modify controls</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zobrazit a změnit ovládání</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_controller</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Xbox 360</Data></Cell>
+    <Cell><Data ss:Type="String">Xbox 360</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_controllertype</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Controller type</Data></Cell>
+    <Cell><Data ss:Type="String">Typ ovladače</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_controllertypett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select input device</Data></Cell>
+    <Cell><Data ss:Type="String">Vyberte vstupní zařízení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_invehicle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">In vehicle</Data></Cell>
+    <Cell><Data ss:Type="String">Ve vozidle</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_invehiclett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Display vehicle controls</Data></Cell>
+    <Cell><Data ss:Type="String">Zobrazit ovládání vozidla</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_xbox</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Xbox 360</Data></Cell>
+    <Cell><Data ss:Type="String">Xbox 360</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_ps3</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Playstation 3</Data></Cell>
+    <Cell><Data ss:Type="String">Playstation 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_keyboard</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Keyboard / mouse</Data></Cell>
+    <Cell><Data ss:Type="String">Klávesnice / myš</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s97">
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Profile menu</Data></Cell>
+    <Cell ss:StyleID="s94"/>
+    <Cell ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_profilesettingstitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Profile</Data></Cell>
+    <Cell><Data ss:Type="String">Profil</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_profilesettings</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Profile</Data></Cell>
+    <Cell><Data ss:Type="String">Profil</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_profilesettingstt</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Setup your player profile</Data></Cell>
+    <Cell><Data ss:Type="String">Nastavit herní profil</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_setplayername</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Set name</Data></Cell>
+    <Cell><Data ss:Type="String">Nastavit jméno</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_setplayernamett</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Set player nickname</Data></Cell>
+    <Cell><Data ss:Type="String">Nastavit přezdívku</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_setplayernametitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Set nickname</Data></Cell>
+    <Cell><Data ss:Type="String">Nastavit přezdívku</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m2728382300436"><Data ss:Type="String">Keys rebinding</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_keybindingtitle</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Keyboard binding</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Tlačítka klávesnice</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_action</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Action</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Akce</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_key</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Key</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Tlačítko</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_activedodge</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">Active dodge / protection form</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Aktivní vyhnutí / ochrana</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_skill1</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Skill slot 1</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Dovednostní slot 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_skill2</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Skill slot 2</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Dovednostní slot 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_skill3</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Skill slot 3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Dovednostní slot 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_skill4</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Skill slot 4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Dovednostní slot 4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_skill5</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Skill slot 5</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Dovednostní slot 5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_skill6</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Skill slot 6</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Dovednostní slot 6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_belt0</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Belt item 1</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Předmět na opasku 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_belt1</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Belt item 2</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Předmět na opasku 2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_belt2</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Belt item 3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Předmět na opasku 3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_belt3</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Belt item 4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Předmět na opasku 4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_belt4</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Belt item 5</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Předmět na opasku 5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_charactersheet</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Character sheet</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Tabulka postavy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_inventory</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Inventory</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Inventář</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_activeskilltree</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Active skills</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Aktivní dovednosti</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_passiveskilltree</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Passive skills</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Pasivní dovednosti</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_worldmap</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">World map</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Mapa světa</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_townportal</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Town portal</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Městský portál</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_showitems</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Show items on ground</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukázat předmety na zemi</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_showenemyhealthbar</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Show enemies health bar</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukázat životy nepřátel</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_popup_title_rebindingkey</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Key binding</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nastavit tlačítko</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_popup_content_rebindingkey</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Press any key to rebind or escape to cancel</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zmáčkni jakkékoliv tlačítko pro přenastavení nebo esc pro zrušení</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_popup_title_keytaken</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Key already used</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Tlačítko se již používá</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_popup_content_keytaken</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">%1 is already assigned to another function. Please choose an unassigned key.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">%1 je již přiřazeno k jiné funkci. Prosím zvolte jiné tlačítko.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_unassigned</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Unassigned</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nepřiřazeno</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_toggleautodash</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Toggle auto dash</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Přepnout automatický sprint</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_forcemovement</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Forced movement (hold)</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vynuceny pohyb (držet)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_stopmovement</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Forced attack (hold)</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vynucený útok (držet)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_minimapoverlay</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Local map overlay toggle</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Přepnout překrývající mapu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_kb_itemcomparisonswitch</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Switch between left and right item comparison</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Přepínat mezi levým a pravým předmětem porovnání</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m2728382300456"><Data ss:Type="String">Character selection</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_onlinemode</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Cloud mode</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Režím cloudu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_offlinemode</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Offline mode</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Offline režim</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_playonline</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Switch to cloud mode</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Přepnout do režimu cloudu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_playoffline</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Switch to offline</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Přepnout do režimu offline</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_play</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Play</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Hrát</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_switchcharacter</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Change character</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Změnit postavu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ui_mm_createcharacter</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Create character</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vytvořit postavu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_mm_selectcharacter</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Select character</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vybrat postavu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_mm_news</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">News</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Novinky</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="34"/>
+   <Row ss:Index="549" ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="551" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="565" ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="578" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.51181102362204722"
+     x:Data="&amp;LTime restriction sample script"/>
+    <Footer x:Margin="0.51181102362204722" x:Data="Page &amp;P"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
+     x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>70</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>210</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>63</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

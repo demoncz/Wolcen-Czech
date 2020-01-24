@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Audio script template</Title>
+  <Author>Maëlenn Lumineau</Author>
+  <LastAuthor>PC</LastAuthor>
+  <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
+  <Created>2002-06-17T19:14:00Z</Created>
+  <LastSaved>2018-03-30T19:55:08Z</LastSaved>
+  <Company>Electronic Arts</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\Copy of Dialog_Asset_List_Final_edit.xls</Path>
+   <SheetName>DropDown</SheetName>
+   <SheetName>Conversations</SheetName>
+   <Xct>
+    <Count>2</Count>
+    <SheetIndex>0</SheetIndex>
+    <Crn>
+     <Row>6</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>4</ColLast>
+     <Text>clean</Text>
+     <Text>TV</Text>
+     <Text>radio (disturbed) </Text>
+     <Text>radio (low)</Text>
+     <Text>radio (heavy)</Text>
+    </Crn>
+    <Crn>
+     <Row>9</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>41</ColLast>
+     <Text>Player</Text>
+     <Text>Barnes</Text>
+     <Text>Hawker</Text>
+     <Text>Sykes</Text>
+     <Text>Johnson</Text>
+     <Text>Cortez</Text>
+     <Text>Beck</Text>
+     <Text>Miller</Text>
+     <Text>Baxter</Text>
+     <Text>American scientist</Text>
+     <Text>Shark</Text>
+     <Text>Chia</Text>
+     <Text>Kirovski</Text>
+     <Text>Michaels</Text>
+     <Text>Chang</Text>
+     <Text>Marine Soldier a</Text>
+     <Text>Marine Soldier b</Text>
+     <Text>Chinese Soldier a</Text>
+     <Text>Chinese Soldier b</Text>
+     <Text>Chinese Soldier c</Text>
+     <Text>Chinese Soldier d</Text>
+     <Text>Chinese Soldier e</Text>
+     <Text>Chinese Soldier f</Text>
+     <Text>Chinese Officer a</Text>
+     <Text>Chinese Officer b</Text>
+     <Text>Chinese Scientist a</Text>
+     <Text>Chinese Scientist b</Text>
+     <Text>Chinese Scientist Female a</Text>
+     <Text>Chinese Scientist Female b</Text>
+     <Text>Filmcrew Member</Text>
+     <Text>Morrison</Text>
+     <Text>C17 Pilot a</Text>
+     <Text>C17 Pilot b</Text>
+     <Text>Submarine Commander Davis</Text>
+     <Text>Pilot (camera)</Text>
+     <Text>Bridge officer 1</Text>
+     <Text>Bridge officer 2</Text>
+     <Text>Carrier deck guide</Text>
+     <Text>Jet Pilot</Text>
+     <Text>VTOL Pilot</Text>
+     <Text>Commander (camera)</Text>
+     <Text>Team Two (camera)</Text>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <WindowHeight>14565</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <TabRatio>274</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s27" ss:Name="Insatisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#9C0006"/>
+   <Interior ss:Color="#FFC7CE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s26" ss:Name="Satisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m255707184" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m255707204" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m255707224" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78" ss:Parent="s27">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="characters"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R10C1:R10C42"/>
+  <NamedRange ss:Name="type"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R7C1:R7C5"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="739" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
+   <Column ss:AutoFitWidth="0" ss:Width="306"/>
+   <Column ss:AutoFitWidth="0" ss:Width="588.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="329.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Key</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Original text</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Translated text</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:MergeAcross="2" ss:StyleID="m255707184"><Data ss:Type="String">Onilne mode</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_popup_title_playonlinenotsupporteddrmfree</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Cloud mode not supported</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Režim cloudu nepodporován</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_popup_content_playonlinenotsupporteddrmfree</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Cloud mode is not currently supported, but this feature will come in the future. We deeply apologize for the inconvenience.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Režim cloudu je momentálně nepodporován, tato funkce přijde v budoucnu. Hluboce se omlouváme za tuto nepříjemnost.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_net_savingcharacter</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Saving character</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Uložení postavy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_net_creatingcharacter</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Creating character</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vytvoření postavy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_net_loadingplayerhouse</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Loading house</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Načítání domu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_net_loadingceinventory</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Loading construction engine inventory</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Načítání inventáře budovacího enginu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_net_loadingdailydungeon</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Loading daily dungeon</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Načítání denního dungeonu</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_net_loginfailed</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Could not connect to server. Game has been switched to offline mode.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nepodařilo se připojit k serveru. Hra byla přepnuta na offline režim.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_net_loadcharacterfailed</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Error during character loading</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Error při načítání postavy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_net_servererror</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Server error</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Server error</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_net_serverresponseintegrityerror</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Server response integrity error</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Server error integrity odetvy</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_net_connectionlost</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Connection lost</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Připojení ztraceno</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ui_net_savecharacterfailed</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Error while saving</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Error při ukládání</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_title_inactivity</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Inactivity warning</Data></Cell>
+    <Cell ss:StyleID="s78"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s62">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_content_inactivity</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You will be disconnected for inactivity in %1 seconds</Data></Cell>
+    <Cell ss:StyleID="s78"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:MergeAcross="2" ss:StyleID="m255707204"><Data ss:Type="String">Leaderboard</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_lb_title</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Leaderboard</Data></Cell>
+    <Cell><Data ss:Type="String">Žebříček</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_lb_rank</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Rank</Data></Cell>
+    <Cell><Data ss:Type="String">Pořadí</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_lb_playername</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Player name</Data></Cell>
+    <Cell><Data ss:Type="String">Jméno hráče</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_lb_time</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Time</Data></Cell>
+    <Cell><Data ss:Type="String">Čas</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_lb_score</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Score</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_lb_kills</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Kills</Data></Cell>
+    <Cell><Data ss:Type="String">Zabití</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_lb_deaths</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Deaths</Data></Cell>
+    <Cell><Data ss:Type="String">Úmrtí</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_lb_level</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Level</Data></Cell>
+    <Cell ss:StyleID="s27"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_popup_title_noleaderboardinofflinemode</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Leaderboard not activated</Data></Cell>
+    <Cell><Data ss:Type="String">Žebříček není aktivován</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_popup_content_noleaderboardinofflinemode</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't access the leaderboard in offline mode.</Data></Cell>
+    <Cell><Data ss:Type="String">Nelze se vstoupit do žebříčku v offline režimu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeAcross="2" ss:StyleID="m255707224"><Data ss:Type="String">Daily dungeon</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_lb_dailydungeon</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Daily dungeon</Data></Cell>
+    <Cell><Data ss:Type="String">Denní dungeon</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_popup_title_nodailydungeoninofflinemode</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Daily dungeon not activated</Data></Cell>
+    <Cell><Data ss:Type="String">Denní dungeon není aktivován</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">Ui_popup_content_nodailydungeoninofflinemode</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">You can't access the daily dungeon in offline mode.</Data></Cell>
+    <Cell><Data ss:Type="String">Nelze se vstoupit do denního dungeonu v offline režimu.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="8"/>
+   <Row ss:Index="42" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="4"/>
+   <Row ss:Index="50" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="4"/>
+   <Row ss:Index="56" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="4"/>
+   <Row ss:Index="62" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="64" ss:AutoFitHeight="0" ss:Height="15" ss:Span="31"/>
+   <Row ss:Index="99" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="38"/>
+   <Row ss:Index="139" ss:AutoFitHeight="0" ss:Height="15" ss:Span="15"/>
+   <Row ss:Index="156" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="246"/>
+   <Row ss:Index="438" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="442" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
+   <Row ss:Index="521" ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="526" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="529" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="533" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="536" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="540" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="543" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
+   <Row ss:Index="557" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="51"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="562" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="566" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="570" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="51"/>
+   <Row ss:AutoFitHeight="0" ss:Height="45"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="579" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="582" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="586" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="75.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="85.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="600" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="602" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="609" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="614" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="618" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
+   <Row ss:Index="622" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="624" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="627" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="631" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="633" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="637" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="640" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="647" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="650" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
+   <Row ss:Index="659" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="666" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.51181102362204722"
+     x:Data="&amp;LTime restriction sample script"/>
+    <Footer x:Margin="0.51181102362204722" x:Data="Page &amp;P"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
+     x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>70</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>18</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

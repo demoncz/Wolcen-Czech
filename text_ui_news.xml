@@ -1,0 +1,450 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Audio script template</Title>
+  <Author>Maëlenn Lumineau</Author>
+  <LastAuthor>UBBO-SATHLA</LastAuthor>
+  <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
+  <Created>2002-06-17T19:14:00Z</Created>
+  <LastSaved>2017-04-10T15:33:42Z</LastSaved>
+  <Company>Electronic Arts</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\Copy of Dialog_Asset_List_Final_edit.xls</Path>
+   <SheetName>DropDown</SheetName>
+   <SheetName>Conversations</SheetName>
+   <Xct>
+    <Count>2</Count>
+    <SheetIndex>0</SheetIndex>
+    <Crn>
+     <Row>6</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>4</ColLast>
+     <Text>clean</Text>
+     <Text>TV</Text>
+     <Text>radio (disturbed) </Text>
+     <Text>radio (low)</Text>
+     <Text>radio (heavy)</Text>
+    </Crn>
+    <Crn>
+     <Row>9</Row>
+     <ColFirst>0</ColFirst>
+     <ColLast>41</ColLast>
+     <Text>Player</Text>
+     <Text>Barnes</Text>
+     <Text>Hawker</Text>
+     <Text>Sykes</Text>
+     <Text>Johnson</Text>
+     <Text>Cortez</Text>
+     <Text>Beck</Text>
+     <Text>Miller</Text>
+     <Text>Baxter</Text>
+     <Text>American scientist</Text>
+     <Text>Shark</Text>
+     <Text>Chia</Text>
+     <Text>Kirovski</Text>
+     <Text>Michaels</Text>
+     <Text>Chang</Text>
+     <Text>Marine Soldier a</Text>
+     <Text>Marine Soldier b</Text>
+     <Text>Chinese Soldier a</Text>
+     <Text>Chinese Soldier b</Text>
+     <Text>Chinese Soldier c</Text>
+     <Text>Chinese Soldier d</Text>
+     <Text>Chinese Soldier e</Text>
+     <Text>Chinese Soldier f</Text>
+     <Text>Chinese Officer a</Text>
+     <Text>Chinese Officer b</Text>
+     <Text>Chinese Scientist a</Text>
+     <Text>Chinese Scientist b</Text>
+     <Text>Chinese Scientist Female a</Text>
+     <Text>Chinese Scientist Female b</Text>
+     <Text>Filmcrew Member</Text>
+     <Text>Morrison</Text>
+     <Text>C17 Pilot a</Text>
+     <Text>C17 Pilot b</Text>
+     <Text>Submarine Commander Davis</Text>
+     <Text>Pilot (camera)</Text>
+     <Text>Bridge officer 1</Text>
+     <Text>Bridge officer 2</Text>
+     <Text>Carrier deck guide</Text>
+     <Text>Jet Pilot</Text>
+     <Text>VTOL Pilot</Text>
+     <Text>Commander (camera)</Text>
+     <Text>Team Two (camera)</Text>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <WindowHeight>14025</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <TabRatio>274</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s28" ss:Name="Neutre">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
+   <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s26" ss:Name="Satisfaisant">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m277159760" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="characters"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R10C1:R10C42"/>
+  <NamedRange ss:Name="type"
+   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R7C1:R7C5"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="679" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
+   <Column ss:AutoFitWidth="0" ss:Width="95.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="826.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="329.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
+    <Cell ss:MergeAcross="2" ss:StyleID="m277159760"><Data ss:Type="String">NEWS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_NewsBoard</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Welcome to Wolcen!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_NewsBoard</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Hi and thank you for purchasing Wolcen: Lords of Mayhem. Here you'll find the latest news about the game's development. Please keep in mind Wolcen is still in alpha so you might enconter bugs, crashes and unexpected issues.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_034</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.3.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_034</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Wolcen 0.3.4 features a brand new version of the Ghoul, the keybinding menu and a new performance mode! We've also included in the update a ton of improvements on the Passive Skills Tree with new skills, a new Orc Hunter and lot of balancing features and fixes.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_035</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.3.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_035</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The Patch 0.3.5 contains new gameplay features, a reworked DoT system, bugs fixes, performance improvements and quality of life changes to the game, such as new Potions.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_036</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.3.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_036</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The version 0.3.6 of Wolcen brings the long-awaited Mage Staves, new sounds, new weapons and a lot of balancing in loot and general gameplay.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_037</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.3.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_037</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.3.7 has been deployed! This small patch adds a new monster to the game, the mighty Skull Crusher, along with 3 brand new armor sets, a reworked version of the Orc Charger and a lot of bugfixes.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_040</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.4.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_040</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.4.0 is live! After being in experimental version for two weeks, this huge patch improves many aspects of the game, adding features like the new Active Skills Tree, the Cloud mode, the Daily Dungeon, new enemies, new weapons and more! This update is an important milestone for Wolcen as it strenghtens the Core Gameplay of the game while being the first step in the direction of multiplayer. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_041</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.4.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_041</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">This small patch adds new skills, new shields, new sounds, a force-move key and a bunch of bugfixes and tweaks!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_041a</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Hotfix 0.4.1a</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_041a</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">With this small patch we fix a few gameplay bugs (some affixes and passives skills not properly working, enemies Damage computation, …) and improve the detection of enemies under your mouse cursor.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_041b</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Crashes in Dungeons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_041b</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">We've fixed several random crashes that were happening in Dungeons, among other things. Keep sending us your error.dmp files if you encounter crashes again.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_042</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.4.2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_042</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The patch 0.4.2 adds a long-awaited feature to the game, the dungeon minimap, with overlay option, along with a reworked Auto-Dash and several crashfixes and minor improvements.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_050</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.5.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_050</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">A brand new world awaits the players of Wolcen! With this new milestone, we start fresh with a brand new open-world and half of the first act. That's lots of new content for you to discover : new enemies, new environments, new sounds and new story. This world is still in its early state, but is already better and larger than ever before. And since the core of the world is now settled, we will be able to add new content periodically, with more quests and locations to visit. We hope you will enjoy the update and continue giving us feedback to improve the game. Thank you for your support and for making this happen.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_0501</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.5.0.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_0501</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">This new patch brings huge improvements to the targetting system with the new input buffer as pictured in the past devblog, but also 10 new weapons, a reworked Elementalist section and many bugfixes! [WARNING_GOLD]With the new input system, auto-attack when holding the mouse button and switching targets is now deactivated by default, but you can still turn it on in the game settings.[/WARNING_GOLD]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_0501b</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Offline mode fixed!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_0501b</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">We understood some of you had problem to access offline mode and were forced to play online, so we have pushed a small patch that should fix the problem, amongst other smaller ones. [WARNING_GOLD]Please keep sending us your DMP files when you encounter a crash, this is the easiest way for us to get information on the bugs you may have.[/WARNING_GOLD]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_newsdiscord</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Official Discord server!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_newsdiscord</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The official Discord server for the game is now live! Please join us to discuss the game and give us all your feedback in real time. Use the following link to join our server : [WARNING_RED]discord.wolcengame.com[/WARNING_RED]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_0502</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.5.0.2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_0502</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Signature skills, PST improvements, unique items, altered potions and more! This patch brings lots of fixes and small gameplay improvements to Wolcen, so we hope you'll enjoy it. However, due to deep modfications in several game systems, [WARNING_GOLD]we had to clear your PST progression, remove existing Ammunition spells from save files and flag a few items as deprecated. Most of your weapons and armors parts will have rerolled stats when you launch the game. We apologize for the inconvenience.[/WARNING_GOLD]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_0503</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.5.0.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_0503</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The update 0.5.0.3 adds the Arena System to the game along with a global balancing pass and other small features such as the new Defense mechanic, lens flares, PST improvements, a new way of displaying loot items on ground and more! [WARNING_GOLD]Due to modifications in items balancing, all weapons and armor parts you own will have rerolled stats when you launch the game for the first time.[/WARNING_GOLD]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_0503a</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Hotfix 0.5.0.3a</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_0503a</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">The update 0.5.0.3a adresses some of the issues reported for the patch 0.5.0.3 (details in changelog). Most notably, we added more ambiance sounds in the open world, as well as a new quest after the main storyline to introduce the Arena. [WARNING_GOLD]Due to a rebalancing of the arena challenges, local arena highscores have been reset.[/WARNING_GOLD]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_0504</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Update 0.5.0.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_0504</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">This patch brings a heavy rework over core-gameplay mechanics by revamping the attributes, character sheet and inventory! It also adds gems and sockets to the game, single-handeld Pistols and a new PST section: the Maleficient. [WARNING_RED]Unfortunately, this means we had to delete your saved Characters and that you'll need to start over with a new one.[/WARNING_RED]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_0505</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Update 0.5.0.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_0505</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">For this update we wanted to improve your game experience. We fixed a lot of crashes and bugs and added improvements so you can enjoy playing Wolcen's Alpha. We also implemented bows, new targeting system, new frost spells, and new monsters so you can dash and slash even more !</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_title_betap1</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Tech Beta Phase 1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell><Data ss:Type="String">ui_txt_betap1</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">Thanks to your help, we will spot the major issues related to the Multiplayer implementation and how the servers are handling the game. You will experiment the random dungeon with your friends and discover a portion of the new content we’re preparing for the Beta release. Servers will be opened starting October 18th until October 25th, 2018. After that, we will close the servers and the technical Beta to work on bug fixing, and prepare for the Phase 2. Don’t hesitate to join us on Discord and share your feedback with us! https://discord.gg/wolcenstudio</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="51"/>
+   <Row ss:Index="96" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="246"/>
+   <Row ss:Index="378" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="382" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
+   <Row ss:Index="461" ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="466" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="469" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="473" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="476" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="480" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="483" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
+   <Row ss:Index="497" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="51"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="502" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="506" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="510" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="63.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="51"/>
+   <Row ss:AutoFitHeight="0" ss:Height="45"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="519" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="522" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="526" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="75.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="85.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="540" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="542" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="549" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="554" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="558" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
+   <Row ss:Index="562" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="564" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="567" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="571" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="573" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
+   <Row ss:Index="577" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="580" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="587" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="590" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
+   <Row ss:Index="599" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="606" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.51181102362204722"
+     x:Data="&amp;LTime restriction sample script"/>
+    <Footer x:Margin="0.51181102362204722" x:Data="Page &amp;P"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0" x:Right="0"
+     x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>70</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>21</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>49</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
