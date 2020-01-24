@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>10890</WindowHeight>
-  <WindowWidth>28770</WindowWidth>
+  <WindowHeight>12315</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -111,7 +111,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m543741792" ss:Parent="s62">
+  <Style ss:ID="m1669055325200" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -122,7 +122,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m543741812" ss:Parent="s62">
+  <Style ss:ID="m1669055325220" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -133,7 +133,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m543741832" ss:Parent="s62">
+  <Style ss:ID="m1669055325240" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -193,7 +193,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
-    <Cell ss:MergeAcross="2" ss:StyleID="m543741792"><Data ss:Type="String">ONILNE MODE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1669055325200"><Data ss:Type="String">ONILNE MODE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_title_playonlinenotsupporteddrmfree</Data></Cell>
@@ -218,12 +218,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_net_savingcharacter</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Saving character</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Saving character</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukládání postavy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_net_creatingcharacter</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Creating character</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Creating character</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vytvoření postavy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_net_loadingplayerhouse</Data></Cell>
@@ -281,7 +281,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">You will be disconnected for inactivity in %1 seconds.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m543741812"><Data ss:Type="String">LEADERBOARD</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1669055325220"><Data ss:Type="String">LEADERBOARD</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lb_title</Data></Cell>
@@ -291,37 +291,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lb_rank</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Rank</Data></Cell>
-    <Cell><Data ss:Type="String">Rank</Data></Cell>
+    <Cell><Data ss:Type="String">Pozice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lb_playername</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Player Name</Data></Cell>
-    <Cell><Data ss:Type="String">Player Name</Data></Cell>
+    <Cell><Data ss:Type="String">Jméno hráče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lb_time</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Time</Data></Cell>
-    <Cell><Data ss:Type="String">Time</Data></Cell>
+    <Cell><Data ss:Type="String">Čas</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lb_score</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Score</Data></Cell>
-    <Cell><Data ss:Type="String">Score</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lb_kills</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Kills</Data></Cell>
-    <Cell><Data ss:Type="String">Kills</Data></Cell>
+    <Cell><Data ss:Type="String">Zabití</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lb_deaths</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Deaths</Data></Cell>
-    <Cell><Data ss:Type="String">Deaths</Data></Cell>
+    <Cell><Data ss:Type="String">Smrtí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lb_level</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Level</Data></Cell>
-    <Cell><Data ss:Type="String">Level</Data></Cell>
+    <Cell><Data ss:Type="String">Úroveň</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_noleaderboardinofflinemode</Data></Cell>
@@ -334,7 +334,7 @@
     <Cell><Data ss:Type="String">You can't access the Leaderboard in Offline Mode.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m543741832"><Data ss:Type="String">DAILY DUNGEON</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1669055325240"><Data ss:Type="String">DAILY DUNGEON</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lb_dailydungeon</Data></Cell>
@@ -460,8 +460,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>9</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>31</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
