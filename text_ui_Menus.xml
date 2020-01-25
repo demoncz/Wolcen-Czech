@@ -19,73 +19,12 @@
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
   <SupBook>
-   <Path>\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\Copy of Dialog_Asset_List_Final_edit.xls</Path>
-   <SheetName>DropDown</SheetName>
-   <SheetName>Conversations</SheetName>
-   <Xct>
-    <Count>-2</Count>
-    <SheetIndex>0</SheetIndex>
-    <Crn>
-     <Row>6</Row>
-     <ColFirst>0</ColFirst>
-     <ColLast>4</ColLast>
-     <Text>clean</Text>
-     <Text>TV</Text>
-     <Text>radio (disturbed) </Text>
-     <Text>radio (low)</Text>
-     <Text>radio (heavy)</Text>
-    </Crn>
-    <Crn>
-     <Row>9</Row>
-     <ColFirst>0</ColFirst>
-     <ColLast>41</ColLast>
-     <Text>Player</Text>
-     <Text>Barnes</Text>
-     <Text>Hawker</Text>
-     <Text>Sykes</Text>
-     <Text>Johnson</Text>
-     <Text>Cortez</Text>
-     <Text>Beck</Text>
-     <Text>Miller</Text>
-     <Text>Baxter</Text>
-     <Text>American scientist</Text>
-     <Text>Shark</Text>
-     <Text>Chia</Text>
-     <Text>Kirovski</Text>
-     <Text>Michaels</Text>
-     <Text>Chang</Text>
-     <Text>Marine Soldier a</Text>
-     <Text>Marine Soldier b</Text>
-     <Text>Chinese Soldier a</Text>
-     <Text>Chinese Soldier b</Text>
-     <Text>Chinese Soldier c</Text>
-     <Text>Chinese Soldier d</Text>
-     <Text>Chinese Soldier e</Text>
-     <Text>Chinese Soldier f</Text>
-     <Text>Chinese Officer a</Text>
-     <Text>Chinese Officer b</Text>
-     <Text>Chinese Scientist a</Text>
-     <Text>Chinese Scientist b</Text>
-     <Text>Chinese Scientist Female a</Text>
-     <Text>Chinese Scientist Female b</Text>
-     <Text>Filmcrew Member</Text>
-     <Text>Morrison</Text>
-     <Text>C17 Pilot a</Text>
-     <Text>C17 Pilot b</Text>
-     <Text>Submarine Commander Davis</Text>
-     <Text>Pilot (camera)</Text>
-     <Text>Bridge officer 1</Text>
-     <Text>Bridge officer 2</Text>
-     <Text>Carrier deck guide</Text>
-     <Text>Jet Pilot</Text>
-     <Text>VTOL Pilot</Text>
-     <Text>Commander (camera)</Text>
-     <Text>Team Two (camera)</Text>
-    </Crn>
-   </Xct>
+   <Path> </Path>
+   <SheetName> </SheetName>
+   <SheetName> </SheetName>
   </SupBook>
-  <WindowHeight>11985</WindowHeight>
-  <WindowWidth>14370</WindowWidth>
+  <WindowHeight>12015</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -114,7 +53,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2157863094448" ss:Parent="s62">
+  <Style ss:ID="m2709965565888" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -125,7 +64,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2157863094468" ss:Parent="s62">
+  <Style ss:ID="m2709965565908" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -136,7 +75,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2157863094488" ss:Parent="s62">
+  <Style ss:ID="m2709965565928" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -229,16 +168,7 @@
    <NumberFormat ss:Format="Short Time"/>
   </Style>
  </Styles>
- <Names>
-  <NamedRange ss:Name="characters"
-   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R10C1:R10C42"/>
-  <NamedRange ss:Name="type"
-   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R7C1:R7C5"/>
- </Names>
  <Worksheet ss:Name="Sheet1">
-  <Names>
-   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
-  </Names>
   <Table ss:ExpandedColumnCount="20" ss:ExpandedRowCount="485" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s65" ss:DefaultColumnWidth="60"
    ss:DefaultRowHeight="13.3125">
@@ -248,13 +178,11 @@
    <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="160.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s66">
     <Cell ss:StyleID="s67"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
-      ss:Name="Print_Area"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
-      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s66">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2157863094448"><Data ss:Type="String">GAME MENU</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2709965565888"><Data ss:Type="String">GAME MENU</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="Default">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Language Selection</Data></Cell>
@@ -2061,7 +1989,7 @@
     <Cell ss:StyleID="s92"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2157863094468"><Data ss:Type="String">KEYS REBINDING</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2709965565908"><Data ss:Type="String">KEYS REBINDING</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_kb_activedodge</Data></Cell>
@@ -2214,7 +2142,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">Inspektor postavy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2157863094488"><Data ss:Type="String">CHARACTER SELECTION</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2709965565928"><Data ss:Type="String">CHARACTER SELECTION</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ui_mm_onlinemode</Data></Cell>
@@ -2290,8 +2218,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>144</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>190</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
