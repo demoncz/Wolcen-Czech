@@ -84,8 +84,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12015</WindowHeight>
-  <WindowWidth>28800</WindowWidth>
+  <WindowHeight>11985</WindowHeight>
+  <WindowWidth>14370</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -114,7 +114,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2588954188224" ss:Parent="s62">
+  <Style ss:ID="m2157863094448" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -125,7 +125,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2588954188244" ss:Parent="s62">
+  <Style ss:ID="m2157863094468" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -136,7 +136,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2588954188264" ss:Parent="s62">
+  <Style ss:ID="m2157863094488" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -254,7 +254,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s66">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2588954188224"><Data ss:Type="String">GAME MENU</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2157863094448"><Data ss:Type="String">GAME MENU</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="Default">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Language Selection</Data></Cell>
@@ -853,7 +853,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_gameplay_questmarkers</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Quest markers</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukolové značky</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Úkolové značky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_gameplay_goremode</Data></Cell>
@@ -913,7 +913,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_graphic_vignetting</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Vignetting</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Vignetting</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vinětace</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_graphic_motionblur</Data></Cell>
@@ -1568,7 +1568,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_JoinMpTitle</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">JOIN MULTIPLAYER</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">JOIN MULTIPLAYER</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">PŘIPOJIT SE K MULTIPLAYERU</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestUseDungeonEntrance_PendingJoinInProgressSynchronization_title</Data></Cell>
@@ -1623,7 +1623,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="Default">
     <Cell><Data ss:Type="String">ui_fl_TeleportTo</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Teleport to</Data></Cell>
-    <Cell><Data ss:Type="String">Teleportuj se</Data></Cell>
+    <Cell><Data ss:Type="String">Teleport do</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_fl_Friendlist</Data></Cell>
@@ -1738,7 +1738,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_activity_CreatingGameSession</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Creating game session</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Vytvoření herní relace</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vytváření herní relace</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_activity_InGame</Data></Cell>
@@ -1768,7 +1768,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_popup_title_confirmRemoveFriend</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Remove Friend</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Odebrat přitele</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Odebrat přítele</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_popup_content_confirmRemoveFriend</Data></Cell>
@@ -2061,7 +2061,7 @@
     <Cell ss:StyleID="s92"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2588954188244"><Data ss:Type="String">KEYS REBINDING</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2157863094468"><Data ss:Type="String">KEYS REBINDING</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_kb_activedodge</Data></Cell>
@@ -2214,7 +2214,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">Inspektor postavy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2588954188264"><Data ss:Type="String">CHARACTER SELECTION</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2157863094488"><Data ss:Type="String">CHARACTER SELECTION</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ui_mm_onlinemode</Data></Cell>
@@ -2285,13 +2285,13 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>300</TopRowVisible>
+   <TopRowVisible>198</TopRowVisible>
    <LeftColumnVisible>1</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>332</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>210</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
