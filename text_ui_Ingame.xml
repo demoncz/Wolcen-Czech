@@ -8,10 +8,10 @@
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Title>Audio script template</Title>
   <Author>Maëlenn Lumineau</Author>
-  <LastAuthor>Abhoth2</LastAuthor>
+  <LastAuthor>Demon</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
-  <LastSaved>2019-09-24T08:14:21Z</LastSaved>
+  <LastSaved>2020-01-25T03:02:05Z</LastSaved>
   <Company>Electronic Arts</Company>
   <Version>16.00</Version>
  </DocumentProperties>
@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
-  <WindowWidth>28800</WindowWidth>
+  <WindowHeight>12000</WindowHeight>
+  <WindowWidth>25200</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -119,7 +119,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1535869608672" ss:Parent="s62">
+  <Style ss:ID="m2596153281952" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -130,7 +130,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1535869608692">
+  <Style ss:ID="m2596153281972">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -274,6 +274,10 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#333333"/>
    <Interior/>
   </Style>
+  <Style ss:ID="s107">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss"/>
+  </Style>
  </Styles>
  <Names>
   <NamedRange ss:Name="characters"
@@ -299,25 +303,25 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1535869608672"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2596153281952"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PlayerChest_UnlockCost</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Unlock for %1 gold</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Odemčít za %1 zlata</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BlockedHit</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Blocked</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Blokován</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_inv_title</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Inventory</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Inventář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1535869608692"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2596153281972"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_party_leader_is_choosing_adventure</Data></Cell>
@@ -342,12 +346,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">not_enough_gold</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Not enough gold.</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Nedostatek zlata.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">not_enough_room_in_inventory</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Not enough room in inventory.</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Nedostatek místa.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Info_TeleportToFriend_TargetIsInADifferentGameplayArea</Data></Cell>
@@ -362,17 +366,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_you_cannot_replace_default_skills</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">You cannot replace default spells.</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Základní dovednosti nelze vyměnit.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unable_to_equip_item_while_using_skill</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">You can't equip an item while using a spell.</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Nelze použít tento předmět při používání kouzla.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_no_town_portal_here</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">You can't use a town portal here.</Data></Cell>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Zde nelze použit portál.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_pst_not_available</Data></Cell>
@@ -387,17 +391,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NotEnoughRage</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Not enough Rage!</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Nedostatek zuřivosti!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NotEnoughStamina</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Not enough Stamina!</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Nedostatek výdrže!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NotEnoughStacks</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Not enough charges!</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Nedostatek použití!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_not_enough_knowledge</Data></Cell>
@@ -556,22 +560,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_knowledge</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Primordial Affinity</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Znalost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_archivist_title</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Archivist</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Archivář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_level_up</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Level up</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Zvýšit úroveň</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_skill_levelup</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Skill Level up</Data></Cell>
+    <Cell ss:StyleID="s80"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_archivist_header</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">You can sell your Enneract to the Archivist and earn Primordial Affinity. \nPrimordial Affinity can be used to increase your Skills' level.</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Archiváři lze prodat knihy kouzel a získat tak znalost \nznalost lze použít ke zvýšení úrovně tvých kouzel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s89"><Data ss:Type="String">JEWELER</Data></Cell>
@@ -581,26 +590,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_title</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Jeweler</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Klenotník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_itemhasnosocket</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">This item does not have a gem socket.</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Tento předmět nemá místo pro klenot.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_itemhasnogem</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">There is no gem to remove from this item.</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Předmět nemá klenot.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_unsocketCost</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Gem removal cost</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Cena za odstranění klenotu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_unsocket</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Remove gem</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Odstranit klenot</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_header</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">You can remove the gems from your items at the Jeweler's workshop.</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Klenoty z předmětů lze odstranit u klenotníka.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s89"><Data ss:Type="String">VOTING + EVENTS + SARISEL MODE</Data></Cell>
@@ -1332,47 +1347,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">level_up</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Level up</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Úroveň zvýšena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_xp_at_level</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">XP at level</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Zk. Na úrovni</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_damagereduction</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Damage reduction</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Snížení poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">You_have_reach_level</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">LEVEL</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Level</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">dodge</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Dodge</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Vyhnutí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_no_belt_slot_available</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">No belt slot available</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Slot pro opasek není volný.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_seconds</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">seconds</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Sekund</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Level</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Level</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Level</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_level</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Level</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Level</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mana</Data></Cell>
@@ -1382,67 +1397,67 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_rage</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Rage</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Zuřivost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_stamina</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Stamina</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Výdrž</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Equipped</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Equipped</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Vybaveno</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Requierement</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Requirements</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Požadavky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unlock</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Unlock</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Odemknout</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_health</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Health</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Zdraví</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Objectives</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Objectives</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Objektivy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_OK</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">OK</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">OK</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_XPReward</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Experience</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Zkušenosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_GoldReward</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Gold</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Zlato</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gold</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Gold</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Zlato</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Reclaims</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Reclaims</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">Koupit zpět</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapons</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Weapons</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Zbraně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Consumables</Data></Cell>
@@ -1452,92 +1467,92 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Mutations</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Mutations</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Mutace</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Mercenaries</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Mercenaries</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Žoldáci</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PassiveSkills</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Passive Skills</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Pasivní dovednosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveSkills</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Active Skills</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Aktivní dovednosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Damage</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Damage</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AttackSpeed</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Attack Speed</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Rychlost útoku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DodgeChance</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Dodge</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Vyhnutí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_critical_damage</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Critical Damage</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Kritické poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Critical</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Critical Chance</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Šance na kritický zásah</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_fire_resistance</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Fire Resistance</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Ohnivá odolnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_frost_resistance</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Frost Resistance</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Ledová odolnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lightning_resistance</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Lightning Resistance</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Blesková odolnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_MagicFind</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Magic Find</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Nalezení magický předmětů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_GoldFind</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Gold Find</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Nalezení zlata</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_character</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Character</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Postava</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Attributes</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Attributes</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Atributy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Strength</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Ferocity</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Dravost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Dexterity</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Agility</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Hbitost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Power</Data></Cell>
@@ -1547,17 +1562,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Constitution</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Toughness</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Houževnatost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_remaining_points</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Remaining Points</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Zbývající body</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_health_regen</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Health Regeneration</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Regenerace zdraví</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mana_regen</Data></Cell>
@@ -1567,12 +1582,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_stamina_regeneration</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Stamina Regeneration</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Regenerace výdrže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_durability</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Durability</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Trvanlivost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mana_cost</Data></Cell>
@@ -1587,36 +1602,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_rage_cost</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Rage Cost</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Cena zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_rage_generation</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Rage Generation</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Tvoření zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_stamina_cost</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Stamina Cost</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Cena výdrže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_LevelUp</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Level Up!</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Získal jsi další úroveň!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_startBounty</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Start Bounty!</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Začít odměnu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BountyCraft</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Bounty</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Odměna</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_you_are_dead</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">You Are Dead</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Zemřel jsi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_revive_in_town</Data></Cell>
@@ -1641,21 +1657,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_exit</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Ukončit Wolcen</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Opustit wolcen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_attack_speed</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Attack Speed</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Rychlost útoku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_range</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Range</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Dosah</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s97"><Data ss:Type="String">skill_unlocked</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Skill unlocked</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Dovednost odemčena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s97"><Data ss:Type="String">ui_HoldToSkipCutscene</Data></Cell>
@@ -1771,11 +1788,10 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>294</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>327</ActiveRow>
+     <ActiveRow>322</ActiveRow>
      <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
