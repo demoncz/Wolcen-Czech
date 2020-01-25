@@ -114,7 +114,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2793214778352" ss:Parent="s62">
+  <Style ss:ID="m2595944930048" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -125,7 +125,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2793214778372" ss:Parent="s62">
+  <Style ss:ID="m2595944930068" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -136,7 +136,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2793214778392" ss:Parent="s62">
+  <Style ss:ID="m2595944930088" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -254,7 +254,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s66">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2793214778352"><Data ss:Type="String">GAME MENU</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2595944930048"><Data ss:Type="String">GAME MENU</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="Default">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Language Selection</Data></Cell>
@@ -873,7 +873,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_gameplay_enemyblink</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Enemy blink</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Blikaní nepřítele</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Blikání nepřítele</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_gameplay_enemyhealthbar</Data></Cell>
@@ -998,7 +998,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GamePrivacy</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Privacy</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Privacy</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Soukromý</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GamePrivacy_Private</Data></Cell>
@@ -1023,7 +1023,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GameMode_Adventure_Help</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Explore randomized dungeons and defeat challenging enemies.\n\nUnlocked after the Act 1 has been completed.</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Explore randomized dungeons and defeat challenging enemies. Unlocked after the Act 1 has been completed.</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Prozkoumej náhodné dungeony a poraz náročné nepřátele. Odemknutí po dokončení aktu 1.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GameMode_Campaign</Data></Cell>
@@ -1213,7 +1213,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_chat_InvalidWolcenTag</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Invalid Wolcen Tag</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Neplatný Wolcen Tag</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">User stats Menu</Data></Cell>
@@ -1233,12 +1233,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_archetype</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Choose your starting gear</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Choose your starting gear</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vyberte si svůj startovací gear</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_archetype_header</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">\n&lt;Font color=&quot;#FFFFFF&quot;&gt;This choice only impacts your starting weapon and skill. Every playstyle will be available for all characters no matter how they started.&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">\n&lt;Font color=&quot;#FFFFFF&quot;&gt;This choice only impacts your starting weapon and skill. Every playstyle will be available for all characters no matter how they started.&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">\n&lt;Font color=&quot;#FFFFFF&quot;&gt;Tato volba ovlivní pouze vychozí zbraň a dovednost. Každý  styl hry bude k dispozici pro všechny postavy bez ohledu na to jak jste začli.&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_archetype_warrior</Data></Cell>
@@ -1338,17 +1338,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_reconnect</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Reconnect</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Reconnect</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Znovu se připojte</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_GetPlayerDataFailed</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Player data</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Data hráče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_GetPlayerDataFailed</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Failed to retreive player data</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nepodařilo se načíst data hráče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_steamRequestAuthSessionTicketFailed</Data></Cell>
@@ -1358,7 +1358,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_steamRequestAuthSessionTicketFailed</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Failed to retreive your authentication information from steam</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Failed to retreive your authentication information from steam</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nepodařilo se načíst vaše ověřovací informace ze steamu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_gamesparksConnectFailed</Data></Cell>
@@ -1368,7 +1368,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_gamesparksConnectFailed</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Could not connect to game services</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Could not connect to game services</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nelze se připojit k herním službám</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_steamConnectFailed</Data></Cell>
@@ -1378,7 +1378,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_steamConnectFailed</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Steam authentication failed</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Steam authentication failed</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Steam ověření se nezdařilo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_getFriendListFailed</Data></Cell>
@@ -1418,17 +1418,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_gameServersPingFailed</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Failed to ping game servers</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Failed to ping game servers</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Žádná odezva herních serverů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_gstimeout</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Game services timeout</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Game services timeout</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vypršel časový limit herních serverů.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_gstimeout</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Your connection with the game service timed out</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Your connection with the game service timed out</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vaše připojení k herní službě vypršelo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_waitingForAllPlayers</Data></Cell>
@@ -1483,7 +1483,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_popup_content_cannotStartWhileInvitationsPending</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">The game can't be launched while there are still invitations currently pending for this session.</Data></Cell>
-    <Cell ss:StyleID="s90"><Data ss:Type="String">The game can't be launched while there are still invitations currently pending for this session.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Tuto hru nelze spustit, zatímco na tuto relaci stále čekají pozvánky.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_popup_title_matchmakingTimeout</Data></Cell>
@@ -1493,7 +1493,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_popup_content_matchmakingTimeout</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Your game could not be created, please try again later. </Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Your game could not be created, please try again later. </Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vaši hru nelze vytvořit zkuste to později.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_popup_title_matchmakingError</Data></Cell>
@@ -1503,17 +1503,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_popup_content_matchmakingError</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Your game could not be created, please try again later. </Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Your game could not be created, please try again later. </Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vaši hru nelze vytvořit zkuste to později.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_popup_title_notPartyLeader</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Not Party Leader</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Not Party Leader</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nejsi vůdce party</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_popup_content_notPartyLeader</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">You can't launch the game while you aren't the party leader.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">You can't launch the game while you aren't the party leader.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nemůžete spustit hru když nejste vůdce party.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_popup_title_gameSessionCreationTimeout</Data></Cell>
@@ -1523,7 +1523,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_popup_content_gameSessionCreationTimeout</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Your game could not be created, please try again later. </Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Your game could not be created, please try again later. </Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vaši hru nelze vytvořit, zkuste to znovu později.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s94">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Multiplayer Menu - Invites</Data></Cell>
@@ -1538,7 +1538,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_alreadyInvited</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">An Invitation for this Player is still Pending.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">An Invitation for this Player is still Pending.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Pozvánka pro tohoto hráče stále čeká.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_alreadyInGroup</Data></Cell>
@@ -1548,7 +1548,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_alreadyInGroup</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">The Player you invited is Already in your group.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">The Player you invited is Already in your group.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Hráč kterého jste pozvali je již ve vaší skupině.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_groupFull</Data></Cell>
@@ -1578,7 +1578,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestUseDungeonEntrance_PendingJoinInProgressSynchronization_content</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">The servers are currently busy, please try again in a few seconds.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">The servers are currently busy, please try again in a few seconds.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Servery jsou aktuálně zaneprázdněny, zkuste to prosím znovu za několik sekund.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s94">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Multiplayer Menu - Group</Data></Cell>
@@ -1593,7 +1593,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_cannotKickNotGroupMember</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">This player is not in your group, you cannot kick him</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">This player is not in your group, you cannot kick him</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Tento hráč není ve vaší skupině, nemůžete ho vyhodit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_confirmKickGroupMember</Data></Cell>
@@ -1603,17 +1603,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_confirmKickGroupMember</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Are you sure you want to kick %1 from your group </Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Are you sure you want to kick %1 from your group </Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Opravdu chcete vyhodit %1 z vaší skupiny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gserror_Chat_CannotChatWithRecipient</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">You can only whisper to your friends or group members.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">You can only whisper to your friends or group members.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Můžete šeptat pouze svým přátelům nebo členům skupiny.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_notif_YouWereKickedFromGroup</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">You were kicked from the group</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">You were kicked from the group</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Byly jste vyhozeni ze skupiny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Multiplayer Menu - Friendlist</Data></Cell>
@@ -1623,12 +1623,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="Default">
     <Cell><Data ss:Type="String">ui_fl_TeleportTo</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Teleport to</Data></Cell>
-    <Cell><Data ss:Type="String">Teleport to</Data></Cell>
+    <Cell><Data ss:Type="String">Teleportuj se</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_fl_Friendlist</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Friendlist</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Friendlist</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Seznam přátel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_fl_AddFriends</Data></Cell>
@@ -1663,22 +1663,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_fl_enterWolcenTag</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Enter Wolcen Tags</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Enter Wolcen Tags</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zadej Wolcen Tags</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_fl_SendRequest</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Send Requests</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Send Requests</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zaslat žádost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_fl_PendingFriendRequests</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Pending Friend Requests</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Pending Friend Requests</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nevyřízené žádosti o přátelství</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_fl_Cancel</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Cancel</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Cancel</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zrušit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_fl_SendChatMessage</Data></Cell>
@@ -1693,7 +1693,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_fl_PromoteToGroupLeader</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Promote to leader</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Promote to leader</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Povýšit na vůdce</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_fl_Kick</Data></Cell>
@@ -1708,12 +1708,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_popup_title_invalidFriendTag</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Invalid Wolcen Tag</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Invalid Wolcen Tag</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Neplatný Wolcen Tag</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_popup_content_invalidFriendTag</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">This Wolcen Tag is invalid.</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">This Wolcen Tag is invalid.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Tento Wolcen Tag je neplatný.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_activity_InGroup</Data></Cell>
@@ -1763,7 +1763,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_popup_content_cannotRemoveNotFriend</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">This player is not your friend, they cannot be removed from your friendlist.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">This player is not your friend, they cannot be removed from your friendlist.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Tento hráč není váš přítel, nelze ho ze seznamu přátel odstranit.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_popup_title_confirmRemoveFriend</Data></Cell>
@@ -1773,7 +1773,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_popup_content_confirmRemoveFriend</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Are you sure you want to remove %1 from your friendlist?</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Are you sure you want to remove %1 from your friendlist?</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Opravdu chcete odebrat %1 ze svého seznamu přátel?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Multiplayer Menu - Connecting</Data></Cell>
@@ -1808,47 +1808,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_only_for_party_leader</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">You're not the Party Leader</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">You're not the Party Leader</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nejste vůdce party</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestResetRandomDungeon_PlayersStillInDungeon_title</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Random Dungeon Reset</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Random Dungeon Reset</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Reset náhodného Dungeonu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestResetRandomDungeon_PlayersStillInDungeon_content</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">The dungeon can't be reset, there are still players inside.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">The dungeon can't be reset, there are still players inside.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Dungeon nelze resetovat, uvnitř jsou stále hráči.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestUseDungeonEntrance_PendingPlayerConnections_title</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Dungeon Unavailable</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Dungeon Unavailable</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Dungeon není k dispozici</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestUseDungeonEntrance_PendingPlayerConnections_content</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">The dungeon is currently unavailable, some players in your party are still trying to connect to the game.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">The dungeon is currently unavailable, some players in your party are still trying to connect to the game.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Dungeon je momentálně nedostupný, někteří hráči ve vaší pártě se stále pokouší připojit ke hře.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestUseDungeonEntrance_UnhandledError_title</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Internal Error</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Internal Error</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Interní chyba</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestUseDungeonEntrance_UnhandledError_content</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">An error occured while contacting the Server.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">An error occured while contacting the Server.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Při kontaktu se serverem došlo k chybě.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestResetRandomDungeon_Request_title</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Random Dungeon Reset</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Random Dungeon Reset</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Reset náhodného Dungeonu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestResetRandomDungeon_Request_content</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Would you like to generate a new Dungeon?</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Would you like to generate a new Dungeon?</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Chcete vygenerovat nový Dungeon?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s94">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Gameplay Settings Menu</Data></Cell>
@@ -2061,12 +2061,12 @@
     <Cell ss:StyleID="s92"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2793214778372"><Data ss:Type="String">KEYS REBINDING</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2595944930068"><Data ss:Type="String">KEYS REBINDING</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_kb_activedodge</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Active Dodge</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Active Dodge</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Aktivní vyhnutí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_kb_skill1</Data></Cell>
@@ -2214,7 +2214,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">Inspektor postavy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2793214778392"><Data ss:Type="String">CHARACTER SELECTION</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2595944930088"><Data ss:Type="String">CHARACTER SELECTION</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ui_mm_onlinemode</Data></Cell>
@@ -2285,11 +2285,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>217</TopRowVisible>
+   <TopRowVisible>120</TopRowVisible>
+   <LeftColumnVisible>1</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>233</ActiveRow>
+     <ActiveRow>134</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
