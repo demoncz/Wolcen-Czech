@@ -20,72 +20,15 @@
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
   <SupBook>
-   <Path>\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\Copy of Dialog_Asset_List_Final_edit.xls</Path>
-   <SheetName>DropDown</SheetName>
-   <SheetName>Conversations</SheetName>
+   <Path> </Path>
+   <SheetName> </SheetName>
+   <SheetName> </SheetName>
    <Xct>
-    <Count>2</Count>
+    <Count>0</Count>
     <SheetIndex>0</SheetIndex>
-    <Crn>
-     <Row>6</Row>
-     <ColFirst>0</ColFirst>
-     <ColLast>4</ColLast>
-     <Text>clean</Text>
-     <Text>TV</Text>
-     <Text>radio (disturbed) </Text>
-     <Text>radio (low)</Text>
-     <Text>radio (heavy)</Text>
-    </Crn>
-    <Crn>
-     <Row>9</Row>
-     <ColFirst>0</ColFirst>
-     <ColLast>41</ColLast>
-     <Text>Player</Text>
-     <Text>Barnes</Text>
-     <Text>Hawker</Text>
-     <Text>Sykes</Text>
-     <Text>Johnson</Text>
-     <Text>Cortez</Text>
-     <Text>Beck</Text>
-     <Text>Miller</Text>
-     <Text>Baxter</Text>
-     <Text>American scientist</Text>
-     <Text>Shark</Text>
-     <Text>Chia</Text>
-     <Text>Kirovski</Text>
-     <Text>Michaels</Text>
-     <Text>Chang</Text>
-     <Text>Marine Soldier a</Text>
-     <Text>Marine Soldier b</Text>
-     <Text>Chinese Soldier a</Text>
-     <Text>Chinese Soldier b</Text>
-     <Text>Chinese Soldier c</Text>
-     <Text>Chinese Soldier d</Text>
-     <Text>Chinese Soldier e</Text>
-     <Text>Chinese Soldier f</Text>
-     <Text>Chinese Officer a</Text>
-     <Text>Chinese Officer b</Text>
-     <Text>Chinese Scientist a</Text>
-     <Text>Chinese Scientist b</Text>
-     <Text>Chinese Scientist Female a</Text>
-     <Text>Chinese Scientist Female b</Text>
-     <Text>Filmcrew Member</Text>
-     <Text>Morrison</Text>
-     <Text>C17 Pilot a</Text>
-     <Text>C17 Pilot b</Text>
-     <Text>Submarine Commander Davis</Text>
-     <Text>Pilot (camera)</Text>
-     <Text>Bridge officer 1</Text>
-     <Text>Bridge officer 2</Text>
-     <Text>Carrier deck guide</Text>
-     <Text>Jet Pilot</Text>
-     <Text>VTOL Pilot</Text>
-     <Text>Commander (camera)</Text>
-     <Text>Team Two (camera)</Text>
-    </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>14025</WindowHeight>
+  <WindowHeight>12015</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -103,15 +46,15 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
+  <Style ss:ID="s62" ss:Name="40&#160;% - Accent1">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s28" ss:Name="Neutre">
+  <Style ss:ID="s63" ss:Name="Neutre">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m293295776" ss:Parent="s40">
+  <Style ss:ID="m2722302337184" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -122,34 +65,14 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="s62">
+  <Style ss:ID="s64">
    <Alignment ss:Vertical="Top"/>
   </Style>
-  <Style ss:ID="s63">
-   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
-  </Style>
-  <Style ss:ID="s64">
-   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
-  </Style>
   <Style ss:ID="s65">
-   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
-   <Borders>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
-   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
   <Style ss:ID="s66">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
-   <Borders>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
-   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
-   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
   <Style ss:ID="s67">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
@@ -159,87 +82,96 @@
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s78">
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s80">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s79">
+  <Style ss:ID="s81">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s81" ss:Parent="s28">
+  <Style ss:ID="s83" ss:Parent="s63">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
  </Styles>
- <Names>
-  <NamedRange ss:Name="characters"
-   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R10C1:R10C42"/>
-  <NamedRange ss:Name="type"
-   ss:RefersTo="='\DOCUME~1\jack\LOCALS~1\Temp\p4v\PC025 perforce 1666\data\Game02\Game\Languages\[Copy of Dialog_Asset_List_Final_edit.xls]DropDown'!R7C1:R7C5"/>
- </Names>
  <Worksheet ss:Name="Sheet1">
-  <Names>
-   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
-  </Names>
   <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="652" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
-   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="196.5"/>
-   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="555"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="196.5"/>
+   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="555"/>
    <Column ss:AutoFitWidth="0" ss:Width="555"/>
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
-    <Cell ss:StyleID="s65"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
-      ss:Name="Print_Area"/></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
-      ss:Name="Print_Area"/></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s66">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m293295776"><Data ss:Type="String">QUESTS/STEPS LABELS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2722302337184"><Data ss:Type="String">QUESTS/STEPS LABELS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s78"/>
-    <Cell ss:StyleID="s79"/>
-    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="205.5">
-    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:Index="2" ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="230.25">
-    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:Index="2" ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="43.5">
-    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:Index="2" ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="35.25">
-    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:Index="2" ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="36.75">
-    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:Index="2" ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="40.5">
-    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:Index="2" ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="37.5">
-    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:Index="2" ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="42">
-    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:Index="2" ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="36.75">
-    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:Index="2" ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:Index="2" ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:Index="2" ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s81"/>
+    <Cell ss:Index="2" ss:StyleID="s83"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"/>
@@ -538,7 +470,7 @@
     <Pane>
      <Number>3</Number>
      <ActiveRow>3</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
