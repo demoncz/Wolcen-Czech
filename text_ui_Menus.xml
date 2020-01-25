@@ -1083,7 +1083,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_login_connecting</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Connecting</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Připojuje se</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Připojení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_login_steamAuthentication</Data></Cell>
@@ -2285,13 +2285,13 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>198</TopRowVisible>
+   <TopRowVisible>182</TopRowVisible>
    <LeftColumnVisible>1</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>210</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>144</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
