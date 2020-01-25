@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12000</WindowHeight>
-  <WindowWidth>25200</WindowWidth>
+  <WindowHeight>12015</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -123,7 +123,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2596126323904" ss:Parent="s62">
+  <Style ss:ID="m2291525892496" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -134,7 +134,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2596126320576" ss:Parent="s62">
+  <Style ss:ID="m2291510914768" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -145,7 +145,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2596126320596" ss:Parent="s62">
+  <Style ss:ID="m2291510914788" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -156,7 +156,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2596126320616" ss:Parent="s62">
+  <Style ss:ID="m2291510914808" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -167,7 +167,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2596126320636" ss:Parent="s62">
+  <Style ss:ID="m2291510914828" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -178,7 +178,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2596126320656" ss:Parent="s62">
+  <Style ss:ID="m2291510914848" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -189,7 +189,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2596126320676" ss:Parent="s62">
+  <Style ss:ID="m2291510914868" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -254,16 +254,23 @@
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
   <Style ss:ID="s97">
-   <Alignment ss:Vertical="Top"/>
-  </Style>
-  <Style ss:ID="s98" ss:Parent="s66">
-   <Alignment ss:Vertical="Top"/>
-  </Style>
-  <Style ss:ID="s99" ss:Parent="s65">
-   <Alignment ss:Vertical="Top"/>
-  </Style>
-  <Style ss:ID="s100">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s99" ss:Parent="s66">
+   <Alignment ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s100" ss:Parent="s65">
+   <Alignment ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s102">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Segoe UI" x:CharSet="238" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s103">
+   <Font ss:FontName="Segoe UI" x:CharSet="238" x:Family="Swiss"/>
   </Style>
  </Styles>
  <Names>
@@ -291,7 +298,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s67">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2596126320576"><Data ss:Type="String">AST INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2291510914768"><Data ss:Type="String">AST INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_title</Data></Cell>
@@ -311,6 +318,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_xp</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">%1/%2</Data></Cell>
+    <Cell><Data ss:Type="String">%1/%2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_level</Data></Cell>
@@ -350,6 +358,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_NoBonus</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">N/A</Data></Cell>
+    <Cell><Data ss:Type="String">N/A</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_disable_modifier</Data></Cell>
@@ -357,7 +366,7 @@
     <Cell><Data ss:Type="String">Vypnout %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2596126320596"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2291510914788"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_enneract_of</Data></Cell>
@@ -842,7 +851,7 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron, the Maestre of Industry, forged Voknafein, the First Greatsword, to push himself and humanity to the limits of their strength and creativity.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2596126320616"><Data ss:Type="String">SKILLS VARIANTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2291510914808"><Data ss:Type="String">SKILLS VARIANTS</Data></Cell>
     <Cell><Data ss:Type="String">&lt;font color=&quot;#cb5316&quot;&gt; Rage</Data></Cell>
     <Cell><Data ss:Type="String">&lt;font color=&quot;#948ec6&quot;&gt; Willpower</Data></Cell>
    </Row>
@@ -2817,6 +2826,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Teleport_variant_4</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">The Puppeteer</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Loutkář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Teleport_variant_4_desc</Data></Cell>
@@ -2853,6 +2863,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Teleport_variant_7</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Time Paradox</Data></Cell>
+    <Cell><Data ss:Type="String">Časový paradox</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Teleport_variant_7_desc</Data></Cell>
@@ -3175,7 +3186,7 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron was frustrated; he could barely carry the weapon, let alone use it. Despite his best efforts, the sword refused to stay upright. He asked Baäpheth, the First Warrior to test the weapon. Baäpheth held the sword high, feeling its crushing weight, then switched stance so that the weapon fell behind him. He launched into a sequence of spinning strikes, sending shockwaves of air bursting in all directions. Baäpheth’s only comment: the sword needed a heavier pommel, to balance out the dense blade.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2596126320636"><Data ss:Type="String">AST BUFF VARIANTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2291510914828"><Data ss:Type="String">AST BUFF VARIANTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FireballFireDamageBoost_Desc</Data></Cell>
@@ -3290,19 +3301,22 @@
     <Cell ss:StyleID="s65"><Data ss:Type="String">Stamina Regeneration buff</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2596126320656"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2291510914848"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_AverageDamage</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Average Damage: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Průměrné poškození: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_TotalBaseDamage</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Total Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">Celkové poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_PhysicalDamage</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Physical Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Fyzické poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_Projectiles_AutoPierce</Data></Cell>
@@ -3315,14 +3329,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_BurnChance</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Burn chance: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na zapálení: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_BurnStacks</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Burn stacks: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Násobek zapálení: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_BurnDuration</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Burn duration: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Trvání zapálení: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_ShockChance</Data></Cell>
@@ -3332,18 +3349,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_ShockDuration</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Shock duration: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Trvání šoku: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_ShockStacks</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Shock stacks: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Násobek šoku: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_FreezeChance</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Freeze chance: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na zmrazení: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_FreezeDuration</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Freeze duration: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Trvání zmrazení: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_PoisonChance</Data></Cell>
@@ -3357,10 +3378,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_PoisonStacks</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Poison stacks: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Násobek jedu: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_BleedChance</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Bleed Chance: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na krvácení: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_BleedStacks</Data></Cell>
@@ -3375,7 +3398,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_StunChance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Stun chance: %1</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Šance omráčit: %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Šance omráčit: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_StunDuration</Data></Cell>
@@ -3385,43 +3408,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_StasisChance</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Stasis chance: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na stázi: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_StasisDuration</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Stasis duration: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Trvání stáze: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_StasisStacks</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Stasis stacks: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Násobek stáze: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_CurseChance</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Cursed chance: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na prokletí: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_CurseStacks</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Cursed stacks: %1</Data></Cell>
-    <Cell><Data ss:Type="String">Násobek prokletí %1</Data></Cell>
+    <Cell><Data ss:Type="String">Násobek prokletí: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_CurseDuration</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Cursed duration: %1</Data></Cell>
-    <Cell><Data ss:Type="String">Trvání prokletí %1</Data></Cell>
+    <Cell><Data ss:Type="String">Trvání prokletí: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_WeaknessChance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Weakness chance: %1</Data></Cell>
-    <Cell><Data ss:Type="String">Šance slabosti %1</Data></Cell>
+    <Cell><Data ss:Type="String">Šance slabosti: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_WeaknessStacks</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Weakness stacks: %1</Data></Cell>
-    <Cell><Data ss:Type="String">Násobek slabosti %1</Data></Cell>
+    <Cell><Data ss:Type="String">Násobek slabosti: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_WeaknessDuration</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Weakness duration: %1</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Trvání slabosti: %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Trvání slabosti: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_AilmentRollCount</Data></Cell>
@@ -3442,6 +3469,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_ExplosionRadius</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Effect radius: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Okruh efektu: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_SharpShooterDamage</Data></Cell>
@@ -3466,55 +3494,62 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_CastDelay</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Cast Delay: %1</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Opozdění seslání kouzla %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Opozdění seslání kouzla: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_ChargeMax</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Maximum charges: %1</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Maximální počet použití: %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Maximální počet použití: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_Cooldown</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Cooldown: %1</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Čas nabíjení %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Čas nabíjení: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_CriticalChance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Critical Chance: %1</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Šance na kritické poškození: %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Šance na kritické poškození: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_CriticalDamage</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Critical Damage: %1</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">Kritické poškozené: %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Kritické poškozené: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_FireDamage</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Fire Damage: %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Ohnivé poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_FrostDamage</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Frost Damage: %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Ledové poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_BleedingDamage</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Rend Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Tržné poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_PoisonDamage</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Poison Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Jedové poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_LightningDamage</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Lightning Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Bleskové poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_Projectiles</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Number of projectiles: %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Počet projektilů: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_RageCost</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Rage cost: %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Cena zuřivosti: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_StaminaCost</Data></Cell>
@@ -3527,30 +3562,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_RageGeneration</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Rage generation: %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Generace zuřivosti: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_RageGenerationPerSecond</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Rage generation per second: %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Generace zuřivosti za sekundu: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_Range</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Range: %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Dosah: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_Range</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Range: %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Dosah: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_ROSTime</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Resource consuming time: %1</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Čas používání zdroje: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_SacredDamage</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Sacred Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Posvátné poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_ShadowDamage</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Shadow Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Stinové poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_UmbraCost</Data></Cell>
@@ -3575,48 +3617,52 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Param_WeaponDamage</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Attack Damage: %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Útočné poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Stack_Chance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">(%1 Chance)</Data></Cell>
+    <Cell><Data ss:Type="String">(%1 Šance)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_AST_Stack_Earning_OnTick</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Charge(s) gained with time: %1 every %2</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Použití získáno časem: %1 každých %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2596126320676"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2291510914868"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s97"><Data ss:Type="String">ui_AST_ParamBonus_Damage</Data></Cell>
-    <Cell ss:StyleID="s98"><Data ss:Type="String">%1 Damage Bonus</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">%1 bonus k poškození</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">ui_AST_ParamBonus_Damage</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">%1 Damage Bonus</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">%1 bonus k poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s97"><Data ss:Type="String">ui_AST_ParamBonus_Cooldown</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">ui_AST_ParamBonus_Cooldown</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">%1 Cooldown Reduction</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">%1 bonus ke snížení času nabíjení</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">%1 bonus ke snížení času nabíjení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s97"><Data ss:Type="String">ui_AST_ParamBonus_RageCostReduction</Data></Cell>
-    <Cell ss:StyleID="s98"><Data ss:Type="String">%1 Rage Cost Reduction</Data></Cell>
-    <Cell ss:StyleID="s100"><Data ss:Type="String">%1 bonus ke snížení ceny zuřivosti</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">ui_AST_ParamBonus_RageCostReduction</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">%1 Rage Cost Reduction</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">%1 bonus ke snížení ceny zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s97"><Data ss:Type="String">ui_AST_ParamBonus_UmbraCostReduction</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String">%1 Willpower Cost Reduction</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">ui_AST_ParamBonus_UmbraCostReduction</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">%1 Willpower Cost Reduction</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s97"><Data ss:Type="String">ui_AST_ParamBonus_UmbraCostAugmentation</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String">%1 Willpower Cost Augmentation</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">ui_AST_ParamBonus_UmbraCostAugmentation</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">%1 Willpower Cost Augmentation</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s97"><Data ss:Type="String">ui_AST_ParamBonus_WeaponDamage</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String">%1 Attack Damage Bonus</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">ui_AST_ParamBonus_WeaponDamage</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">%1 Attack Damage Bonus</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">%1 Bonus za útočné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="29"/>
    <Row ss:Index="856" ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2596126323904"><Data ss:Type="String">UNIQUE ITEMS VARIANTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2291525892496"><Data ss:Type="String">UNIQUE ITEMS VARIANTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="158"/>
    <Row ss:Index="1028" ss:AutoFitHeight="0" ss:Height="25.5"/>
@@ -3705,14 +3751,15 @@
     <HorizontalResolution>600</HorizontalResolution>
     <VerticalResolution>600</VerticalResolution>
    </Print>
-   <Zoom>120</Zoom>
+   <Zoom>80</Zoom>
    <Selected/>
-   <TopRowVisible>778</TopRowVisible>
+   <TopRowVisible>671</TopRowVisible>
+   <LeftColumnVisible>1</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>800</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>566</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
