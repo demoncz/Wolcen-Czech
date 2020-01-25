@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12435</WindowHeight>
-  <WindowWidth>28800</WindowWidth>
+  <WindowHeight>8145</WindowHeight>
+  <WindowWidth>21570</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -111,7 +111,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m115476152" ss:Parent="s62">
+  <Style ss:ID="m195368080" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -122,7 +122,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115476172" ss:Parent="s62">
+  <Style ss:ID="m195368100" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -261,10 +261,10 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115476152"><Data ss:Type="String">INTRO Dialog</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m195368080"><Data ss:Type="String">INTRO Dialog</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115476172"><Data ss:Type="String">Quest1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m195368100"><Data ss:Type="String">Quest1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s89"><Data ss:Type="String">INTRO_Quest1_MaelisBeginning_Talk</Data></Cell>
@@ -289,7 +289,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s89"><Data ss:Type="String">INTRO_Quest1_Maelis_Talk</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">I want those ledges clean! One each, let’s go!</Data></Cell>
-    <Cell><Data ss:Type="String">Chci ty římsy čisté! Každý, jdeme!</Data></Cell>
+    <Cell><Data ss:Type="String">Chci ty římsy čisté! Každou, jdeme!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s89"><Data ss:Type="String">INTRO_Quest1_PlayerThought_Talk</Data></Cell>
@@ -319,7 +319,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s89"><Data ss:Type="String">INTRO_Quest1_SapperEncounter_Talk_2</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">You will burn, Republican trash!</Data></Cell>
-    <Cell><Data ss:Type="String">Uhoříte, republikánský odpad!</Data></Cell>
+    <Cell><Data ss:Type="String">Uhoříš ty republikánský odpad!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s89"><Data ss:Type="String">INTRO_Quest1_SapperDefeated_Talk</Data></Cell>
@@ -332,6 +332,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s89"><Data ss:Type="String">INTRO_Quest1_SoulsEncounter_Talk1_2</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">We’ll lose a lot of men if the cliff collapses!</Data></Cell>
+    <Cell><Data ss:Type="String">Ztratíme spoustu mužů, pokud se útes zhroutí!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s89"><Data ss:Type="String">INTRO_Quest1_SoulsEncounter_Talk1_3</Data></Cell>
@@ -344,14 +345,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s89"><Data ss:Type="String">INTRO_Quest1_SoulsEncounter_Talk2_1</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">Wait. You smell that?</Data></Cell>
+    <Cell><Data ss:Type="String">Počkejte. Cítíš to?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s89"><Data ss:Type="String">INTRO_Quest1_SoulsEncounter_Talk2_2</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">Sulphur!</Data></Cell>
+    <Cell><Data ss:Type="String">Síra!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s89"><Data ss:Type="String">INTRO_Quest1_SoulsEncounter_Talk2_3</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">A demon…</Data></Cell>
+    <Cell><Data ss:Type="String">Demon…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s89"><Data ss:Type="String">INTRO_Quest1_SoulsEncounter_Talk2_4</Data></Cell>
@@ -4309,11 +4313,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
+   <LeftColumnVisible>2</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>14</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>13</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
