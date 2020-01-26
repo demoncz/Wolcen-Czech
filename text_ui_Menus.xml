@@ -18,11 +18,6 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <SupBook>
-   <Path> </Path>
-   <SheetName> </SheetName>
-   <SheetName> </SheetName>
-  </SupBook>
   <WindowHeight>12015</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
@@ -53,7 +48,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2709965565888" ss:Parent="s62">
+  <Style ss:ID="m1365754949136" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -64,7 +59,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2709965565908" ss:Parent="s62">
+  <Style ss:ID="m1365754949156" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -75,7 +70,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2709965565928" ss:Parent="s62">
+  <Style ss:ID="m1365754949176" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -182,7 +177,7 @@
     <Cell ss:StyleID="s68"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s66">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2709965565888"><Data ss:Type="String">GAME MENU</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1365754949136"><Data ss:Type="String">GAME MENU</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="Default">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Language Selection</Data></Cell>
@@ -956,7 +951,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GameMode_Campaign</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Story</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Příbeh</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Příběh</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GameMode_Campaign_Help</Data></Cell>
@@ -1396,7 +1391,7 @@
    <Row ss:AutoFitHeight="0" ss:StyleID="Default">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_Seconds</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Seconds</Data></Cell>
-    <Cell><Data ss:Type="String">Vteřiny</Data></Cell>
+    <Cell><Data ss:Type="String">Sekund</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_elapsedTime</Data></Cell>
@@ -1989,7 +1984,7 @@
     <Cell ss:StyleID="s92"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2709965565908"><Data ss:Type="String">KEYS REBINDING</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1365754949156"><Data ss:Type="String">KEYS REBINDING</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_kb_activedodge</Data></Cell>
@@ -2142,7 +2137,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">Inspektor postavy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2709965565928"><Data ss:Type="String">CHARACTER SELECTION</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1365754949176"><Data ss:Type="String">CHARACTER SELECTION</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ui_mm_onlinemode</Data></Cell>
@@ -2213,13 +2208,13 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>182</TopRowVisible>
+   <TopRowVisible>78</TopRowVisible>
    <LeftColumnVisible>1</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>190</ActiveRow>
-     <ActiveCol>3</ActiveCol>
+     <ActiveRow>97</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
