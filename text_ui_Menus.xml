@@ -48,7 +48,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1365754949136" ss:Parent="s62">
+  <Style ss:ID="m1289781877664" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -59,7 +59,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1365754949156" ss:Parent="s62">
+  <Style ss:ID="m1289781877684" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -70,7 +70,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1365754949176" ss:Parent="s62">
+  <Style ss:ID="m1289781877704" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -177,7 +177,7 @@
     <Cell ss:StyleID="s68"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s66">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1365754949136"><Data ss:Type="String">GAME MENU</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1289781877664"><Data ss:Type="String">GAME MENU</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="Default">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Language Selection</Data></Cell>
@@ -821,17 +821,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_smaa1x</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Low: Smaa 1X</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Nizké: Smaa 1X</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nizké: SMAA 1X</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_smaa1tx</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Med: Smaa 1TX</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Střední: Smaa 1TX</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Střední: SMAA 1Tx</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_smaa2tx</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">High: Smaa 2TX</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Vysoké: Smaa 2TX</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vysoké: SMAA 2Tx</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_graphic_vignetting</Data></Cell>
@@ -936,7 +936,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GameMode</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Game mode</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Herní mód</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Herní režim</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GameMode_Adventure</Data></Cell>
@@ -1361,7 +1361,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_waitingForAllPlayers</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Waiting for all players to join the game</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Čekaní na připojení všech hráču ke hře</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Čekání na připojení všech hráču ke hře</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s94">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Multiplayer Menu - Leave</Data></Cell>
@@ -1446,7 +1446,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s95"><Data ss:Type="String">ui_popup_content_gameSessionCreationTimeout</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Your game could not be created, please try again later. </Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Vaši hru nelze vytvořit, zkuste to znovu později.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vaší hru nelze vytvořit, zkuste to znovu později.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s94">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Multiplayer Menu - Invites</Data></Cell>
@@ -1456,7 +1456,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_alreadyInvited</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Already Invited</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Již pozváno</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Již pozván</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_alreadyInvited</Data></Cell>
@@ -1471,7 +1471,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_alreadyInGroup</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">The Player you invited is Already in your group.</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Hráč kterého jste pozvali je již ve vaší skupině.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Hráče kterého jste pozvali je už ve vaší skupině.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_groupFull</Data></Cell>
@@ -1791,7 +1791,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_gameplay_mapoverlayopacity</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Map overlay opacity</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Pruhlednost mapy</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Průhlednost mapy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s94">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Network Settings</Data></Cell>
@@ -1984,7 +1984,7 @@
     <Cell ss:StyleID="s92"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1365754949156"><Data ss:Type="String">KEYS REBINDING</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1289781877684"><Data ss:Type="String">KEYS REBINDING</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_kb_activedodge</Data></Cell>
@@ -2137,27 +2137,27 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">Inspektor postavy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1365754949176"><Data ss:Type="String">CHARACTER SELECTION</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1289781877704"><Data ss:Type="String">CHARACTER SELECTION</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ui_mm_onlinemode</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Online mode</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Online mód</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Online režim</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ui_mm_offlinemode</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Offline mode</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Offline mód</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Offline režim</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_playonline</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Switch to Online mode</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Přepnout do Online módu</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Přepnout do Online režimu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_playoffline</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Switch to Offline mode</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Přepnout do Offline módu</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Přepnout do Offline režimu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_play</Data></Cell>
@@ -2208,12 +2208,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>78</TopRowVisible>
+   <TopRowVisible>243</TopRowVisible>
    <LeftColumnVisible>1</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>97</ActiveRow>
+     <ActiveRow>265</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
