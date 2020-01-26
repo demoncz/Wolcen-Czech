@@ -20,7 +20,7 @@
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
   <WindowHeight>10065</WindowHeight>
-  <WindowWidth>26445</WindowWidth>
+  <WindowWidth>14655</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -53,7 +53,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m203414240" ss:Parent="s62">
+  <Style ss:ID="m424211216" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -64,7 +64,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m203414260" ss:Parent="s62">
+  <Style ss:ID="m424211236" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -75,7 +75,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m203414280" ss:Parent="s62">
+  <Style ss:ID="m424211256" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -86,7 +86,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m203414300" ss:Parent="s62">
+  <Style ss:ID="m424211276" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -97,7 +97,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m203414320" ss:Parent="s62">
+  <Style ss:ID="m424211296" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -108,7 +108,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m203414340" ss:Parent="s62">
+  <Style ss:ID="m424211316" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -119,7 +119,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m203416528" ss:Parent="s62">
+  <Style ss:ID="m424208720" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -130,7 +130,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m203416548" ss:Parent="s62">
+  <Style ss:ID="m424208740" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -141,7 +141,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m203416568" ss:Parent="s62">
+  <Style ss:ID="m424208760" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -152,7 +152,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m203416588" ss:Parent="s62">
+  <Style ss:ID="m424208780" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -163,7 +163,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m203416608" ss:Parent="s62">
+  <Style ss:ID="m424208800" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -174,7 +174,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m203416628" ss:Parent="s62">
+  <Style ss:ID="m424208820" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -260,6 +260,10 @@
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <NumberFormat ss:Format="0%"/>
   </Style>
+  <Style ss:ID="s139">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
   <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="760" x:FullColumns="1"
@@ -274,7 +278,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m203416528"><Data ss:Type="String">WEAPONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m424208720"><Data ss:Type="String">WEAPONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Shields</Data></Cell>
@@ -883,7 +887,7 @@
     <Cell ss:StyleID="s85"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m203416548"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m424208740"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorTypePrisoner</Data></Cell>
@@ -956,7 +960,7 @@
     <Cell><Data ss:Type="String">Prsten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m203416568"><Data ss:Type="String">ARMORS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m424208760"><Data ss:Type="String">ARMORS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Uniques</Data></Cell>
@@ -2013,59 +2017,72 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Catalystic Strap</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m203416588"><Data ss:Type="String">ITEMS COMPARATOR</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m424208780"><Data ss:Type="String">ITEMS COMPARATOR</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_reqLevel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Required Level</Data></Cell>
+    <Cell><Data ss:Type="String">Požadovaná Úroveň</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_reqStrength</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Required Ferocity</Data></Cell>
+    <Cell><Data ss:Type="String">Požadovaná Dravost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_reqDexterity</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Required Agility</Data></Cell>
+    <Cell><Data ss:Type="String">Požadovaná Hbitost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_reqConstitution</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Required Toughness</Data></Cell>
+    <Cell><Data ss:Type="String">Požadovaná Houževnatost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_reqPower</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Required Wisdom</Data></Cell>
+    <Cell ss:StyleID="s139"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_durability</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Durability</Data></Cell>
+    <Cell><Data ss:Type="String">Trvanlivost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_sellvalue</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Value</Data></Cell>
+    <Cell><Data ss:Type="String">Prodejní cena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_equipped</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Equipped</Data></Cell>
+    <Cell><Data ss:Type="String">Vybaveno</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_charges</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Charges</Data></Cell>
+    <Cell><Data ss:Type="String">Použití</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_refreshtime</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Cooldown</Data></Cell>
+    <Cell><Data ss:Type="String">%1 čas znovupoužití</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_hold</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Hold SHIFT to switch between left and right item comparison</Data></Cell>
+    <Cell><Data ss:Type="String">Podržte SHIFT pro přepínání mezi levým a pravým předmětem porovnání</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_merchant_title</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Merchant</Data></Cell>
+    <Cell><Data ss:Type="String">Obchodník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_merchant_restockin</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Merchant Inventory will restock in: %1 : %2</Data></Cell>
+    <Cell><Data ss:Type="String">Obchodníkův doplní zásoby za : %1h %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_chargecost</Data></Cell>
@@ -2074,45 +2091,55 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_PotionHealthGain</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Restored Health</Data></Cell>
+    <Cell><Data ss:Type="String">%1 obnovení Zdraví</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_PotionUmbraGain</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Restored Willpower</Data></Cell>
+    <Cell><Data ss:Type="String">%1 obnovení Umbra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_PotionRageGain</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Restored Rage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 obnovení Zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_PotionStaminaGain</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Restored Stamina</Data></Cell>
+    <Cell><Data ss:Type="String">%1 obnovení Výdrže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_PotionActiveEffect</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 (on use)</Data></Cell>
+    <Cell><Data ss:Type="String">%1 (při použití)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_PotionPassiveEffect</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 (on use, lasts %2)</Data></Cell>
+    <Cell><Data ss:Type="String">%1 (při použití, trvá %2)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_PotionPassiveEffect_stack</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 (on use, lasts %2, stackable up to %3 times)</Data></Cell>
+    <Cell><Data ss:Type="String">%1 (při použití, trvá %2, násobitelný až %3 krát)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_PotionPermanentEffect</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 (permanent when equipped)</Data></Cell>
+    <Cell><Data ss:Type="String">%1 (při použití, permanentní)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_level</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Level</Data></Cell>
+    <Cell><Data ss:Type="String">Úroveň</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_deprecated</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">This item comes from an old version of the game and may be unbalanced or malfunctioning.</Data></Cell>
+    <Cell><Data ss:Type="String">Tento předmet pochází ze starší verze hry a může být nevyrovnaný a porouchaný. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m203416608"><Data ss:Type="String">LOOT RARITY</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m424208800"><Data ss:Type="String">LOOT RARITY</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_normal</Data></Cell>
@@ -2145,7 +2172,7 @@
     <Cell><Data ss:Type="String">Úkolový předmět</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m203416628"><Data ss:Type="String">LOOT QUALITY</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m424208820"><Data ss:Type="String">LOOT QUALITY</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_quality_normal</Data></Cell>
@@ -2173,7 +2200,7 @@
     <Cell><Data ss:Type="String">Epická</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m203414240"><Data ss:Type="String">POTIONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m424211216"><Data ss:Type="String">POTIONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_potiontype_health</Data></Cell>
@@ -2203,6 +2230,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_loot_potiontype_misc</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Utility potion</Data></Cell>
+    <Cell><Data ss:Type="String">Lektvar síly vůle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Potion_S_Health</Data></Cell>
@@ -2285,7 +2313,7 @@
     <Cell><Data ss:Type="String">Skvělý lektvar výdrže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m203414260"><Data ss:Type="String">WEAPON TYPES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m424211236"><Data ss:Type="String">WEAPON TYPES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_1HSword</Data></Cell>
@@ -2353,14 +2381,14 @@
     <Cell><Data ss:Type="String">Fetiš</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m203414280"><Data ss:Type="String">INGREDIENTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m424211256"><Data ss:Type="String">INGREDIENTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_Ingredient</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Ingredient</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m203414300"><Data ss:Type="String">WEAPON SPEED</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m424211276"><Data ss:Type="String">WEAPON SPEED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_slowest</Data></Cell>
@@ -2408,10 +2436,10 @@
     <Cell><Data ss:Type="String">Nejrychlejší</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m203414320"><Data ss:Type="String">QUEST ITEMS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m424211296"><Data ss:Type="String">QUEST ITEMS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m203414340"><Data ss:Type="String">SOCKETS AND GEMS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m424211316"><Data ss:Type="String">SOCKETS AND GEMS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_offensive</Data></Cell>
@@ -2451,127 +2479,127 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_gemTier</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Tier</Data></Cell>
-    <Cell><Data ss:Type="String">Stupeň</Data></Cell>
+    <Cell><Data ss:Type="String">Třída</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier01</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Chipped Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Uštíplý topas</Data></Cell>
+    <Cell><Data ss:Type="String">Naštípnutý Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier02</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Crude Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Hrubý topas</Data></Cell>
+    <Cell><Data ss:Type="String">Hrubý Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier03</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Raw Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Surový topas</Data></Cell>
+    <Cell><Data ss:Type="String">Surový Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier04</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Flawed Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Vadný topas</Data></Cell>
+    <Cell><Data ss:Type="String">Kazový Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier05</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Topas</Data></Cell>
+    <Cell><Data ss:Type="String">Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier06</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Leštěný topas</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier07</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Pristine Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Nedotčený topas</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier08</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Pristine Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Nedotčený leštěný topas</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý leštěný Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier09</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Precious Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Vzácný topas</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier10</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Precious Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Vzácný leštěný topas</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier11</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Perfect Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Perfektní topas</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier12</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Perfect Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Perfektní leštěný topas</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný leštený Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier13</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Royal Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Královský topas</Data></Cell>
+    <Cell><Data ss:Type="String">Královský Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier14</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Royal Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Královský leštěný topas</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier15</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Celestial Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Nebeský topas</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier16</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Celestial Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Nebeský leštěný topas</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier17</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Fallen Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Zkažený topas</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier18</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Fallen Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Zkažený leštěný topas</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý leštěný Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier19</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Divine Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Božský topas</Data></Cell>
+    <Cell><Data ss:Type="String">Božský Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier20</Data></Cell>
     <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Divine Topaz</Data></Cell>
-    <Cell><Data ss:Type="String">Božský leštěný topas</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier01</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chipped Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Uštíplý lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Naštípnutý Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier02</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Crude Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Hrubý lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Hrubý Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier03</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Raw Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Surový lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Surový Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier04</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Flawed Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Vadný lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Kazový Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier05</Data></Cell>
@@ -2581,877 +2609,1077 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier06</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Leštěný lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier07</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pristine Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Nedotčený lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Nedočtený leštěný lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý leštěný Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier09</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Precious Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Vzácný lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier10</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Precious Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Vzácný leštěný lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Perfektní lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier12</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Perfect Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Perfektní leštěný lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný leštený Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Royal Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Královský lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Královský Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier14</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Royal Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Královský leštěný lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier15</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Celestial Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Nebeský lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier16</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Celestial Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Nebeský leštěný lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier17</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fallen Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Zkažený lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier18</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Fallen Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Zkažený leštěný lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý leštěný Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier19</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Divine Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Božský lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Božský Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier20</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Divine Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Božský leštěný lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier01</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chipped Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Naštípnutý Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier02</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Crude Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Hrubý Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier03</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Raw Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Surový Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier04</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Flawed Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Kazový Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier05</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier06</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier07</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pristine Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý leštěný Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier09</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Precious Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier10</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Precious Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier12</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Perfect Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný leštený Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Royal Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Královský Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier14</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Royal Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier15</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Celestial Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier16</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Celestial Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier17</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fallen Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier18</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Fallen Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý leštěný Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier19</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Divine Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Božský Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier20</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Divine Amber</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný Jantar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier01</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chipped Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Naštípnutý Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier02</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Crude Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Hrubý Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier03</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Raw Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Surový Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier04</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Flawed Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Kazový Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier05</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier06</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier07</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pristine Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý leštěný Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier09</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Precious Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier10</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Precious Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier12</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Perfect Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný leštený Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Royal Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Královský Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier14</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Royal Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier15</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Celestial Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier16</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Celestial Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier17</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fallen Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier18</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Fallen Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý leštěný Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier19</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Divine Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Božský Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_sacredgem_tier20</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Divine Silverstone</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný Stříbrokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier01</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chipped Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Naštípnutý Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier02</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Crude Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Hrubý Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier03</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Raw Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Surový Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier04</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Flawed Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Kazový Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier05</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier06</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier07</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pristine Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý leštěný Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier09</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Precious Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier10</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Precious Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier12</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Perfect Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný leštený Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Royal Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Královský Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier14</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Royal Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier15</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Celestial Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier16</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Celestial Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier17</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fallen Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier18</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Fallen Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý leštěný Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier19</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Divine Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Božský Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_shadowgem_tier20</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Divine Sapphire</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný Safír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier01</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chipped Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Naštípnutý Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier02</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Crude Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Hrubý Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier03</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Raw Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Surový Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier04</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Flawed Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Kazový Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier05</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier06</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier07</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pristine Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý leštěný Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier09</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Precious Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier10</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Precious Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier12</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Perfect Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný leštený Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Royal Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Královský Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier14</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Royal Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier15</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Celestial Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier16</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Celestial Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier17</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fallen Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier18</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Fallen Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý leštěný Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier19</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Divine Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Božský Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_poisongem_tier20</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Divine Emerald</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný Smaragd</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier01</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chipped Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Naštípnutý Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier02</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Crude Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Hrubý Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier03</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Raw Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Surový Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier04</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Flawed Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Kazový Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier05</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier06</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier07</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pristine Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý leštěný Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier09</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Precious Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier10</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Precious Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier12</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Perfect Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný leštený Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Royal Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Královský Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier14</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Royal Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier15</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Celestial Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier16</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Celestial Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier17</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fallen Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier18</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Fallen Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý leštěný Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier19</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Divine Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Božský Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_physicalgem_tier20</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Divine Copperstone</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier01</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chipped Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Naštípnutý Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier02</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Crude Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Hrubý Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier03</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Raw Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Surový Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier04</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Flawed Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Kazový Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier05</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier06</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier07</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pristine Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý leštěný Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier09</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Precious Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier10</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Precious Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier12</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Perfect Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný leštený Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Royal Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Královský Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier14</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Royal Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier15</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Celestial Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier16</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Celestial Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier17</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fallen Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier18</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Fallen Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý leštěný Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier19</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Divine Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Božský Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_agilitygem_tier20</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Divine Beryl</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný Beryl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier01</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chipped Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Naštípnutý Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier02</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Crude Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Hrubý Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier03</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Raw Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Surový Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier04</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Flawed Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Kazový Měďnokámen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier05</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier06</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier07</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pristine Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý leštěný Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier09</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Precious Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier10</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Precious Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier12</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Perfect Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný leštený Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Royal Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Královský Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier14</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Royal Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier15</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Celestial Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier16</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Celestial Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier17</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fallen Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier18</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Fallen Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý leštěný Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier19</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Divine Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Božský Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_willpowergem_tier20</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Divine Cyanite</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier01</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chipped Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Naštípnutý Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier02</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Crude Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Hrubý Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier03</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Raw Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Surový Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier04</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Flawed Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Kazový Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier05</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier06</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier07</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pristine Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý leštěný Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier09</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Precious Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier10</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Precious Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier12</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Perfect Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný leštený Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Royal Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Královský Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier14</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Royal Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier15</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Celestial Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier16</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Celestial Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier17</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fallen Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier18</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Fallen Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý leštěný Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier19</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Divine Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Božský Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_toughnessgem_tier20</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Divine Amethyste</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný Ametyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier01</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chipped Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Naštípnutý Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier02</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Crude Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Hrubý Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier03</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Raw Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Surový Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier04</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Flawed Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Kazový Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier05</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier06</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier07</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pristine Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý leštěný Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier09</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Precious Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier10</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Precious Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier12</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Perfect Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný leštený Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Royal Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Královský Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier14</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Royal Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier15</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Celestial Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier16</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Celestial Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier17</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fallen Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier18</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Fallen Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý leštěný Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier19</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Divine Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Božský Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_chancegem_tier20</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Divine Alexandrite</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný Alexandrit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier01</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chipped Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Naštípnutý Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier02</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Crude Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Hrubý Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier03</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Raw Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Surový Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier04</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Flawed Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Kazový Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier05</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Kyanit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier06</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">LeštěnýAetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier07</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pristine Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Dokonalý leštěný Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier09</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Precious Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier10</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Precious Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier12</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Perfect Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Bezchybný leštený Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Royal Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Královský Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier14</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Royal Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier15</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Celestial Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier16</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Celestial Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier17</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fallen Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier18</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Fallen Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Padlý leštěný Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier19</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Divine Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Božský Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_aethergem_tier20</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Divine Aetherite</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný Aetherit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
   </Table>
@@ -3472,11 +3700,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>48</TopRowVisible>
+   <TopRowVisible>258</TopRowVisible>
+   <LeftColumnVisible>1</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>57</ActiveRow>
+     <ActiveRow>427</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
