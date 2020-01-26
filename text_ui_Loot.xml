@@ -8,10 +8,10 @@
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Title>Audio script template</Title>
   <Author>Maëlenn Lumineau</Author>
-  <LastAuthor>Abhoth2</LastAuthor>
+  <LastAuthor>Sully</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
-  <LastSaved>2019-09-17T16:11:30Z</LastSaved>
+  <LastSaved>2020-01-26T11:26:08Z</LastSaved>
   <Company>Electronic Arts</Company>
   <Version>15.00</Version>
  </DocumentProperties>
@@ -285,6 +285,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Shield_T1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Wooden Shield</Data></Cell>
+    <Cell><Data ss:Type="String">Dravěný štít</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Shield_T2</Data></Cell>
@@ -293,6 +294,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Shield_T3</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Spiked Round Shield</Data></Cell>
+    <Cell><Data ss:Type="String">Ostnatý kruhový štít</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Shield_T4</Data></Cell>
@@ -396,6 +398,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Bow_T1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Longbow</Data></Cell>
+    <Cell><Data ss:Type="String">Longbow</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Bow_T2</Data></Cell>
@@ -473,6 +476,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_2HHammer_T3</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Warhammer</Data></Cell>
+    <Cell><Data ss:Type="String">Bojové kladivo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_2HHammer_T4</Data></Cell>
@@ -481,6 +485,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_2HHammer_T5</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Spiked Hammer</Data></Cell>
+    <Cell><Data ss:Type="String">Havraní zobák</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_2HHammer_T6</Data></Cell>
@@ -514,6 +519,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_1HHammer_T5</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Battle Hammer</Data></Cell>
+    <Cell><Data ss:Type="String">Bojové kladivo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_1HHammer_T6</Data></Cell>
@@ -1929,50 +1935,62 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Topaz</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Topaz Ring</Data></Cell>
+    <Cell><Data ss:Type="String">Topasový prsten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Aquamarine</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aquamarine Ring</Data></Cell>
+    <Cell><Data ss:Type="String">Aquamarínový prsten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Sapphire</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Sapphire Ring</Data></Cell>
+    <Cell><Data ss:Type="String">Safírový prsten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Emerald</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Emerald Ring</Data></Cell>
+    <Cell><Data ss:Type="String">Smaragdový prsten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Ring_Ruby</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Ruby Ring</Data></Cell>
+    <Cell><Data ss:Type="String">Rubínový prsten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Bloodstar</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Bloodstar Ring</Data></Cell>
+    <Cell><Data ss:Type="String">Krvavá hvězda prsten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Ring_Steel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Steel Ring</Data></Cell>
+    <Cell><Data ss:Type="String">Ocelový prsten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Goldstone</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Goldstone Amulet</Data></Cell>
+    <Cell><Data ss:Type="String">Zlatý amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Amethyst</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Amethyst Amulet</Data></Cell>
+    <Cell><Data ss:Type="String">Ametystový amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Emerald</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Emerald Amulet</Data></Cell>
+    <Cell><Data ss:Type="String">Smaragdový amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Omnistar</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Omnistar Amulet</Data></Cell>
+    <Cell><Data ss:Type="String">Omnistar amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Ruby</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Ruby Amulet</Data></Cell>
+    <Cell><Data ss:Type="String">Rubínový amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Belt_Alchemist</Data></Cell>
@@ -2573,7 +2591,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Lapis Lazuli</Data></Cell>
-    <Cell><Data ss:Type="String">Leštěný nedočtený lazurit</Data></Cell>
+    <Cell><Data ss:Type="String">Nedočtený leštěný lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier09</Data></Cell>
@@ -2588,42 +2606,52 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier11</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Perfect Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Perfektní lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier12</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Perfect Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Perfektní leštěný lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier13</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Royal Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Královský lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier14</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Royal Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Královský leštěný lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier15</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Celestial Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier16</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Celestial Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský leštěný lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier17</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fallen Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Zkažený lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier18</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Fallen Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Zkažený leštěný lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier19</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Divine Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Božský lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier20</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Divine Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Božský leštěný lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_umbragem_tier01</Data></Cell>
@@ -3444,11 +3472,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>521</TopRowVisible>
+   <TopRowVisible>48</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>548</ActiveRow>
+     <ActiveRow>57</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
