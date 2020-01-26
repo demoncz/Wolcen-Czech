@@ -2558,26 +2558,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier05</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier06</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier07</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pristine Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Nedotčený lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier08</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Pristine Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Leštěný nedočtený lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier09</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Precious Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier10</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Polished Precious Lapis Lazuli</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácný leštěný lazurit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier11</Data></Cell>
@@ -3438,11 +3444,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>518</TopRowVisible>
+   <TopRowVisible>521</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>519</ActiveRow>
+     <ActiveRow>548</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
