@@ -19,11 +19,6 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <SupBook>
-   <Path> </Path>
-   <SheetName> </SheetName>
-   <SheetName> </SheetName>
-  </SupBook>
   <WindowHeight>12015</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
@@ -58,7 +53,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1822775733104" ss:Parent="s62">
+  <Style ss:ID="m1880924702992" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -69,7 +64,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1822775733124" ss:Parent="s62">
+  <Style ss:ID="m1880924703012" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -80,7 +75,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1822775733144" ss:Parent="s62">
+  <Style ss:ID="m1880924703032" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -91,7 +86,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1822775733164" ss:Parent="s62">
+  <Style ss:ID="m1880924703052" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -102,7 +97,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1822775733184" ss:Parent="s62">
+  <Style ss:ID="m1880924703072" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -113,7 +108,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1822775733204" ss:Parent="s62">
+  <Style ss:ID="m1880924703092" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -124,7 +119,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1822776168432" ss:Parent="s62">
+  <Style ss:ID="m1880924705904" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -135,7 +130,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1822776168452" ss:Parent="s62">
+  <Style ss:ID="m1880924705924" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -146,7 +141,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1822776168472" ss:Parent="s62">
+  <Style ss:ID="m1880924705944" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -157,7 +152,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1822776168492" ss:Parent="s62">
+  <Style ss:ID="m1880924705964" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -168,7 +163,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1822776168512" ss:Parent="s62">
+  <Style ss:ID="m1880924705984" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -179,7 +174,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1822776168532" ss:Parent="s62">
+  <Style ss:ID="m1880924706004" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -246,24 +241,24 @@
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
   </Style>
   <Style ss:ID="s90">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Segoe UI" x:CharSet="238" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s91">
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#333333"/>
   </Style>
-  <Style ss:ID="s91" ss:Parent="s62">
+  <Style ss:ID="s92" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="s92" ss:Parent="s62">
+  <Style ss:ID="s93" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <NumberFormat ss:Format="Short Time"/>
   </Style>
-  <Style ss:ID="s99" ss:Parent="s65">
+  <Style ss:ID="s100" ss:Parent="s65">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <NumberFormat ss:Format="0%"/>
-  </Style>
-  <Style ss:ID="s101">
-   <Alignment ss:Vertical="Center"/>
-   <Font ss:FontName="Segoe UI" x:CharSet="238" x:Family="Swiss"/>
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
@@ -279,7 +274,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1822776168432"><Data ss:Type="String">WEAPONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1880924705904"><Data ss:Type="String">WEAPONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Shields</Data></Cell>
@@ -859,7 +854,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Pistol_T2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Dark Iron Pistol</Data></Cell>
-    <Cell ss:StyleID="s101"><Data ss:Type="String">Tmavě železná pistole</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Tmavě železná pistole</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Pistol_T3</Data></Cell>
@@ -882,7 +877,7 @@
     <Cell ss:StyleID="s85"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1822776168452"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1880924705924"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorTypePrisoner</Data></Cell>
@@ -910,57 +905,57 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Accessory</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ArmorHead</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorHead</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Headwear</Data></Cell>
     <Cell><Data ss:Type="String">Pokrývka hlavy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ArmorShoulder</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorShoulder</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Shoulder Armor</Data></Cell>
     <Cell><Data ss:Type="String">Brnění ramen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ArmorChest</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorChest</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chest Armor</Data></Cell>
     <Cell><Data ss:Type="String">Brnění hrudníku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ArmorArm</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorArm</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Arm Armor</Data></Cell>
     <Cell><Data ss:Type="String">Brnění rukou</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ArmorBelt</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorBelt</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Belt</Data></Cell>
     <Cell><Data ss:Type="String">Pásek</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ArmorLegs</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorLegs</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Leg Armor</Data></Cell>
     <Cell><Data ss:Type="String">Brnění nohou</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ArmorFeet</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorFeet</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Shoes</Data></Cell>
     <Cell><Data ss:Type="String">Boty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s90"><Data ss:Type="String">ui_Amulet</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ui_Amulet</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Amulet</Data></Cell>
     <Cell><Data ss:Type="String">Amulet</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s90"><Data ss:Type="String">ui_Ring</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ui_Ring</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Ring</Data></Cell>
     <Cell><Data ss:Type="String">Prsten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1822776168472"><Data ss:Type="String">ARMORS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1880924705944"><Data ss:Type="String">ARMORS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Uniques</Data></Cell>
-    <Cell ss:StyleID="s91"/>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s92"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_Unique_Prisoner_Cuirass</Data></Cell>
@@ -1237,7 +1232,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heavy</Data></Cell>
     <Cell ss:StyleID="s81"/>
-    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_Heavy_Helmet_T1</Data></Cell>
@@ -2000,7 +1995,7 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Catalystic Strap</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1822776168492"><Data ss:Type="String">ITEMS COMPARATOR</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1880924705964"><Data ss:Type="String">ITEMS COMPARATOR</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_reqLevel</Data></Cell>
@@ -2099,22 +2094,22 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">This item comes from an old version of the game and may be unbalanced or malfunctioning.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1822776168512"><Data ss:Type="String">LOOT RARITY</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1880924705984"><Data ss:Type="String">LOOT RARITY</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_normal</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Common</Data></Cell>
-    <Cell><Data ss:Type="String">Bežný</Data></Cell>
+    <Cell><Data ss:Type="String">Běžné</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_magic</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Magic</Data></Cell>
-    <Cell><Data ss:Type="String">Magický</Data></Cell>
+    <Cell><Data ss:Type="String">Magické</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_rare</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Rare</Data></Cell>
-    <Cell><Data ss:Type="String">Vzácný</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácné</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_rarity_legendary</Data></Cell>
@@ -2132,7 +2127,7 @@
     <Cell><Data ss:Type="String">Úkolový předmět</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1822776168532"><Data ss:Type="String">LOOT QUALITY</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1880924706004"><Data ss:Type="String">LOOT QUALITY</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_quality_normal</Data></Cell>
@@ -2160,7 +2155,7 @@
     <Cell><Data ss:Type="String">Epická</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1822775733104"><Data ss:Type="String">POTIONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1880924702992"><Data ss:Type="String">POTIONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_potiontype_health</Data></Cell>
@@ -2262,7 +2257,7 @@
     <Cell><Data ss:Type="String">Skvělý lektvar výdrže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1822775733124"><Data ss:Type="String">WEAPON TYPES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1880924703012"><Data ss:Type="String">WEAPON TYPES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WeaponType_1HSword</Data></Cell>
@@ -2326,14 +2321,14 @@
     <Cell ss:StyleID="s83"><Data ss:Type="String">Catalyst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1822775733144"><Data ss:Type="String">INGREDIENTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1880924703032"><Data ss:Type="String">INGREDIENTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_loot_Ingredient</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Ingredient</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1822775733164"><Data ss:Type="String">WEAPON SPEED</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1880924703052"><Data ss:Type="String">WEAPON SPEED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_speed_slowest</Data></Cell>
@@ -2381,10 +2376,10 @@
     <Cell><Data ss:Type="String">Nejrychlejší</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1822775733184"><Data ss:Type="String">QUEST ITEMS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1880924703072"><Data ss:Type="String">QUEST ITEMS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1822775733204"><Data ss:Type="String">SOCKETS AND GEMS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1880924703092"><Data ss:Type="String">SOCKETS AND GEMS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_offensive</Data></Cell>
@@ -2428,83 +2423,83 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier01</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Chipped Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Chipped Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier02</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Crude Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Crude Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier03</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Raw Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Raw Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier04</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Flawed Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Flawed Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier05</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier06</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Polished Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier07</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Pristine Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Pristine Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier08</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Polished Pristine Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Pristine Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier09</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Precious Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Precious Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier10</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Polished Precious Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Precious Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier11</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Perfect Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Perfect Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier12</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Polished Perfect Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Perfect Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier13</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Royal Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Royal Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier14</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Polished Royal Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Royal Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier15</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Celestial Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Celestial Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier16</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Polished Celestial Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Celestial Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier17</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Fallen Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Fallen Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier18</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Polished Fallen Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Fallen Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier19</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Divine Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Divine Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_firegem_tier20</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String" x:Ticked="1">Polished Divine Topaz</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String" x:Ticked="1">Polished Divine Topaz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_lightninggem_tier01</Data></Cell>
@@ -3405,12 +3400,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>134</TopRowVisible>
+   <TopRowVisible>434</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>152</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>453</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

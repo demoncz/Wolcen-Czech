@@ -11,7 +11,7 @@
   <LastAuthor>Demon</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
-  <LastSaved>2020-01-25T03:02:05Z</LastSaved>
+  <LastSaved>2020-01-26T00:43:52Z</LastSaved>
   <Company>Electronic Arts</Company>
   <Version>16.00</Version>
  </DocumentProperties>
@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12000</WindowHeight>
-  <WindowWidth>25200</WindowWidth>
+  <WindowHeight>12015</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -119,7 +119,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2596153281952" ss:Parent="s62">
+  <Style ss:ID="m2174585762160" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -130,7 +130,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2596153281972">
+  <Style ss:ID="m2174585762180">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -269,14 +269,18 @@
   <Style ss:ID="s104" ss:Parent="s64">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s106" ss:Parent="s63">
+  <Style ss:ID="s105">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s107" ss:Parent="s63">
    <Alignment ss:Vertical="Bottom"/>
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#333333"/>
    <Interior/>
   </Style>
-  <Style ss:ID="s107">
-   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
-   <Font ss:FontName="Arial" x:CharSet="238" x:Family="Swiss"/>
+  <Style ss:ID="s109">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Segoe UI" x:CharSet="238" x:Family="Swiss"/>
   </Style>
  </Styles>
  <Names>
@@ -303,7 +307,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2596153281952"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2174585762160"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PlayerChest_UnlockCost</Data></Cell>
@@ -321,7 +325,7 @@
     <Cell ss:StyleID="s80"><Data ss:Type="String">Inventář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2596153281972"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2174585762180"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_party_leader_is_choosing_adventure</Data></Cell>
@@ -531,6 +535,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_restartRequired</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Restart required</Data></Cell>
+    <Cell><Data ss:Type="String">Je vyžadováno restartování</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_restartRequired</Data></Cell>
@@ -1245,10 +1250,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_click_to_buy</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Click to buy this item</Data></Cell>
+    <Cell><Data ss:Type="String">Klikněte pro nákup této položky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_right_click_to_sell</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Right-click to sell</Data></Cell>
+    <Cell><Data ss:Type="String">Pravým klikem prodáte</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_right_click_to_retrieve_item</Data></Cell>
@@ -1257,10 +1264,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_right_click_to_store_item</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Right-click to store this item</Data></Cell>
+    <Cell><Data ss:Type="String">Pravým klikem uložíte tuto položku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_right_click_to_learn_skill</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Right-click to learn this skill</Data></Cell>
+    <Cell><Data ss:Type="String">Pravým klikem se naučíte tuto dovednost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_right_click_to_equip</Data></Cell>
@@ -1269,6 +1278,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_right_click_to_unsocket</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Right-click to remove gems from this item</Data></Cell>
+    <Cell><Data ss:Type="String">Pravým klikem odstraní drahokam z tohoto předmětu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_right_click_to_sell_skill_for_knowledge</Data></Cell>
@@ -1277,6 +1287,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_drop_on_item_to_socket</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Drag this gem to an item with an empty socket</Data></Cell>
+    <Cell><Data ss:Type="String">Přetáhněte tento drahokam na předmět s prázdným soketem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s93"><Data ss:Type="String">WEAPON TOOLTIPS</Data></Cell>
@@ -1286,10 +1297,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_elementalDamage</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Elemental</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Elementární</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_materialDamage</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Material</Data></Cell>
+    <Cell><Data ss:Type="String">Materiál</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_occultDamage</Data></Cell>
@@ -1298,22 +1311,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_quality</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Quality</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Kvalita</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tooltip_damage_fire</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">%1 Fire</Data></Cell>
+    <Cell><Data ss:Type="String">1% Oheň</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tooltip_damage_frost</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">%1 Frost</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">%1 Mráz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tooltip_damage_lightning</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">%1 Lightning</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Blesk</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tooltip_damage_physical</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">%1 Physical</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Fyzické</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tooltip_damage_rend</Data></Cell>
@@ -1322,18 +1340,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tooltip_damage_sacred</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">%1 Sacred</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">%1 Posvátné</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tooltip_damage_shadow</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">%1 Shadow</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">%1 Stín</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tootip_total_damage</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">Total Damage : %1</Data></Cell>
+    <Cell><Data ss:Type="String">Celkové poškození: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tooltip_damage_toxic</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">%1 Toxic</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">%1 Toxický</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tooltip_damage_umbra</Data></Cell>
@@ -1452,7 +1474,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Reclaims</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Reclaims</Data></Cell>
-    <Cell ss:StyleID="s107"><Data ss:Type="String">Koupit zpět</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Koupit zpět</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapons</Data></Cell>
@@ -1462,7 +1484,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Consumables</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Consumables</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Spotřební materiál</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Mutations</Data></Cell>
@@ -1557,7 +1579,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Power</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Wisdom</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Moudrost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Constitution</Data></Cell>
@@ -1637,7 +1659,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_revive_in_town</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Return to town</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">Návrat do města</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_revive_here</Data></Cell>
@@ -1647,7 +1669,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_revive</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Return to last checkpoint</Data></Cell>
-    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Návrat do posledního kontrolního bodu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cannot_revive_while_in_combat</Data></Cell>
@@ -1689,16 +1711,17 @@
     <Cell ss:StyleID="s64"><Data ss:Type="String">%1 Non-Ailment Damage dealt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s106"><Data ss:Type="String">ui_no_effect</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">ui_no_effect</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Invulnerable</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s106"><Data ss:Type="String">ui_kill</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">ui_kill</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Kill</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s97"><Data ss:Type="String">ui_revive_at_checkpoint</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Revive at Checkpoint</Data></Cell>
+    <Cell><Data ss:Type="String">Oživit na kontrolním bodě</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
    <Row ss:Index="327" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="33"/>
@@ -1788,10 +1811,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
+   <TopRowVisible>282</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>322</ActiveRow>
+     <ActiveRow>319</ActiveRow>
      <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
