@@ -1396,7 +1396,7 @@
    <Row ss:AutoFitHeight="0" ss:StyleID="Default">
     <Cell ss:StyleID="s65"><Data ss:Type="String">ui_Seconds</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Seconds</Data></Cell>
-    <Cell><Data ss:Type="String">Vteřiny</Data></Cell>
+    <Cell><Data ss:Type="String">Sekund</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_elapsedTime</Data></Cell>
