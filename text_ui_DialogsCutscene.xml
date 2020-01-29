@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>10065</WindowHeight>
-  <WindowWidth>17145</WindowWidth>
+  <WindowHeight>12435</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -115,7 +115,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m115025640" ss:Parent="s62">
+  <Style ss:ID="m368957800" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -126,7 +126,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115025660" ss:Parent="s62">
+  <Style ss:ID="m368957820" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -137,7 +137,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115025680" ss:Parent="s62">
+  <Style ss:ID="m368957840" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -148,7 +148,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115025700" ss:Parent="s62">
+  <Style ss:ID="m368957860" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -159,7 +159,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115025720" ss:Parent="s62">
+  <Style ss:ID="m368957880" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -170,7 +170,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115025740" ss:Parent="s62">
+  <Style ss:ID="m368957900" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -181,7 +181,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115031880" ss:Parent="s62">
+  <Style ss:ID="m368955304" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -192,7 +192,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115031900" ss:Parent="s62">
+  <Style ss:ID="m368955324" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -203,7 +203,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115031920" ss:Parent="s62">
+  <Style ss:ID="m368955344" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -214,7 +214,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115031940" ss:Parent="s62">
+  <Style ss:ID="m368955364" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -225,7 +225,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115031960" ss:Parent="s62">
+  <Style ss:ID="m368955384" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -236,7 +236,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115031980" ss:Parent="s62">
+  <Style ss:ID="m368955404" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -247,7 +247,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115029176" ss:Parent="s62">
+  <Style ss:ID="m368955720" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -258,7 +258,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115029196" ss:Parent="s62">
+  <Style ss:ID="m368955740" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -269,7 +269,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115029216" ss:Parent="s62">
+  <Style ss:ID="m368955760" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -280,7 +280,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115029236" ss:Parent="s62">
+  <Style ss:ID="m368955780" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -291,7 +291,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115029256" ss:Parent="s62">
+  <Style ss:ID="m368955800" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -302,7 +302,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115029276" ss:Parent="s62">
+  <Style ss:ID="m368955820" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -313,7 +313,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115031672" ss:Parent="s62">
+  <Style ss:ID="m368958840" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -324,7 +324,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115031692" ss:Parent="s62">
+  <Style ss:ID="m368958860" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -335,7 +335,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115031712" ss:Parent="s62">
+  <Style ss:ID="m368958880" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -346,7 +346,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115031732" ss:Parent="s62">
+  <Style ss:ID="m368958900" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -357,7 +357,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115031752" ss:Parent="s62">
+  <Style ss:ID="m368958920" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -368,7 +368,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m115031772" ss:Parent="s62">
+  <Style ss:ID="m368958940" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -461,10 +461,10 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115031672"><Data ss:Type="String">INTRO Cutscene Dialogs</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368958840"><Data ss:Type="String">INTRO Cutscene Dialogs</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115031692"><Data ss:Type="String">Intertitles of intro</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368958860"><Data ss:Type="String">Intertitles of intro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_intertitle_intro1</Data></Cell>
@@ -492,7 +492,7 @@
     <Cell ss:StyleID="s93"><Data ss:Type="String">Po těchto událostech republikánský &lt;b&gt;Senát&lt;b&gt; hlasoval o zahájení odvetné kampaně proti Bratrstvu…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115031712"><Data ss:Type="String">Operation Dawnbane</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368958880"><Data ss:Type="String">Operation Dawnbane</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_presents</Data></Cell>
@@ -517,22 +517,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_3</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">Purifier: Ambush!</Data></Cell>
-    <Cell ss:StyleID="s93"/>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Čistič: Útok!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_4</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">Purifier: Shields up!</Data></Cell>
-    <Cell ss:StyleID="s93"/>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Čistič:Štíty!&#10;Čistič:Štíty!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_5</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">Purifier: Shields up!</Data></Cell>
-    <Cell ss:StyleID="s93"/>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Čistič:Štíty!&#10;Čistič:Štíty!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_6</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">Maëlys: Permission to deal with the Flayers?</Data></Cell>
-    <Cell ss:StyleID="s93"/>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Maëlys: Povoleno vypořádat se s  Flayers?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_7</Data></Cell>
@@ -560,7 +560,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115031732"><Data ss:Type="String">Souls Tremors</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368958900"><Data ss:Type="String">Souls Tremors</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SoulsTremors_1</Data></Cell>
@@ -578,7 +578,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115031752"><Data ss:Type="String">Val In Danger</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368958920"><Data ss:Type="String">Val In Danger</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ValInDanger_1</Data></Cell>
@@ -611,7 +611,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115031772"><Data ss:Type="String">Temp Intro End</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368958940"><Data ss:Type="String">Temp Intro End</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_1</Data></Cell>
@@ -669,10 +669,10 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115029176"><Data ss:Type="String">ACT1 Dialog</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368955720"><Data ss:Type="String">ACT1 Dialog</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115029196"><Data ss:Type="String">Free From Svriirs</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368955740"><Data ss:Type="String">Free From Svriirs</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_Start02_1</Data></Cell>
@@ -680,7 +680,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115029216"><Data ss:Type="String">Meet Valeria</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368955760"><Data ss:Type="String">Meet Valeria</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_1</Data></Cell>
@@ -778,7 +778,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115029236"><Data ss:Type="String">Stormfall Bridge</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368955780"><Data ss:Type="String">Stormfall Bridge</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_StormfallBridge_1</Data></Cell>
@@ -806,14 +806,14 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115029256"><Data ss:Type="String">Intro Stormfall</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368955800"><Data ss:Type="String">Intro Stormfall</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s98"><Data ss:Type="String">ui_DialogCutscene_IntroStormfall_1</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">Player: Stormfall, Jewel of the sea, let's see what you've got for me.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115029276"><Data ss:Type="String">Svriir Raid</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368955820"><Data ss:Type="String">Svriir Raid</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_1</Data></Cell>
@@ -901,7 +901,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115031880"><Data ss:Type="String">Sirkis Spawn</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368955304"><Data ss:Type="String">Sirkis Spawn</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SirkisSpawn_1</Data></Cell>
@@ -914,7 +914,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115031900"><Data ss:Type="String">Meet Edric</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368955324"><Data ss:Type="String">Meet Edric</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_1</Data></Cell>
@@ -1022,7 +1022,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115031920"><Data ss:Type="String">Meet Heimlock</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368955344"><Data ss:Type="String">Meet Heimlock</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetHeimlock_1</Data></Cell>
@@ -1140,7 +1140,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115031940"><Data ss:Type="String">Yudai's Crystal</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368955364"><Data ss:Type="String">Yudai's Crystal</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_YudaisCrystal_1</Data></Cell>
@@ -1183,7 +1183,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115031960"><Data ss:Type="String">Primo Gate</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368955384"><Data ss:Type="String">Primo Gate</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_PrimoGate_1</Data></Cell>
@@ -1211,7 +1211,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115031980"><Data ss:Type="String">Yudai Transformation</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368955404"><Data ss:Type="String">Yudai Transformation</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s98"><Data ss:Type="String">ui_DialogCutscene_YudaiTransformation_1</Data></Cell>
@@ -1224,7 +1224,7 @@
     <Cell ss:StyleID="s64"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115025640"><Data ss:Type="String">Core Gaining Power 1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368957800"><Data ss:Type="String">Core Gaining Power 1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">ui_DialogCutscene_CoreGainingPower1_1</Data></Cell>
@@ -1287,7 +1287,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115025660"><Data ss:Type="String">Edric Ambush</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368957820"><Data ss:Type="String">Edric Ambush</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_EdricAmbush_1</Data></Cell>
@@ -1385,7 +1385,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115025680"><Data ss:Type="String">Edric Fight 1</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368957840"><Data ss:Type="String">Edric Fight 1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_EdricFight1_1</Data></Cell>
@@ -1413,7 +1413,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115025700"><Data ss:Type="String">Edric Fight 2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368957860"><Data ss:Type="String">Edric Fight 2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_EdricFight2_1</Data></Cell>
@@ -1436,7 +1436,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115025720"><Data ss:Type="String">Core Gaining Power 2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368957880"><Data ss:Type="String">Core Gaining Power 2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_CoreGainingPower2_1</Data></Cell>
@@ -2695,7 +2695,7 @@
     <Cell ss:StyleID="s93"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m115025740"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="m368957900"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:Index="2" ss:StyleID="s101"/>
@@ -2883,7 +2883,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>13</ActiveRow>
+     <ActiveRow>14</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
