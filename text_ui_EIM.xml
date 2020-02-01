@@ -119,7 +119,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m361959056" ss:Parent="s62">
+  <Style ss:ID="m193005136" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -130,7 +130,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m361959076" ss:Parent="s62">
+  <Style ss:ID="m193005156" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -272,7 +272,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s66">
-    <Cell ss:MergeAcross="2" ss:StyleID="m361959056"><Data ss:Type="String">Units EIM</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m193005136"><Data ss:Type="String">Units EIM</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_UnitSymbols_Seconds</Data></Cell>
@@ -285,7 +285,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">m</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s66">
-    <Cell ss:MergeAcross="2" ss:StyleID="m361959076"><Data ss:Type="String">AST INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m193005156"><Data ss:Type="String">AST INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_eim_additional_ailment_stacks</Data></Cell>
@@ -1071,6 +1071,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_damage_percent_per_enemy_in_range_damage</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">%1 Damage for each nearby enemy</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození pro nejbližší nepřátele</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_damage_percent_per_enemy_in_range_range</Data></Cell>
@@ -1231,14 +1232,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_fire_damage_percent</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Fire Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození ohněm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_fire_damage_percent_spell</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Fire Damage added to Spells</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození ohněm z kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_fire_damage_percent_weapon</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Fire Damage added to Attacks</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození ohněm z útoku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_fire_damage_spell</Data></Cell>
@@ -2375,11 +2379,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>183</TopRowVisible>
+   <TopRowVisible>204</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>200</ActiveRow>
+     <ActiveRow>238</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

@@ -123,7 +123,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m116141112" ss:Parent="s62">
+  <Style ss:ID="m192110280" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -134,7 +134,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m116140696" ss:Parent="s62">
+  <Style ss:ID="m192112152" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -145,7 +145,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m116140716" ss:Parent="s62">
+  <Style ss:ID="m192112172" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -156,7 +156,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m116140736" ss:Parent="s62">
+  <Style ss:ID="m192112192" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -167,7 +167,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m116140756" ss:Parent="s62">
+  <Style ss:ID="m192112212" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -178,7 +178,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m116140776" ss:Parent="s62">
+  <Style ss:ID="m192112232" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -189,7 +189,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m116140796" ss:Parent="s62">
+  <Style ss:ID="m192112252" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -298,7 +298,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s67">
-    <Cell ss:MergeAcross="2" ss:StyleID="m116140696"><Data ss:Type="String">AST INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m192112152"><Data ss:Type="String">AST INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_title</Data></Cell>
@@ -366,7 +366,7 @@
     <Cell><Data ss:Type="String">Vypnout %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m116140716"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m192112172"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_enneract_of</Data></Cell>
@@ -397,6 +397,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboUnarmed</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Unarmed Strikes</Data></Cell>
+    <Cell><Data ss:Type="String">Neozbrojený útok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboUnarmed_desc</Data></Cell>
@@ -851,7 +852,7 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron, the Maestre of Industry, forged Voknafein, the First Greatsword, to push himself and humanity to the limits of their strength and creativity.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m116140736"><Data ss:Type="String">SKILLS VARIANTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m192112192"><Data ss:Type="String">SKILLS VARIANTS</Data></Cell>
     <Cell><Data ss:Type="String">&lt;font color=&quot;#cb5316&quot;&gt; Rage</Data></Cell>
     <Cell><Data ss:Type="String">&lt;font color=&quot;#948ec6&quot;&gt; Willpower</Data></Cell>
    </Row>
@@ -3186,7 +3187,7 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron was frustrated; he could barely carry the weapon, let alone use it. Despite his best efforts, the sword refused to stay upright. He asked Baäpheth, the First Warrior to test the weapon. Baäpheth held the sword high, feeling its crushing weight, then switched stance so that the weapon fell behind him. He launched into a sequence of spinning strikes, sending shockwaves of air bursting in all directions. Baäpheth’s only comment: the sword needed a heavier pommel, to balance out the dense blade.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m116140756"><Data ss:Type="String">AST BUFF VARIANTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m192112212"><Data ss:Type="String">AST BUFF VARIANTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FireballFireDamageBoost_Desc</Data></Cell>
@@ -3301,7 +3302,7 @@
     <Cell ss:StyleID="s65"><Data ss:Type="String">Stamina Regeneration buff</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m116140776"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m192112232"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s96"><Data ss:Type="String">ui_AST_Param_AverageDamage</Data></Cell>
@@ -3321,10 +3322,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s96"><Data ss:Type="String">ui_AST_Param_Projectiles_AutoPierce</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Pierce Range: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Rozsah průraznosti:</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s96"><Data ss:Type="String">ui_AST_Param_Projectiles_BonusPierce</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Pierce Strengh: %1 Targets</Data></Cell>
+    <Cell><Data ss:Type="String">Síla průraznosti: %1 Cílu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s96"><Data ss:Type="String">ui_AST_Param_BurnChance</Data></Cell>
@@ -3637,7 +3640,7 @@
     <Cell ss:StyleID="s99"><Data ss:Type="String">Použití získáno časem: %1 každých %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m116140796"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m192112252"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s100"><Data ss:Type="String">ui_AST_ParamBonus_Damage</Data></Cell>
@@ -3671,7 +3674,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="29"/>
    <Row ss:Index="856" ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m116141112"><Data ss:Type="String">UNIQUE ITEMS VARIANTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m192110280"><Data ss:Type="String">UNIQUE ITEMS VARIANTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="158"/>
    <Row ss:Index="1028" ss:AutoFitHeight="0" ss:Height="25.5"/>
@@ -3762,12 +3765,11 @@
    </Print>
    <Zoom>80</Zoom>
    <Selected/>
-   <TopRowVisible>780</TopRowVisible>
    <LeftColumnVisible>1</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>812</ActiveRow>
+     <ActiveRow>18</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
