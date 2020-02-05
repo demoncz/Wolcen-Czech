@@ -1634,6 +1634,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_material_damage_only</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Can only deal Material Damage</Data></Cell>
+    <Cell><Data ss:Type="String">Může způsobit pouze materiální škody</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_material_damage_percent</Data></Cell>
@@ -1784,6 +1785,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_pinflicted_freeze_duration_percent</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Enemies that you Freeze are Frozen for %1 longer</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé které zmrazíte jsou zmrazeni o %1 déle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s89"><Data ss:Type="String">ui_eim_poison_on_hit_percent</Data></Cell>
@@ -2183,6 +2185,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_toughness_pts</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Toughness</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Houževnatost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_toxic_damage_percent</Data></Cell>
@@ -2418,6 +2421,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s104"><Data ss:Type="String">ui_eim_local_damage_flat_sacred</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">+%1-%2 Sacred Damage on Attacks with this weapon</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">+%1-%2 Posvátné poškození při útocích touto zbraní</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s104"><Data ss:Type="String">ui_eim_local_damage_flat_shadow</Data></Cell>
@@ -2573,12 +2577,12 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>165</TopRowVisible>
+   <TopRowVisible>177</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>180</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>202</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
