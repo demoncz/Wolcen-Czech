@@ -247,10 +247,6 @@
    <Borders/>
    <Interior/>
   </Style>
-  <Style ss:ID="s109">
-   <Alignment ss:Vertical="Bottom"/>
-   <Font ss:FontName="Segoe UI" x:CharSet="238" x:Family="Swiss"/>
-  </Style>
  </Styles>
  <Names>
   <NamedRange ss:Name="characters"
@@ -337,7 +333,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_all_attribute_pts</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 to All Attributes</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">%1 Do všech atributů</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Do všech atributů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_all_resistance</Data></Cell>
@@ -592,7 +588,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_fire_to_umbra</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Fire Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození ohněm převedeno na poškození Aetherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození ohněm převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_frost_to_fire</Data></Cell>
@@ -630,7 +626,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_frost_to_umbra</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Frost Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození mrazem převedeno na poškození Artherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození mrazem převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_lightning_to_fire</Data></Cell>
@@ -668,7 +664,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_lightning_to_umbra</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Lightning Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození bleskem převedeno na poškození Atherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození bleskem převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_physcial_to_frost</Data></Cell>
@@ -706,7 +702,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_physical_to_umbra</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Physical Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Fyzické poškození převedeno na poškození Atherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Fyzické poškození převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_rend_to_fire</Data></Cell>
@@ -808,7 +804,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_shadow_to_umbra</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Shadow Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození stínem převedeno na poškození Atherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození stínem převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_toxic_to_fire</Data></Cell>
@@ -846,31 +842,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_toxic_to_umbra</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Toxic Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození jedem převedeno na poškození Atherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození jedem převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_umbra_to_fire</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Aether Damage converted into Fire Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození Atherem převedeno na poškození ohněm</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na poškození ohněm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_umbra_to_frost</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Aether Damage converted into Frost Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození Atherem převedeno na poškození mrazem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na poškození mrazem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_umbra_to_lightning</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Aether Damage converted into Lightning Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození Atherem převedeno na poškození bleskem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_umbra_to_physical</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Aether Damage converted into Physical Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození Atherem převedeno na fyzické poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na fyzické poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_umbra_to_poison</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Aether Damage converted into Poison Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na poškození jedem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_umbra_to_rend</Data></Cell>
@@ -883,7 +880,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_convert_umbra_to_shadow</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Aether Damage converted into Shadow Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození Atherem převedeno na poškození stínem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na poškození stínem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_critchance_doubled_on_dash</Data></Cell>
@@ -968,37 +965,37 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_criticaldamage_on_dots</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Damage over time generated with a Critical Hit deals Critical Damage</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_criticaldamage_projectiles_pts</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">%1 All Projectiles Critical Damage</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_criticaldamage_pts</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Critical Hit Damage</Data></Cell>
     <Cell><Data ss:Type="String">%1 Kritické poškození zásahem</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_criticaldamage_received_percent_increase</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Critical Damage Received</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_criticalscore_percent_lightning_damage</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Critical Hit Chance on Lightning Damage</Data></Cell>
     <Cell><Data ss:Type="String">%1 Kritická šance na poškození bleskem</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_criticalscore_percent_spell_when_above_ceil</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Spells Critical Hit Chance Score while willpower is above %2</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_crowd_control_duration_percent</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Duration of Crowd Control effects received</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_curse_on_hit_percent</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Cursed Chance on Hit</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_curesechance_on_shadow_damage_score_percent</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Cursed Chance Score on Shadow Damage</Data></Cell>
    </Row>
@@ -1010,15 +1007,15 @@
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_damage_any_weapon</Data></Cell>
     <Cell ss:StyleID="s91"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_damage_from_physical_resistance</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Damage per percent of Physical Resistance</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_damage_magic_weapon</Data></Cell>
     <Cell ss:StyleID="s91"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_damage_melee_weapon</Data></Cell>
     <Cell ss:StyleID="s91"/>
    </Row>
@@ -1083,7 +1080,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_damage_percent_as_umbra</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Damage as Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození Aetherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_damage_percent_attack</Data></Cell>
@@ -1478,6 +1475,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_health_regen_true_percent</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Health Regeneration</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Regenerace zdraví</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_healthglobe_drop_chance_on_hit</Data></Cell>
@@ -1551,14 +1549,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_lightning_damage_percent</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Lightning Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_lightning_damage_percent_spell</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Lightning Damage added to Spells</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Přidá do kouzel poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_lightning_damage_percent_weapon</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Lightning Damage added to Attacks</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Přidá do útoku poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_lightning_damage_spell</Data></Cell>
@@ -2459,11 +2460,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>243</TopRowVisible>
+   <TopRowVisible>267</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>262</ActiveRow>
+     <ActiveRow>295</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
