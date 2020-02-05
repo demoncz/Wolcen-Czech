@@ -8,16 +8,16 @@
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <LastAuthor>Sully</LastAuthor>
   <LastSaved>2020-01-25T06:09:56Z</LastSaved>
-  <Version>15.00</Version>
+  <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12435</WindowHeight>
+  <WindowHeight>12015</WindowHeight>
   <WindowWidth>28800</WindowWidth>
-  <WindowTopX>0</WindowTopX>
-  <WindowTopY>0</WindowTopY>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
   <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
   <ProtectWindows>False</ProtectWindows>
@@ -47,7 +47,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m120160160">
+  <Style ss:ID="m2204308671200">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -58,7 +58,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m120160180">
+  <Style ss:ID="m2204308671220">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -202,7 +202,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
-    <Cell ss:MergeAcross="2" ss:StyleID="m120160160"><Data ss:Type="String">CHARACTER CREATION</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2204308671200"><Data ss:Type="String">CHARACTER CREATION</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s69">
     <Cell ss:StyleID="s81"><Data ss:Type="String">Character Creation Interface</Data></Cell>
@@ -520,7 +520,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Vousy 10</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m120160180"><Data ss:Type="String">CHARACTER SHEET</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2204308671220"><Data ss:Type="String">CHARACTER SHEET</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">Info Fields</Data></Cell>
@@ -1215,17 +1215,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbra</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Aether</Data></Cell>
-    <Cell ss:StyleID="s93"><Data ss:Type="String">Aether</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Éter</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbrageneration</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Willpower Regeneration</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Regenerace vůle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbraregeneration</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Willpower on Hit</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="s93"><Data ss:Type="String">Vůle za zásah</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_weaknessscore</Data></Cell>
@@ -1290,7 +1290,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_reset_Csheet_title_popup</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Reset Attributes</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Obnovit atributy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">not_enough_primordial_affinity</Data></Cell>
@@ -1787,6 +1787,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_movespeed_tooltip</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">Your total Movement Speed.</Data></Cell>
+    <Cell><Data ss:Type="String">Vaše celková rychlost pohybu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_offensivestats_tooltip</Data></Cell>
@@ -2039,22 +2040,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_bleed_statusailmentbasechance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Bleed Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na krvácení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_fire_statusailmentbasechance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Burn Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na zapálení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_frost_statusailmentbasechance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Freeze Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na zmrazení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_lightning_statusailmentbasechance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Shock Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na šok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_physical_statusailmentbasechance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Stun Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na omráčení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_poison_statusailmentbasechance</Data></Cell>
@@ -2063,6 +2069,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_sacred_statusailmentbasechance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Weakness Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na slabost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_Shadow_statusailmentbasechance</Data></Cell>
@@ -2071,10 +2078,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_umbra_statusailmentbasechance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Stasis Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na stázi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_ferocity_attackcriticalchance_score</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Attack Critical Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na kritický útok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_ferocity_spellcriticalchance_score</Data></Cell>
@@ -2083,6 +2092,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_toughness_allresistance_score</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">All Resistances</Data></Cell>
+    <Cell><Data ss:Type="String">Všechny odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_agility_dodgechance_score</Data></Cell>
@@ -2091,10 +2101,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_agility_attackspeed_score</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Attack Speed</Data></Cell>
+    <Cell><Data ss:Type="String">Rychlost útoku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_agility_spellcastingspeed_score</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Spell Casting Speed</Data></Cell>
+    <Cell><Data ss:Type="String">Rychlost seslání kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_willpower_dotresistchance_score</Data></Cell>
@@ -2111,10 +2123,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_physical_resistance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Physical Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Fyzická odolnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_poison_resistance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Toxic Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Odolnost proti jedu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_bleed_resistance</Data></Cell>
@@ -2123,26 +2137,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_fire_resistance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Fire Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Odolnost proti ohni</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_frost_resistance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Frost Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Odolnost proti mrazu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_lightning_resistance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Lightning Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Odolnost proti bleskům</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_umbra_resistance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Aether Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Odolnost proti étheru</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_sacred_resistance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Sacred Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Posvátná odolnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_tooltiponhover_shadow_resistance</Data></Cell>
     <Cell ss:StyleID="s96"><Data ss:Type="String">Shadow Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Odolnosti pro stínum</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_cs_toughness_bar_tooltip</Data></Cell>
@@ -2234,12 +2254,13 @@
    </Print>
    <Zoom>90</Zoom>
    <Selected/>
-   <TopRowVisible>174</TopRowVisible>
+   <TopRowVisible>273</TopRowVisible>
+   <LeftColumnVisible>1</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>204</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>321</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
