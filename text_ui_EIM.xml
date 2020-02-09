@@ -119,7 +119,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2204134955696" ss:Parent="s62">
+  <Style ss:ID="m2456970125024" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -130,7 +130,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2204134955716" ss:Parent="s62">
+  <Style ss:ID="m2456970125044" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -272,7 +272,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s66">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2204134955696"><Data ss:Type="String">Units EIM</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2456970125024"><Data ss:Type="String">Units EIM</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_UnitSymbols_Seconds</Data></Cell>
@@ -285,7 +285,7 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">m</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s66">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2204134955716"><Data ss:Type="String">AST INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2456970125044"><Data ss:Type="String">AST INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s66">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_eim_additional_ailment_stacks</Data></Cell>
@@ -909,6 +909,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_criticalchance_attackskill_final_percent</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Attacks Critical Hit Chance</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Útočná šance na kritický zásah</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_criticalchance_attackskill_score_percent</Data></Cell>
@@ -1509,6 +1510,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_healthglobe_drop_chance_on_hit</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 Health Globe Generation</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Globální generování zdraví</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_item_quantity_find</Data></Cell>
@@ -1856,7 +1858,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_rageandumbra_cost_percent</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Rage and Willpower Cost Reduction</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Snížení nákladů vzteku a vůle</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Snížení nákladů vzteku a síly vůle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_ragecosts_percent</Data></Cell>
@@ -1910,7 +1912,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_eim_resource_points</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">%1 Max Willpower and Rage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Maximum vůle a zuřivosti</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Maximum síly vůle a zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_eim_sacred_damage_percent</Data></Cell>
@@ -2586,11 +2588,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>21</TopRowVisible>
+   <TopRowVisible>318</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>26</ActiveRow>
+     <ActiveRow>322</ActiveRow>
      <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
