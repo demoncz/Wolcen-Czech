@@ -449,7 +449,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_korean</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Korean</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Korejština</Data></Cell>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
@@ -562,6 +562,7 @@
    <Row ss:AutoFitHeight="0" ss:StyleID="Default">
     <Cell ss:StyleID="s64"><Data ss:Type="String">ui_welcomebeta1</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Welcome on Wolcen: Lords of Mayhem!\nHere are some useful links:\n\nOfficial Forums: www.wolcengame.com\nOfficial Discord server: discord.gg/wolcenstudio\nOfficial Facebook page: https://www.facebook.com/WolcenGame\nOfficial Twitter account: https://twitter.com/WolcenGame\nFollow us on Reddit: https://www.reddit.com/r/Wolcen/</Data></Cell>
+    <Cell><Data ss:Type="String">Vitejte ve Wolcen: Lords of Mayhem!\nTady jsou některé užitečné odkazy:\n\nOficiální Fórum: www.wolcengame.com\nOficiální Discord server: discord.gg/wolcenstudio\nOfficial Facebooková stránka: https://www.facebook.com/WolcenGame\nOficiální Twitteroví účet: </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Apply</Data></Cell>
@@ -691,6 +692,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_SocialSettings</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Social Settings</Data></Cell>
+    <Cell><Data ss:Type="String">Sociální nastavení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_settings_social_streamermode</Data></Cell>
@@ -700,6 +702,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_settings_social_streamermode_desc</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Streamer Mode hides the numbers in your Wolcen tag.</Data></Cell>
+    <Cell><Data ss:Type="String">Režim streamera skryje čísla ve Wolcen tágu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_settings_social_refusefriendinvitations</Data></Cell>
@@ -744,6 +747,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Settings_DifficultyChange_Confirmation</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Are you sure you want to change your Difficulty settings? You will return to the Main Menu.</Data></Cell>
+    <Cell><Data ss:Type="String">Opravdu chcete změnit nastavení obtížnosti? Vrátíte se do hlavního menu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Settings_DifficultyChange</Data></Cell>
@@ -1080,10 +1084,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_settings_gameplay_allyhealthbar</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Allies' Health Bars</Data></Cell>
+    <Cell><Data ss:Type="String">Ukazatel zdraví spojenců</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_settings_gameplay_allyindicator</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Allies' Indicators</Data></Cell>
+    <Cell><Data ss:Type="String">Ukazatel spojenců</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Game Mode</Data></Cell>
@@ -1157,7 +1163,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_Difficulty</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Difficulty</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Obtížnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_QuestSelection</Data></Cell>
@@ -1318,6 +1324,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_archetype</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Choose your starting gear</Data></Cell>
+    <Cell><Data ss:Type="String">Vyberte si startovní výbavu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_archetype_header</Data></Cell>
@@ -1326,10 +1333,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_archetype_weapon</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Choose Starting Weapon</Data></Cell>
+    <Cell><Data ss:Type="String">Vyberte si startovní zbraň</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_no_archetype_selected</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">You must choose a starting weapon before continuing</Data></Cell>
+    <Cell><Data ss:Type="String">Než budete pokračovat musíte si vybrat startovní zbraň.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_archetype_weapon_notice</Data></Cell>
@@ -1370,58 +1379,72 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_back</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Back</Data></Cell>
+    <Cell><Data ss:Type="String">Zpět</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_next</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Next</Data></Cell>
+    <Cell><Data ss:Type="String">Další</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_create</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Create</Data></Cell>
+    <Cell><Data ss:Type="String">Vytvořit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_step1</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Gender</Data></Cell>
+    <Cell><Data ss:Type="String">Pohlaví</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_step2</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Appearance</Data></Cell>
+    <Cell><Data ss:Type="String">Vzhled</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_step3</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Weapon Selection</Data></Cell>
+    <Cell><Data ss:Type="String">Výběr zbraně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_step4</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Name</Data></Cell>
+    <Cell><Data ss:Type="String">Jméno</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_face</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Face</Data></Cell>
+    <Cell><Data ss:Type="String">Tvář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_face_skincolor</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Skin Colour</Data></Cell>
+    <Cell><Data ss:Type="String">Barva pleti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_eyes</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Eyes</Data></Cell>
+    <Cell><Data ss:Type="String">Oči</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_eyes_lefteye</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Left Eye</Data></Cell>
+    <Cell><Data ss:Type="String">Levé oko</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_eyes_righteye</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Right Eye</Data></Cell>
+    <Cell><Data ss:Type="String">Pravé oko</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_custo_hairs</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Hair</Data></Cell>
+    <Cell><Data ss:Type="String">Vlasy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_beard</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Beard</Data></Cell>
+    <Cell><Data ss:Type="String">Vousy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_matchcolors</Data></Cell>
@@ -1430,6 +1453,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_name</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Name</Data></Cell>
+    <Cell><Data ss:Type="String">Jméno</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s86">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Connection Menu - Custom Settings</Data></Cell>
@@ -2371,6 +2395,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_mm_kb_cosmeticinventory</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Cosmetic Inventory</Data></Cell>
+    <Cell><Data ss:Type="String">Kosmetický inventář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_mm_kb_citybuilding</Data></Cell>
@@ -2438,10 +2463,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ci_title</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Cosmetic Inventory</Data></Cell>
+    <Cell><Data ss:Type="String">Kosmetický inventář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ci_skins</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Skins</Data></Cell>
+    <Cell><Data ss:Type="String">Vzhled</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ci_tints</Data></Cell>
@@ -2454,10 +2481,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_accept</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Accept</Data></Cell>
+    <Cell><Data ss:Type="String">Příjmout</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_reset</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Reset</Data></Cell>
+    <Cell><Data ss:Type="String">Resetovat</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_mouseclick</Data></Cell>
@@ -2470,10 +2499,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_showinterface</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Show Interface</Data></Cell>
+    <Cell><Data ss:Type="String">Zobrazit rozhraní</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_hideinterface</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Hide Interface</Data></Cell>
+    <Cell><Data ss:Type="String">Skrýt rozhraní</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_selectcolorslot</Data></Cell>
@@ -2486,14 +2517,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_selectcolor</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Select Color</Data></Cell>
+    <Cell><Data ss:Type="String">Vybrat barvu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_starter</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Starter Colors</Data></Cell>
+    <Cell><Data ss:Type="String">Startovací barva</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_common</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Common Colors</Data></Cell>
+    <Cell><Data ss:Type="String">Běžné barvy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_uncommon</Data></Cell>
@@ -2502,6 +2536,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_rare</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Rare Colors</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácné barvy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_skin_rogue</Data></Cell>
@@ -2533,6 +2568,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s92"><Data ss:Type="String">ui_Off</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Off</Data></Cell>
+    <Cell><Data ss:Type="String">Vypnuto</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Credits</Data></Cell>
@@ -2541,6 +2577,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_selected</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Selected</Data></Cell>
+    <Cell><Data ss:Type="String">Vybrané</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_one_handed</Data></Cell>
@@ -2553,6 +2590,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">skill_unlocked</Data></Cell>
     <Cell ss:StyleID="s93"><Data ss:Type="String">Skill Unlocked</Data></Cell>
+    <Cell><Data ss:Type="String">Dovednost odemčena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
    <Row ss:Index="510" ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
@@ -2578,9 +2616,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
+   <TopRowVisible>33</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>62</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
