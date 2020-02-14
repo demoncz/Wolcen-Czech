@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12300</WindowHeight>
-  <WindowWidth>25200</WindowWidth>
+  <WindowHeight>12315</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -239,7 +239,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_English</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">English</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Anglicky</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Angličtina</Data></Cell>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
@@ -260,7 +260,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_German</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">German</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Německy</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Němčina</Data></Cell>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
@@ -302,7 +302,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_hungarian</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Hungarian</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Maďarsky</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Maďarština</Data></Cell>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
@@ -323,7 +323,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_spanish</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Spanish</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Španělsky</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Španělština</Data></Cell>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
@@ -344,7 +344,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_French</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">French</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Francouzký</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Francouzština</Data></Cell>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
@@ -386,7 +386,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_russian</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Russian</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Rusky</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ruština</Data></Cell>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
@@ -407,7 +407,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_polish</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Polish</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Polsky</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Polština</Data></Cell>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
@@ -516,7 +516,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_eula_Agree</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Agree</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Souhlasit</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Přijmout</Data></Cell>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
@@ -562,7 +562,7 @@
    <Row ss:AutoFitHeight="0" ss:StyleID="Default">
     <Cell ss:StyleID="s64"><Data ss:Type="String">ui_welcomebeta1</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Welcome on Wolcen: Lords of Mayhem!\nHere are some useful links:\n\nOfficial Forums: www.wolcengame.com\nOfficial Discord server: discord.gg/wolcenstudio\nOfficial Facebook page: https://www.facebook.com/WolcenGame\nOfficial Twitter account: https://twitter.com/WolcenGame\nFollow us on Reddit: https://www.reddit.com/r/Wolcen/</Data></Cell>
-    <Cell><Data ss:Type="String">Vitejte ve Wolcen: Lords of Mayhem!\nTady jsou některé užitečné odkazy:\n\nOficiální Fórum: www.wolcengame.com\nOficiální Discord server: discord.gg/wolcenstudio\nOfficial Facebooková stránka: https://www.facebook.com/WolcenGame\nOficiální Twitteroví účet: </Data></Cell>
+    <Cell><Data ss:Type="String">Vitejte ve Wolcen: Lords of Mayhem!\nTady jsou některé užitečné odkazy:\n\nOficiální Fórum: www.wolcengame.com\nOficiální Discord server: discord.gg/wolcenstudio\nOfficial Facebooková stránka: https://www.facebook.com/WolcenGame\nOficiální Twitter účet: https://twitter.com/WolcenGame\nSleduj nás na Redditu: https://www.reddit.com/r/Wolcen/</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Apply</Data></Cell>
@@ -658,17 +658,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_Options</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">OPTIONS</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">NATAVENÍ</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">NASTAVENÍ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ResetToDefault</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Reset to default</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Obnovit do základu</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Defaultní nastavení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_pausemenu</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Pause Menu</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Pozastavit Menu</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Pauza</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_confirmReturnToMainMenu</Data></Cell>
@@ -702,7 +702,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_settings_social_streamermode_desc</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Streamer Mode hides the numbers in your Wolcen tag.</Data></Cell>
-    <Cell><Data ss:Type="String">Režim streamera skryje čísla ve Wolcen tágu.</Data></Cell>
+    <Cell><Data ss:Type="String">Režim streamera skryje čísla ve tvém Wolcen tagu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_settings_social_refusefriendinvitations</Data></Cell>
@@ -721,28 +721,32 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ui_mm_Difficulty_Easy</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Story Mode</Data></Cell>
-    <Cell><Data ss:Type="String">Režim příběhu</Data></Cell>
+    <Cell><Data ss:Type="String">Příběhový režim</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ui_mm_Difficulty_Normal</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Normal</Data></Cell>
-    <Cell><Data ss:Type="String">Nomální</Data></Cell>
+    <Cell><Data ss:Type="String">Nomální režim</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ui_mm_Difficulty_Easy_Help</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Playing in Story Mode will reduce the challenge of combat encounters, allowing you to focus on playing through the story.</Data></Cell>
+    <Cell><Data ss:Type="String">Hraní v příběhovém režimu sníží výzvu během potyček, můžete se tak více soustředit na příběh.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ui_mm_Difficulty_Normal_Help</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Playing in Normal will keep combat encounters challenging, providing you with the intended Wolcen experience. </Data></Cell>
+    <Cell><Data ss:Type="String">Hraní v normálním režimu učiní hru náročnější a poskytne Vám skutečný Wolcen zážitek.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ui_mm_GamePrivacy_Private_Help</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Play in Private to play through the game alone or with invited friends.</Data></Cell>
+    <Cell><Data ss:Type="String">Hrejte v soukromém režimu pro hraní hry samostatně nebo s pozvanými přáteli.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ui_mm_GamePrivacy_Public_Help</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Play in Public to allow any player matching your level to join your game.</Data></Cell>
+    <Cell><Data ss:Type="String">Hrejte ve veřejném režimu a umožněte každému hráči podobné úrovně, aby byl připojen k vaší hře.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Settings_DifficultyChange_Confirmation</Data></Cell>
@@ -762,7 +766,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_MainMenu_Difficulty</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Difficulty</Data></Cell>
-    <Cell><Data ss:Type="String">Obtížnosti</Data></Cell>
+    <Cell><Data ss:Type="String">Obtížnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Quick Access Menu + New UI</Data></Cell>
@@ -771,10 +775,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ApocalypticForms</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Aspects of Apocalypse</Data></Cell>
+    <Cell><Data ss:Type="String">Aspekty apokalypsy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_CityBuilding</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Stormfall Overview</Data></Cell>
+    <Cell><Data ss:Type="String">Přehled Stormfallu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_CosmeticInventory</Data></Cell>
@@ -784,6 +790,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_GateOfFates</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Gate of Fates</Data></Cell>
+    <Cell><Data ss:Type="String">Brána osudů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WorldMap</Data></Cell>
@@ -798,6 +805,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_CharacterSheet</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Character Sheet</Data></Cell>
+    <Cell><Data ss:Type="String">Panel postavy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_TownPortal</Data></Cell>
@@ -807,6 +815,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_autodash</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Autodash</Data></Cell>
+    <Cell><Data ss:Type="String">Automatický výpad</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Menu</Data></Cell>
@@ -940,6 +949,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_settings_gameplay_displaytypeonground</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Display item type of dropped items</Data></Cell>
+    <Cell><Data ss:Type="String">Zobrazit typ padlých předmětů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_gameplay_camerashake</Data></Cell>
@@ -999,6 +1009,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_gameplay_mapoverlayzoom</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Map Overlay Zoom</Data></Cell>
+    <Cell><Data ss:Type="String">Přibližení mapy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_smaa1x</Data></Cell>
@@ -1043,14 +1054,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_settings_gameplay_enemysilhouette</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Enemy Silhouette</Data></Cell>
+    <Cell><Data ss:Type="String">Ohraničení nepřátel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_settings_gameplay_usablesilhouette</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Usable silhouette</Data></Cell>
+    <Cell><Data ss:Type="String">Ohraničení použitelných předmětů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_settings_gameplay_friendlysilhouette</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Friendly Silhouette</Data></Cell>
+    <Cell><Data ss:Type="String">Ohraničení spojenců</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_settings_gameplay_showdamages</Data></Cell>
@@ -1075,6 +1089,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_settings_graphic_lensflares</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Lens flares</Data></Cell>
+    <Cell><Data ss:Type="String">Sluneční paprsky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_settings_gameplay_displayrosvalues</Data></Cell>
@@ -1113,7 +1128,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GamePrivacy_Private</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Private game</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Privátní hra</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Soukromá hra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GamePrivacy_Public</Data></Cell>
@@ -1128,12 +1143,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GameMode_Adventure</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Champion of Stormfall</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Šampión Stormfallu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GameMode_Adventure_Help</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Rebuild Stormfall as its new Regent. Explore randomized dungeons and defeat challenging enemies.\n\nUnlocked after Act 3 has been completed.</Data></Cell>
-    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Přestavte Stormfall jako jeho nový Regent. Prozkoumejte náhodné dungeony a poražte náročné nepřátele.\n\nOdemkne se po dokončení třetího aktu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GameMode_Campaign</Data></Cell>
@@ -1143,17 +1158,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GameMode_Campaign_Help</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Begin your journey through the World of Wolcen in Act 1 of the Story Campaign!</Data></Cell>
-    <Cell><Data ss:Type="String">Začněte svou cestu světem Wolcen prostřednictvím Aktu 1 příběhové kampaně!</Data></Cell>
+    <Cell><Data ss:Type="String">Začněte svou cestu světem Wolcen prostřednictvím prvního aktu příběhové kampaně!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GameMode_Adventure_Summary</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Rule Stormfall and adventure through replayable random content for awesome rewards!</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Staňte se vládcem Stormfallu, zažijte dobrodružtsví v náhodně generovaném obsahu a získejte úžasné odměny.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_GameMode_Adventure_Lore</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">The noble houses of Stormfall have made you regent in the hope that your leadership will usher in a new age of prosperity for the city. What is more, the mercenary group known as the Purple Phoenix are offering rewards to those daring enough to accept their assignments...</Data></Cell>
-    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Vznešené rody ve Stormfallu Vás ustanovily jako regenta v naději, že Vaše vedení povede do nové éry prosperity města. Navíc skupina žoldáků známá jako Fialový Fénix nabízí odměnu těm, kteří se odváží příjmout jejich rozkazy...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_SaveAndClose</Data></Cell>
@@ -1163,7 +1178,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_Difficulty</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Difficulty</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Obtížnosti</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Obtížnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_mm_QuestSelection</Data></Cell>
@@ -1178,7 +1193,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375">
     <Cell><Data ss:Type="String">ui_popup_content_confirmQuestChange</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Are you sure you want to change quests? Progress on your current quest may be lost. </Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Opravdu chcete změnit svůj aktuální úkol?</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Opravdu chcete změnit svůj úkol? Postup v aktuálním úkolu bude ztracen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Login</Data></Cell>
@@ -1187,12 +1202,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_login_connecting</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Connecting</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Připojení</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Připojování</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_login_steamAuthentication</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Steam authentication</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Steam autentizace</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Steam ověřování</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_login_checkGameVersion</Data></Cell>
@@ -1231,7 +1246,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_startingMatchmaking</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Starting matchmaking</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Spustit matchmaking</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Spouštění matchmakingu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_searchingForGames</Data></Cell>
@@ -1241,7 +1256,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_matchFound</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Match found</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Zápas nalezen</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Hra nalezena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_creatingGame</Data></Cell>
@@ -1255,7 +1270,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_chat_All</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">All</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Vše</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Všichni</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_chat_CannotChatInOfflineMode</Data></Cell>
@@ -1270,7 +1285,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_chat_help_help</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Displays this help message about the chat commands</Data></Cell>
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zobrazí nápovědu chatu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_chat_Private</Data></Cell>
@@ -1280,7 +1295,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_chat_p_help</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">&lt;Message&gt; - Sends a message to your party</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">&lt;Message&gt; - Odešle zprávu do vaší party</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">&lt;Zpráva&gt; - Odešle zprávu do vaší party</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_chat_to</Data></Cell>
@@ -1295,7 +1310,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_chat_w_help</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">&lt;WolcenTag&gt; &lt;Message&gt; - Sends a private message to a player</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">&lt;WolcenTag&gt; &lt;Message&gt; - Odešle hráči soukromou zprávu</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">&lt;WolcenTag&gt; &lt;Zpráva&gt; - Odešle hráči soukromou zprávu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_chat_InvalidCommand</Data></Cell>
@@ -1329,44 +1344,52 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_archetype_header</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">\n&lt;Font color=&quot;#FFFFFF&quot;&gt;This choice only impacts your starting weapon and skill. Every playstyle will be available for all characters no matter how they started.&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">\n&lt;Font color=&quot;#FFFFFF&quot;&gt;Výběr ovlivňuje pouze vaši počáteční zbraň a dovednost. Všechny herní styly budou dostupné pro všechny postavy bez ohledu na počáteční výběr.&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_archetype_weapon</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Choose Starting Weapon</Data></Cell>
-    <Cell><Data ss:Type="String">Vyberte si startovní zbraň</Data></Cell>
+    <Cell><Data ss:Type="String">Vyberte si počáteční zbraň</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_no_archetype_selected</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">You must choose a starting weapon before continuing</Data></Cell>
-    <Cell><Data ss:Type="String">Než budete pokračovat musíte si vybrat startovní zbraň.</Data></Cell>
+    <Cell><Data ss:Type="String">Než budete pokračovat musíte si vybrat počáteční zbraň.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_archetype_weapon_notice</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">You will be able to change your playstyle at any time by learning new skills and equipping other weapon types.</Data></Cell>
+    <Cell><Data ss:Type="String">Svůj herní styl si budete moci kdykoliv změnit učením se nových dovedností a vybavováním jinými typy zbraní.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_archetype_warrior</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Melee</Data></Cell>
+    <Cell><Data ss:Type="String">Na blízko</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_archetype_warrior_desc</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">“Dash into the fray and take down foes from the heart of the battle! Generate rage by hitting enemies and bring down a powerful hammer to crush all that stand in your way.”</Data></Cell>
+    <Cell><Data ss:Type="String">“Vrhněte se do bitvy a pobijte všechny kolem vás! Zvyšte svůj vztek útočením na nepřátele a přivolejte drtící kladivo na každého, kdo se vám dostane do cesty.“</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_archetype_mage</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Magic</Data></Cell>
+    <Cell><Data ss:Type="String">Magie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_archetype_mage_desc</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">&quot;Bring sheer destruction through your mastery of magic. Rain fireballs on your foes and replenish your willpower by finishing the survivors with your staff.&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Vyvolejte naprostou zkázu, díky vaší magické moci. Sešlete ohnivé koule na své nepřátele a doplňte svou vůli doražením přeživších svou holí.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_archetype_rogue</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Ranged</Data></Cell>
+    <Cell><Data ss:Type="String">Na dálku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_archetype_rogue_desc</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">&quot;Riddle your foes with arrows as they desperately try to hit you. Build-up rage by hitting enemies and unleash a deadly volley of arrows to pack even more firepower!&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zbavte se svých nepřátel pomocí šípů, když se vás zoufale snaží zasáhnout. Využijte nahromaděný vztek a uvolněte smrtící salvu šípů!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s86">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Customization Menu</Data></Cell>
@@ -1375,6 +1398,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Customization</Data></Cell>
+    <Cell><Data ss:Type="String">Přizpůsobení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_back</Data></Cell>
@@ -1449,6 +1473,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_custo_matchcolors</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Match Colours</Data></Cell>
+    <Cell><Data ss:Type="String">Upravit barvy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_custo_name</Data></Cell>
@@ -1517,17 +1542,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_reconnect</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Reconnect</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Znovu se připojte</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Znovu připojit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_GetPlayerDataFailed</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Player data</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Data hráče</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Údaje hráče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_GetPlayerDataFailed</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Failed to retreive player data</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Nepodařilo se načíst data hráče</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nepodařilo se načíst údaje hráče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_steamRequestAuthSessionTicketFailed</Data></Cell>
@@ -1537,7 +1562,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_steamRequestAuthSessionTicketFailed</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Failed to retreive your authentication information from steam</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Nepodařilo se načíst vaše ověřovací informace ze steamu</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Nepodařilo se ověřit vaše informace ze steamu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_gamesparksConnectFailed</Data></Cell>
@@ -1670,7 +1695,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_popup_content_cannotStartWhileInvitationsPending</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">The game can't be launched while there are still invitations currently pending for this session.</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Tuto hru nelze spustit, zatímco na tuto relaci stále čekají pozvánky.</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Tuto hru nelze spustit, dokud na tuto relaci stále čekají pozvánky.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_popup_title_matchmakingTimeout</Data></Cell>
@@ -1710,7 +1735,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_popup_content_gameSessionCreationTimeout</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Your game could not be created, please try again later. </Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Vaší hru nelze vytvořit, zkuste to znovu později.</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Vaši hru nelze vytvořit, zkuste to znovu později.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s86">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Multiplayer Menu - Invites</Data></Cell>
@@ -1801,7 +1826,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="Default">
     <Cell><Data ss:Type="String">ui_fl_TeleportTo</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Teleport to</Data></Cell>
-    <Cell><Data ss:Type="String">Teleport do</Data></Cell>
+    <Cell><Data ss:Type="String">Teleport</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s86">
     <Cell ss:StyleID="s64"><Data ss:Type="String">ui_fl_Friendlist</Data></Cell>
@@ -1841,7 +1866,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s86">
     <Cell ss:StyleID="s64"><Data ss:Type="String">ui_fl_enterWolcenTag</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Enter Wolcen Tags</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Zadej Wolcen Tags</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zadej Wolcen Tag</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s86">
     <Cell ss:StyleID="s64"><Data ss:Type="String">ui_fl_SendRequest</Data></Cell>
@@ -1906,12 +1931,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s86">
     <Cell ss:StyleID="s64"><Data ss:Type="String">ui_activity_Matchmaking</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">In matchmaking</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">In matchmaking</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">V matchmakingu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s86">
     <Cell ss:StyleID="s64"><Data ss:Type="String">ui_activity_JoiningGameSession</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Joining a game session</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Připojení k herní relaci</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Připojování k herní relaci</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s86">
     <Cell ss:StyleID="s64"><Data ss:Type="String">ui_activity_CreatingGameSession</Data></Cell>
@@ -1970,7 +1995,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_disconnected_from_server</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Disconnected from Server</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Odpojen od serveru</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Odpojování od serveru</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_disconnected_from_server</Data></Cell>
@@ -2034,6 +2059,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestGenerateDungeon_AlreadyGeneratingAnotherDungeon_content</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">A Dungeon is currently being generated. Please try again in a few seconds.</Data></Cell>
+    <Cell><Data ss:Type="String">Dungeon se momentálně generuje. Prosím zkus to znova za několik sekund.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s86">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Gameplay Settings Menu</Data></Cell>
@@ -2057,10 +2083,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_gameplay_playershealthbar</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Display Player Health Bars</Data></Cell>
+    <Cell><Data ss:Type="String">Zobrazovat ukazatel zdraví hráče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_gameplay_playersindicator</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Display Player Indicators</Data></Cell>
+    <Cell><Data ss:Type="String">Zobrazovat ukazatele hráče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s86">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Network Settings</Data></Cell>
@@ -2094,7 +2122,7 @@
    <Row ss:AutoFitHeight="0" ss:StyleID="s86">
     <Cell ss:StyleID="s64"><Data ss:Type="String">ui_region_auto</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Auto</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Automatický</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Automaticky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s86">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_region_us</Data></Cell>
@@ -2134,27 +2162,27 @@
    <Row ss:AutoFitHeight="0" ss:StyleID="s86">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_region_ap-south-1</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Asia Pacific (Mumbai)</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Asia Pacific (Mumbai)</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Asie Pacifik (Mumbai)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s86">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_region_ap-northeast-1</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Asia Pacific (Tokyo)</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Asia Pacific (Tokyo)</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Asie Pacifik (Tokyo)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s86">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_region_ap-northeast-2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Asia Pacific (Seoul)</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Asia Pacific (Seoul)</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Asie Pacifik (Seoul)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s86">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_region_ap-southeast-1</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Asia Pacific (Singapore)</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Asia Pacific (Singapore)</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Asie Pacifik (Singapore)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s86">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_region_ap-southeast-2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Asia Pacific (Sydney)</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Asia Pacific (Sydney)</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Asie Pacifik (Sydney)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s86">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_region_ca-central-1</Data></Cell>
@@ -2203,27 +2231,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_audio_cinematicvolume</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Cinematic Volume</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Zvuky v pozadí</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Hlasitost filmů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_audio_ambiancevolume</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Ambience Volume</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Hlasitost scén</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Hlasitost prostředí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_audio_mastervolume</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Master Volume</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Hlasitost prostředí</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Hlavní hlasitost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_audio_dialoguevolume</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Dialogue Volume</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Hlavní hlasitost</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Hlasitost dialogů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_settings_audio_soundignorewindowfocus</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Sound in Background</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Hlasitost dialogů</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Zvuky v pozadí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s86">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Controls Menu</Data></Cell>
@@ -2335,7 +2363,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_kb_townportal</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Town Portal</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Městký portál</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Městský portál</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_kb_showitems</Data></Cell>
@@ -2375,7 +2403,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_kb_toggleautodash</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Toggle auto dash</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Přepnout automatický sprint</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Přepnout automatický výpad</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_kb_forcemovement</Data></Cell>
@@ -2400,14 +2428,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_mm_kb_citybuilding</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Stormfall Overview</Data></Cell>
+    <Cell><Data ss:Type="String">Přehled Stormfallu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_mm_kb_apocalyptic_scene</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Aspects of Apocalypse</Data></Cell>
+    <Cell><Data ss:Type="String">Aspekty Apokalypsy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_mm_kb_apocalyptic_form</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Aspects of Apocalypse transformation</Data></Cell>
+    <Cell><Data ss:Type="String">Transformace Aspektů Apokalypsy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">CHARACTER SELECTION</Data></Cell>
@@ -2468,15 +2499,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ci_skins</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Skins</Data></Cell>
-    <Cell><Data ss:Type="String">Vzhled</Data></Cell>
+    <Cell><Data ss:Type="String">Skiny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ci_tints</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Dyes</Data></Cell>
+    <Cell><Data ss:Type="String">Barviva</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">ui_ci_cost</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Cost</Data></Cell>
+    <Cell><Data ss:Type="String">Cena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_accept</Data></Cell>
@@ -2491,10 +2524,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_mouseclick</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Click the Left Mouse Button to rotate the character</Data></Cell>
+    <Cell><Data ss:Type="String">Klikni levým tlačítkem myši k otočení postavy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_middleclick</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Click the Middle Mouse Button to rotate the lighting</Data></Cell>
+    <Cell><Data ss:Type="String">Klikni prostředním tlačítkem myši k otočení světla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_showinterface</Data></Cell>
@@ -2509,10 +2544,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_selectcolorslot</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Select Color Slot</Data></Cell>
+    <Cell><Data ss:Type="String">Vyber slot barvy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_resettints</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Reset All Dyes</Data></Cell>
+    <Cell><Data ss:Type="String">Resetuj všechny barviva</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_selectcolor</Data></Cell>
@@ -2522,16 +2559,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_starter</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Starter Colors</Data></Cell>
-    <Cell><Data ss:Type="String">Startovací barva</Data></Cell>
+    <Cell><Data ss:Type="String">Startovní barva</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_common</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Common Colors</Data></Cell>
-    <Cell><Data ss:Type="String">Běžné barvy</Data></Cell>
+    <Cell><Data ss:Type="String">Obyčejné barvy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_uncommon</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Uncommon Colors</Data></Cell>
+    <Cell><Data ss:Type="String">Neobyčejné barvy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_tint_rare</Data></Cell>
@@ -2541,26 +2579,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_skin_rogue</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Rogue Skins</Data></Cell>
+    <Cell><Data ss:Type="String">Skiny Tuláka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_skin_sorcerer</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Sorcerer Skins</Data></Cell>
+    <Cell><Data ss:Type="String">Skiny Čaroděje</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_skin_bruiser</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Bruiser Skins</Data></Cell>
+    <Cell><Data ss:Type="String">Skiny Rváče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_skin_heavy</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Heavy Skins</Data></Cell>
+    <Cell><Data ss:Type="String">Skiny Těžkého</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_skin_unique</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Unique Skins</Data></Cell>
+    <Cell><Data ss:Type="String">Unikátní Skiny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ci_skin_weapon</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Weapon Skins</Data></Cell>
+    <Cell><Data ss:Type="String">Skiny zbraně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">MISC</Data></Cell>
@@ -2573,6 +2617,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Credits</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Credits</Data></Cell>
+    <Cell><Data ss:Type="String">Autoři</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_selected</Data></Cell>
@@ -2582,10 +2627,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_one_handed</Data></Cell>
     <Cell ss:StyleID="s93"><Data ss:Type="String">One-Handed</Data></Cell>
+    <Cell><Data ss:Type="String">Jednoruční</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_two_handed</Data></Cell>
     <Cell ss:StyleID="s93"><Data ss:Type="String">Two-Handed</Data></Cell>
+    <Cell><Data ss:Type="String">Obouruční</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">skill_unlocked</Data></Cell>
@@ -2616,11 +2663,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>33</TopRowVisible>
+   <TopRowVisible>162</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>62</ActiveRow>
+     <ActiveRow>17</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
