@@ -8,12 +8,12 @@
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Title>Audio script template</Title>
   <Author>Maëlenn Lumineau</Author>
-  <LastAuthor>Sully</LastAuthor>
+  <LastAuthor>Cthylla</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
-  <LastSaved>2020-01-25T12:06:15Z</LastSaved>
+  <LastSaved>2019-12-18T10:33:34Z</LastSaved>
   <Company>Electronic Arts</Company>
-  <Version>15.00</Version>
+  <Version>16.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
   <AllowPNG/>
@@ -85,10 +85,10 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>10065</WindowHeight>
-  <WindowWidth>26445</WindowWidth>
-  <WindowTopX>0</WindowTopX>
-  <WindowTopY>0</WindowTopY>
+  <WindowHeight>10365</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
   <RefModeR1C1/>
   <ProtectStructure>False</ProtectStructure>
@@ -103,33 +103,22 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s62" ss:Name="40&#160;% - Accent1">
+  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s63" ss:Name="Neutre">
+  <Style ss:ID="s28" ss:Name="Neutre">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s64" ss:Name="Satisfaisant">
+  <Style ss:ID="s26" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m206404456" ss:Parent="s62">
-   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
-   </Borders>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
-    ss:Bold="1"/>
-  </Style>
-  <Style ss:ID="s65">
+  <Style ss:ID="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s66">
+  <Style ss:ID="s63">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -140,7 +129,7 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s67">
+  <Style ss:ID="s64">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -151,43 +140,26 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s82">
+  <Style ss:ID="s71" ss:Parent="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
-     ss:Color="#8EA9DB"/>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
-     ss:Color="#8EA9DB"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
-     ss:Color="#8EA9DB"/>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
    </Borders>
-   <NumberFormat ss:Format="@"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
   </Style>
-  <Style ss:ID="s83">
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
-     ss:Color="#8EA9DB"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
-     ss:Color="#8EA9DB"/>
-   </Borders>
-   <NumberFormat ss:Format="@"/>
+  <Style ss:ID="s80">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
   </Style>
-  <Style ss:ID="s84">
-   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#333333"/>
-  </Style>
-  <Style ss:ID="s85" ss:Parent="s64">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  <Style ss:ID="s82" ss:Parent="s26">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s86">
-   <Font ss:FontName="Arial" x:Family="Swiss"/>
-  </Style>
-  <Style ss:ID="s87">
-   <Alignment ss:Vertical="Center"/>
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
-  </Style>
-  <Style ss:ID="s88">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+  <Style ss:ID="s83" ss:Parent="s28">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
  </Styles>
  <Names>
@@ -198,242 +170,68 @@
  </Names>
  <Worksheet ss:Name="Sheet1">
   <Names>
-   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C3"/>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C2"/>
   </Names>
-  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="684" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="638" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
    <Column ss:AutoFitWidth="0" ss:Width="480.75"/>
-   <Column ss:AutoFitWidth="0" ss:Width="329.25"/>
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s65">
-    <Cell ss:StyleID="s66"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
-      ss:Name="Print_Area"/></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">TRANSLATED TEXT</Data><NamedCell
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m206404456"><Data ss:Type="String">NEWS</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s71"><Data ss:Type="String">NEWS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_title_NewsBoard</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">Welcome to Wolcen!</Data></Cell>
-    <Cell><Data ss:Type="String">Vitejte ve Wolcenu!</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Welcome to Wolcen!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_txt_NewsBoard</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Hello everyone and thank you for supporting Wolcen: Lords of Mayhem. This panel will give you information on the latest patch pushed during the Beta. Don't hesitate to report bugs and issues you encounter on the official website (https://www.wolcengame.com) or on Discord(http://discord.gg/wolcenstudio)</Data></Cell>
-    <Cell><Data ss:Type="String">Zdravíme všechny a děkuji za podporu Wolcen: Lords of Mayhem. Tento panel vám poskytne informace o nejnovější verzi, která aktualizovala do Beta verze. Neváhejte nám nahlásit chyby a problémy, se kterými se setkáte  zasláním na oficiální webové stránky (https://www.wolcengame.com) nebo na diskuzi (http://discord.gg/wolcenstudio)</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Hello everyone and thank you for supporting Wolcen: Lords of Mayhem. This panel will give you information on the latest patch. Don't hesitate to report bugs and issues you encounter on the official website (https://www.wolcengame.com) or on Discord(http://discord.gg/wolcenstudio)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_title_beta1</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Content Patch 1: Play the story!</Data></Cell>
-    <Cell><Data ss:Type="String">Obsah Aktualizace 1: Hrajte příběh!</Data></Cell>
+    <Cell><Data ss:Type="String">ui_title_release1</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">1.0.0 is live!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_txt_beta1</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Act I has been added to the game and you can now start the campaign. Characters and stashes have been wiped for this major patch to allow you to test the balancing from scratch. Content Patch 1 also includes more Modifiers for your skills, more passive skill nodes in the Gate of Fates and more points to assign in it, new unique items, new creatures and new environments. You can read the complete patch notes on the Official forums (wolcengame.com). We're still working on French localization, and some of our awesome community members are also currently working on the German and Russian translation. These versions will be updated with hotfixes. Have fun!</Data></Cell>
-    <Cell><Data ss:Type="String">Akt I byl přidán do hry a nyní můžete zahájit kampaň. Postavy a bedny byly vymazány kvůli této aktualizaci, aby vám umožnily otestovat vyvážení hry od nuly. Oprava aktualizace 1 také zahrnuje více Modifikátorů pro vaše dovednosti, víc pasivních dovedností v Bráně osudů a více bodů, které v ní můžete přiřadit, nové jedinečné předměty, nová monstra a nová prostředí. Kompletní poznámky k aktualizaci si můžete přečíst na oficiálním fóru (wolcengame.com). Stále pracujeme na francouzské lokalizaci a někteří z našich úžasných členů komunity také v současné době pracují na německém a ruském překladu. Tyto verze budou aktualizovány opravami hotfix. Bavte se!</Data></Cell>
+    <Cell><Data ss:Type="String">ui_txt_release1</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">All the team is very happy to release the game and we want to thank all our pre-release supporters, you've helped us shape this game into something great and we're very grateful. Your feedback still means a lot to us so don't hesitate to let us know what you think on the Official Forums or our Discord servers. If you appreciate the game, please please consider giving us a review or updating your review on Steam. It's a great way to show your support, and it helps new players to know more about the game so our community can grow! We hope that you will spend a great time playing Wolcen, have fun!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_title_beta2</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Wrath of Sarisel</Data></Cell>
+    <Cell ss:Index="2" ss:StyleID="s80"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_txt_beta2</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Discover 5 new skills with their modifiers and play improved Expeditions thanks to Area alterations and the Wrath of Sarisel challenge. For technical reasons, stashes have been wiped for this Content Patch and all the items in your inventory had a new roll for their affixes. Keep in mind that another wipe will happen for both characters and stashes for the release of the game in January 2020. Thank you for contributing in making that game awesome, don't hesitate to share your feedback!</Data></Cell>
-    <Cell><Data ss:Type="String">Objevte 5 nových dovedností s jejich modifikátory a hrajte vylepšené Expedice díky změnám v oblasti a výzvě Wrath of Sarisel. Z technických důvodů byl pro tuto aktualizaci smazán obsah bedny a všechny položky ve vašem inventáři. Nezapomeňte, že s aktualizaci hry  v lednu 2020 dojde k dalšímu vymazání postav i beden. Děkujeme vám za přispění k tomu aby tato hra byla úžasná a neváhejte se podělit o svůj názor!</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_news_ContentPatch1</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">Content Patch 1</Data></Cell>
-    <Cell><Data ss:Type="String">Obsah aktualizace 1</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_news_ContentPatch2</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">Content Patch 2</Data></Cell>
-    <Cell><Data ss:Type="String">Obsah aktualizace 2</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s83"/>
-    <Cell ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s82"><Data ss:Type="String">ui_cp1_title</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">Content Patch 1: Play the story!</Data></Cell>
-    <Cell><Data ss:Type="String">Obsah Aktualizace 1: Hrajte příběh!</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s83"><Data ss:Type="String">ui_cp1_title_activeskills</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">Active Skills Modifiers</Data></Cell>
-    <Cell><Data ss:Type="String">Modifikátor aktívní dovednosti</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_cp1_content_activeskills</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">Choose new ways to destroy your foes! All active skills now have 8 Modifiers to choose from.\n\nWe've also added new effects: change your casting location, convert damage, grant buffs to yourself and your allies, and more...</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_cp1_title_campaign</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">Start the Campaign</Data></Cell>
-    <Cell><Data ss:Type="String">Začátek kampaně</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_cp1_content_campaign</Data></Cell>
-    <Cell ss:StyleID="s85"><Data ss:Type="String">The full Act I is now available with cutscenes and dynamic scenes, new areas, new monsters, voice-over and the Act Boss!\n\nThe enemy faction of the Brotherhood of Dawn has recently infiltrated the Crimson Keep, a mysterious Republican fortress lost among the Northern deserts. Led by Grand Inquisitor Heimlock himself, Republican troops are soon deployed on the Coast of wrecks, near the city state of Stormfall, to terminate a camp of Brothers.\n\nYou are, with your two childhood friends, part of Operation Dawnbane.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_cp1_title_pst</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">Gate of Fates Improvement</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell><Data ss:Type="String">ui_cp1_content_pst</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">117 new nodes have been added to the Gate of Fates for even more build customization!\n\nAll 135 previous nodes have also been reviewed. Many were replaced, improved or clarified for a better readability of the feature. Finally, you now have 38 points to spend in your Gate of Fates which will allow many more options.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s86"/>
-    <Cell ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cp2_title</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">Content Patch 2: Wrath of Sarisel!</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cp2_title_skill</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">New Skills</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cp2_content_skills</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">5 new skills have been added, each with 8 modifiers to personalise your play style.\n\nMelee builds can get up close and personal with &lt;b&gt;Warpath&lt;/b&gt;, spin to win with &lt;b&gt;Bladestorm&lt;/b&gt; and unleash whipping chains with &lt;b&gt;Wrath of Baäpheth&lt;/b&gt;.\n\nRanged builds can lay down supporting fire with the &lt;b&gt;‘Avenger’ Autoturret&lt;/b&gt; and become the ultimate executioner with &lt;b&gt;Gunslinger’s Brand&lt;/b&gt;.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cp2_title_sarisel</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">FACE THE WRATH!</Data></Cell>
-    <Cell><Data ss:Type="String">Tvář hněvu!</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cp2_content_sarisel</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">The &lt;b&gt;Wrath of Sarisel&lt;/b&gt; is a new high risk - high reward game mode that adjusts to your play style dynamically to offer the ultimate challenge.\n\nSet out on an expedition with dangerous map modifiers in play, like reduced Stamina regeneration and additional boss modifiers on enemies. You will be hunted by the Untainted Halfbreeds of Sarisel, diabolical new enemies that require teamwork and coordination to defeat.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cp2_title_altars</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">Altars</Data></Cell>
-    <Cell><Data ss:Type="String">Oltar</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cp2_content_altars</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">Altars have been introduced to the game to offer variety and additional challenge.\n\nSome altars will grant temporary buffs, others will offer loot if you can defeat a wave of powerful enemies. An altar may even tempt you into adding map modifiers, making the level more difficult with the promise of epic rewards.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s84"><Data ss:Type="String">ui_cp2_content_wipe</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">Your Active Skill Modifiers, Gate of Fates and Character Sheet have been reset. Your stash has been emptied and items in your inventory have had their affixes rerolled.</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s64"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s63"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s63"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s87"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s87"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s87"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s88"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s88"/>
+    <Cell ss:Index="2" ss:StyleID="s80"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="44"/>
-   <Row ss:Index="101" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="55" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="246"/>
-   <Row ss:Index="383" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="337" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="387" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
-   <Row ss:Index="466" ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:Index="341" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
+   <Row ss:Index="420" ss:AutoFitHeight="0" ss:Height="18"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="471" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="474" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="478" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="481" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="485" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="488" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
-   <Row ss:Index="502" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="425" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="428" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="432" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="435" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="439" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="442" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
+   <Row ss:Index="456" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="507" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="461" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="511" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="515" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="465" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="469" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="63.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="47.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
@@ -441,11 +239,11 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="524" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="478" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="527" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="481" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="531" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="485" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="75.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="85.5"/>
@@ -456,33 +254,33 @@
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="545" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="547" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="499" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="501" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="554" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
-   <Row ss:Index="559" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="508" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="513" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="563" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
-   <Row ss:Index="567" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="569" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="572" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="576" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="578" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="517" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
+   <Row ss:Index="521" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="523" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="526" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="530" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="532" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="582" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="585" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="592" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="536" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="539" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="546" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="595" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="549" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
-   <Row ss:Index="604" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="611" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
+   <Row ss:Index="558" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="565" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -505,8 +303,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>19</ActiveRow>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>6</ActiveRow>
+     <RangeSelection>R7:R29</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
