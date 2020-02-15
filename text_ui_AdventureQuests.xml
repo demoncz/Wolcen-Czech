@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>15765</WindowHeight>
-  <WindowWidth>32767</WindowWidth>
+  <WindowHeight>12300</WindowHeight>
+  <WindowWidth>25200</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -103,20 +103,20 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s28" ss:Name="Neutre">
+  <Style ss:ID="s62" ss:Name="Neutre">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s62">
+  <Style ss:ID="s63">
    <Alignment ss:Vertical="Top"/>
   </Style>
-  <Style ss:ID="s63">
+  <Style ss:ID="s64">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s64">
+  <Style ss:ID="s65">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s65">
+  <Style ss:ID="s66">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -126,7 +126,7 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s66">
+  <Style ss:ID="s67">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -136,29 +136,29 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s68">
+  <Style ss:ID="s69">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1" ss:Italic="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s70" ss:Parent="s28">
+  <Style ss:ID="s71" ss:Parent="s62">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s71">
+  <Style ss:ID="s72">
    <Alignment ss:Vertical="Top"/>
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
   </Style>
-  <Style ss:ID="s72">
+  <Style ss:ID="s73">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s73">
+  <Style ss:ID="s74">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s74" ss:Parent="s28">
+  <Style ss:ID="s75" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
@@ -176,307 +176,350 @@
   </Names>
   <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="720" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
-   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="246.75"/>
-   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="279.75"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="246.75"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="279.75"/>
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
-    <Cell ss:StyleID="s65"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s66"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s65">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="1" ss:StyleID="s68"><Data ss:Type="String">NPC2</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">NPC2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q1_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Noxious Fumes</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Noxious Fumes</Data></Cell>
+    <Cell><Data ss:Type="String">Škodlivé výpary</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q2_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Agressive Courtship</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Agressive Courtship</Data></Cell>
+    <Cell><Data ss:Type="String">Agresivní námluvy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q3_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Hounds of War</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Hounds of War</Data></Cell>
+    <Cell><Data ss:Type="String">Psi války</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q4_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">The Wildlings Horde</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The Wildlings Horde</Data></Cell>
+    <Cell><Data ss:Type="String">Horda divokých</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q5_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">March of the Deads</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">March of the Deads</Data></Cell>
+    <Cell><Data ss:Type="String">Pochod mrtvých</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q6_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Maddening Whispers</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Maddening Whispers</Data></Cell>
+    <Cell><Data ss:Type="String">Šílené šeptání</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q7_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Unholy Defilers</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Unholy Defilers</Data></Cell>
+    <Cell><Data ss:Type="String">Bezbožní znečišťovatelé</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q8_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Beasts All the Same</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Beasts All the Same</Data></Cell>
+    <Cell><Data ss:Type="String">Všechny bestie jsou stejné</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q9_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">The Barbarian Thrall</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The Barbarian Thrall</Data></Cell>
+    <Cell><Data ss:Type="String">Zkrocený Barbar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q10_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Shredding Maws</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Shredding Maws</Data></Cell>
+    <Cell><Data ss:Type="String">Drtící tlapy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q11_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Frozen Mists</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Frozen Mists</Data></Cell>
+    <Cell><Data ss:Type="String">Mrazivé mlhy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q12_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Tainted Legacy</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Tainted Legacy</Data></Cell>
+    <Cell><Data ss:Type="String">Poskvrněné dědictví</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_StepNameLabel1</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Hunt Down Enemies</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_StepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Hunt Down Enemies</Data></Cell>
+    <Cell><Data ss:Type="String">Sejmi nepřátele</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_StepNameLabel2</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Challenge the Boss</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_StepNameLabel2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Challenge the Boss</Data></Cell>
+    <Cell><Data ss:Type="String">Vyzvi bosse</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_DoF_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">The Gifts of Ashtaroth</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_DoF_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The Gifts of Ashtaroth</Data></Cell>
+    <Cell><Data ss:Type="String">Dary Astarothu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_RepuAssassin_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Blades of the Senate</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_RepuAssassin_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Blades of the Senate</Data></Cell>
+    <Cell><Data ss:Type="String">Čepele senátu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_Butcher_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">March of the Deads</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_Butcher_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">March of the Deads</Data></Cell>
+    <Cell><Data ss:Type="String">Pochod mrtvých</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_ShadowThug_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Crepuscular Might</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_ShadowThug_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Crepuscular Might</Data></Cell>
+    <Cell><Data ss:Type="String">Večerní síla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_DoS_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Maddening Whispers</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_DoS_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Maddening Whispers</Data></Cell>
+    <Cell><Data ss:Type="String">Šílené šeptání</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_AlphaPoison_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Tame the Alpha</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_AlphaPoison_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Tame the Alpha</Data></Cell>
+    <Cell><Data ss:Type="String">Zkroť alfu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_PacifiedKnight_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">The New Mankind</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_PacifiedKnight_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The New Mankind</Data></Cell>
+    <Cell><Data ss:Type="String">Nové lidstvo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_Thug_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">The Wildlings Horde</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_Thug_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The Wildlings Horde</Data></Cell>
+    <Cell><Data ss:Type="String">Horda divokých</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_Justicar_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">The Shields of the Unseen</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_Justicar_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The Shields of the Unseen</Data></Cell>
+    <Cell><Data ss:Type="String">Štíty neviditelného</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_PacifiedGolgoth_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Newfound Peace</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_PacifiedGolgoth_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Newfound Peace</Data></Cell>
+    <Cell><Data ss:Type="String">Znovunalezený mír</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_AlphaFire_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Heat</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_AlphaFire_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Heat</Data></Cell>
+    <Cell><Data ss:Type="String">Teplo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_BanditAssassin_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Morosian Hunt</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_BanditAssassin_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Morosian Hunt</Data></Cell>
+    <Cell><Data ss:Type="String">Morosiánský lov</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_Golgoth_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Psychic Mutant Soldier</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_Golgoth_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Psychic Mutant Soldier</Data></Cell>
+    <Cell><Data ss:Type="String">Psychicky zmutovaný voják</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">NPC2_COSDamned_PG_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Tainted Legacy</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">NPC2_COSDamned_PG_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Tainted Legacy</Data></Cell>
+    <Cell><Data ss:Type="String">Poskvrněné dědictví</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Generic</Data></Cell>
-    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Generic</Data></Cell>
+    <Cell ss:StyleID="s74"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A_Q_StepNameLabel1</Data></Cell>
-    <Cell ss:StyleID="s74"><Data ss:Type="String">Report to &quot;Dashing&quot; Eugene via the Board</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Report to &quot;Dashing&quot; Eugene via the Board</Data></Cell>
+    <Cell><Data ss:Type="String">Podej hlášení &quot;Dashing&quot; Eugene prostřednictvím tabule</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">B_A2_Q_QuestNameLabel</Data></Cell>
-    <Cell ss:StyleID="s74"><Data ss:Type="String">Choice that Matters</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">B_A2_Q_QuestNameLabel</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Choice that Matters</Data></Cell>
+    <Cell><Data ss:Type="String">Volba na které záleží</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">B_A2_Q_QuestDescLabel</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">This is a placeholder</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">B_A2_Q_QuestDescLabel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">This is a placeholder</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">B_A2_Q_StepNameLabel1</Data></Cell>
-    <Cell ss:StyleID="s74"><Data ss:Type="String">Expedition: +%1% Magic Find and Enemies are level %2</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">B_A2_Q_StepNameLabel1</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Expedition: +%1% Magic Find and Enemies are level %2</Data></Cell>
+    <Cell><Data ss:Type="String">Expedice: +%1% k nalezení magických předmětů a nepřátelé jsou level %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q_StepNameLabel2</Data></Cell>
-    <Cell ss:StyleID="s74"><Data ss:Type="String">Leave or continue the Expedition</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Leave or continue the Expedition</Data></Cell>
+    <Cell><Data ss:Type="String">Odejdi nebo pokračuj v expedici</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q_StepNameLabel3</Data></Cell>
-    <Cell ss:StyleID="s74"><Data ss:Type="String">Report to &quot;Dashing&quot; Eugene via the Expedition Map</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Report to &quot;Dashing&quot; Eugene via the Expedition Map</Data></Cell>
+    <Cell><Data ss:Type="String">Podej hlášení &quot;Dashing&quot; Eugene mapy expedice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s72"><Data ss:Type="String">System</Data></Cell>
-    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">System</Data></Cell>
+    <Cell ss:StyleID="s74"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_title</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Expedition</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Expedition</Data></Cell>
+    <Cell><Data ss:Type="String">Expedice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_lore</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;p style=&quot;justify&quot;&gt;&lt;Font size=&quot;29&quot;&gt;\nChallenge yourself by delving into twisted dungeons where the only opportunity to stop the expedition is by defeating a level’s boss.  For every run you have the option to choose the starting difficulty: the higher you pick, the greater the magic find. Go ever deeper into the dungeons to obtain the best rewards... but beware of your own greed!&lt;/Font&gt;&lt;/p&gt;\n</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">&lt;p style=&quot;justify&quot;&gt;&lt;Font size=&quot;29&quot;&gt;\nChallenge yourself by delving into twisted dungeons where the only opportunity to stop the expedition is by defeating a level’s boss.  For every run you have the option to choose the starting difficulty: the higher you pick, the greater the magic find. Go ever deeper into the dungeons to obtain the best rewards... but beware of your own greed!&lt;/Font&gt;&lt;/p&gt;\n</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p style=&quot;justify&quot;&gt;&lt;Font size=&quot;29&quot;&gt;\nPříjměte výzvu a ponořte se do klikatých dungeonů, kde jedinou šancí k zastavení expedice je porážka bosse úrovně. Před každou expedicí si budete moci zvolit startovní obtížnost: čim vyšší si vyberete tím lépe budete nacházet magické předměty. Klesejte stále hlouběji a získejte ty nejlepší odměny... ale pozor na svou vlastní chamtivost!&lt;/Font&gt;&lt;/p&gt;\n</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_easy_mode</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Adept&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Adept&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Adept&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_intermediate_mode</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Veteran&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Veteran&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Veterán&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_hard_mode</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Champion&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Champion&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Šampion&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_03</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Master&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Master&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Mistr&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_04</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Paragon&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Paragon&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Vzor&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_05</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Ascended&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Ascended&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Vyvolený&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_modifier</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String" x:Ticked="1">+%1% Magic Find and Enemies are level %2</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String" x:Ticked="1">+%1% Magic Find and Enemies are level %2</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">+%1% k nalezení magických předmětů a nepřátelé jsou level %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_confirm_end_npc2_quest_title</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Heading back to Stormfall</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Heading back to Stormfall</Data></Cell>
+    <Cell><Data ss:Type="String">Návrat do Stormfallu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_confirm_end_npc2_quest_content</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Are you sure you want to leave this expedition and get back to stormfall?\n A better reward awaits deeper…</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Are you sure you want to leave this expedition and get back to stormfall?\n A better reward awaits deeper…</Data></Cell>
+    <Cell><Data ss:Type="String">Jsi si jistý, že chceš opustit tuto expedici a vrátit se do Stormfallu?\n Lepší odměna čeká hlouběji...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_confirm_end_npc2_quest_content2</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">The expedition is a success, you earned the greatest reward! Alexander Ivakin is waiting  with your prize, would you like to get back to Stormfall now?</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The expedition is a success, you earned the greatest reward! Alexander Ivakin is waiting  with your prize, would you like to get back to Stormfall now?</Data></Cell>
+    <Cell><Data ss:Type="String">Expedice skončila úspěšně, získal jsi největší odměnu! Alexander Ivakin tě čeká s tvou odměnou. Chceš se nyní vrátit do Stormfallu?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_confirm_continue_npc2_quest_title</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Delving Deeper</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Delving Deeper</Data></Cell>
+    <Cell><Data ss:Type="String">Jít hlouběji</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_confirm_continue_npc2_quest_content</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Are you sure you want to continue this expedition?\n If you die, you will not receive a reward.</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Are you sure you want to continue this expedition?\n If you die, you will not receive a reward.</Data></Cell>
+    <Cell><Data ss:Type="String">Jsi si jistý, že chceš pokračovat v této expedici?\n Jestli zemřeš nezískáš odměnu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">ui_NextLevel_LevelPortalName</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Next level</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ui_NextLevel_LevelPortalName</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Next level</Data></Cell>
+    <Cell><Data ss:Type="String">Další úroveň</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">ui_BackStormfall_LevelPortalName</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Stormfall</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ui_BackStormfall_LevelPortalName</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Stormfall</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfall</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">ui_cannot_start_npc2_quest_title</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">Expedition</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ui_cannot_start_npc2_quest_title</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Expedition</Data></Cell>
+    <Cell><Data ss:Type="String">Expedice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"><Data ss:Type="String">ui_cannot_start_npc2_quest_content</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">You need to be level 15 in order to launch an expedition.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ui_cannot_start_npc2_quest_content</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">You need to be level 15 in order to launch an expedition.</Data></Cell>
+    <Cell><Data ss:Type="String">Musíš být level 15 abys mohl spustit expedici.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
-    <Cell ss:StyleID="Default"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="Default"/>
-    <Cell ss:StyleID="Default"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -536,7 +579,35 @@
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -546,18 +617,11 @@
     <Cell ss:Index="2" ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="Default"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s73"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:Index="2" ss:StyleID="Default"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
-    <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:Index="2" ss:StyleID="Default"/>
@@ -579,23 +643,10 @@
     <Cell ss:Index="2" ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
-    <Cell ss:StyleID="Default"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:Index="2" ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="Default"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="Default"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="Default"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
     <Cell ss:StyleID="Default"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -1447,12 +1498,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>6</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>49</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveRow>43</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
