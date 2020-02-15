@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
-  <WindowWidth>28800</WindowWidth>
+  <WindowHeight>12300</WindowHeight>
+  <WindowWidth>25200</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -638,12 +638,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_confirmexitgame</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Exit game</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Opustit hru</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Ukončit hru</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_confirmexitgame</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Are you sure you want to exit Wolcen: Lords of Mayhem?</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Opravdu chcete opustit Wolcen: Lords of Mayhem?</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Opravdu chcete ukončit Wolcen: Lords of Mayhem?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_returnToMainMenu</Data></Cell>
@@ -2663,11 +2663,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>162</TopRowVisible>
+   <TopRowVisible>9</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>17</ActiveRow>
+     <ActiveRow>29</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
