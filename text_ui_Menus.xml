@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12300</WindowHeight>
-  <WindowWidth>25200</WindowWidth>
+  <WindowHeight>12315</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -628,7 +628,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Exit</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Exit</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Opustit</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Konec</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Settings</Data></Cell>
@@ -2667,7 +2667,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>29</ActiveRow>
+     <ActiveRow>26</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

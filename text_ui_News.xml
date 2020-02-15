@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>10365</WindowHeight>
+  <WindowHeight>12315</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -103,22 +103,22 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
+  <Style ss:ID="s62" ss:Name="40&#160;% - Accent1">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s28" ss:Name="Neutre">
+  <Style ss:ID="s63" ss:Name="Neutre">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s26" ss:Name="Satisfaisant">
+  <Style ss:ID="s64" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s62">
+  <Style ss:ID="s65">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s63">
+  <Style ss:ID="s66">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -129,7 +129,7 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s64">
+  <Style ss:ID="s67">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -140,7 +140,7 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s71" ss:Parent="s40">
+  <Style ss:ID="s70" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -150,16 +150,12 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
+  <Style ss:ID="s79" ss:Parent="s63">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
   <Style ss:ID="s80">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
-  </Style>
-  <Style ss:ID="s82" ss:Parent="s26">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
-   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s83" ss:Parent="s28">
-   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
-   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
  </Styles>
  <Names>
@@ -177,29 +173,33 @@
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
    <Column ss:AutoFitWidth="0" ss:Width="480.75"/>
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
-    <Cell ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s65">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="1" ss:StyleID="s71"><Data ss:Type="String">NEWS</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">NEWS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_title_NewsBoard</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">Welcome to Wolcen!</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Welcome to Wolcen!</Data></Cell>
+    <Cell><Data ss:Type="String">Vitejte ve Wolcenu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_txt_NewsBoard</Data></Cell>
-    <Cell ss:StyleID="s83"><Data ss:Type="String">Hello everyone and thank you for supporting Wolcen: Lords of Mayhem. This panel will give you information on the latest patch. Don't hesitate to report bugs and issues you encounter on the official website (https://www.wolcengame.com) or on Discord(http://discord.gg/wolcenstudio)</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Hello everyone and thank you for supporting Wolcen: Lords of Mayhem. This panel will give you information on the latest patch. Don't hesitate to report bugs and issues you encounter on the official website (https://www.wolcengame.com) or on Discord(http://discord.gg/wolcenstudio)</Data></Cell>
+    <Cell><Data ss:Type="String">Zdravíme všechny a děkujeme za podporu hry Wolcen: Lords of Mayhem. Tento panel Vám poskytne informace o nejnovějším patchi. Neváhejte hlásit bugy a problémy se kterýma se setkáte na naší officiální stránku (https://www.wolcengame.com) or on Discord(http://discord.gg/wolcenstudio)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_title_release1</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">1.0.0 is live!</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">1.0.0 is live!</Data></Cell>
+    <Cell><Data ss:Type="String">1.0.0 je aktuální!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_txt_release1</Data></Cell>
-    <Cell ss:StyleID="s82"><Data ss:Type="String">All the team is very happy to release the game and we want to thank all our pre-release supporters, you've helped us shape this game into something great and we're very grateful. Your feedback still means a lot to us so don't hesitate to let us know what you think on the Official Forums or our Discord servers. If you appreciate the game, please please consider giving us a review or updating your review on Steam. It's a great way to show your support, and it helps new players to know more about the game so our community can grow! We hope that you will spend a great time playing Wolcen, have fun!</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">All the team is very happy to release the game and we want to thank all our pre-release supporters, you've helped us shape this game into something great and we're very grateful. Your feedback still means a lot to us so don't hesitate to let us know what you think on the Official Forums or our Discord servers. If you appreciate the game, please please consider giving us a review or updating your review on Steam. It's a great way to show your support, and it helps new players to know more about the game so our community can grow! We hope that you will spend a great time playing Wolcen, have fun!</Data></Cell>
+    <Cell><Data ss:Type="String">Celý tým je velmi štastný z vydání hry a chceme poděkovat všem naším pre-release podporovatelům, pomohli jste nám změnit tuto hru v něco skvělého a jsme vám za to velmi vděční. Vaše zpětná vazba pro nás stále velmi znamená, takže neváhejte nám dát vědět na naše officiální fórum nebo na náš Discord. Jestli se Vám naše hra líbí, tak prosím napište nebo aktualizujte svou recenzi na Steamu. Je to skvělá cesta jak ukázat vaši podporu a pomoct získat nové hráče, tak aby se naše komunita mohla rozrůstat!  Věříme že si užijete hraní hry Wolcen, bavte se!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:Index="2" ss:StyleID="s80"/>
@@ -303,8 +303,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>6</ActiveRow>
-     <RangeSelection>R7:R29</RangeSelection>
+     <ActiveRow>17</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
