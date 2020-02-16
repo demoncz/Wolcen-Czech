@@ -190,7 +190,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_txt_NewsBoard</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Hello everyone and thank you for supporting Wolcen: Lords of Mayhem. This panel will give you information on the latest patch. Don't hesitate to report bugs and issues you encounter on the official website (https://www.wolcengame.com) or on Discord(http://discord.gg/wolcenstudio)</Data></Cell>
-    <Cell><Data ss:Type="String">Zdravíme všechny a děkujeme za podporu hry Wolcen: Lords of Mayhem. Tento panel Vám poskytne informace o nejnovějším patchi. Neváhejte hlásit bugy a problémy se kterýma se setkáte na naší officiální stránku (https://www.wolcengame.com) or on Discord(http://discord.gg/wolcenstudio)</Data></Cell>
+    <Cell><Data ss:Type="String">Zdravíme všechny a děkujeme za podporu hry Wolcen: Lords of Mayhem. Tento panel Vám poskytne informace o nejnovějším patchi. Neváhejte hlásit bugy a problémy se kterýma se setkáte na naší officiální stránku (https://www.wolcengame.com) nebo na Discordu (http://discord.gg/wolcenstudio)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_title_release1</Data></Cell>
@@ -305,7 +305,7 @@
     <Pane>
      <Number>3</Number>
      <ActiveRow>3</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
