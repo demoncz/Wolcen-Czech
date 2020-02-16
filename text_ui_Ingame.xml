@@ -123,7 +123,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1737869325200">
+  <Style ss:ID="m1597436390608">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -134,7 +134,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1737869336432">
+  <Style ss:ID="m1597436390816">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -145,7 +145,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1737869336452">
+  <Style ss:ID="m1597436390836">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -156,7 +156,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1737869336472">
+  <Style ss:ID="m1597436390856">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -167,7 +167,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1737869336492">
+  <Style ss:ID="m1597436390876">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -178,7 +178,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1737869336512">
+  <Style ss:ID="m1597436390896">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -189,7 +189,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1737869336532">
+  <Style ss:ID="m1597436390916">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -200,7 +200,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1737869325824" ss:Parent="s62">
+  <Style ss:ID="m1597436392688" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -211,7 +211,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1737869325844">
+  <Style ss:ID="m1597436392708">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -222,7 +222,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1737869325864">
+  <Style ss:ID="m1597436392728">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -233,7 +233,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1737869325884">
+  <Style ss:ID="m1597436392748">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -244,7 +244,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1737869325904">
+  <Style ss:ID="m1597436392768">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -255,7 +255,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1737869325924">
+  <Style ss:ID="m1597436392788">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -379,7 +379,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869325824"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436392688"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PlayerChest_UnlockCost</Data></Cell>
@@ -397,7 +397,7 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">Inventář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869325844"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436392708"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_party_leader_is_choosing_adventure</Data></Cell>
@@ -482,7 +482,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NotEnoughStacks</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Not enough charges!</Data></Cell>
-    <Cell ss:StyleID="s81"/>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Nedostatek nabití.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_NotEnoughApoResource</Data></Cell>
@@ -567,18 +567,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_skillcopy_toolowlevel</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Original skill does not meet the level requirements.</Data></Cell>
+    <Cell><Data ss:Type="String">Původní dovednost nesplňuje požadovaný level.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_skillcopy_requireendgameproject</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">'Champion of Stormfall' Project required to duplicate skills.</Data></Cell>
+    <Cell><Data ss:Type="String">Pouze v režimu Šampion Stormfallu lze duplikovat dovednosti.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_locked_chest_panel</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">This inventory panel is locked.</Data></Cell>
+    <Cell><Data ss:Type="String">Panel inventáře je zamčený.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cantswapitems</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot swap these items.</Data></Cell>
+    <Cell><Data ss:Type="String">Tyhle předměty nelze přehodit.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_stance_not_available_yet</Data></Cell>
@@ -613,10 +617,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestTeleportToWaypoint_TooCloseToTargetWaypoint</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You are too close to that Waypoint to teleport there.</Data></Cell>
+    <Cell><Data ss:Type="String">Jsi moc blízko k tomuto Waypointu aby ses zde mohl teleportovat.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_message_RequestTeleportToWaypoint_WaypointIsLocked</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">This Waypoint has not been unlocked.</Data></Cell>
+    <Cell><Data ss:Type="String">Tento Waypoint ještě nebyl odemčen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_no_teleport_to_friend_here</Data></Cell>
@@ -641,10 +647,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_potion_notenoughcharge</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Not enough potion charges.</Data></Cell>
+    <Cell><Data ss:Type="String">Nedostatek nabití lektvaru.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_inactivity</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Inactivity warning.</Data></Cell>
+    <Cell><Data ss:Type="String">Varování nečinnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_inactivity</Data></Cell>
@@ -679,50 +687,62 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_waypoint_is_locked</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">This Waypoint has not been unlocked.</Data></Cell>
+    <Cell><Data ss:Type="String">Tento Waypoint ještě nebyl odemčen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_maximum_affix_count_reached</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot use this Reagent: maximum Affix count reached.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagent nelze použít: byl dosažen maximální počet Affixů.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_minimum_affix_count_reached</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot use this Reagent: minimum Affix count reached.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagent nelze použít: byl dosažen minimální počet Affixů.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_craft_incompatible_rarities</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot use this Reagent: Rarities are incompatible.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagent nelze použít: vzácnost předmětů je nekompatibilní.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cannot_craft_equipped_item</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot use Reagents on items that are currently equipped.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagenty nelze použít na nasazené přědměty.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_no_affix_available_to_add</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot use this Reagent: no Affixes available to add.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagent nelze použít: Nejsou dostupné žádné Affixy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_can_only_craft_weapon_or_armor</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You can only use Reagents on weapons or armors.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagenty lze použít pouze na zbraně a zbroje.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_citybuilding_menu_unavailable_not_in_adventure_mode</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot access the Stormfall Overview Screen while in Story Mode.</Data></Cell>
+    <Cell><Data ss:Type="String">V příběhovém režimu nemáš přístup na Přehled Stormfallu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_citybuilding_menu_unavailable_not_in_town</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot access the Stormfall Overview Screen while outside of Stormfall.</Data></Cell>
+    <Cell><Data ss:Type="String">Když jsi mimo Stormfall tak nemáš přístup na Přehled Stormfallu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_citybuilding_menu_unavailable_ongoing_activity</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot access the Stormfall Overview Screen while an Expedition is active.</Data></Cell>
+    <Cell><Data ss:Type="String">Jakmile je expedice aktivní tak nemáš přístup na Přehled Stormfallu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_citybuilding_menu_unavailable_player_dead</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot access the Stormfall Overview Screen while you are dead.</Data></Cell>
+    <Cell><Data ss:Type="String">Když si mrtvý nemůžeš tak nemáš přístup na Přehled Stormfallu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_enneract_can_only_be_sold_to_an_archivist</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You can only exchange Enneracts for Primordial Affinity.</Data></Cell>
+    <Cell><Data ss:Type="String">Zaměnit lze pouze Ennerakt za Prvotní Vazbu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cannot_leave_dungeon</Data></Cell>
@@ -757,10 +777,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_npc1_popup</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Mandates are simple missions achieved in exchange of a reward.\nTaking a Mandate from the Mandate Board will open a portal. Do you wish to continue?\n\n&lt;Font Color=&quot;#ccb270&quot;&gt;&lt;i&gt;In the wake of recent events Stormfall remained considerably crippled and unable to properly defend its lands. Hiring the mercenary group known as the Host of the Purple Phoenix was one of the only measures that the Council of Houses managed to agree on now that Damaskus relinquished his throne.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">Mandáty jsou jednoduché mise dosažené výměnou odměny.\nVýběrem Mandátu z Mandátové Tabule se otevře portál. Chcete pokračovat?\n\n&lt;Font Color=&quot;#ccb270&quot;&gt;&lt;i&gt; V důsledku nedávných událostí zůstal Stormfall značně poškozený a není tak schopný dostatečně bránit své země. Najmutí žoldnéřské skupiny známé jako Hostitelé Fialového Fénixe bylo jednou z mála akcí, na které se Rada Domů dokázala společně dohodnout, když se Damaskus vzdal trůnu.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_createCharacterBeforeJoiningGroup</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Character Required</Data></Cell>
+    <Cell><Data ss:Type="String">Vyžaduje postavu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_createCharacterBeforeJoiningGroup</Data></Cell>
@@ -770,6 +792,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PlayerChest_UnlockThroughEndgame</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Further Stash tabs can be unlocked through the Champion of Stormfall game mode.</Data></Cell>
+    <Cell><Data ss:Type="String">Další záložky ve skrýši mohou být odemčeny skrze herního režimu Šampion Stormfallu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DyeAlreadyUnlocked</Data></Cell>
@@ -807,7 +830,7 @@
     <Cell><Data ss:Type="String">Hněv Sarisel není v tomto herní režimu dostupný.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869325864"><Data ss:Type="String">ARCHIVIST</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436392728"><Data ss:Type="String">ARCHIVIST</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_knowledge</Data></Cell>
@@ -840,7 +863,7 @@
     <Cell><Data ss:Type="String">Duplikát</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869325884"><Data ss:Type="String">JEWELER</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436392748"><Data ss:Type="String">JEWELER</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_title</Data></Cell>
@@ -875,25 +898,30 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_reroll_sockets</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Re-roll Item Sockets</Data></Cell>
+    <Cell><Data ss:Type="String">Zmeň počet míst na osazení drakokamy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_socketRerollCost</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Re-roll Cost</Data></Cell>
+    <Cell><Data ss:Type="String">Cena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_socket_reroll_items_has_gems</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot re-roll item sockets one items that have gems socketed.</Data></Cell>
+    <Cell><Data ss:Type="String">Nelze změnit počet míst na předmětech, když jsou předměty osazeny drahokamy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_socket_reroll_cannot_have_sockets</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot re-roll item sockets on items that do not have sockets.</Data></Cell>
+    <Cell><Data ss:Type="String">Nelze změnit počet míst na předmětech, když předměty žádné místo neobsahují.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_socket_reroll_sockets_locked</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot re-roll item sockets on items where the sockets are locked.</Data></Cell>
+    <Cell><Data ss:Type="String">Nelze změnit počet míst na předmětech kde jsou místa uzamčené. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869325904"><Data ss:Type="String">VOTING + EVENTS + SARISEL MODE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436392768"><Data ss:Type="String">VOTING + EVENTS + SARISEL MODE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_reset_sarisel_adventure_popup_title</Data></Cell>
@@ -935,6 +963,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Adventure_SariselMode_RewardChest_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">A Reward Well-Earned</Data></Cell>
+    <Cell><Data ss:Type="String">Získal jsi odměnu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Adventure_SariselMode_RewardChest_StepLabel</Data></Cell>
@@ -952,6 +981,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_SvriirRaid_1_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The Last Stand</Data></Cell>
+    <Cell><Data ss:Type="String">Poslední Odpor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_SvriirRaid_1_text</Data></Cell>
@@ -960,6 +990,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Sirkis_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The Bane of the Storm</Data></Cell>
+    <Cell><Data ss:Type="String">Kletba Bouře</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Sirkis_text</Data></Cell>
@@ -968,6 +999,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_StormfallInn_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">A Warm Welcome</Data></Cell>
+    <Cell><Data ss:Type="String">Vřelé Uvítání</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_StormfallInn_text</Data></Cell>
@@ -976,6 +1008,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Naarlog_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Battleborns</Data></Cell>
+    <Cell><Data ss:Type="String">Zrození k Válce</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Naarlog_text</Data></Cell>
@@ -1008,6 +1041,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BanditOutpost_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Familiar Face</Data></Cell>
+    <Cell><Data ss:Type="String">Známá Tvář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BanditOutpost_text</Data></Cell>
@@ -1162,7 +1196,7 @@
     <Cell ss:StyleID="s65"><Data ss:Type="String">Decline</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869325924"><Data ss:Type="String">OBJECTS AND ALTARS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436392788"><Data ss:Type="String">OBJECTS AND ALTARS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cursed_chest</Data></Cell>
@@ -1310,7 +1344,7 @@
     <Cell><Data ss:Type="String">Katalyzátor tělesné víry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869336432"><Data ss:Type="String">AREA MODIFIER ALTAR UI</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436390816"><Data ss:Type="String">AREA MODIFIER ALTAR UI</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_map_modifier</Data></Cell>
@@ -1344,22 +1378,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_map_modifier_choose</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Choose an Area Modifier to add</Data></Cell>
+    <Cell><Data ss:Type="String">Zvolte jaký modifikátor oblasti chcete přidat</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_item_rarity</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">%1 Magic Find</Data></Cell>
+    <Cell><Data ss:Type="String">%1 K nalezení magických předmětů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_item_quantity</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">%1 Item Quantity</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Množství předmětů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_accept</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Accept</Data></Cell>
+    <Cell><Data ss:Type="String">Příjmout</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_refuse</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Refuse</Data></Cell>
+    <Cell><Data ss:Type="String">Odmítnout</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_altar_refuse</Data></Cell>
@@ -1368,14 +1407,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_altar_refuse</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Are you sure you want to refuse the area modifiers? You can not revert this decision.</Data></Cell>
+    <Cell><Data ss:Type="String">Opravdu chcete zrušit modifikátory oblasti? Tato volba je nenávratná</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unknown_modifier</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Unknown Modifier</Data></Cell>
+    <Cell><Data ss:Type="String">Neznámý modifikátor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_modifiers_quit_warning</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Modifier Confirmation</Data></Cell>
+    <Cell><Data ss:Type="String">Potvrzení modifikátoru</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_modifiers_quit_warning</Data></Cell>
@@ -1392,92 +1434,113 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_infuse_desc</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">If you accept multiple Area Modifiers, you have the option to take on the Wrath of Sarisel, allowing Untainteds to challenge you during the expedition. You will be rewarded at the end of the expedition instead of receiving loot drops.</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Pokud použijete mnoho modifikátoru oblasti, budete moci čelit Hněvu Sarisel, což umožní, aby vás Untainteds????? vyzvali během expedice. Odměnu získáte pouze na konci expedice namísto náhodně nalezených kořistí.&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_cost</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Pay %1 for modifier</Data></Cell>
+    <Cell><Data ss:Type="String">Zaplať %1 za modifikátor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_next</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Accept</Data></Cell>
+    <Cell><Data ss:Type="String">Příjmout</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_roll_modifiers</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Roll Area Modifiers: %1 Gold</Data></Cell>
+    <Cell><Data ss:Type="String">Změňit modifikátory oblasti: %1 Zlata</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_maximum_modifiers</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Cannot add more modifiers</Data></Cell>
+    <Cell><Data ss:Type="String">Nelze přidat další modifikátory</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_target_monsters</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Enemies have %1</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé mají %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_target_elites</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Champion enemies have %1</Data></Cell>
+    <Cell><Data ss:Type="String">Šampioni mají %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_target_lieutenants</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Specialist enemies have %1</Data></Cell>
+    <Cell><Data ss:Type="String">Specialisté mají %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_target_trashs</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Underling enemies have %1</Data></Cell>
+    <Cell><Data ss:Type="String">Poskoci mají %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_target_players</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Players have %1</Data></Cell>
+    <Cell><Data ss:Type="String">Hráči mají %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869336452"><Data ss:Type="String">AREA MODIFIERS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436390836"><Data ss:Type="String">AREA MODIFIERS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_desc</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You can choose to add random modifiers to this expedition, increasing the difficulty. If you complete it under these conditions, your loot drops will be more frequent and of higher rarity.\n\nDo you accept the challenge?</Data></Cell>
+    <Cell><Data ss:Type="String">Pro tuto expedici můžeš vybrat náhodné modifikátory, které zvýší obtížnost. Jakmile dokončíš tuto expedici s těmito podmínkami, bude tvá kořist více častá s vyšší vzácností.\n\nChceš příjmout tuto výzvu?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterBossMod</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">All Champion and Specialist tier Enemies receive an additional Boss Modifier.</Data></Cell>
+    <Cell><Data ss:Type="String">Všichni Šampioni a Specialisté získají dodatečný Modifikátor Bosse</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterResistFire</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Enemies have %1 Fire Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátele mají %1 Odolnost vůči Ohni</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterResistFrost</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Enemies have %1 Frost Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátele mají %1 Odolnost vůči Mrázu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterResistLighting</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Enemies have %1 Lightning Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátele mají %1 Odolnost vůči Blesku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterResistUmbra</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Enemies have %1 Aether Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátele mají %1 Odolnost vůči Éteru</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterResistSacred</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Enemies have %1 Sacred Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátele mají %1 Sacred Resistance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterResistShadow</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Enemies have %1 Shadow Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátele mají %1 Odolnost vůči Stínu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterResistRend</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Enemies have %1 Rend Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátele mají %1 Rend Resistance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterResistToxic</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Enemies have %1 Toxic Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátele mají %1 Odolnost vůči Jedu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterResistPhysical</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Enemies have %1 Physical Resistance</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátele mají %1 Fyzickou odolnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869336472"><Data ss:Type="String">SARISEL MODE VICTORY SCREEN</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436390856"><Data ss:Type="String">SARISEL MODE VICTORY SCREEN</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s107"><Data ss:Type="String">ui_BuffAppliedCountPerPlayer</Data></Cell>
@@ -1609,7 +1672,7 @@
     <Cell><Data ss:Type="String">Pokročilé statistiky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869336492"><Data ss:Type="String">TRADING INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436390876"><Data ss:Type="String">TRADING INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s110"><Data ss:Type="String">ui_notif_TradeInvitation</Data></Cell>
@@ -1692,7 +1755,7 @@
     <Cell><Data ss:Type="String">Klikni pravým tlačítkem k nabídnutí předmětu k obchodu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869336512"><Data ss:Type="String">MERCHANT TOOLTIPS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436390896"><Data ss:Type="String">MERCHANT TOOLTIPS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_click_to_buy</Data></Cell>
@@ -1750,7 +1813,7 @@
     <Cell><Data ss:Type="String">Přetáhni tento drahokam na místo osazení v předmětu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869336532"><Data ss:Type="String">WEAPON TOOLTIPS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436390916"><Data ss:Type="String">WEAPON TOOLTIPS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_elementalDamage</Data></Cell>
@@ -1823,7 +1886,7 @@
     <Cell><Data ss:Type="String">%1 Éter</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1737869325200"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1597436390608"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_xp_at_level</Data></Cell>
@@ -2280,12 +2343,12 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>265</TopRowVisible>
+   <TopRowVisible>332</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>336</ActiveRow>
-     <ActiveCol>3</ActiveCol>
+     <ActiveRow>258</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

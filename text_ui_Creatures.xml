@@ -126,27 +126,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s73">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_CoS_Zombie</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Husk</Data></Cell>
-    <Cell><Data ss:Type="String">Shnilák</Data></Cell>
+    <Cell><Data ss:Type="String">Mrtvák</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s73">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_CoS_FrostZombie</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Frozen Husk</Data></Cell>
-    <Cell><Data ss:Type="String">Mrazivý Shnilák</Data></Cell>
+    <Cell><Data ss:Type="String">Mrazivý Mrtvák</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_ZombieWarrior</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Armored Husk</Data></Cell>
-    <Cell><Data ss:Type="String">Vyzbrojený Shnilák</Data></Cell>
+    <Cell><Data ss:Type="String">Vyzbrojený Mrtvák</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_FrostZombieWarrior</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Armored Frozen Husk</Data></Cell>
-    <Cell><Data ss:Type="String">Vyzbrojený Mrazivý Shnilák</Data></Cell>
+    <Cell><Data ss:Type="String">Vyzbrojený Mrazivý Mrtvák</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_ZombieTwoHanded</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Husk Enforcer</Data></Cell>
-    <Cell><Data ss:Type="String">Shnilý Vykonavatel</Data></Cell>
+    <Cell><Data ss:Type="String">Mrtvák Vykonavatel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_ZombieLancer</Data></Cell>
@@ -245,14 +245,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_HalfBreedOfSoul</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Soul Spawn</Data></Cell>
+    <Cell><Data ss:Type="String">Havěť Duše</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_MiniHalfBreedOfSoul_shadow</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Shadow Spawn</Data></Cell>
+    <Cell><Data ss:Type="String">Havěť ze Stínu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_MiniHalfBreedOfSoul_physical</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Abyssal Spawn</Data></Cell>
+    <Cell><Data ss:Type="String">Havěť z Propasti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_Specter</Data></Cell>
@@ -351,10 +354,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofe_Simulacrum</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Flesh Simulacrum</Data></Cell>
+    <Cell><Data ss:Type="String">Maso Simulacrum</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofe_DemonOfFlesh</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Demon of Flesh</Data></Cell>
+    <Cell><Data ss:Type="String">Démon Masa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofe_Valeria_Zombie</Data></Cell>
@@ -364,10 +369,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofe_MiniHalfBreed</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Claw of Ashtaroth</Data></Cell>
+    <Cell><Data ss:Type="String">Dráp Ashtarotha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Cofe_HalfBreed</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Flesh Spawn</Data></Cell>
+    <Cell><Data ss:Type="String">Havěť z Masa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_COFE_Lambach</Data></Cell>
@@ -377,22 +384,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_FleshCity_DemonOfFlesh</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Zaälbezül, Arm of Ashtaroth</Data></Cell>
+    <Cell><Data ss:Type="String">Zaälbezül, Paže Ashtarotha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofe_ColossalBreeder</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Experimental Amalgam</Data></Cell>
+    <Cell><Data ss:Type="String">Experimentální Amalgam</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofe_Spreader</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Harvester</Data></Cell>
+    <Cell><Data ss:Type="String">Žnec</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofe_Cultist</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Cultist of the Aberrant</Data></Cell>
+    <Cell><Data ss:Type="String">Aberantův Kultista</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofe_Fanatic</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Fanatic of the Aberrant</Data></Cell>
+    <Cell><Data ss:Type="String">Aberantův Fanatik</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofe_Zombie</Data></Cell>
@@ -412,6 +424,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_IncubationChamber_ClassName</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Cloning Pod</Data></Cell>
+    <Cell><Data ss:Type="String">Klonovací Kapsule</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Cult of Fury</Data></Cell>
@@ -420,66 +433,82 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_RangeSoldier</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Missile Infantry</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačená Střelná Jednotka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_MeleeSoldier</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Shock Infantry</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačená Šoková Jednotka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Veteran</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Purifier Veteran</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačený Očistitel Veterán</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Siegebeast</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Mortarbeast</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačená Moždířová Bestie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Sniper</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Railgunner</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačený Odstřelovač</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Assassin</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Alastor</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačený Alastor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Golgoth</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Punisher Exoskeleton</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačený Exoskeleton Kata</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofy_Cultist</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Cultist of the Blind Prince</Data></Cell>
+    <Cell><Data ss:Type="String">Kultista Slepého Prince</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofy_Fanatic</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Fanatic of the Blind Prince</Data></Cell>
+    <Cell><Data ss:Type="String">Fanatik Slepého Prince</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofy_Spirit</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Fury Spirit</Data></Cell>
+    <Cell><Data ss:Type="String">Zuřivý Duch</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Knight</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Aurora Knight</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačený Rytíř Jitřenky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Priest</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Hierophant</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačený Hierofant</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Squire_Hammer</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Brother</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačený Bratr</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Squire_Sword</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Brother</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačený Bratr</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofy_Instigator</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Fury Spawn</Data></Cell>
+    <Cell><Data ss:Type="String">Zuřivá Havěť</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofy_Enforcer</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Instigator of Fury</Data></Cell>
+    <Cell><Data ss:Type="String">Iniciátor Zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s73">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Svriirs</Data></Cell>
@@ -488,142 +517,177 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Baby</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Svriirling</Data></Cell>
+    <Cell><Data ss:Type="String">Svriirlátko</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Omega</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Omega Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Omega Svriir</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Screecher</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Beta Screecher</Data></Cell>
+    <Cell><Data ss:Type="String">Vřískač Beta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Spitter</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Beta Spitter</Data></Cell>
+    <Cell><Data ss:Type="String">Plivač Beta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Spawner</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Beta Spawner</Data></Cell>
+    <Cell><Data ss:Type="String">Plodič Beta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Minispitter</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Noxious Swarmwing</Data></Cell>
+    <Cell><Data ss:Type="String">Škodlivý Roj</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Omegafemale_1</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Omega Female Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Samice Svriir Omega</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_PoisonAlpha</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Alpha Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Svriir Alfa </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_FireAlpha</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Alpha Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Svriir Alfa </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Baby_2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Sea Svriirling</Data></Cell>
+    <Cell><Data ss:Type="String">Mořské Svriirlátko</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Omegafemale_2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Sea Omega Female Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Mořská Samice Svriir Omega</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Omega_2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Sea Omega Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Mořský Svriir Omega</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Spawner_2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Sea Beta Spawner</Data></Cell>
+    <Cell><Data ss:Type="String">Mořský Plodič Beta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Screecher_2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Sea Beta Screecher</Data></Cell>
+    <Cell><Data ss:Type="String">Mořský Vřískač Beta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Minispitter_2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Sea Noxious Swarmwing</Data></Cell>
+    <Cell><Data ss:Type="String">Mořský Škodlivý Roj</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Spitter_2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Sea Spitter</Data></Cell>
+    <Cell><Data ss:Type="String">Mořský Plivač</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Baby_3</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Caves Svriirling</Data></Cell>
+    <Cell><Data ss:Type="String">Jeskynní Svriirlátko</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Omega_3</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Caves Omega Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Jeskynní Svriir Omega</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Screecher_3</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Caves Beta Screecher</Data></Cell>
+    <Cell><Data ss:Type="String">Jeskynní Vřískač Beta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Spitter_3</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Caves Beta Spitter</Data></Cell>
+    <Cell><Data ss:Type="String">Jeskynní Plivač Beta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Spawner_3</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Caves Beta Spawner</Data></Cell>
+    <Cell><Data ss:Type="String">Jeskynní Plodič Beta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_PoisonAlpha_3</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Caves Alpha Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Jeskynní Svriir Alfa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Minispitter_3</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Caves Noxious Swarmwing</Data></Cell>
+    <Cell><Data ss:Type="String">Jeskynní Škodlivý Roj</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Omegafemale_3</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Caves Omega Female Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Jeskynní Samice Svriir Omega</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Morgon</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Misshapen Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Znetvořený Svriir</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Morgon_Bleed</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Misshapen Mangler</Data></Cell>
+    <Cell><Data ss:Type="String">Znetvořený Ničitel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Morgon_Poison</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Misshapen Infected</Data></Cell>
+    <Cell><Data ss:Type="String">Znetvořený Nakažený</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Svriirs_Alpha_Fire</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Fireblood Alpha Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Svriir Alfa Ohnivé Krve</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Svriirs_Minispitter_Fire</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Fireblood Swarmwing</Data></Cell>
+    <Cell><Data ss:Type="String">Škodlivý Roj Ohnivé Krve</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Svriirs_Omega_Fire</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Fireblood Omega Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Svriir Omega Ohnivé Krve</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Svriirs_Baby_Fire</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Fireblood Svriirling</Data></Cell>
+    <Cell><Data ss:Type="String">Svriirlátko Ohnivé Krve</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Svriirs_Omegafemale_Fire</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Fireblood Omega Female Svriir</Data></Cell>
+    <Cell><Data ss:Type="String">Samice Svriir Omega Ohnivé Krve</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Svriirs_Screecher_Fire</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Fireblood Beta Screecher</Data></Cell>
+    <Cell><Data ss:Type="String">Vřískač Beta Ohnivé Krve</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Svriirs_Spawner_Fire</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Fireblood Beta Spawner</Data></Cell>
+    <Cell><Data ss:Type="String">Plodič Beta Ohnivé Krve</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Svriirs_Spitter_Fire</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Fireblood Beta Spitter</Data></Cell>
+    <Cell><Data ss:Type="String">Plivač Beta Ohnivé Krve</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s73">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Outlaws</Data></Cell>
@@ -632,38 +696,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s73">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_Outlaws_MeleeBandit</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flayer Raider</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer Nájezdník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_RangedBandit</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flayer Archer</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer Lučištník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Dog</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">War Hound</Data></Cell>
+    <Cell><Data ss:Type="String">Válečný Pes</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Dog2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Armored War Hound</Data></Cell>
+    <Cell><Data ss:Type="String">Obrněný Válečný Pes</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Trapper</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flayer Sapper</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer Saper</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Trapper_Stun</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flayer Staggerer</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer Omračovač</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_KennelMaster</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flayer Kennel Master</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer Lovec</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Wallbreaker</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flayer Wallbreaker</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer Ničitel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Thug</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Flayer Warmaster</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer Válečný Mistr</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Outlaws: Shadow wildlings</Data></Cell>
@@ -672,46 +745,57 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Shaman</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Morosian Seer</Data></Cell>
+    <Cell><Data ss:Type="String">Morosianský Jasnovidec</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Assassin</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Penumbral Lurker</Data></Cell>
+    <Cell><Data ss:Type="String">Polostínový Stopař</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_RangedBandit_Shadow</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Tribal Archer</Data></Cell>
+    <Cell><Data ss:Type="String">Kmenový Lučištník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_MeleeBandit_Shadow</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Tribal Raider</Data></Cell>
+    <Cell><Data ss:Type="String">Kmenový Nájezdník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_KennelMaster_Shadow</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Tribal Kennel Master</Data></Cell>
+    <Cell><Data ss:Type="String">Kmenový Lovec</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Trapper_Shadow</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Tribal Sapper</Data></Cell>
+    <Cell><Data ss:Type="String">Kmenový Saper</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Wallbreaker_Shadow</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Tribal Wallbreaker</Data></Cell>
+    <Cell><Data ss:Type="String">Kmenový Ničitel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Thug_Shadow</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Twillight Champion</Data></Cell>
+    <Cell><Data ss:Type="String">Šampion Soumraku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Bear</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Tamed Grizzly</Data></Cell>
+    <Cell><Data ss:Type="String">Zkrocený Grizzly</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_MiniBear</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Tamed Bear Cub</Data></Cell>
+    <Cell><Data ss:Type="String">Zkrocené Medvídě</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Shadow_Spirit</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Shadow of a Spirit</Data></Cell>
+    <Cell><Data ss:Type="String">Stín Ducha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s73">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Republic</Data></Cell>
@@ -720,6 +804,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Republic_MeleeSoldier</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Purifier Shock Infantry</Data></Cell>
+    <Cell><Data ss:Type="String">Šokový Očistitel </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Republic_Assassin</Data></Cell>
@@ -729,10 +814,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Republic_RangeSoldier</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Purifier Missile Infantry</Data></Cell>
+    <Cell><Data ss:Type="String">Střelný Očistitel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Republic_Sniper</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Purifier Railgunner</Data></Cell>
+    <Cell><Data ss:Type="String">Očistitel Odstřelovač</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Republic_Golgoth</Data></Cell>
@@ -745,10 +832,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Republic_Veteran</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Purifier Veteran</Data></Cell>
+    <Cell><Data ss:Type="String">Očistitel Veterán</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Republic_Justicar</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Justicar of the Republic</Data></Cell>
+    <Cell><Data ss:Type="String">Justikář Republiky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Republic_Heimlock</Data></Cell>
@@ -762,6 +851,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Primordial_Armor</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Primordial Armor</Data></Cell>
+    <Cell><Data ss:Type="String">Prvotní Brnění</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Primordial_Guardian</Data></Cell>
@@ -775,7 +865,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AIName_GoldenScarab</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Wealth Omen</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Znamení Bohatství</Data></Cell>
     <Cell ss:StyleID="s83"/>
     <Cell ss:StyleID="s83"/>
     <Cell ss:StyleID="s83"/>
@@ -17160,7 +17250,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_AIName_GoldenScarab_Rare</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Grand Wealth Omen</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"><Data ss:Type="String">Ohromné Znamení Bohatství</Data></Cell>
     <Cell ss:StyleID="s83"/>
     <Cell ss:StyleID="s83"/>
     <Cell ss:StyleID="s83"/>
@@ -33549,22 +33639,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Untainted_Eviscerator</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Untainted Shadowblade</Data></Cell>
+    <Cell><Data ss:Type="String">Nezkažená Čepel Stínu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Charger</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Untainted Zealot</Data></Cell>
+    <Cell><Data ss:Type="String">Nezkažený Fanatik</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_ChargerClone</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Zealot Clone</Data></Cell>
+    <Cell><Data ss:Type="String">Klon Fanatika</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Eviscerator</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Untainted Shadowblade</Data></Cell>
+    <Cell><Data ss:Type="String">Nezkažená Čepel Stínu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_AIName_Tracker</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Untainted Mindsealer</Data></Cell>
+    <Cell><Data ss:Type="String">Nezkažená Pečeť Mysle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s73">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Campaign Bosses</Data></Cell>
@@ -33573,26 +33668,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_FireAlpha_B</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Sirkis, Bane of the Storm</Data></Cell>
+    <Cell><Data ss:Type="String">Sirkis, Kletba Hromů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_BanditWarlord_B</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Mercy</Data></Cell>
+    <Cell><Data ss:Type="String">Mercy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_Yudai_B</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Yudaï, Whisper of Anameterassü</Data></Cell>
+    <Cell><Data ss:Type="String">Yudai, Šepot Anameterassü</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Republic_Edric_B</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Edric, Justicar of the Republic</Data></Cell>
+    <Cell><Data ss:Type="String">Edric, Justikář Republiky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_CultistOfSouls_B</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Vhegguad, Seal of Anankis</Data></Cell>
+    <Cell><Data ss:Type="String">Vhegguad, Pečeť Anankise</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_PoisonAlpha_B</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Sobok the Untamed</Data></Cell>
+    <Cell><Data ss:Type="String">Sobok Nezkrocený</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Trapper_B</Data></Cell>
@@ -33617,6 +33718,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_Specter_B</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Haaron the Harvester</Data></Cell>
+    <Cell><Data ss:Type="String">Žneč Haaron</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_ZombieButcher_B</Data></Cell>
@@ -33626,34 +33728,42 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Outlaws_Mercy_Zombie</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Husk of Mercy</Data></Cell>
+    <Cell><Data ss:Type="String">Mrtvák Lítosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Janaris</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Janaris, Emissary of the Sleeper</Data></Cell>
+    <Cell><Data ss:Type="String">Janaris, Vyslanec Spáče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_MercyArena_Mercy</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Mercy</Data></Cell>
+    <Cell><Data ss:Type="String">Mercy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_MercyArena_DenMaster</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Toxicmaster Toremy</Data></Cell>
+    <Cell><Data ss:Type="String">Mistr Jedů Toremy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_MercyArena_SpiderQueen</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Augustëa, The Doomgazer</Data></Cell>
+    <Cell><Data ss:Type="String">Augustëa, The Doomgazer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_MercyArena_Assassin</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Augustëa's Cook</Data></Cell>
+    <Cell><Data ss:Type="String">Augustëův Kuchař</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_MercyArena_Shaman</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Mazarra, The-One-That-Knows</Data></Cell>
+    <Cell><Data ss:Type="String">Mazarra, Ten-Který-Ví</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_MercyArena_Specter</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Ebberus the Counselor</Data></Cell>
+    <Cell><Data ss:Type="String">Rádce Ebberus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_MercyArena_Trapper_Aether</Data></Cell>
@@ -33673,15 +33783,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_ForestClearing_Justicar</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Justicar Azenhal</Data></Cell>
-    <Cell><Data ss:Type="String">Justicar Azenhal</Data></Cell>
+    <Cell><Data ss:Type="String">Justikář Azenhal</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_VOS2_DemonOfSouls</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Nerukaï, Vision of the Sleeper</Data></Cell>
+    <Cell><Data ss:Type="String">Nerukai, Vize Spáče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_VOS2_Mercy_Zombie</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Risen Mercy</Data></Cell>
+    <Cell><Data ss:Type="String">Vzkříšená Lítost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_InnerSanctum_Enforcer</Data></Cell>
@@ -33691,10 +33803,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_InnerSanctum_DemonOfSouls</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Lothaï, Echo of the Sleeper</Data></Cell>
+    <Cell><Data ss:Type="String">Lothai, Ozvěna Spáče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_InnerSanctum_DemonOfFlesh</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Ulzerag, Maw of Ashtaroth</Data></Cell>
+    <Cell><Data ss:Type="String">Ulzerag, Ústa Ashtarotha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Trenches_Enforcer</Data></Cell>
@@ -33704,22 +33818,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Trenches_Golgoth</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Pacified Experiment #P90</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačený Experiment #P90</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Tower_Veteran</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Nikölas, The Spear of Balance</Data></Cell>
+    <Cell><Data ss:Type="String">Nikölas, Kopí Rovnováhy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Monolith_Cultist_1</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Halbanar, Instrument of Fury</Data></Cell>
+    <Cell><Data ss:Type="String">Halbanar, Nástroj Zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Monolith_Cultist_2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Marcaras, Instrument of Fury</Data></Cell>
+    <Cell><Data ss:Type="String">Marcaras, Nástroj Zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Monolith_Cultist_3</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Hongeris, Instrument of Fury</Data></Cell>
+    <Cell><Data ss:Type="String">Hongeris, Nástroj Zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Stormfall</Data></Cell>
@@ -33792,10 +33911,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Wild_Bat</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Winged Bloodsucker</Data></Cell>
+    <Cell><Data ss:Type="String">Okřidlený Krvesaj</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Wild_Hornet</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flying Impaler</Data></Cell>
+    <Cell><Data ss:Type="String">Létající Bodák</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Wild_Scarab</Data></Cell>
@@ -33876,12 +33997,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_Trapper01</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Mirion the Pyromaniac</Data></Cell>
-    <Cell><Data ss:Type="String">Mirion Pyroman</Data></Cell>
+    <Cell><Data ss:Type="String"> Pyroman Mirion</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_Bear</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Eclipse the Shadowhaunt</Data></Cell>
-    <Cell><Data ss:Type="String">Eclipse Stínový Přízrak</Data></Cell>
+    <Cell><Data ss:Type="String">Stínový Přízrak Eclipse</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_Halfbreed</Data></Cell>
@@ -33916,7 +34037,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_Shaman</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Mistshaper Malikia</Data></Cell>
-    <Cell><Data ss:Type="String">Malikia Mlhotvarná</Data></Cell>
+    <Cell><Data ss:Type="String">Mlhotvarná Malikia</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s85"><Data ss:Type="String">Act3</Data></Cell>
@@ -33969,7 +34090,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_GiantScreecher</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Sssircero the Exiled</Data></Cell>
-    <Cell><Data ss:Type="String">Sssircero Vyhnanec</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhnanec Sssircero</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_AuroraKnight</Data></Cell>
@@ -34019,11 +34140,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>241</TopRowVisible>
+   <TopRowVisible>93</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>260</ActiveRow>
+     <ActiveRow>21</ActiveRow>
      <ActiveCol>5</ActiveCol>
     </Pane>
    </Panes>

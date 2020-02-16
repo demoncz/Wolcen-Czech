@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>10365</WindowHeight>
+  <WindowHeight>12315</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -103,22 +103,22 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s40" ss:Name="40&#160;% - Accent1">
+  <Style ss:ID="s62" ss:Name="40&#160;% - Accent1">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
    <Interior ss:Color="#BDD7EE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s28" ss:Name="Neutre">
+  <Style ss:ID="s63" ss:Name="Neutre">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s26" ss:Name="Satisfaisant">
+  <Style ss:ID="s64" ss:Name="Satisfaisant">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s62">
+  <Style ss:ID="s65">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s63">
+  <Style ss:ID="s66">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -129,7 +129,7 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s64">
+  <Style ss:ID="s67">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -140,7 +140,7 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s71" ss:Parent="s40">
+  <Style ss:ID="s70" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -150,15 +150,15 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="s75" ss:Parent="s40">
+  <Style ss:ID="s76" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Italic="1"/>
   </Style>
-  <Style ss:ID="s76" ss:Parent="s40">
+  <Style ss:ID="s77" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s81" ss:Parent="s28">
+  <Style ss:ID="s81" ss:Parent="s63">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
@@ -178,108 +178,129 @@
    <Column ss:Width="269.25"/>
    <Column ss:AutoFitWidth="0" ss:Width="569.25"/>
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s62">
-    <Cell ss:StyleID="s63"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s64"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s65">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="1" ss:StyleID="s71"><Data ss:Type="String">ACTIVE EFFECTS</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">ACTIVE EFFECTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Status Effects</Data></Cell>
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Status Effects</Data></Cell>
+    <Cell ss:StyleID="s77"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Stunned_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Stunned</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Stunned</Data></Cell>
+    <Cell><Data ss:Type="String">Omráčení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Stunned_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Stun interrupts and prevents targets from acting or moving for a short period of time.</Data></Cell>
+    <Cell><Data ss:Type="String">Omráčení přeruší a zabraní cílům v jednání nebo v pohybu na krátkou dobu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Poisoned_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Poisoned</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Poisoned</Data></Cell>
+    <Cell><Data ss:Type="String">Otrávení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Poisoned_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Poison deals Toxic Damage over time to the target.</Data></Cell>
+    <Cell><Data ss:Type="String">Otrava zbůsobí cíli toxické poškození v čase.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Burning_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Burning</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Burning</Data></Cell>
+    <Cell><Data ss:Type="String">Zapálení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Burning_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Burning deals Fire Damage over time both to the target and those around it.</Data></Cell>
+    <Cell><Data ss:Type="String">Zapálení zbůsobí cíli a všem v okolí ohnivé poškození v čase.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Frozen_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Frozen</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Frozen</Data></Cell>
+    <Cell><Data ss:Type="String">Zmražení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Frozen_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Freeze prevents target from acting or moving.</Data></Cell>
+    <Cell><Data ss:Type="String">Zmražení zabrání cíli v jednání nebo v pohybu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Bleeding_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Bleeding</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Bleeding</Data></Cell>
+    <Cell><Data ss:Type="String">Krvácení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Bleeding_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Bleed deals Rend Damage over time.</Data></Cell>
+    <Cell><Data ss:Type="String">Krvácení způsobí cíli ?rend? poškození v čase.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Shocked_title</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Shocked</Data></Cell>
+    <Cell><Data ss:Type="String">Šok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Shocked_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Shock deals Lightning Damage over time. Additional damage can occur if several characters afflicted with shock stay close together.</Data></Cell>
+    <Cell><Data ss:Type="String">Šok způsobí cíli poškození v čase. K dodatečnému poškození může dojít jakmile stojí několik postav které jsou šokovány blízko u sebe.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Weakened_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Weakness</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Weakness</Data></Cell>
+    <Cell><Data ss:Type="String">Oslabení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Weakened_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Weakness reduces the Damage dealt by the target.</Data></Cell>
+    <Cell><Data ss:Type="String">Oslabení sníží poškození které cíl způsobí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Stasis_title</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Stasis</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Stasis</Data></Cell>
+    <Cell><Data ss:Type="String">Stáze</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Stasis_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Stasis slows every movement of the target.</Data></Cell>
+    <Cell><Data ss:Type="String">Stáze zpomaluje pohyb cíle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Cursed_title</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Cursed</Data></Cell>
+    <Cell><Data ss:Type="String">Prokletí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Cursed_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Cursed increases the Damage taken by the target.</Data></Cell>
+    <Cell><Data ss:Type="String">Prokletí zvýší Poškození uložené cíli</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Passive Skills Effects</Data></Cell>
-    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Passive Skills Effects</Data></Cell>
+    <Cell ss:StyleID="s77"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="1" ss:StyleID="s71"><Data ss:Type="String">DBNO</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">DBNO</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PressSpaceToRevive</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Hold Space for second wind\n%1/%2 Tokens Remaining</Data></Cell>
+    <Cell><Data ss:Type="String">Podržte mezerník pro druhou šanci\n%1/%2 Zbývá Oživení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ClicToReviveAlly</Data></Cell>
-    <Cell ss:StyleID="s26"><Data ss:Type="String">Click to assist</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Click to assist</Data></Cell>
+    <Cell><Data ss:Type="String">Zmáčkni pro pomoc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_press_x_to_give_up</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Hold X to Give up</Data></Cell>
+    <Cell><Data ss:Type="String">Podržte X abyste se vzdali</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="66"/>
    <Row ss:Index="175" ss:AutoFitHeight="0" ss:Height="25.5"/>
@@ -377,8 +398,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveCol>2</ActiveCol>
-     <RangeSelection>C3</RangeSelection>
+     <ActiveRow>20</ActiveRow>
+     <ActiveCol>7</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

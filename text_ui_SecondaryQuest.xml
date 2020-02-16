@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>17625</WindowHeight>
-  <WindowWidth>32767</WindowWidth>
+  <WindowHeight>12315</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -103,22 +103,22 @@
    <NumberFormat/>
    <Protection/>
   </Style>
-  <Style ss:ID="s26" ss:Name="Good">
+  <Style ss:ID="s62" ss:Name="Good">
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s62">
+  <Style ss:ID="s63">
    <Alignment ss:Vertical="Top"/>
    <Font ss:FontName="Arial" x:Family="Swiss"/>
   </Style>
-  <Style ss:ID="s63">
+  <Style ss:ID="s64">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s65">
+  <Style ss:ID="s66">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s66">
+  <Style ss:ID="s67">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -128,7 +128,7 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FFCC00" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s67">
+  <Style ss:ID="s68">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -138,16 +138,16 @@
    <Font ss:FontName="Courier New" x:Family="Modern" ss:Color="#FFFFFF" ss:Bold="1"/>
    <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s68">
+  <Style ss:ID="s69">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Italic="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s69">
+  <Style ss:ID="s70">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s71" ss:Parent="s26">
+  <Style ss:ID="s72" ss:Parent="s62">
    <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
  </Styles>
@@ -163,513 +163,517 @@
   </Names>
   <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="573" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
-   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="272.25"/>
-   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="555"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="272.25"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="555"/>
    <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
-   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s65">
-    <Cell ss:StyleID="s66"><Data ss:Type="String">KEY</Data></Cell>
-    <Cell ss:StyleID="s67"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s66">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">KEY</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s68"><Data ss:Type="String">Campaign Secondary content</Data></Cell>
-    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Campaign Secondary content</Data></Cell>
+    <Cell ss:StyleID="s70"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KCP_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Cull All Evil</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Cull All Evil</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Track Down Evil</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Track Down Evil</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KON_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Bounty Hunting</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Bounty Hunting</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Head Hunting</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Head Hunting</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KCP_StepNameLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill enemies in the area</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill enemies in the area</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij nepřátele v oblasti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_OUTW_Trapper</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Flayer Sappers&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Flayer Sappers&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COSS_Reaper</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Specters&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Specters&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COSS_Halfbreed</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Soul Spawns&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Soul Spawns&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COSS_Tombbearer</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Soul Tormentors&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Soul Tormentors&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFE_Spreader</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Harvesters&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Harvesters&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_SVRI_Spawner</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Svriir Beta Spawners&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Svriir Beta Spawners&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_SOUTW_Shaman</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Morosian Seers&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Morosian Seers&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_REPU_Sniper</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Republican Railgunners&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Republican Railgunners&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFE_Sniper</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Assimilated Republican Railgunners&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Assimilated Republican Railgunners&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFE_Halfbreed</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Flesh Spawns&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Flesh Spawns&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFY_Enforcer</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Instigators&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Instigators&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFY_Assassin</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Pacified Alastors&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Pacified Alastors&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_REPU_Veteran</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Purifier Veterans&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Purifier Veterans&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFY_Veteran</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Pacified Purifier Veterans&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Pacified Purifier Veterans&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_StepNameLabel_COFY_Cultist</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elite &quot;Cultists of Fury&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elite &quot;Cultists of Fury&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KON_StepNameLabel_COSS_NamedHalfbreed</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill &quot;Galaphöron&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill &quot;Galaphöron&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij &quot;Galaphörona&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KON_StepNameLabel_SVRI_NamedGiantSpawner</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill  &quot;Ssilassa&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill  &quot;Ssilassa&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij &quot;Ssilassu&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KON_StepNameLabel_OUTW_NamedAlphaWarhound</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill &quot;Snuffles the Good Doggie&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill &quot;Snuffles the Good Doggie&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij &quot;Dobrého Pejska Snufflese&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KON_StepNameLabel_COSS_NamedLanternBearer</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill &quot;Miré the Siphonner&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill &quot;Miré the Siphonner&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KON_StepNameLabel_COFE_NamedFleshZombie</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill &quot;The Lambach's Kiss&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill &quot;The Lambach's Kiss&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KON_StepNameLabel_COSS_NamedMiniSpecter</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill &quot;P. Vincentus, Breath of Anulaï-Tai&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill &quot;P. Vincentus, Breath of Anulaï-Tai&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFE_Cultist</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Cultist of the Aberrant&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Cultist of the Aberrant&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COSS_Halfbreed</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Soul Spawn&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Soul Spawn&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COSS_Reaper</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Specter&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Specter&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COSS_Cultist</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Cultist of the Sleeper&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Cultist of the Sleeper&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_OUTW_Brute</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Flayer Wallbreaker&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Flayer Wallbreaker&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_SVRI_AlphaPoison</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Alpha Svriir&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Alpha Svriir&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_SVRI_AlphaFlesh</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Alpha Svriir&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Alpha Svriir&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_OUTW_Thug</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Flayer Warmaster&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Flayer Warmaster&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_SOUTW_Thug</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Twillight Champion&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Twillight Champion&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_REPU_Assassin</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Alastor&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Alastor&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COSS_Priest</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Risen Hierophant&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Risen Hierophant&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFE_ColossalBreeder</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Experimental Amalgam&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Experimental Amalgam&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFY_Priest</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Pacified Hierophant&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Pacified Hierophant&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COSS_Butcher</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Devourer&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Devourer&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_SVRI_AlphaFire</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Fireblood Alpha Svriir&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Fireblood Alpha Svriir&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFY_Knight</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Aurora Knight&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Aurora Knight&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFY_SiegeBeast</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Pacified Mortarbeast&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Pacified Mortarbeast&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFY_Golgoth</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Pacified Punisher Exoskeleton&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Pacified Punisher Exoskeleton&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_REPU_Justicar</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Lord Justicar&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Lord Justicar&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFE_DoF</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Demon of Flesh&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Demon of Flesh&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COSS_DoS</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the Lord &quot;Demon of Souls&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the Lord &quot;Demon of Souls&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_Easy_StepNameLabel_OUTW_Trapper</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Flayer Sappers&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Flayer Sappers&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_Easy_StepNameLabel_COSS_Halfbreed</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Soul Spawns&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Soul Spawns&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_Easy_StepNameLabel_SVRI_Spawner</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Beta Spawners&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Beta Spawners&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_Easy_StepNameLabel_COSS_Halfbreed</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Soul Spawn&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Soul Spawn&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_Easy_StepNameLabel_OUTW_Brute</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Flayer Wallbreaker&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Flayer Wallbreaker&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s68"><Data ss:Type="String">Endgame content</Data></Cell>
-    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Endgame content</Data></Cell>
+    <Cell ss:StyleID="s69"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KCP_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Cull All Evil</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Cull All Evil</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Track Down Evil</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Track Down Evil</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Cleanse the Darkness</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Cleanse the Darkness</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_GDC_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Gold Rush!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Gold Rush!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CDC_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">You get a chest! And you get a chest!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">You get a chest! And you get a chest!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CCC_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Fortune Favors the Bold!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Fortune Favors the Bold!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CR_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">The Treasure Room</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">The Treasure Room</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CCR_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Dead Man's Chests</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Dead Man's Chests</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Bounty Hunting</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Bounty Hunting</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_UB_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">In Loving Memory</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">In Loving Memory</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_EG_LBF_QuestLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Legions of Them</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Legions of Them</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_Shared_StepNameLabel_Enter</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Enter the Portal</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Enter the Portal</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_NPC1_StepNameLabel_Finish</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Report to &quot;Dashing&quot; Eugene via the Mandates Board</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Report to &quot;Dashing&quot; Eugene via the Mandates Board</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_Consumable_StepNameLabel_Finish</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Exit through the Portal</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Exit through the Portal</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KCP_StepNameLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill enemies in the area</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill enemies in the area</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_OTW_Thug</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Flayer War Masters&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Flayer War Masters&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_OTWSB_Thug</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Twillight Champions&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Twillight Champions&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_COS_DoS</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Demons of Souls&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Demons of Souls&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_COFE_DoF</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Demons of Flesh&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Demons of Flesh&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_COFY_Knight</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Pacified Aurora Knights&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Pacified Aurora Knights&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_COFY_Golgoth</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Punisher Exoskeletons&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Punisher Exoskeletons&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_REPU_Justicar</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Justicars&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Justicars&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_SVRI_AlphaPoison</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Alpha Svriirs&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Alpha Svriirs&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_SVRIF_AlphaFire</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Alpha Svriirs&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Alpha Svriirs&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_CALL_TaintedPrimoGuardian</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Tainted Primordial Guardians&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Tainted Primordial Guardians&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_OTWF_Trapper</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Flayer Sappers&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Flayer Sappers&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_OTWSB_KennelMaster</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Kennel Master&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Kennel Master&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_OTWSBW_Shaman</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Morosian Seers&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Morosian Seers&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COST_Priest</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Risen Hierophants&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Risen Hierophants&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COSS_Halfbreed</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Soul Spawns&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Soul Spawns&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COSD_Tomberear</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Soul Tormentors&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Soul Tormentors&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COSU_Spiker</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Risen Martyrs&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Risen Martyrs&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COW_Reaper</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Specters&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Specters&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COFLW_Spreader</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Harvesters&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Harvesters&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COFLVR_Sniper</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Railgunners&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Railgunners&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COFMSR_Colossalbreader</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Experimental Amalgams&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Experimental Amalgams&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COFLVT_Cultist</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Cultists of the Aberrant&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Cultists of the Aberrant&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_REPU_SiegeBeast</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Savior-Maw Mortarbeast&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Savior-Maw Mortarbeast&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COFUT_Enforcer</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Instigators&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Instigators&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COFUR_Veteran</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Purifier Veterans&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Purifier Veterans&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_SVRIP_Spitter</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Beta Spitters&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Beta Spitters&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_SVRIW_Spawner</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Beta Spawners&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Beta Spawners&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_SVRIF_Spitter</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Fireblood Beta Spitters&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Fireblood Beta Spitters&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_SVRIFW_Screecher</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Beta Screechers&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Beta Screechers&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_CALL_Cultist</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill Elder &quot;Cultists of the Blind Prince&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Cultists of the Blind Prince&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_GDC_StepNameLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill as many &quot;Wealth Omens&quot; as possible within the time limit.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill as many &quot;Wealth Omens&quot; as possible within the time limit.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CDC_StepNameLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Loot as many chests as possible within the time limit.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Loot as many chests as possible within the time limit.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CCC_StepNameLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Loot as many cursed chests as possible within the time limit.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Loot as many cursed chests as possible within the time limit.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CR_StepNameLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Get all the loot and report to &quot;Dashing Eugene&quot; via the Expeditions Map</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Get all the loot and report to &quot;Dashing Eugene&quot; via the Expeditions Map</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CCR_StepNameLabel</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Get all the loot and report to &quot;Dashing Eugene&quot; via the Expeditions Map</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Get all the loot and report to &quot;Dashing Eugene&quot; via the Expeditions Map</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Justicar</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Justicar&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Justicar&quot; Dungeon Boss</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Assassin</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Alastor&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Alastor&quot; Dungeon Boss</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Thug</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Flayer Warmaster&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Flayer Warmaster&quot; Dungeon Boss</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_DoS</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Demon of Souls&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Demon of Souls&quot; Dungeon Boss</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Butcher</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Devourer&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Devourer&quot; Dungeon Boss</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_PacifiedKnight</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Pacified Aurora Knight&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Pacified Aurora Knight&quot; Dungeon Boss</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_PacifiedGolgoth</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Pacified Punisher Exoskeleton&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Pacified Punisher Exoskeleton&quot; Dungeon Boss</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_DoF</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Demon of Flesh&quot; Dungeon Boss</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Demon of Flesh&quot; Dungeon Boss</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_SvriirAlphaPoison</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Alpha Svriir&quot; Dungon Boss</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Alpha Svriir&quot; Dungon Boss</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Primo</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Tainted Primordial Guardian&quot; Dungon Boss</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Tainted Primordial Guardian&quot; Dungon Boss</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_UB_StepNameLabel_UberLambach</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Slay &quot;Uber Lambach&quot;</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Slay &quot;Uber Lambach&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_AlphaPoison</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Alpha Svriir&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Alpha Svriir&quot; Summoner</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Thug</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Flayer Warmaster&quot; summoner</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Flayer Warmaster&quot; summoner</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Assassin</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Penumbral Lurker&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Penumbral Lurker&quot; Summoner</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Butcher</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Devourer&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Devourer&quot; Summoner</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Corrupted_PrimordialGuardian</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Tainted Primordial Guardian&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Tainted Primordial Guardian&quot; Summoner</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_PacifiedGolgoth</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Pacified Exoskeleton&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Pacified Exoskeleton&quot; Summoner</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_DemonOfFlesh</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Demon of Flesh&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Demon of Flesh&quot; Summoner</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_DemonOfSouls</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Demon of Souls&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Demon of Souls&quot; Summoner</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_JusticarElite</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Justicar&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Justicar&quot; Summoner</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Knight</Data></Cell>
-    <Cell ss:StyleID="s71"><Data ss:Type="String">Kill the &quot;Pacified Aurora Knight&quot; Summoner</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Pacified Aurora Knight&quot; Summoner</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="112"/>
    <Row ss:Index="272" ss:AutoFitHeight="0" ss:Height="25.5"/>
@@ -761,12 +765,12 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>38</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>69</ActiveRow>
-     <ActiveCol>4</ActiveCol>
+     <ActiveRow>2</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+     <RangeSelection>R3C3:R25C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

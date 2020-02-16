@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>17625</WindowHeight>
-  <WindowWidth>32767</WindowWidth>
+  <WindowHeight>12315</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -238,42 +238,52 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_quest_reward</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Quest Rewards</Data></Cell>
+    <Cell><Data ss:Type="String">Odměna za úkol</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_quest_choosereward</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Choose your reward</Data></Cell>
+    <Cell><Data ss:Type="String">Vyber si odměnu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_quest_accept</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Accept Quest</Data></Cell>
+    <Cell><Data ss:Type="String">Přijmout úkol</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_quest_decline</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Decline Quest</Data></Cell>
+    <Cell><Data ss:Type="String">Odmítnout úkol</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_quest_norewardselected</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">You must choose your reward</Data></Cell>
+    <Cell><Data ss:Type="String">Musíš zvolit odměnu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_quest_questcomplete</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Objective Completed!</Data></Cell>
+    <Cell><Data ss:Type="String">Úkol je hotový!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Quest_warning_title</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">The story ends here… for now!</Data></Cell>
+    <Cell><Data ss:Type="String">Zde končí příběh... zatím!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">ui_Quest_warning_content</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Thank you for playing Wolcen : Lords of Mayhem! Due to the alpha state of the game, the main story doesn't go further for now and will be extended and improved with time. </Data></Cell>
+    <Cell><Data ss:Type="String">Děkujeme za hraní hry Wolcen: Lords of Mayhem! Z důvodu alfa fáze hry prozatím nelze pokračovat dále v příběhu, ale časem se hra bude rozšiřovat a vylepšovat.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_quest_optional</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">(OPTIONAL) </Data></Cell>
+    <Cell><Data ss:Type="String">(VOLITELNÉ)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_quest_new</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">NEW</Data></Cell>
+    <Cell><Data ss:Type="String">NOVÉ</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s73"><Data ss:Type="String">TUTORIAL MESSAGES</Data></Cell>
@@ -320,22 +330,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">Quest_Generic_Dots</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">…</Data></Cell>
+    <Cell><Data ss:Type="String">...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">A0_ActLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Prologue</Data></Cell>
+    <Cell><Data ss:Type="String">Prolog</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">A1_ActLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Act 1</Data></Cell>
+    <Cell><Data ss:Type="String">Akt 1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">A2_ActLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Act 2</Data></Cell>
+    <Cell><Data ss:Type="String">Akt 2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">A3_ActLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Act 3</Data></Cell>
+    <Cell><Data ss:Type="String">Akt 3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">Intertitle</Data></Cell>
@@ -344,6 +359,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_text_Intertitle1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Grand Inquisitor Heimlock saved you as well as your childhood friends Valeria and Edric when you were five years old. He drafted the three of you into his Republican army of Purifiers.</Data></Cell>
+    <Cell><Data ss:Type="String">Velký inkvizitor Heimlock vás zachránil, stejně jako vaše kamarády z dětství Valerii a Edrica, když vám bylo pět let. Naverboval Vás všechny do své Republikánské armády Čističů.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_text_Intertitle2</Data></Cell>
@@ -368,58 +384,72 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A0_Q0_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Children of Heimlock</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlockovi děti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Follow Maëlys</Data></Cell>
+    <Cell><Data ss:Type="String">Následuj Maëlys</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S1_StepNameLabelUpdate1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Talk to Maëlys</Data></Cell>
+    <Cell><Data ss:Type="String">Promluv si s Maëlys</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S1_StepNameLabelUpdate2</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Reach the Ledge</Data></Cell>
+    <Cell><Data ss:Type="String">Běž do Ledge</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Clear the Ledge</Data></Cell>
+    <Cell><Data ss:Type="String">Vyčistěte Ledge</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Kill the Sapper</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij Sappera</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Fight Through the Phenomenon</Data></Cell>
+    <Cell><Data ss:Type="String">Probij se skrz Phenomenon</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S5_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Reach the Nearby Ledge</Data></Cell>
+    <Cell><Data ss:Type="String">Bež do nedalekého Ledge</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S6_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell><Data ss:Type="String">Poslouchej okolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S7_EventQuestNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">The Surges from Below</Data></Cell>
+    <Cell><Data ss:Type="String">Otřesy z hlubin</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S7_EventStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Banish the Damned Creatures</Data></Cell>
+    <Cell><Data ss:Type="String">Poraz prokleté stvoření</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S7_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Question the Scout</Data></Cell>
+    <Cell><Data ss:Type="String">Vyslechni zvěda</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S7_StepNameLabelUpdate1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Defend Valeria</Data></Cell>
+    <Cell><Data ss:Type="String">Chraň Valerii</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A0_Q0_S7_StepNameLabelUpdate2</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Resist Yudaï</Data></Cell>
+    <Cell><Data ss:Type="String">Odolej Yudai</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">Act1_Main1</Data></Cell>
@@ -428,6 +458,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A1_Q1_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Unexpected Saviors</Data></Cell>
+    <Cell><Data ss:Type="String">Neočekávaní zachránci</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q1_S1_StepNameLabel</Data></Cell>
@@ -436,6 +467,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q1_S1_StepDescriptionLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell><Data ss:Type="String">Poslouchej okolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q1_S2_StepNameLabel</Data></Cell>
@@ -444,22 +476,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q1_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Escape the Svriir Grotto</Data></Cell>
+    <Cell><Data ss:Type="String">Unikni ze Svriirské Jeskyně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q1_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell><Data ss:Type="String">Poslouchej okolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q1_S4_StepNameLabelUpdate</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Talk to Valeria</Data></Cell>
+    <Cell><Data ss:Type="String">Promluv si s Valerii</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q1_S5_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Talk to the Stormfall Guard</Data></Cell>
+    <Cell><Data ss:Type="String">Promluv si se Stormfallským Strážcem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q1_S6_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach Stormfall</Data></Cell>
+    <Cell><Data ss:Type="String">Běz do Stormfallu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">Act1_Main2</Data></Cell>
@@ -472,10 +509,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Talk to Mohabi, the Merchant</Data></Cell>
+    <Cell><Data ss:Type="String">Promluv si s obchodníkem Mohabim</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Talk to Demetra, the Archivist</Data></Cell>
+    <Cell><Data ss:Type="String">Promluv si archivářkou Demetrou</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S3_StepNameLabel</Data></Cell>
@@ -484,6 +523,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S3_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
+    <Cell><Data ss:Type="String">Poslouchej okolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S3_UpdateStepNameLabel2</Data></Cell>
@@ -492,10 +532,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Reach Sandor's Camp</Data></Cell>
+    <Cell><Data ss:Type="String">Běž do Sandorova Tábora</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S5_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Talk to the Stormfall Guard</Data></Cell>
+    <Cell><Data ss:Type="String">Promluv si se Stormfallským Strážcem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S5_UpdateStepNameLabel1</Data></Cell>
@@ -1613,12 +1655,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>219</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>244</ActiveRow>
-     <ActiveCol>9</ActiveCol>
+     <ActiveRow>17</ActiveRow>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
