@@ -235,6 +235,7 @@
     <Cell ss:StyleID="s65"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
+    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">CITYBUILDER UI</Data></Cell>
@@ -3319,8 +3320,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>10</ActiveRow>
-     <ActiveCol>3</ActiveCol>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

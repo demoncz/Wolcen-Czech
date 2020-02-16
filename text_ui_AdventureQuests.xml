@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12300</WindowHeight>
-  <WindowWidth>25200</WindowWidth>
+  <WindowHeight>12315</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -183,6 +183,7 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
+    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">NPC2</Data></Cell>
@@ -1501,7 +1502,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>43</ActiveRow>
+     <ActiveRow>1</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

@@ -223,6 +223,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
+    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:MergeAcross="1" ss:StyleID="s73"><Data ss:Type="String">QUESTS INTERFACE</Data></Cell>
@@ -1658,7 +1659,6 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>17</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
