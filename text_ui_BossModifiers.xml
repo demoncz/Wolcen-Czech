@@ -220,38 +220,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FireImbued</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Fire Imbued</Data></Cell>
+    <Cell><Data ss:Type="String">Naplněný ohněm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FrostImbued</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Frost Imbued</Data></Cell>
+    <Cell><Data ss:Type="String">Naplněný mrazem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_LightningImbued</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Lightning Imbued</Data></Cell>
+    <Cell><Data ss:Type="String">Naplněný bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_RendImbued</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Rend Imbued</Data></Cell>
+    <Cell><Data ss:Type="String">Naplněný tržnými ranami</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_ToxicImbued</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Toxic Imbued</Data></Cell>
+    <Cell><Data ss:Type="String">Naplněný jedem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_PhysicalImbued</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Physical Imbued</Data></Cell>
+    <Cell><Data ss:Type="String">Naplněný fyzicky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_SacredImbued</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Sacred Imbued</Data></Cell>
+    <Cell><Data ss:Type="String">Naplněný posvátně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_ShadowImbued</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Shadow Imbued</Data></Cell>
+    <Cell><Data ss:Type="String">Naplněný stínem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_AetherImbued</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Aether Imbued</Data></Cell>
+    <Cell><Data ss:Type="String">Naplněný étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_Regeneration</Data></Cell>
@@ -261,22 +270,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_Powerful</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Powerful</Data></Cell>
+    <Cell><Data ss:Type="String">Silný</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_BossModifier_AetherShield</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Aether Shield</Data></Cell>
+    <Cell><Data ss:Type="String">Étherový štít</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_BossModifier_ElementalShield</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Elemental Shield</Data></Cell>
+    <Cell><Data ss:Type="String">Elementární štít</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_BossModifier_MaterialShield</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Material Shield</Data></Cell>
+    <Cell><Data ss:Type="String">Materiální štít</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_BossModifier_OccultShield</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Occult Shield</Data></Cell>
+    <Cell><Data ss:Type="String">Okultní štít</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_BossModifier_RessurectAround</Data></Cell>
@@ -286,10 +300,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_BossModifier_Sarisel</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Sarisel's Chosen</Data></Cell>
+    <Cell><Data ss:Type="String">Vyvolený Sarisel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_BossModifier_FuryMIssilesAround</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Fury Spirit Missile</Data></Cell>
+    <Cell><Data ss:Type="String">Střely ohnivého ducha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_BossModifier_ChargerIntouchable</Data></Cell>
@@ -299,38 +315,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_BossModifier_DropCreatures</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Spawn Underlings</Data></Cell>
+    <Cell><Data ss:Type="String">Vyvolává poskoky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_HomingIceProj</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Ice Missiles</Data></Cell>
+    <Cell><Data ss:Type="String">Ledové střely</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_BurningArea_Permanent</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Engulfing Flames</Data></Cell>
+    <Cell><Data ss:Type="String">Pohlcující plameny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_FireStun</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Searing Flames</Data></Cell>
+    <Cell><Data ss:Type="String">Spalující plameny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_ToxicSky</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Acid Rain</Data></Cell>
+    <Cell><Data ss:Type="String">Kyselý déšť</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_Wind_DZ</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Buffeting Winds</Data></Cell>
+    <Cell><Data ss:Type="String">Zmítající větry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_SpearsFromSky</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Hail of Spears</Data></Cell>
+    <Cell><Data ss:Type="String">Krupobití kopí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_HomingShadows</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Stalking Shadows</Data></Cell>
+    <Cell><Data ss:Type="String">Pronásledovací stín</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_RandomLightning</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Lightning Bolts</Data></Cell>
+    <Cell><Data ss:Type="String">Úder blesků</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_RandomPoison_DZ</Data></Cell>
@@ -339,30 +364,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_CirclingBlades</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Whirling Blades</Data></Cell>
+    <Cell><Data ss:Type="String">Rotujicí čepele</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_SpiralingAether</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aether Missiles</Data></Cell>
+    <Cell><Data ss:Type="String">Étherové střely</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_RendProjectiles_AllDirections</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Rending Missiles</Data></Cell>
+    <Cell><Data ss:Type="String">Trhací střely</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_AetherHomingProjectile</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Aether Missiles</Data></Cell>
+    <Cell><Data ss:Type="String">Étherové střely</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_BombsFromSky</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Bombing Runs</Data></Cell>
+    <Cell><Data ss:Type="String">Bombardování</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_Frost_Sticky_DZ</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Deep Frost</Data></Cell>
+    <Cell><Data ss:Type="String">Hluboký mráz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_CirclingRend_DZ</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Blood Ring</Data></Cell>
+    <Cell><Data ss:Type="String">Kruh krve</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_RandomRend_DZ</Data></Cell>
@@ -371,6 +403,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_ToxicSky_Homing</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Toxic Missiles</Data></Cell>
+    <Cell><Data ss:Type="String">Jedovaté střely</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_BigStorm</Data></Cell>
@@ -388,14 +421,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_FireHoming_Projectiles</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Flaming Missiles</Data></Cell>
+    <Cell><Data ss:Type="String">Ohnivé střely</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_Meteors_Random</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Meteor Strikes</Data></Cell>
+    <Cell><Data ss:Type="String">Úder meteoritů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_RandomIce_Projectiles</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Frozen Missiles</Data></Cell>
+    <Cell><Data ss:Type="String">Mrazivé střely</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_RendBeam_DZ</Data></Cell>
@@ -408,10 +444,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_LightningBolts_ForthAndBack</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Spiralling Bolts</Data></Cell>
+    <Cell><Data ss:Type="String">Spirálový blesk</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_BoltsFromSky</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Lightning Strikes</Data></Cell>
+    <Cell><Data ss:Type="String">Úder blesků</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_ShadowBackAndForth</Data></Cell>
@@ -424,14 +462,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_Stronger</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Mighty</Data></Cell>
+    <Cell><Data ss:Type="String">Mocný</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_ProtectiveDome</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Dome Shield</Data></Cell>
+    <Cell><Data ss:Type="String">Štít kupole</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_SimulacrumDebuff</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Affliction</Data></Cell>
+    <Cell><Data ss:Type="String">Nakažlivý</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="5"/>
    <Row ss:Index="146" ss:AutoFitHeight="0" ss:Height="25.5"/>
@@ -526,10 +567,12 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
+   <TopRowVisible>3</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>21</ActiveRow>
+     <ActiveCol>5</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

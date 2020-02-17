@@ -825,10 +825,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Republic_Golgoth</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Punisher Exoskeleton</Data></Cell>
+    <Cell><Data ss:Type="String">Exoskeleton Trestač</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Republic_Siegebeast</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Savior-Maw Mortarbeast</Data></Cell>
+    <Cell><Data ss:Type="String">Moždířová Bestie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Republic_Veteran</Data></Cell>
@@ -33674,7 +33676,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_BanditWarlord_B</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Mercy</Data></Cell>
-    <Cell><Data ss:Type="String">Mercy</Data></Cell>
+    <Cell><Data ss:Type="String">Lítost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_Yudai_B</Data></Cell>
@@ -33942,6 +33944,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Wild_rat</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Carrionfang Swarmer</Data></Cell>
+    <Cell><Data ss:Type="String">Mršinový Tesák Roj</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Named non story boss</Data></Cell>
@@ -34144,7 +34147,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>17</ActiveRow>
+     <ActiveCol>5</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

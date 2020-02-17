@@ -714,7 +714,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_anankis_core_overlook_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Anankis’ Core Overlook</Data></Cell>
-    <Cell><Data ss:Type="String">Anankisovo Jádro</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhlídka Na Jádro Anankis</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_anankis_halls_3_name</Data></Cell>
@@ -724,7 +724,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_act_1_anankis_core_overlook_2_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Anankis' Core Overlook 2</Data></Cell>
-    <Cell><Data ss:Type="String">Anankisovo Jádro 2. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhlídka Na Jádro Anankis 2. Patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Act 1 World Map Desc</Data></Cell>
@@ -984,14 +984,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_PSOverlook_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Corrupted Catalyst Overlook</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhlídka na Zkažený Katalyzátor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_FleshForest1_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Flesh Frontier</Data></Cell>
+    <Cell><Data ss:Type="String">Tělesná Hranice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_FleshForest2_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Flesh Forest</Data></Cell>
+    <Cell><Data ss:Type="String">Tělesný Les</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_FleshCity_name</Data></Cell>
@@ -1001,6 +1004,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_TempleOfJustice_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Vault of Hope</Data></Cell>
+    <Cell><Data ss:Type="String">Krypta Naděje</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_IncubationChamber1_name</Data></Cell>
@@ -1015,14 +1019,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_SvriirCave_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Echoing Path</Data></Cell>
+    <Cell><Data ss:Type="String">Cesta Ozvěn</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_ICWaypointArea_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Experimentation Room</Data></Cell>
+    <Cell><Data ss:Type="String">Experimentální Místnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_TemplarCampExterior_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Daybreakers' Valley</Data></Cell>
+    <Cell><Data ss:Type="String">Údolí Daybreakerů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_Flesh_City_Inner_name</Data></Cell>
@@ -1198,30 +1205,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_BattlefieldOverlook_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Battlefield Overlook</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhlídka Na Bojišti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_CoreOverlook_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Conflux</Data></Cell>
+    <Cell><Data ss:Type="String">Soutok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_dawn_gate_hall_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Vault of Truth's Dawngate</Data></Cell>
+    <Cell><Data ss:Type="String">Spodní Brána Krypty Pravdy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_elevator_platform_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Conflux</Data></Cell>
+    <Cell><Data ss:Type="String">Soutok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Monolith1_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Monolith - Lower Halls</Data></Cell>
+    <Cell><Data ss:Type="String">Monolith - Dolní Síně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Monolith2_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Monolith - Upper Halls</Data></Cell>
+    <Cell><Data ss:Type="String">Monolith - Horní Síně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_monolith_gate_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Monolith's Gate</Data></Cell>
+    <Cell><Data ss:Type="String">Brána Monolitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Nowhere_name</Data></Cell>
@@ -1230,59 +1244,72 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_rempart_1_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Cell-H Ramparts</Data></Cell>
+    <Cell><Data ss:Type="String">Hradby V Sektoru H</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_rempart_2_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Cell-F Ramparts</Data></Cell>
+    <Cell><Data ss:Type="String">Hradby V Sektoru F</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Redwaste1_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Red Wastes</Data></Cell>
+    <Cell><Data ss:Type="String">Rudá Pustina</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Redwaste2_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Republican Backline</Data></Cell>
+    <Cell><Data ss:Type="String">Republikánská Zadní Linie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_republican_trench_warfare_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Cell-H</Data></Cell>
+    <Cell><Data ss:Type="String">Sektor-H</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_stormfall_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Stormfall - Palace District</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfall - Palácova Čtvrť</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_tower_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower</Data></Cell>
+    <Cell><Data ss:Type="String">Západní Věž</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_2_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower 1</Data></Cell>
+    <Cell><Data ss:Type="String">Západní Věž 1. Patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_3_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower 2</Data></Cell>
+    <Cell><Data ss:Type="String">Západní Věž 2. Patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_4_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower 3</Data></Cell>
+    <Cell><Data ss:Type="String">Západní Věž 3. Patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_5_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower 4</Data></Cell>
+    <Cell><Data ss:Type="String">Západní Věž 4. Patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_6_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower 5</Data></Cell>
+    <Cell><Data ss:Type="String">Západní Věž 5. Patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_7_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower's Machinery</Data></Cell>
-    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Západní Věž Mašinérie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_RampartGatePlatform_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower's Top</Data></Cell>
+    <Cell><Data ss:Type="String">Vrchol Západní Věže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Act 3 Area Name</Data></Cell>
@@ -1315,6 +1342,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_VaultOfTruthOverlook_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Vault of Truth Overlook</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhlídka Na Kryptu Pravdy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_Transition_name</Data></Cell>
@@ -1704,7 +1732,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>19</ActiveRow>
+     <ActiveCol>5</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

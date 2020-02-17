@@ -305,94 +305,117 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_2DIntro_1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: If you can't defeat me, how do you plan to defeat the supernatural forces that feed and prey on mankind?</Data></Cell>
+    <Cell><Data ss:Type="String">Když nedokážeš porazit mě, jak plánuješ porazit nadpřirozené síly, které požírají a loví lidstvo?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_2DIntro_2</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: Again!</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Znovu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_2DIntro_3</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">%1: {Do you not feel pain?|Do you not feel pain?}</Data></Cell>
+    <Cell><Data ss:Type="String">%1: {Necítíš bolest?| Necítíš bolest?}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_2DIntro_4</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: I feel it alright. Just as I feel yours.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Jasně, že cítím. Tak jako cítím tvou.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_2DIntro_5</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: Pain is a merciful teacher.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Bolest je milosrdný učitel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_6</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: I had hoped that you three, more than anyone, would have learned to embrace it by now.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Věřil jsem, že se ji vy tři, více než kdokoliv jiný, naučíte příjmout.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_7</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: Orphans carry the burden of pain with them. Always.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Sirotci sebou nesou břemeno bolesti po celou dobu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_2DIntro_8</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: Finding a new family, only alleviates it.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Nalezení nové rodiny, ji jen zmírňuje.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_9</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: Look at you now. That pain made you strong. Proud soldiers of the Republic, Purifiers hunting Witchcraft wherever it hides.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Podívej se na sebe. Tvá bolest tě učinila silným. Hrdí vojáci republiky, Čističi kteří loví Čarodejnictví, ať se skrývá kdekoli.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_10</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: The Children of Heimlock. My children.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Heimlockovi děti. Mé děti.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_11</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Valeria: With all due respect, what are we doing here? The Brotherhood of Dawn attacked one of our keeps two weeks ago and we still haven’t moved against them! </Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Se vší úctou, co tady děláme? Bratrstvo Úsvitu zaútočilo na jednu z našich držav před dvěma týdny a my jsme se proti nim ještě nepostavili!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_12</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Valeria: Our way commands that we retaliate!</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Naš způsob postupování nám přikazuje, abychom se pomstili!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_13</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Edric: Sister!</Data></Cell>
+    <Cell><Data ss:Type="String">Edric: Sestro!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_14</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: Our way?</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Naš způsob postupování?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_15</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: Our way commands that we follow the Senate’s orders!</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock:Naš způsob postupování nám přikazuje, abychom se řídili rozkazy Senátu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_16</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">%1: {What if they ask us to stand down?|What if they ask us to stand down?}</Data></Cell>
+    <Cell><Data ss:Type="String">%1: {Co když nás požádají, abychom odstoupili?| Co když nás požádají, abychom odstoupili?}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_17</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: They won’t, arrangements have been made.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Nepožádají, byla učiněna opatření.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_18</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Valeria: Arrangements?</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Opatření?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_19</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Maëlys: Grand Inquisitor!</Data></Cell>
+    <Cell><Data ss:Type="String">Maëlys: Velký Inkvizitore!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_20</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: At ease.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Odpočiň si.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_21</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Maëlys: The Senate voted for your retaliation campaign! They’re sending the Purifiers to march on the Brotherhood of Dawn!</Data></Cell>
+    <Cell><Data ss:Type="String">Maëlys: Senát podpořil vaši odvetnou kampaň! Posílají Očistitele na Bratrstvo Úsvitu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_22</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: Good. Operation Dawnbane now begins.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Dobře. Operace Dawnbane začíná.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_23</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: Prepare my Legion. I’ll lead it myself.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Připravte mou legii. Povedu ji sám.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Operation Dawnbane</Data></Cell>
@@ -400,54 +423,67 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_presents</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Presents</Data></Cell>
+    <Cell><Data ss:Type="String">Současnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_intertitle_overprint</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">&lt;Color=&quot;#E6C138&quot;&gt;&lt;b&gt;OPERATION DAWNBANE&lt;/Font&gt;\nCoast of Wrecks, Flayers Wildlings Territory&lt;/b&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Color=&quot;#E6C138&quot;&gt;&lt;b&gt;OPERACE DAWNBANE&lt;/Font&gt;\nPobřeží Vraků, Území Flayerské Divočiny&lt;/b&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Maëlys: Ambush!</Data></Cell>
+    <Cell><Data ss:Type="String">Maëlys:Přepadení!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Maëlys: Shields up!</Data></Cell>
+    <Cell><Data ss:Type="String">Maëlys:Štíty nahoru!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Purifier: Ambush!</Data></Cell>
+    <Cell><Data ss:Type="String">Očistitel: Přepadení!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_4</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Purifier: Shields up!</Data></Cell>
+    <Cell><Data ss:Type="String">Očistitel: Štíty nahoru!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Purifier: Shields up!</Data></Cell>
+    <Cell><Data ss:Type="String">Očistitel: Štíty nahoru!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_6</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Maëlys: Permission to deal with the Flayers?</Data></Cell>
+    <Cell><Data ss:Type="String">Maëlys:Žádam o povolení vypořádat se s Flayery.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_7</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Heimlock: The clock ticks, Maëlys. We need to get through to engage the Brotherhood of Dawn before daybreak!</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Hodiny tikají, Maëlys. Musíme se dostat skrz, abychom zaútočili na  Bratrstvo Úsvitu před rozbřeskem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_8</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Maëlys: We won’t make it in time if we are pinned down!</Data></Cell>
+    <Cell><Data ss:Type="String">Maëlys: Nezvládneme to včas, pokud tu budeme přišpendlení!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_9</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Heimlock: Take my children, silence the archers.\n\nThe rest will march on.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Vezmi mé děti, umlčte lučištníky.\n\nZbytek bude pochodovat dál.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_10</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Maëlys: Grand Inquisitor!\n\nPurity in sacrifice!</Data></Cell>
+    <Cell><Data ss:Type="String">Maëlys: Velký Inkvizitore!\n\nČistota v oběti!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_11</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Maëlys: Siege ladder! Now!</Data></Cell>
+    <Cell><Data ss:Type="String">Maëlys: Obléhací žebřík! Hned!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Souls Tremors</Data></Cell>
@@ -455,14 +491,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SoulsTremors_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Flayer: We’ll flay you alive!</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer: Stáhneme tvou kůži zaživa!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SoulsTremors_2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Flayer: Uh?! You hear that?</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer: Uh?! Slyšíš to?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SoulsTremors_3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Edric: I gotcha!</Data></Cell>
+    <Cell><Data ss:Type="String">Edric: Mám tě!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Val In Danger</Data></Cell>
@@ -470,30 +509,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ValInDanger_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: SHUT UP!</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Zmlkni!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ValInDanger_2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Scout: Alone! Ah!</Data></Cell>
+    <Cell><Data ss:Type="String">Zvěd: Sám! Ach!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ValInDanger_3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Edric: We don’t have time for this, let’s move!</Data></Cell>
+    <Cell><Data ss:Type="String">Edric: Na tohle nemáme čas, jdeme!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ValInDanger_4</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Scout: Alone, alone, alone, alone, alone… I'm not-</Data></Cell>
+    <Cell><Data ss:Type="String">Zvěd: Sám, sám, sám, sám, sám… Už nejsem-</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ValInDanger_5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Scout: I’m not alone!</Data></Cell>
+    <Cell><Data ss:Type="String">Zvěd: Už nejsem sám!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ValInDanger_6</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria and %1: ARGH!</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria a %1: ARGH!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ValInDanger_7</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Val!</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Val!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Temp Intro End</Data></Cell>
@@ -501,46 +547,57 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: I can’t, he’s too strong! Val?! I need you, now!</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Nemůžu, je moc silný! Val?! Potřebuji tě teď!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Yudaï: Be at peace.</Data></Cell>
+    <Cell><Data ss:Type="String">Yudai: Buď v klidu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Yudaï: For soon, you shall be no more.</Data></Cell>
+    <Cell><Data ss:Type="String">Yudai: Brzy už nebudeš.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_4</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Power…</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Moc…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Yudaï: How can you…</Data></Cell>
+    <Cell><Data ss:Type="String">Yudai: Jak můžeš...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_6</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Burn!</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Shoř!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_7</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Yudaï: Only human after all. Disappointing.</Data></Cell>
+    <Cell><Data ss:Type="String">Yudai: Konec konců jsi jen člověk. Zklamání.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_8</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: You owe me an explanation!</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Dlužíš mi vysvětlení!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_9</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: Let's go! Let’s go!</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Jdeme! Jdeme!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_intertitle_title_yudai</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">&lt;b&gt;Gameplay Sequence:&lt;/b&gt; Aspect of Apocalypse</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;Sekvence hry:&lt;/b&gt; Aspekt Apokalypsy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_intertitle_content_yudai</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Now that the odds are even, you fight off Yudai wielding powerful ancient powers.\n\nMeanwhile Valeria is slowly recovering from her concussion, confused by your display of witchcraft...</Data></Cell>
+    <Cell><Data ss:Type="String">Nyní, když jsou síly vyrovnané, můžeš zahnat Yudaie za pomoci silné starověké síly.\n\nMezitím se Valeria zotavuje z otřesu, zmatená pohledem na tvé čarování...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:MergeAcross="1" ss:StyleID="s71"><Data ss:Type="String">ACT1 Dialog</Data></Cell>
@@ -558,34 +615,42 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: You look awfully real for a nightmare.</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Ještě nejsem mrtvý!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: What was that?</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Co to bylo?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: {He|She}’s possessed by a demon?</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Je {posedlý|posedlá} démonem?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_4</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: Yes… let’s hope you’re wrong, otherwise…</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Ano... Doufejme, že se mýlíš, jinak...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Talking to yourself again?</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Znovu mluvíš sama se sebou?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_6</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: Speak of the devil.</Data></Cell>
+    <Cell><Data ss:Type="String">Valerie: My o vlku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_7</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: Darling, I will need a moment, talk to you later.</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Miláčku, dej mi chvilku, promluvíme si později.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_8</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Whoa whoa whoa… easy now!</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Ho ho ho… uklidni se!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_9</Data></Cell>
@@ -594,42 +659,52 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_10</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: It’s me damnit!</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Sakra to jsem já!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_11</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: Horseshit!</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Kravina!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_12</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Did you knock your head? Who do you expect me to be exactly?</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Praštila ses do hlavy? Kdo si myslíš, že doopravdy jsem?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_13</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: Oh I don’t know, some bloody demon?</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: No já nevím, nějaký krvelačný démon?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_14</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: What? No! Look, I have no idea what’s going on, I was having my arse kicked when something awakened from within to save me…</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Cože? Né! Poslouche, nemám ponětí co se tady děje, už jsem si {myslel|myslela}, že dostanu výprask, když se vevnitř mě něco probudilo, aby mě to zachránilo…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_15</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: I need help alright? But I’m not some demon goddamnit! Come on Val!</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Já vím potřebuju pomoct? Ale nejsem k sakru nějaký zatracený démon! Pojď Val!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_16</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: Oh really? Prove it.</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Ach opravdu? Dokaž to.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_17</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: You’re a tool.</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Jsi hrozná.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_18</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: That… does not seem like something a demon would say.</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Tohle… nezní jak něco co by řekl démon.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_19</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: Alright, point taken.</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Dobrá, pokusím se ti věřit.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Stormfall Bridge</Data></Cell>
@@ -637,22 +712,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_StormfallBridge_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Refugee: Let us in!</Data></Cell>
+    <Cell><Data ss:Type="String">Uprchlík: Pusťte nás dovnitř!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_StormfallBridge_2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Refugee: We beg you!</Data></Cell>
+    <Cell><Data ss:Type="String">Uprchlík: Prosíme vás!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_StormfallBridge_3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Refugee: Mercy!</Data></Cell>
+    <Cell><Data ss:Type="String">Uprchlík: Slitování!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_StormfallBridge_4</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Refugee: Murderers!</Data></Cell>
+    <Cell><Data ss:Type="String">Uprchlík: Vrazi!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_StormfallBridge_5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Stormfall Guard: Back away! BACK AWAY!</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfall Guard: Zpátky! ZPÁTKY!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Intro Stormfall</Data></Cell>
@@ -660,6 +740,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_DialogCutscene_IntroStormfall_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Stormfall, Jewel of the sea, let's see what you've got for me.</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Stormfall, Klenot moře, uvidíme co pro mě máš.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Svriir Raid</Data></Cell>
@@ -667,70 +748,87 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: Come on men!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: Pojďme chlapi!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: Let’s earn our keep!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: Pojďme získat naši državu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: Time to show those greens the color of the storm!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: Čas ukázat těm zeleným barvu bouře!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_4</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: Warm her up! I want to hear her sing!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: Rozehřejte ji! Chci ji slyšet zpívat!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: Now!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: Teď!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_6</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Stormfall Guard: Squad two, to the west!</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfall Guard: Družina dvě, na západ!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_7</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Stormfall Guard: Squad three, in position!</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfall Guard: Družina tři, na pozice!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_8</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: Here they come!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: Přicházejí!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_9</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: KNOCK!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: PŘIPRAVIT!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_10</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: DRAW!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: NATÁHNOUT!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_11</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: LOOSE!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: PAL!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_12</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: It’s not enough.</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: To nestačí.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_13</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: Unleash the storm, now!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: Rozpoutejte bouři, hned!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_14</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: To hell with it!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: K čertu s tím!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_15</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: Fire at will! Give them everything you've got!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: Střílejte dle libosti! Dejte jim vše, co máte!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_16</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: Stand as one! For Stormfall!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: Bojujte jako jeden! Za Stormfall!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SvriirRaid_17</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sandor: Incoming!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor: Přícházejí!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Sirkis Spawn</Data></Cell>
@@ -738,10 +836,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SirkisSpawn_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Okay…</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Dobře…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SirkisSpawn_2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: That one is scary.</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Ten je děsivý.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Meet Edric</Data></Cell>
@@ -749,66 +849,82 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Flayer: I don’t hear him! He was behind us! Where did he&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer: Neslyším ho! Byl za námi! Kde mů...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Other Flayer: Would you bloody shut up and listen!</Data></Cell>
+    <Cell><Data ss:Type="String">Druhý Flayer: Mohl bys sakra držet hubu a poslouchat!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Other Flayer: Go check.</Data></Cell>
+    <Cell><Data ss:Type="String">Druhý Flayer: Jdi to zkontrolovat.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_4</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Flayer: Why me?</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer: Proč já?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Other Flayer: Just go.</Data></Cell>
+    <Cell><Data ss:Type="String">Druhý Flayer: Prostě běž.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_6</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Other Flayer: Oh no…</Data></Cell>
+    <Cell><Data ss:Type="String">Druhý Flayer: Oh né…</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_7</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Edric: ...Coward.</Data></Cell>
+    <Cell><Data ss:Type="String">Edric: ...Zbabělče.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_8</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Edric!</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Edricu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_9</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Edric: {Brother|Sister}! Just the one I was looking for!</Data></Cell>
+    <Cell><Data ss:Type="String">Edric: {Bratře|Sestro}! Tebe jsem hledal!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_10</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Edric: I missed you, {brother|sister}! I’m glad you survived that mess down there.</Data></Cell>
+    <Cell><Data ss:Type="String">Edric: Tesknil jsem za tebou, {bratře! Jsem rád, žes přežil ten zmatek tam dole.|sestro! Jsem rád, žes přežila ten zmatek tam dole.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_11</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: So am I.</Data></Cell>
+    <Cell><Data ss:Type="String">%1: To já taky.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_12</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: You’ve seen Val?</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Viděl si Val?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_13</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Edric? Have you seen her?</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Edricu? Viděl jsi ji?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_14</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Edric: ...Yes.</Data></Cell>
+    <Cell><Data ss:Type="String">Edric: ...Ano.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_15</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Did she talk to you?</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Mluvila s tebou?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_16</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Edric: She did.</Data></Cell>
+    <Cell><Data ss:Type="String">Edric: Mluvila.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_17</Data></Cell>
@@ -821,6 +937,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="24.75">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_19</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: She’s alright?</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Je v pořádku?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetEdric_20</Data></Cell>
@@ -2267,14 +2384,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_intertitle_transition1_title</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Chapter 1</Data></Cell>
+    <Cell><Data ss:Type="String">Kapitola 1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_intertitle_transition1_subtitle</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Children of Heimlock</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlockovi Děti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_intertitle_transition2_title</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Chapter 2</Data></Cell>
+    <Cell><Data ss:Type="String">Kapitola 2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_intertitle_transition2_subtitle</Data></Cell>
@@ -2283,6 +2403,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_intertitle_transition3_title</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Chapter 3</Data></Cell>
+    <Cell><Data ss:Type="String">Kapitola 3</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_intertitle_transition3_subtitle</Data></Cell>
@@ -2291,6 +2412,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_intertitle_transition4_subtitle</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Six Months Later…</Data></Cell>
+    <Cell><Data ss:Type="String">O šest měsíců později...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Endgame</Data></Cell>
@@ -2492,7 +2614,9 @@
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
      <ActiveCol>2</ActiveCol>
+     <RangeSelection>R4C3:R528C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

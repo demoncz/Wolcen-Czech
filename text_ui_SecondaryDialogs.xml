@@ -126,37 +126,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s73">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_sariseldialog_charger_p1_5</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">A promising foe! I hope you are prepared.</Data></Cell>
-    <Cell><Data ss:Type="String">Nádějný nepřítel! Doufam, že jsi připravený.</Data></Cell>
+    <Cell><Data ss:Type="String">Slibný nepřítel! Doufam, že jsi připravený.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s73">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_sariseldialog_charger_p2_1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Stand and deliver, mortal.</Data></Cell>
-    <Cell><Data ss:Type="String">Vydrž a doruč, smrtelnost.</Data></Cell>
+    <Cell><Data ss:Type="String">Ukaž co umíš, smrtelníku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_charger_p2_2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Prove your worth, feeble one.</Data></Cell>
-    <Cell><Data ss:Type="String">Dokáž svou hodnotu, slabochu.</Data></Cell>
+    <Cell><Data ss:Type="String">Dokaž zda-li jsi hoden, slabochu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_charger_p2_3</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Righteous zeal trumps any corruption!</Data></Cell>
-    <Cell><Data ss:Type="String">Spravedlivý zápal trumfuje jakoukoli zkaženost!</Data></Cell>
+    <Cell><Data ss:Type="String">Spravedlivý zápal trumfne jakoukoli zkaženost!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_charger_p2_4</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Beacon of Purity, guide my lance!</Data></Cell>
-    <Cell><Data ss:Type="String">Světlo čistoty, průvodce mého kopí!</Data></Cell>
+    <Cell><Data ss:Type="String">Světlo čistoty, veď mé kopí!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_charger_p2_5</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Prepare to be impaled!</Data></Cell>
-    <Cell><Data ss:Type="String">Připrav se na nabodnutí!</Data></Cell>
+    <Cell><Data ss:Type="String">Připrav se na probodnutí!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_charger_p3_1</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Behold, my true potential!</Data></Cell>
-    <Cell><Data ss:Type="String">Hle, můj skutečný potenciál!</Data></Cell>
+    <Cell><Data ss:Type="String">Pohleď, můj skutečný potenciál!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_charger_p3_2</Data></Cell>
@@ -176,10 +176,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_charger_p3_5</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">You have proven your worth, now submit!</Data></Cell>
+    <Cell><Data ss:Type="String">Prokázal si svou cenu, nyní se mi podrob!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_eviscerator_p1_1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">A creature of malice enters my domain.</Data></Cell>
+    <Cell><Data ss:Type="String">Stvoření zloby vstoupilo do mého panství.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_eviscerator_p1_2</Data></Cell>
@@ -367,6 +369,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>29</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

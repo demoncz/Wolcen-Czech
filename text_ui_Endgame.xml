@@ -424,6 +424,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_category_transmutation_upgrades</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Transmutation Forge Upgrades</Data></Cell>
+    <Cell><Data ss:Type="String">Vylepšení Kovárny Přeměn </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_category_additionnal_skill_copies</Data></Cell>
@@ -433,7 +434,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_category_additionnal_stashes</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Stash Upgrades</Data></Cell>
-    <Cell><Data ss:Type="String">Vylepšní Skrýše</Data></Cell>
+    <Cell><Data ss:Type="String">Vylepšní Osobní Truhly</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_category_additionnal_apo_tokens</Data></Cell>
@@ -442,10 +443,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_category_dark_market_upgrades</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Establish Additional Contacts</Data></Cell>
+    <Cell><Data ss:Type="String">Navázání dalších kontaktů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_category_dark_market_first_contact</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Establish First Contact</Data></Cell>
+    <Cell><Data ss:Type="String">Navázání prvního kontaktu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">NPC2</Data></Cell>
@@ -498,6 +501,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_expedition_ui_magic_find_bonus</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String" x:Ticked="1">%1 Magic Find</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Nalezení magických předmětů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_expedition_ui_production_bonus</Data></Cell>
@@ -530,6 +534,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_citybuilding_production_summary_consumable</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Consumable</Data></Cell>
+    <Cell><Data ss:Type="String">Spotřební předměty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_citybuilding_production_summary_no_DBNO</Data></Cell>
@@ -577,10 +582,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_citybuilding_production_summary_production_gain</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Productivity Applied</Data></Cell>
+    <Cell><Data ss:Type="String">Produktivita aplikována</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_citybuilding_production_summary_per_project</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Per Project</Data></Cell>
+    <Cell><Data ss:Type="String">Za projekt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">BUILDINGS</Data></Cell>
@@ -597,6 +604,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_seekers_garrison</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Seekers Garrison</Data></Cell>
+    <Cell><Data ss:Type="String">Pevnost Hledačů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_seekers_garrison_desc</Data></Cell>
@@ -613,7 +621,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_dark_market</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Dark Market</Data></Cell>
-    <Cell><Data ss:Type="String">Temný Obchod</Data></Cell>
+    <Cell><Data ss:Type="String">Temný Trh</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_dark_market_desc</Data></Cell>
@@ -622,6 +630,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_transmutation_forge</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Transmutation Forge</Data></Cell>
+    <Cell><Data ss:Type="String">Kovárna Přeměn</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_transmutation_forge_desc</Data></Cell>
@@ -639,6 +648,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_anankis_artifact</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Anankis Artifact</Data></Cell>
+    <Cell><Data ss:Type="String">Artefakt Anankis</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_anankis_artifact_desc</Data></Cell>
@@ -656,6 +666,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_siphon_chamber</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Siphon Chamber</Data></Cell>
+    <Cell><Data ss:Type="String">Sifonova Komnata</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_siphon_chamber_desc</Data></Cell>
@@ -672,6 +683,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_1</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">The Cartographical Archives</Data></Cell>
+    <Cell><Data ss:Type="String">Kartografické Archivy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_1_desc</Data></Cell>
@@ -688,6 +700,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_3</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Primordial Institute (Main)</Data></Cell>
+    <Cell><Data ss:Type="String">Prvotní Institut (hlavní)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_3_desc</Data></Cell>
@@ -696,6 +709,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_4</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Primordial Institute (East)</Data></Cell>
+    <Cell><Data ss:Type="String">Prvotní Institut (východ)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_4_desc</Data></Cell>
@@ -704,6 +718,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_5</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Salt Baths of Stormfall</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfallské Solné Lázně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_5_desc</Data></Cell>
@@ -712,6 +727,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_6</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Refuge For the Blind</Data></Cell>
+    <Cell><Data ss:Type="String">Útočiště Pro Nevidomé</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_6_desc</Data></Cell>
@@ -720,6 +736,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_shipyard</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Stormfall Shipyard</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfallská Loděnice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_shipyard_desc</Data></Cell>
@@ -731,6 +748,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_1_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate the Archives</Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj Archivy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_1_construct_lore</Data></Cell>
@@ -739,6 +757,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_1_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovation Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Renovace dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_1_construct_reward_lore</Data></Cell>
@@ -751,6 +770,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_2_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate Institute (West) </Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj Institut (západ)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5">
     <Cell><Data ss:Type="String">ui_wonder_2_construct_lore</Data></Cell>
@@ -759,6 +779,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_2_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovation Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Renovace dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell><Data ss:Type="String">ui_wonder_2_construct_reward_lore</Data></Cell>
@@ -771,6 +792,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_3_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate Institute (Main)</Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj Institut (hlavní)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="116.25">
     <Cell><Data ss:Type="String">ui_wonder_3_construct_lore</Data></Cell>
@@ -779,6 +801,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_3_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovation Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Renovace dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5">
     <Cell><Data ss:Type="String">ui_wonder_3_construct_reward_lore</Data></Cell>
@@ -791,6 +814,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_4_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate Institute (East) </Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj Institut (východ)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="72">
     <Cell><Data ss:Type="String">ui_wonder_4_construct_lore</Data></Cell>
@@ -799,6 +823,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_4_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovations complete</Data></Cell>
+    <Cell><Data ss:Type="String">Renovace dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="40.5">
     <Cell><Data ss:Type="String">ui_wonder_4_construct_reward_lore</Data></Cell>
@@ -811,6 +836,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_5_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate Salt Baths</Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj Solné Lázně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_5_construct_lore</Data></Cell>
@@ -819,6 +845,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_5_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovation Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Renovace dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_5_construct_reward_lore</Data></Cell>
@@ -827,10 +854,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_5_construct_reward_desc</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">The Salt Baths have been renovated, giving you a permanent Magic-Find boost.</Data></Cell>
+    <Cell><Data ss:Type="String">Zrenovoval jsi Solné Lázně a získal ji trvalé zvýšení k nalezení magických předmětů.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_6_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate Refuge </Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj Útočiště</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_6_construct_lore</Data></Cell>
@@ -839,6 +868,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_6_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovation Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Renovace dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_6_construct_reward_lore</Data></Cell>
@@ -847,6 +877,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_6_construct_reward_desc</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">The Refuge has been renovated, giving you a permanent Gold-Find boost.</Data></Cell>
+    <Cell><Data ss:Type="String">Zrenovoval jsi Útočiště a získal ji trvalé zvýšení k nalezení zlata.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">CONSTRUCTION PROJECTS</Data></Cell>
@@ -3320,7 +3351,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>20</ActiveRow>
+     <ActiveCol>6</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

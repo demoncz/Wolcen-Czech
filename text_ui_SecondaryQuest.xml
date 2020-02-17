@@ -179,18 +179,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KCP_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Cull All Evil</Data></Cell>
+    <Cell><Data ss:Type="String">Lov Zla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KFT_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Track Down Evil</Data></Cell>
+    <Cell><Data ss:Type="String">Stopování Zla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KON_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Bounty Hunting</Data></Cell>
+    <Cell><Data ss:Type="String">Lov Odměn</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Head Hunting</Data></Cell>
+    <Cell><Data ss:Type="String">Lov Hlav</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KCP_StepNameLabel</Data></Cell>
@@ -395,42 +399,52 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KCP_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Cull All Evil</Data></Cell>
+    <Cell><Data ss:Type="String">Lov Zla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Track Down Evil</Data></Cell>
+    <Cell><Data ss:Type="String">Stopování Zla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Cleanse the Darkness</Data></Cell>
+    <Cell><Data ss:Type="String">Čištění Temnoty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_GDC_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Gold Rush!</Data></Cell>
+    <Cell><Data ss:Type="String">Zlatá horečka!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CDC_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">You get a chest! And you get a chest!</Data></Cell>
+    <Cell><Data ss:Type="String">Dostaneš truhlu! Ty dostaneš truhlu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CCC_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Fortune Favors the Bold!</Data></Cell>
+    <Cell><Data ss:Type="String">Štěstí Přeje Odvážným!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CR_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">The Treasure Room</Data></Cell>
+    <Cell><Data ss:Type="String">Trezor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CCR_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Dead Man's Chests</Data></Cell>
+    <Cell><Data ss:Type="String">Truhla Mrtvého Muže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Bounty Hunting</Data></Cell>
+    <Cell><Data ss:Type="String">Lov Odměn</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_UB_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">In Loving Memory</Data></Cell>
+    <Cell><Data ss:Type="String">V Milující Paměti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_EG_LBF_QuestLabel</Data></Cell>
@@ -439,18 +453,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_Shared_StepNameLabel_Enter</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Enter the Portal</Data></Cell>
+    <Cell><Data ss:Type="String">Vstup do portálu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_NPC1_StepNameLabel_Finish</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Report to &quot;Dashing&quot; Eugene via the Mandates Board</Data></Cell>
+    <Cell><Data ss:Type="String">Podej zprávu &quot;Švihákovi Eugene&quot; skrze Tabuli Mandátů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_Consumable_StepNameLabel_Finish</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Exit through the Portal</Data></Cell>
+    <Cell><Data ss:Type="String">Odejdi skrz portál</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KCP_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill enemies in the area</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij všechny nepřátele v oblasti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_OTW_Thug</Data></Cell>
@@ -463,6 +481,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_COS_DoS</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Demons of Souls&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij starší &quot;Démoni Duší&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_COFE_DoF</Data></Cell>
@@ -475,18 +494,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_COFY_Golgoth</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Punisher Exoskeletons&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij starší &quot;Potlačení Rytíři Jitřenky&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_REPU_Justicar</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Justicars&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij starší &quot;Justikáři&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_SVRI_AlphaPoison</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Alpha Svriirs&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij starší &quot;Alfa Svriirové&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_SVRIF_AlphaFire</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Alpha Svriirs&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij starší &quot;Alfa Svriirové&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KFT_StepNameLabel_CALL_TaintedPrimoGuardian</Data></Cell>
@@ -507,6 +530,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COST_Priest</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Risen Hierophants&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij starší &quot;Vzkříšení Hierofanti&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_COSS_Halfbreed</Data></Cell>
@@ -571,6 +595,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_KNT_StepNameLabel_CALL_Cultist</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill Elder &quot;Cultists of the Blind Prince&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij starší &quot;Kultisté Slepého Prince&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_GDC_StepNameLabel</Data></Cell>
@@ -579,26 +604,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CDC_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Loot as many chests as possible within the time limit.</Data></Cell>
+    <Cell><Data ss:Type="String">Otevři tolik Truhel kolik zvládneš v časovém limitu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CCC_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Loot as many cursed chests as possible within the time limit.</Data></Cell>
+    <Cell><Data ss:Type="String">Otevři tolik Prokletých Truhel kolik zvádneš v časovém limitu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CR_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Get all the loot and report to &quot;Dashing Eugene&quot; via the Expeditions Map</Data></Cell>
+    <Cell><Data ss:Type="String">Seber všechnu kořist a podej zprávu &quot;Švihákovi Eugene&quot; skrze Mapu Expedic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_CCR_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Get all the loot and report to &quot;Dashing Eugene&quot; via the Expeditions Map</Data></Cell>
+    <Cell><Data ss:Type="String">Seber všechnu kořist a podej zprávu &quot;Švihákovi Eugene&quot; skrze Mapu Expedic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Justicar</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Justicar&quot; Dungeon Boss</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij bosse podzemí &quot;Justikář&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Assassin</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Alastor&quot; Dungeon Boss</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij bosse podzemí &quot;Alastor&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Thug</Data></Cell>
@@ -607,14 +638,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_DoS</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Demon of Souls&quot; Dungeon Boss</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij bosse podzemí &quot;Démon Duší&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Butcher</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Devourer&quot; Dungeon Boss</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij bosse podzemí &quot;Požírač&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_PacifiedKnight</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Pacified Aurora Knight&quot; Dungeon Boss</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij bosse podzemí &quot;Potlačený Rytíř Jitřenky&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_PacifiedGolgoth</Data></Cell>
@@ -627,6 +661,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_EBF_StepNameLabel_SvriirAlphaPoison</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Alpha Svriir&quot; Dungon Boss</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij bosse podzemí &quot;Alfa Svriir&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_EG_EBF_StepNameLabel_Primo</Data></Cell>
@@ -635,10 +670,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_UB_StepNameLabel_UberLambach</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Slay &quot;Uber Lambach&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij &quot;Uber Lambach&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_AlphaPoison</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Alpha Svriir&quot; Summoner</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij vyvolávače &quot;Alfa Svriir&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Thug</Data></Cell>
@@ -651,6 +688,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Butcher</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Devourer&quot; Summoner</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij vyvolávače &quot;Požírač&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Corrupted_PrimordialGuardian</Data></Cell>
@@ -659,6 +697,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_PacifiedGolgoth</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Pacified Exoskeleton&quot; Summoner</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij vyvolávače &quot;Potlačený Exoskeleton</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_DemonOfFlesh</Data></Cell>
@@ -667,14 +706,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_DemonOfSouls</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Demon of Souls&quot; Summoner</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij vyvolávače &quot;Démon Duší&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_JusticarElite</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Justicar&quot; Summoner</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij vyvolávače &quot;Justikář&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_EG_LBF_StepNameLabel_Knight</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill the &quot;Pacified Aurora Knight&quot; Summoner</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij vyvolávače &quot;Potlačený Rytíř Jitřenky&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="112"/>
    <Row ss:Index="272" ss:AutoFitHeight="0" ss:Height="25.5"/>
@@ -769,7 +811,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>20</ActiveRow>
+     <ActiveCol>5</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

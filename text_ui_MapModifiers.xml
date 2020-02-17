@@ -244,14 +244,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterBossMod</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Champion and Specialist Enemies receive an additional Boss Modifier.</Data></Cell>
+    <Cell><Data ss:Type="String">Šampioni a Specialisté získají dodatečný modifiér Bosse.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_soulexplosion</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Chance for Enemies to Explode upon Death.</Data></Cell>
+    <Cell><Data ss:Type="String">Šance, že nepřátele po smrti explodují.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_randomExplosion</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Explosions occur randomly while in Combat.</Data></Cell>
+    <Cell><Data ss:Type="String">Výskyt náhodných explozí během boje.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_resurectSimilar</Data></Cell>
@@ -771,6 +774,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>14</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

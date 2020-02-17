@@ -261,6 +261,9 @@
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
+  <Style ss:ID="s96">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
  </Styles>
  <Names>
   <NamedRange ss:Name="characters"
@@ -293,48 +296,57 @@
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell><Data ss:Type="String">ui_TutoDialogs0_p1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 1/14] Soldier of Fortune mode: Mandates&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;In this game mode you will have to work with the Host of the Purple Phoenix to handle Mandates and Expeditions as a bounty hunter. Talk to “Dashing” Eugene on the right of the screen, he will get you started on your first mandate and reward you upon quest completion.&lt;/Font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 1/14] Režim Voják štěstěny: Pověření&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;V tomto herním režimu budete muset pracovat s Hostitelem Fialového Fénixe ke zvládnutí Pověření a Expedic jako lovec odměn. Promluvte si se &quot;Švihákem&quot; Eugenem na pravé straně obrazovky, on Vám zadá Vaše první Pověření a po splnění úkolu Vás odmění.&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 1/14] Režim Voják štěstěny: Pověření&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;V tomto herním režimu budeš muset pracovat s Hostitelem Fialového Fénixe ke zvládnutí Pověření a Expedic jako lovec odměn. Promluv si se &quot;Švihákem&quot; Eugenem na pravé straně obrazovky, on ti zadá tvoje první Pověření a po splnění úkolu Vás odmění.&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="120">
     <Cell><Data ss:Type="String">ui_TutoDialogs1_p1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 2/14] Core Combat Mechanics&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Weapon combos:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; There is a different attack combo per weapon type&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Melee-dash:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Melee characters can automatically dash on a foe every 5s. Toggled via the HUD (F)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Use skills:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Up to 5 abilities can be and added to the skill bar (1, 2, 3, 4, and RIGHT CLICK)&lt;/Font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 2/14] Základní bojová mechanika&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Zbraňová komba:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Dle použitého typu zbraně existují ruzné kombinované útoky&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Vpád na blízko:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Postavy útočící na blízko mohou automaticky vpadnout do nepřátel každých 5s. Přepnutí pomocí HUD (F)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Use skills:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Až 5 schopností muže být přidáno do panelu schopností (1, 2, 3, 4, a KLIK PRAVÝM tlačítkem)&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 2/14] Základní bojová mechanika&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Zbraňová komba:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Dle použitého typu zbraně existují ruzné kombinované útoky&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Vpád na blízko:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Postavy útočící na blízko mohou automaticky vpadnout do nepřátel každých 5s. Přepnutí pomocí HUD (F)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Use skills:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Až 5 schopností muže být přidáno do akčního panelu schopností (1, 2, 3, 4, a KLIK PRAVÝM tlačítkem)&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="105">
     <Cell><Data ss:Type="String">ui_TutoDialogs1_p2</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 3/14] Health Management&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Health:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; If your health pool reaches 0 you are out of combat&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Potions:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Use one of your two potions to help you in combat (Q W). Replenish them by killing foes&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Potion types:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; There are Health, Rage and Willpower potions&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 3/14] Správa zdraví&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Health:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Jestliže zásobník zdraví dosáhne hodnoty 0, jsi vyřazen z boje&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Potions:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Pro pomoc v boji použij některý ze dvou možných lektvarů (Q W). Získej další zabitím nepřátel&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Potion types:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; K dispozici jsou lektvary Zdraví, Vzteku a Vůle&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="120">
     <Cell><Data ss:Type="String">ui_TutoDialogs2_p1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 4/14] Leveling up in Wolcen&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Basic progression:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Each level grants you 1 of each attribute, max health and health regeneration&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Customize attributes:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; You earn 10 more points to distribute in the Character Sheet (C)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Passive skills:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; And 1 passive point to spend in the Passive Skill Tree (P)&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 4/14] Zvyšování levelu ve Wolcen&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Základní postup:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Každý nový level přidá 1 bod do atributu maximálního zdraví a regenerace zdraví&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Customize attributes:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Dostaneš 10 dalších bodů k rozdělení do atributú ve vlastnostech postavy (C)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Pasivní dovednosti:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; A 1 pasivní bod k použití ve Stromu pasivních dovedností (P)&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="114.75">
     <Cell><Data ss:Type="String">ui_TutoDialogs3_p1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 5/14] Dodge Rolling&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Dodge roll:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Allows you to evade dangerous attacks in the cursor direction (SPACE BAR)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Stamina points:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; A roll consumes a stamina point. A character starts with 4 points&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Stamina regeneration:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Stamina points regenerate quickly over time&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 5/14] Dovednost Vyhýbání&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Dodge roll:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Umožňuje vyhnutí se nebezpečnému útoku ve směru kurzoru (MEZERNÍK)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Stamina body:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Úhyb spotřebuje bod staminy. Postava začíná se 4 stamina body&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Stamina regenerace:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Stamina body se rychle obnovují&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="114.75">
     <Cell><Data ss:Type="String">ui_TutoDialogs3_p2</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 6/14] Resource Opposition System&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Resources:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Spells consume Willpower while Attacks skills use Rage&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Opposition:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; When Willpower is used it is transferred over time to the Rage amount and vice-versa&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Transfer Time:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Resources are unusable for a short time while they transfer&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 6/14] Systém dvou zdrojů&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Zdroje:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Kouzla spotřebovávají Vůli, zatímco Útočné dovednosti používají Vztek&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Protiklad:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Spotřebovaná Vůle je přelita do Vzteku a naopak&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Doba přesunu:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Zdroje během přelévaní nemohou být na krátkou chvíli použity&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="108">
     <Cell><Data ss:Type="String">ui_TutoDialogs4_p1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 7/14] New Combat Skills&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Loot new skills:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Kill foes and loot items containing skills. They are called Enneracts&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Learning:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; In the inventory (I) use the Enneract to learn its skill (RIGHT CLICK on it)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Buying skill levels:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Sell them to Demetra and gain Primordial Affinity to level up your skills&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 7/14] Nové bojové dovednosti&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Sbírání nových dovedností:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Zabíjej nepřátele a sbírej předměty, nazývané Ennerakty, obsahující nové dovednosti&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Učení nových dovedností:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; V inventáři (I) použij Ennerakt k naučení nové dovednosti (PRAVÝM KLIKEM myší)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Nákup levelů dovedností:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Prodej je Demetře a získej Prvotní Esenci pro zvýšení levelu dovedností&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="119.25">
     <Cell><Data ss:Type="String">ui_TutoDialogs4_p2</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 8/14] Skills upgrades&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Skill experience:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Skills in your action bar will gain experience when you do&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;New effects:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Every five skill levels, you unlock a new talent option for it&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Skill customization:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Adapt your skills to fit your playstyle and try new combos.&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 8/14] Vylepšování Dovedností&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Zkušenosti Dovedností:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Dovednosti v Akčním panelu získávají při použití zkušenosti&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Nový účinky:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Každý pátý level otevře pro danou dovednost novou talentovou možnost&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Přizpůsobení Dovedností:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Přizpůsob tvé dovednosti tak, aby seděly k tvému hernímu stylu a vyzkoušej nové kombinace.&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="122.25">
     <Cell><Data ss:Type="String">ui_TutoDialogs5_p1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 9/14] Status Ailments&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Damage types:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; All damage types except Physical have a chance to inflict an additional effect&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Status ailment chance:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Increase the chances with the Wisdom attribute, passives and gear&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Status ailment resistance:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Likewise, enemies can inflict these same effects on you&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 9/14] Oslabující status&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Typy poškození:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Všechny typy poškození, kromě Fyzického, mají šanci způsobit dodatečný účinek&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Šance na Oslabující status:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Zvyš šanci pomocí atributu Vůle, pasivkami a vybavením&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Odolnost vůči Oslabujícímu statusu:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Stejný účinek mohou nepřátelé způsobit i tobě&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="105.75">
     <Cell><Data ss:Type="String">ui_TutoDialogs6_p1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 10/14] Unlocked “Expedition mode” with Alexander Ivakin&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Full random:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; In this mode, environments and foes are totally shuffled. Beware of new synergies&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Six levels challenge:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Increased difficulty from level to level, each finishing with a boss fight&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Limited town portal:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Defeat a level boss to have the option to stop the expedition for a reward&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 10/14] Odemčen “Expediční režim” s Alexanderem Ivakinem&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Plně náhodný:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; V tomto režimu jsou nepřátelé a prostředí naprosto promíchaní. Dej si pozor na nové synergie&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Šesti úrovňová výzva:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Čím vyšší je úroveň, tím vyšší obtížnost. Každá úroveň je zakončena soubojem s bossem&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Omezený městský portál:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Porážkou bosse ukončíš expedici a získáš odměnu&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="105.75">
     <Cell><Data ss:Type="String">ui_TutoDialogs7_Title</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 11/14] Character Sheet&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Stats bundles:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Each Attribute groups bonuses useful for most playstyles&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Damage bonuses:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Your three main attributes give bonus damage according to their ranking&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Detailed Character Sheet:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Click on “Show details” to know more about in-depth statistics&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 11/14] Vlastnosti postavy&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Atributové skupiny:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Bonus každé skupiny atributů je použitelný pro většinu herních stylů&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Bonus k poškození:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Tvé tři hlavní atributy dávají bonus k poškození sestupně, dle jejich hodnocení&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Podrobnosti vlastností postavy:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Klikni na “Ukázat podrobnosti” pro zobrazení větších podrobností vlastností postavy&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_TutoDialogs8_Title</Data></Cell>
@@ -343,10 +355,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="255">
     <Cell><Data ss:Type="String">ui_TutoDialogs8_Content</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;35&quot; &gt;&lt;b&gt;[Tips 12/14] Passive Skill Tree&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Class freedom:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Create your own path starting from the center&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Points allocation:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; If you have points to spend, permanently select one node to gain its effect(s)&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Major nodes:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; These offer stronger effects that can change the game rules permanently. Try to fetch as many as possible&lt;/Font&gt;\n\n&lt;Font Size=&quot;35&quot; &gt;&lt;b&gt;[Tips 13/14] Rotating Circles&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Multiple starts:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; You are free to start back from the tree center and explore different paths simultaneously&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Rotate rings to create new paths:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Click on a ring on the left panel and rotate it with arrows to reveal new possibilities&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Connected nodes:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Eligible nodes must always be connected to the center or to an already chosen node. Non-eligible nodes that result from a ring rotation will be temporarily turned off until they are connected again&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;35&quot; &gt;&lt;b&gt;[Tip 12/14] Strom pasivních dovedností&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Volnost ve tvorbě charakteru:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Zvol si svou vlastní cestu, začínajíc ze středu&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Přidělování bodů:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Jestliže máš volný pasivní bod, vlož ho do uzlu a tím na trvalo aktivuješ daný pasivní bonus (s)&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Hlavní uzly:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Hlavní uzly mají mnohem větší účinek a mohou úplně změnit herní styl. Zkus jich aktivovat co nejvíce&lt;/Font&gt;\n\n&lt;Font Size=&quot;35&quot; &gt;&lt;b&gt;[Tip 13/14] Rotující prstence&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Mnoho počátků:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Od středu můžeš začít vícekrát a tím tak objevovat více různých drah najednou &lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Pohybuj prstenci a vytvoř tak různé dráhy:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; V levém panelu klikni na požadovaný prstenec, pomocí šipek jím otáčej a tím vytvoř nové možnosti&lt;/Font&gt;\n&lt;Font Size=&quot;33&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Propojené uzly:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;33&quot; color=&quot;##dddddd&quot;&gt; Uzly musí být vždy propojené se středem a k již aktivovaným uzlům. Uzly, které nejsou propojené z důvodu otáčení prstenců, budou dočasně nefunkční do té doby, než budou opět propojeny&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="135">
     <Cell><Data ss:Type="String">ui_TutoDialogs9_p1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 14/14] Active Skill Tree&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Skill improvement:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Every 5 skill levels you unlock a new effect that you can activate&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Additional effect:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; When your skill reaches level 15 you can activate up to two skill effects&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Freedom to try:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Skill points can be reallocated on the fly at no cost&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 14/14] Aktivní dovednostní strom&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Vylepšení dovedností:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Každá 5. úroveň dovednosti odemkne nový efekt, který můžeš aktivovat&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Dodatečné efekty:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Jakmile tvoje dovednost dosáhne 15. úrovně, můžeš aktivovat až dva efekty&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Volnost změň:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Body mohou být přesouvány bez jakéhokoliv omezení a nákladů&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"/>
@@ -360,6 +374,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Prologue_Tuto_0_p1</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Left-Click&lt;/font&gt; to walk around. Head North and &lt;font color=&quot;#c5b14d&quot;&gt;left-click&lt;/font&gt; on the ladder to climb up the cliff.</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Levý klik&lt;/font&gt; pro pohyb. Běž na sever a &lt;font color=&quot;#c5b14d&quot;&gt;klikni levým tlačítkem&lt;/font&gt; na žebřík k vyšplhání z útesu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Prologue_Tuto_1_Title</Data></Cell>
@@ -369,234 +384,292 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Prologue_Tuto_1_p1</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Watch out, there are dangerous enemies up ahead. &#10;&#10;To defeat them, &lt;font color=&quot;#c5b14d&quot;&gt;Left-Click&lt;/font&gt;.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Dej si pozor, před tebou jsou nebezpeční nepřátelé. &#10; &#10; Aby jsi je porazil, &lt;font color=&quot;#c5b14d&quot;&gt;Klikni na ně levým tlačítkem&lt;/font&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Prologue_Tuto_2_Title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Dodging&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Vyhýbání&lt;/b&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Prologue_Tuto_2_p1</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Press &lt;font color=&quot;#c5b14d&quot;&gt;Space&lt;/font&gt; to dodge roll.\n\nUse dodge rolls to avoid taking damage and re-position.</Data></Cell>
+    <Cell><Data ss:Type="String">Stistkni &lt;font color=&quot;#c5b14d&quot;&gt;Mezerník&lt;/font&gt; pro vyhnutí se.\n\nPoužij vyhývání se, aby jsi předešel zásahu protivníka a k přesunu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Prologue_Tuto_2_p2</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Dodge rolls require &lt;font color=&quot;#9cba7b&quot;&gt;stamina points&lt;/font&gt;, which are recovered over time.</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhnutí se vyžaduje &lt;font color=&quot;#9cba7b&quot;&gt;stamina body&lt;/font&gt;, které se neustále regenerují.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_0_Title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Items&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Předměty&lt;/b&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_0_p1</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Right-Click&lt;/font&gt; to pick up items.\n\nCheck out your inventory by pressing&lt;font color=&quot;#c5b14d&quot;&gt;I&lt;/font&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Pravý klik&lt;/font&gt; pro zvednutí předmětu.\n\nPro zobrazení tvého inventáře stiskni &lt;font color=&quot;#c5b14d&quot;&gt;I&lt;/font&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_0_p2</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;RIGHT-CLICK&lt;/font&gt; to pick up items. Check out your inventory by pressing&lt;font color=&quot;#c5b14d&quot;&gt;I&lt;/font&gt;.\n\nEquip new weapons and armor by dragging it to its respective slot.\n\nCompare new items with equipped items by hovering over the new item. </Data></Cell>
+    <Cell><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;PRAVÝ KLIK&lt;/font&gt; pro zvednutí předmětu. Pro zobrazení tvého inventáře stiskni &lt;font color=&quot;#c5b14d&quot;&gt;I&lt;/font&gt;.\n\nNasaď si zbraň nebo oblékni zbroj přetažením na patřičné místo.\n\nPorovnej nový předmět s nasazeným přejetím kurzoru přes nový předmět.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_1_Title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Potions&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Lektvary&lt;/b&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_1_p1</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Low on health? Press &lt;font color=&quot;#c5b14d&quot;&gt;Q&lt;/font&gt; to use your &lt;font color=&quot;#b22023&quot;&gt;Health&lt;/font&gt; Potion.</Data></Cell>
+    <Cell><Data ss:Type="String">Malo zdraví? Stiskni &lt;font color=&quot;#c5b14d&quot;&gt;Q&lt;/font&gt; pro vypití lektvaru &lt;font color=&quot;#b22023&quot;&gt;Zdraví&lt;/font&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_1_p2</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Potions refill as you defeat enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">Lektvary doplníš zabitím nepřátel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_2_Title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Skills&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Dovednosti&lt;/b&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_2_p1</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">To use a skill, &lt;font color=&quot;#c5b14d&quot;&gt;Right-Click&lt;/font&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Pro použití dovednosti, &lt;font color=&quot;#c5b14d&quot;&gt;Klikni pravým tlačítkem myši&lt;/font&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_2_p2</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Skills require either &lt;font color=&quot;#948ec6&quot;&gt;Willpower&lt;/font&gt; or &lt;font color=&quot;#cb5316&quot;&gt;Rage&lt;/font&gt; to be cast.</Data></Cell>
+    <Cell><Data ss:Type="String">Dovednosti potřebují buď &lt;font color=&quot;#948ec6&quot;&gt;Vůli&lt;/font&gt; nebo &lt;font color=&quot;#cb5316&quot;&gt;Vztek&lt;/font&gt; pro použití.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_3_Title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Types of Skills&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Druhy Dovdností&lt;/b&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_3_p1</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">The types of skills you can cast are based on the weapon you are wielding</Data></Cell>
+    <Cell><Data ss:Type="String">Druhy dovedností, které můžeš používat, zavísí na druhu zbraně kterou držíš</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_3_p2</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Consult your Active Skills by pressing &lt;font color=&quot;#c5b14d&quot;&gt;S&lt;/font&gt;.  </Data></Cell>
+    <Cell><Data ss:Type="String">Zobraz si své Aktivní dovednosti stisknutím klávesy &lt;font color=&quot;#c5b14d&quot;&gt;S&lt;/font&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_4_Title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Character Sheet&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Vlastnosti postavy&lt;/b&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_4_p1</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Press &lt;font color=&quot;#c5b14d&quot;&gt;C&lt;/font&gt; to open your character sheet.</Data></Cell>
+    <Cell><Data ss:Type="String">Stiskni klávesu&lt;font color=&quot;#c5b14d&quot;&gt;C&lt;/font&gt; pro otevření vlastností postavy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_4_p2</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Assign points to the 4 different attributes. Each attribute affects different aspects of your character.</Data></Cell>
+    <Cell><Data ss:Type="String">Přiděluj body do 4 atributů. Každý atribut ovlivňuje různé vlastnosti tvé postavy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_5_Title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Passive Skills&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Pasivní dovednosti&lt;/b&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_5_p1</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Press &lt;font color=&quot;#c5b14d&quot;&gt;P&lt;/font&gt; to open your Passive Skill Tree and assign skill points. </Data></Cell>
+    <Cell><Data ss:Type="String">Stistkni klávesu&lt;font color=&quot;#c5b14d&quot;&gt;P&lt;/font&gt; pro otevření stromu Pasivních dovedností a přiděluj dovednostní body.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Stormfall_Tuto_1_Title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;The World of Wolcen&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Svět Wolcen&lt;/b&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Stormfall_Tuto_1_p1</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Press &lt;font color=&quot;#c5b14d&quot;&gt;M&lt;/font&gt; to access the world map. Select a waypoint to teleport to that location.</Data></Cell>
+    <Cell><Data ss:Type="String">Stistkni klávesu&lt;font color=&quot;#c5b14d&quot;&gt;M&lt;/font&gt; pro zobrazení světové mapy. Vyber některý z aktivovaných permanentních portálů a přesuň se do dané lokace.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Stormfall_Tuto_1_p2</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Press &lt;font color=&quot;#c5b14d&quot;&gt;T&lt;/font&gt; to use the town portal to return to Stormfall. </Data></Cell>
+    <Cell><Data ss:Type="String">Stistkni klávesu&lt;font color=&quot;#c5b14d&quot;&gt;T&lt;/font&gt; pro použití městského portálu do Stormfall.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Stormfall_Tuto_2_Title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Merchants&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Obchodníci&lt;/b&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Stormfall_Tuto_2_p1</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Left-Click&lt;/font&gt; on items in the store to buy them.\n\n&lt;font color=&quot;#c5b14d&quot;&gt;Right-Click&lt;/font&gt; on items in your inventory to sell them.</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Levým klikem myší&lt;/font&gt; na předmět v obchodě koupíš daný předmět.\n\n&lt;font color=&quot;#c5b14d&quot;&gt;Pravým klikem myší&lt;/font&gt; na předmět v tvém inventáři prodáš daný předmět.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Stormfall_Tuto_2_p2</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">New items are available for purchase every 15 minutes.</Data></Cell>
+    <Cell><Data ss:Type="String">Nový předměty se objevují každých 15 minut.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Stormfall_Tuto_3_Title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Demetra's Shop&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Demetrynin Obchod&lt;/b&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Stormfall_Tuto_3_p1</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">You can trade an Enneract with Demetra for Primordial Affinity, which is used to level up skills at her shop.</Data></Cell>
+    <Cell><Data ss:Type="String">Demetra s tebou může směnit Ennerakt za Prvotní esenci, za kterou v jejím obchodě zvyšuješ úroveň dovedností.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Stormfall_Tuto_3_p2</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Increasing the level of a skill unlocks spell modifiers. Press &lt;font color=&quot;#c5b14d&quot;&gt;S&lt;/font&gt; to open the Active Skills menu.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvyšováním úrovně dovedností odemkneš jejich modifikátory. Stiskni klávesu&lt;font color=&quot;#c5b14d&quot;&gt;S&lt;/font&gt; pro otevření přehledu Aktivních dovedností.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Stormfall_Tuto_3_p3</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Skills can also level up while being used in combat. </Data></Cell>
+    <Cell><Data ss:Type="String">Úroveň dovedností se také zvyšuje jejím používáním v bitvě.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Farmsteads_Tuto_1_Title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;Enneracts&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;Ennerakty&lt;/b&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Farmsteads_Tuto_1_p1</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">You have received an Enneract, an ancient magical device.\n\n&lt;font color=&quot;#c5b14d&quot;&gt;Right-Click&lt;/font&gt; the Enneract in your inventory to learn a new skill.</Data></Cell>
+    <Cell><Data ss:Type="String">• Získal jsi &lt;font color=&quot;#72c6db&quot;&gt;Ennerakt&lt;/font&gt;, starobylé magické zařízení. &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;RIGHT-CLICK&lt;/b&gt;&lt;/font&gt; the &lt;font color=&quot;#72c6db&quot;&gt;Enneract&lt;/font&gt; in your &lt;font color=&quot;#72c6db&quot;&gt;Inventory&lt;/font&gt; to learn a new &lt;font color=&quot;#72c6db&quot;&gt;Skill&lt;/font&gt;.\n\n• You can trade &lt;font color=&quot;#72c6db&quot;&gt;Enneracts&lt;/font&gt; with &lt;font color=&quot;#72c6db&quot;&gt;Demetra&lt;/font&gt; for &lt;font color=&quot;#8664aa&quot;&gt;&lt;b&gt;Primordial Affinity&lt;/b&gt;&lt;/font&gt;, which is used to level up &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; at her shop.\n\n• Increasing the level of a &lt;font color=&quot;#72c6db&quot;&gt;Skill&lt;/font&gt; unlocks &lt;font color=&quot;#72c6db&quot;&gt;Skill Modifiers&lt;/font&gt;. Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt; to open the &lt;font color=&quot;#72c6db&quot;&gt;Active Skills Menu&lt;/font&gt;.\n\n• &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; can level up while being used in combat.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Farmsteads_Tuto_1_p2</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Right-Click&lt;/font&gt; the Enneract in your inventory to learn a new skill.</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;font color=&quot;#c5b14d&quot;&gt;Pravým klikem myší&lt;/font&gt; na Ennerakt ve tvém inventáři, se naučíš novou dovednost..</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_test_tutorial_title</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Dodging and Dashing</Data></Cell>
+    <Cell><Data ss:Type="String">Uhýbání a Výpady</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_test_tutorial_content</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;When wielding a melee weapon, you will automatically dash to an enemy when attacking them. This dash has a cooldown.\n\nPress &lt;font color=&quot;#c5b14d&quot;&gt;Space&lt;/font&gt; to dodge roll. Each dodge roll requires a &lt;font color=&quot;#9cba7b&quot;&gt;stamina point&lt;/font&gt;, which are recovered over time.&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;Při držení zbraně na blízko automaticky při útoku provedeš výpad na nepřítele. Tento výpad se po použití musí opět nabít.\n\nStiskni &lt;font color=&quot;#c5b14d&quot;&gt;Mezerník&lt;/font&gt; úhybný manévr. Každý úhybný manévr spotřebuje jeden &lt;font color=&quot;#9cba7b&quot;&gt;stamina bod&lt;/font&gt;, který se opět po chvíli zregeneruje.&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_1_title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Basic Movement</Data></Cell>
+    <Cell><Data ss:Type="String">Základní pohyb</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_1_content</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">• &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;LEFT-CLICK&lt;/b&gt;&lt;/font&gt; to walk around. Head North and &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;LEFT-CLICK&lt;/b&gt;&lt;/font&gt; on the ladder to climb up the cliff.</Data></Cell>
+    <Cell><Data ss:Type="String">• &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;LEVÝ KLIK myši&lt;/b&gt;&lt;/font&gt; pro pohyb. Běž na sever a klikni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;LEVÝM TLAČÍTKEM myši&lt;/b&gt;&lt;/font&gt; na žebřík k vyšplhání z útesu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_2_title</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Basic Combat</Data></Cell>
+    <Cell><Data ss:Type="String">Základní souboj</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="120">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_2_content</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">• &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;LEFT-CLICK&lt;/b&gt;&lt;/font&gt; enemies to Attack them. When wielding a &lt;font color=&quot;#72c6db&quot;&gt;Melee Weapon&lt;/font&gt;, you will automatically &lt;font color=&quot;#72c6db&quot;&gt;Dash Attack&lt;/font&gt; enemies. This dash has a cooldown.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/font&gt; to &lt;font color=&quot;#72c6db&quot;&gt;Dodge Roll&lt;/font&gt;. &lt;font color=&quot;#72c6db&quot;&gt;Dodge Rolls&lt;/font&gt; have a small window of invulnerability. &lt;font color=&quot;#72c6db&quot;&gt;Dodge Rolls&lt;/font&gt; require &lt;font color=&quot;#9cba7b&quot;&gt;Stamina&lt;/font&gt; points, which are recovered over time.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;RIGHT-CLICK&lt;/b&gt;&lt;/font&gt; to unleash a powerful electric attack.</Data></Cell>
+    <Cell><Data ss:Type="String">• &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;LEVÝM KLIKEM myši&lt;/b&gt;&lt;/font&gt; zaútočíš na nepřátele. Při držení &lt;font color=&quot;#72c6db&quot;&gt;Zbraně na blízko&lt;/font&gt;, automaticky zaútočíš &lt;font color=&quot;#72c6db&quot;&gt;Výpadem&lt;/font&gt; na nepřátele. Tento výpad se po použití musí opět nabít.\n\n• Stiskni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;MEZERNÍK&lt;/b&gt;&lt;/font&gt; pro &lt;font color=&quot;#72c6db&quot;&gt;Úhybný manévr.&lt;/font&gt;. Při &lt;font color=&quot;#72c6db&quot;&gt;Úhybném manévru&lt;/font&gt; jsi chvíli nezranitelný. &lt;font color=&quot;#72c6db&quot;&gt;Úhybný manévr/font&gt; spotřebuje &lt;font color=&quot;#9cba7b&quot;&gt;Stamina&lt;/font&gt; bod, které se opět po chvíli regenerují.\n\n• Stiskni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;PRAVÉ TLAČÍTKO myši&lt;/b&gt;&lt;/font&gt; a zaútoč mocným elektrickým útokem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_3_title</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Health and Potions</Data></Cell>
+    <Cell><Data ss:Type="String">Zdraví a Lektvary</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_3_content</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">• You are low on &lt;font color=&quot;#f03a3d&quot;&gt;Health&lt;/font&gt;. If you run out of &lt;font color=&quot;#f03a3d&quot;&gt;Health&lt;/font&gt;, you will go down.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/font&gt; to use your &lt;font color=&quot;#f03a3d&quot;&gt;Health Potion&lt;/font&gt; to heal up. &lt;font color=&quot;#72c6db&quot;&gt;Potions&lt;/font&gt; refill as you defeat enemies</Data></Cell>
+    <Cell><Data ss:Type="String">• Máš velice málo &lt;font color=&quot;#f03a3d&quot;&gt;Zdraví&lt;/font&gt;. Pokud ti dojde &lt;font color=&quot;#f03a3d&quot;&gt;Zdraví&lt;/font&gt;, půjdeš k zemi.\n\n• Stiskni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/font&gt; pro použití &lt;font color=&quot;#f03a3d&quot;&gt;Lektvaru Zdraví&lt;/font&gt; pro vyléčení. &lt;font color=&quot;#72c6db&quot;&gt;Lektvary&lt;/font&gt; se doplní zabitím nepřátel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_4_title</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Dovednosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_4_content</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">• To use a &lt;font color=&quot;#72c6db&quot;&gt;Skill&lt;/font&gt;, &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;RIGHT-CLICK&lt;/b&gt;&lt;/font&gt;. &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; require either &lt;font color=&quot;#948ec6&quot;&gt;Willpower&lt;/font&gt; or &lt;font color=&quot;#cb5316&quot;&gt;Rage&lt;/font&gt; to be cast.\n\n• The types of &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; you can cast are based on your equipped &lt;font color=&quot;#72c6db&quot;&gt;Weapon&lt;/font&gt;. Consult your &lt;font color=&quot;#72c6db&quot;&gt;Active Skills&lt;/font&gt; by pressing &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">• Použij &lt;font color=&quot;#72c6db&quot;&gt;Dovednost&lt;/font&gt;, &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;PRAVÝ KLIKEM myši&lt;/b&gt;&lt;/font&gt;. &lt;font color=&quot;#72c6db&quot;&gt;Dovednosti&lt;/font&gt; potřebují buď &lt;font color=&quot;#948ec6&quot;&gt;Vůli&lt;/font&gt; nebo &lt;font color=&quot;#cb5316&quot;&gt;Vztek&lt;/font&gt; aby mohly být použity.\n\n• Druhy &lt;font color=&quot;#72c6db&quot;&gt;Dovedností&lt;/font&gt; zavisí na druhu použité &lt;font color=&quot;#72c6db&quot;&gt;Zbraně&lt;/font&gt;. Pro přehled &lt;font color=&quot;#72c6db&quot;&gt;Aktivních Dovedností&lt;/font&gt; stiskni klávesu &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_5_title</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Levelling Up</Data></Cell>
+    <Cell><Data ss:Type="String">Zvyšování úrovně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_5_content</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">• By killing the monsters of Wolcen, you have grown in power and gained a level.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;C&lt;/b&gt;&lt;/font&gt; to open your &lt;font color=&quot;#72c6db&quot;&gt;Character Sheet&lt;/font&gt;. Assign points to the 4 different &lt;font color=&quot;#72c6db&quot;&gt;Attributes&lt;/font&gt;. Each &lt;font color=&quot;#72c6db&quot;&gt;Attribute&lt;/font&gt; affects different aspects of your character.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;P&lt;/b&gt;&lt;/font&gt; to open your &lt;font color=&quot;#72c6db&quot;&gt;Passive Skill Tree&lt;/font&gt; and assign &lt;font color=&quot;#72c6db&quot;&gt;Skill Points&lt;/font&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">• Zabíjením monster ve Wolcen jsi získal zkušenosti, tím sis zvýšil úroveň a stal jsi se mocnějším.\n\n• Stiskni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;C&lt;/b&gt;&lt;/font&gt; pro otevření &lt;font color=&quot;#72c6db&quot;&gt;Vlasností postavy&lt;/font&gt;. Rozděl body do 4 ruzných &lt;font color=&quot;#72c6db&quot;&gt;Atributů&lt;/font&gt;. Každý &lt;font color=&quot;#72c6db&quot;&gt;Atribut&lt;/font&gt; ovlivňuje jiné vlastnosti tvé postavy.\n\n• Stiskni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;P&lt;/b&gt;&lt;/font&gt; pro otevření &lt;font color=&quot;#72c6db&quot;&gt;Stromu Pasivních dovedností&lt;/font&gt; a přiřaď &lt;font color=&quot;#72c6db&quot;&gt;Dovednostní body&lt;/font&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_6_title</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">The World of Wolcen</Data></Cell>
+    <Cell><Data ss:Type="String">Svět Wolcen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_6_content</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;M&lt;/b&gt;&lt;/font&gt; to access the &lt;font color=&quot;#72c6db&quot;&gt;World Map&lt;/font&gt;. Select a &lt;font color=&quot;#72c6db&quot;&gt;Waypoint&lt;/font&gt; to teleport to that location.</Data></Cell>
+    <Cell><Data ss:Type="String">• Stiskni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;M&lt;/b&gt;&lt;/font&gt; pro otevření &lt;font color=&quot;#72c6db&quot;&gt;Světové Mapy&lt;/font&gt;. Vyber &lt;font color=&quot;#72c6db&quot;&gt;Aktivovaný permanentní portál&lt;/font&gt; pro přesun do dané lokace.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_6_2_title</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">Town Portal</Data></Cell>
+    <Cell><Data ss:Type="String">Městský Portál</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="60">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_6_2_content</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;T&lt;/b&gt;&lt;/font&gt; to use the &lt;font color=&quot;#72c6db&quot;&gt;Town Portal&lt;/font&gt; to return to the &lt;font color=&quot;#72c6db&quot;&gt;Stormfall&lt;/font&gt; hub. You can return there whenever you need to and a &lt;font color=&quot;#72c6db&quot;&gt;Portal&lt;/font&gt; will bring you back.</Data></Cell>
+    <Cell><Data ss:Type="String">• Stiskni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;T&lt;/b&gt;&lt;/font&gt; pro aktivování &lt;font color=&quot;#72c6db&quot;&gt;Městského Portálu&lt;/font&gt; a navrácení do města &lt;font color=&quot;#72c6db&quot;&gt;Stormfall&lt;/font&gt;. Do města se vrátíš kdykoliv chceš a pak tě &lt;font color=&quot;#72c6db&quot;&gt;Portál&lt;/font&gt; opět vrátí zpět.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_7_title</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Break Bar</Data></Cell>
+    <Cell><Data ss:Type="String">Zásobník Vyčerpání</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="147.75">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_7_content</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">• Strong enemies are immune to crowd-control effects such as &lt;font color=&quot;#72c6db&quot;&gt;Stun&lt;/font&gt; or &lt;font color=&quot;#72c6db&quot;&gt;Freeze&lt;/font&gt;. Instead, hits that should inflict these effects deplete their &lt;font color=&quot;#72c6db&quot;&gt;Break Bar&lt;/font&gt;. Once their &lt;font color=&quot;#72c6db&quot;&gt;Break Bar&lt;/font&gt; has been fully depleted, the enemy will be &lt;font color=&quot;#72c6db&quot;&gt;Broken&lt;/font&gt; for a very short time, and take increased damage from all sources. Use that opportunity to inflict as much damage as you can!</Data></Cell>
+    <Cell><Data ss:Type="String">• Silní nepřátelé jsou imuní vůči Kontrole Davu, jako je &lt;font color=&quot;#72c6db&quot;&gt;Omráčení&lt;/font&gt; nebo &lt;font color=&quot;#72c6db&quot;&gt;Zmražení&lt;/font&gt;. Namísto toho, aby nepřítel byl ovlivněn tímto efektem, tak se vyčerpává jeho &lt;font color=&quot;#72c6db&quot;&gt;Zásobník Vyčerpání&lt;/font&gt;. Jakmile je jeho &lt;font color=&quot;#72c6db&quot;&gt;Zásobník Vyčerpání&lt;/font&gt; plně vyčerpán, nepřítel je na malou chvíli &lt;font color=&quot;#72c6db&quot;&gt;Vyčerpán&lt;/font&gt; a způsobené poškození ze všech zdrojů je zvýšeno. Využij této situace a rozdej co nejvíce poškození!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_9_title</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">Enneracts and Skills</Data></Cell>
+    <Cell><Data ss:Type="String">Ennerakty and Dovednosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="165">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_9_content</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">• You are about to receive an &lt;font color=&quot;#72c6db&quot;&gt;Enneract&lt;/font&gt;, an ancient magical device. &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;RIGHT-CLICK&lt;/b&gt;&lt;/font&gt; the &lt;font color=&quot;#72c6db&quot;&gt;Enneract&lt;/font&gt; in your &lt;font color=&quot;#72c6db&quot;&gt;Inventory&lt;/font&gt; to learn a new &lt;font color=&quot;#72c6db&quot;&gt;Skill&lt;/font&gt;.\n\n• You can trade &lt;font color=&quot;#72c6db&quot;&gt;Enneracts&lt;/font&gt; with &lt;font color=&quot;#72c6db&quot;&gt;Demetra&lt;/font&gt; for &lt;font color=&quot;#8664aa&quot;&gt;&lt;b&gt;Primordial Affinity&lt;/b&gt;&lt;/font&gt;, which is used to level up &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; at her shop.\n\n• Increasing the level of a &lt;font color=&quot;#72c6db&quot;&gt;Skill&lt;/font&gt; unlocks &lt;font color=&quot;#72c6db&quot;&gt;Skill Modifiers&lt;/font&gt;. Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt; to open the &lt;font color=&quot;#72c6db&quot;&gt;Active Skills Menu&lt;/font&gt;.\n\n• &lt;font color=&quot;#72c6db&quot;&gt;Skills&lt;/font&gt; can level up while being used in combat.</Data></Cell>
+    <Cell><Data ss:Type="String">• Získal jsi &lt;font color=&quot;#72c6db&quot;&gt;Ennerakt&lt;/font&gt;, starobylé magické zařízení. &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;PRAVÝM KLIKEM myši&lt;/b&gt;&lt;/font&gt; na &lt;font color=&quot;#72c6db&quot;&gt;Ennerakt&lt;/font&gt; ve tvém &lt;font color=&quot;#72c6db&quot;&gt;Inventáři&lt;/font&gt; se naučíš novou &lt;font color=&quot;#72c6db&quot;&gt;Dovednost&lt;/font&gt;.\n\n• Můžeš směnit &lt;font color=&quot;#72c6db&quot;&gt;Ennerakty&lt;/font&gt; s &lt;font color=&quot;#72c6db&quot;&gt;Demetrou&lt;/font&gt; pro odemknutí &lt;font color=&quot;#72c6db&quot;&gt;Modifikátorů Dovedností&lt;/font&gt;. Stiksni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;S&lt;/b&gt;&lt;/font&gt; pro otevření &lt;font color=&quot;#72c6db&quot;&gt;Přehledu Aktivních Dovedností&lt;/font&gt;.\n\n• &lt;font color=&quot;#72c6db&quot;&gt;Dovednostem&lt;/font&gt; se během boje s nepřáteli zvyšuje jejich úroveň.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="27">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_8_title</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">Gems</Data></Cell>
+    <Cell><Data ss:Type="String">Drahokamy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="64.5">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_8_content</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">• &lt;font color=&quot;#72c6db&quot;&gt;Gems&lt;/font&gt; are special items that, once socketed to another item, can add magical effects to it or your character. An item needs &lt;font color=&quot;#72c6db&quot;&gt;Sockets&lt;/font&gt; for &lt;font color=&quot;#72c6db&quot;&gt;Gems&lt;/font&gt; to be inserted into them. There are many &lt;font color=&quot;#72c6db&quot;&gt;Gem&lt;/font&gt; types to discover, and each one has a different effect depending on the &lt;font color=&quot;#72c6db&quot;&gt;Socket&lt;/font&gt; type it is inserted into.\n\n• To insert a &lt;font color=&quot;#72c6db&quot;&gt;Gem&lt;/font&gt; into a &lt;font color=&quot;#72c6db&quot;&gt;Socket&lt;/font&gt;, move the &lt;font color=&quot;#72c6db&quot;&gt;Gem&lt;/font&gt; into the &lt;font color=&quot;#72c6db&quot;&gt;Socket&lt;/font&gt;. You can buy &lt;font color=&quot;#72c6db&quot;&gt;Gems&lt;/font&gt; from &lt;font color=&quot;#72c6db&quot;&gt;Zenefer Stark&lt;/font&gt; in the Stormfall market, and she even can remove &lt;font color=&quot;#72c6db&quot;&gt;Gems&lt;/font&gt; from their &lt;font color=&quot;#72c6db&quot;&gt;Socket&lt;/font&gt; for a price.</Data></Cell>
+    <Cell><Data ss:Type="String">• &lt;font color=&quot;#72c6db&quot;&gt;Drahokamy&lt;/font&gt; jsou speciální předměty, které mohou být vloženy do posázitelných předmětů a přidají magický účinek tvé postavě. Předmět musí mít &lt;font color=&quot;#72c6db&quot;&gt;Místo&lt;/font&gt; na osázení &lt;font color=&quot;#72c6db&quot;&gt;Drahokamem&lt;/font&gt;, kam se dá vložit. Existuje mnoho druhů &lt;font color=&quot;#72c6db&quot;&gt;Drahokamů&lt;/font&gt; které můžeš najít a každý má jiný účinek, závisející na typu &lt;font color=&quot;#72c6db&quot;&gt;Osázení&lt;/font&gt;, který je možné vložit.\n\n• K vložení &lt;font color=&quot;#72c6db&quot;&gt;Drahokamu&lt;/font&gt; do &lt;font color=&quot;#72c6db&quot;&gt;Místa k osázení&lt;/font&gt;, přesuň &lt;font color=&quot;#72c6db&quot;&gt;Drahokam&lt;/font&gt; do &lt;font color=&quot;#72c6db&quot;&gt;Patřičného místa k osázení&lt;/font&gt;. Můžeš nakoupit &lt;font color=&quot;#72c6db&quot;&gt;Drahokamy&lt;/font&gt; od &lt;font color=&quot;#72c6db&quot;&gt;Zenefera Starka&lt;/font&gt; ve Stormfall obchodě. Dokonce může &lt;font color=&quot;#72c6db&quot;&gt;Drahokam&lt;/font&gt; vyjmout z jeho &lt;font color=&quot;#72c6db&quot;&gt;Osázeného místa&lt;/font&gt; za menší poplatek.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_10_title</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Aspects of Apocalypse</Data></Cell>
+    <Cell><Data ss:Type="String">Apokalyptický vzhled</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75.75">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_10_content</Data></Cell>
     <Cell ss:StyleID="s91"><Data ss:Type="String">• In her last moments, Mizzeonth fully unlocked the sleeping potential within you, allowing you to embody the &lt;font color=&quot;#72c6db&quot;&gt;Aspects&lt;/font&gt; of Primordial beings.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;F&lt;/font&gt; to open the Aspects of Apocalypse Selection window, then unlock the &lt;font color=&quot;#72c6db&quot;&gt;Aspect&lt;/font&gt; you wish to use. Other &lt;font color=&quot;#72c6db&quot;&gt;Aspects&lt;/font&gt; can be unlocked later in the game and can be switched at any time once unlocked.\n\n• Fill the &lt;font color=&quot;#72c6db&quot;&gt;Primordial Essence&lt;/font&gt; meter by killing monsters. Once it is full enough, press &lt;font color=&quot;#c5b14d&quot;&gt;R&lt;/font&gt; to transform. Your &lt;font color=&quot;#72c6db&quot;&gt;Primordial Essence&lt;/font&gt; depletes over time, when you use skills or when taking hits. When it is fully depleted, you will transform back into your human form.\n\nUse your &lt;font color=&quot;#72c6db&quot;&gt;Aspect&lt;/font&gt; wisely, as it can help you out when overwhelmed by monsters.</Data></Cell>
+    <Cell><Data ss:Type="String">• Během jejích posledních okamžiků, Mizzeonth fully unlocked the sleeping potential within you, allowing you to embody the &lt;font color=&quot;#72c6db&quot;&gt;Aspects&lt;/font&gt; of Primordial beings.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;F&lt;/font&gt; to open the Aspects of Apocalypse Selection window, then unlock the &lt;font color=&quot;#72c6db&quot;&gt;Aspect&lt;/font&gt; you wish to use. Other &lt;font color=&quot;#72c6db&quot;&gt;Aspects&lt;/font&gt; can be unlocked later in the game and can be switched at any time once unlocked.\n\n• Fill the &lt;font color=&quot;#72c6db&quot;&gt;Primordial Essence&lt;/font&gt; meter by killing monsters. Once it is full enough, press &lt;font color=&quot;#c5b14d&quot;&gt;R&lt;/font&gt; to transform. Your &lt;font color=&quot;#72c6db&quot;&gt;Primordial Essence&lt;/font&gt; depletes over time, when you use skills or when taking hits. When it is fully depleted, you will transform back into your human form.\n\nUse your &lt;font color=&quot;#72c6db&quot;&gt;Aspect&lt;/font&gt; wisely, as it can help you out when overwhelmed by monsters.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s92"><Data ss:Type="String">ui_Tutorial_11_title</Data></Cell>
@@ -984,7 +1057,9 @@
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
      <ActiveCol>2</ActiveCol>
+     <RangeSelection>R4C3:R152C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

@@ -914,7 +914,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_FS_ConscriptComment_1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Pay attention! You are all that stands between the greens and your families so stop sobbing and get ready for hacking! Make every blow count!</Data></Cell>
-    <Cell><Data ss:Type="String">Dávejte pozor! Pouze vy stojíte mezi zelenými a Vašimi rodinami, takže přestat vzlykat a připravte se na řežbu! Každá rána se počítá!</Data></Cell>
+    <Cell><Data ss:Type="String">Dávejte pozor! Pouze vy stojíte mezi zelenými a Vašimi rodinami, takže přestaňte vzlykat a připravte se na řežbu! Každá rána se počítá!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_FS_ConscriptComment_2</Data></Cell>
@@ -924,7 +924,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_FS_ConscriptComment_3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">You use the sharp edge!\n\nCivilians…</Data></Cell>
-    <Cell><Data ss:Type="String">Použijete tu ostrou stranu!nnCivilisté...</Data></Cell>
+    <Cell><Data ss:Type="String">Použijete tu ostrou stranu!\n\nCivilisté...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_FS_ThunderbladeFaarad_1</Data></Cell>
@@ -1099,6 +1099,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_FS_ThunderbladeSandor_5</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Impeccable timing. Take their sweet time as we get hammered. We won’t hold for much longer if they don't get here soon.</Data></Cell>
+    <Cell><Data ss:Type="String">Skvělé načasovaní. Oni si užívají zatímco mi tady umíráme. Nevydržíme dlouho, pokud se sem brzy nedostanou.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_FS_ThunderbladeSandor_6</Data></Cell>
@@ -1163,274 +1164,342 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_FS_PlayerComment2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Not again… It’s getting closer to the city. What the hell is going on?</Data></Cell>
+    <Cell><Data ss:Type="String">Ale né už zase... Přibližuje se to k městu. Co se to sakra děje?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SL_PlayerComment1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">The entrance to their network. Sneaky bastards.</Data></Cell>
+    <Cell><Data ss:Type="String">Vstup do jejich sítě. Záludní bastardi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SL_PlayerComment2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">So many eggs… These are not random raids, they’re here to colonize.</Data></Cell>
+    <Cell><Data ss:Type="String">Tolik vajec... Tohle nejsou náhodné nájezdy, jsou tu aby to zde osídlili.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SL_PhenomenonComment1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">The phenomenon! That must be why the Svriir are flocking to the surface!</Data></Cell>
+    <Cell><Data ss:Type="String">Ten jev! To musí být důvod, proč se Svriirové hrnou na povrch!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SL_PhenomenonComment2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">There is nothing random about this. Its frequency is accelerating.</Data></Cell>
+    <Cell><Data ss:Type="String">Tohle není náhoda. Frekvence se pravidelně zrychluje.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SL_PlayerComment3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">So that’s where the ‘giant one’ is hiding. His challengers got fried alive…</Data></Cell>
+    <Cell><Data ss:Type="String">Tohle je to místo, kde se 'ten obr' ukrývá. Jeho vyzyvatelé byli usmaženi zaživa...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SL_PlayerComment4</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Okay…</Data></Cell>
+    <Cell><Data ss:Type="String">Dobře...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SL_PlayerComment5</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">That one is scary.</Data></Cell>
+    <Cell><Data ss:Type="String">Ten je děsivý.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SL_PlayerComment6</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Who’s the alpha now? Damn, I wish Val had heard that one.</Data></Cell>
+    <Cell><Data ss:Type="String">Kdo je teď alfa? Sakra, přál bych si aby to Val slyšela.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_NobleQueeing_1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">No sir, for the fifth time, you are not on the list!</Data></Cell>
+    <Cell><Data ss:Type="String">Ne, pane, popáté nejste na seznamu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_NobleQueeing_2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">B-b-but there must be a mistake! Check the 'B's, I must be in the 'B's!</Data></Cell>
+    <Cell><Data ss:Type="String">A-a-ale to musí být chyba! Podívejte se pod B, musím být pod B!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_NobleQueeing_3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Sir, could you kindly move aside?! We are on the list, unlike you!</Data></Cell>
+    <Cell><Data ss:Type="String">Pane, mohl byste laskavě odstoupit?! Jsme na seznamu, na rozdíl od vás!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_NobleQueeing_4</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">I need to see the Merchant-Prince at once! My family demands measures against these earthquakes! Let me through!</Data></Cell>
+    <Cell><Data ss:Type="String">Musím okamžitě vidět prince obchodníků! Moje rodina požaduje opatření proti těmto zemětřesením! Nechte mě projít!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="37.5">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_ThunderbladeFaarad_1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Look who’s here! I must say… I’m impressed, soldier. When Sandor told me you single-handedly saved the farmlands, I couldn’t quite believe it… But here you stand, victorious!</Data></Cell>
+    <Cell><Data ss:Type="String">Podívejme, kdo je tady! Musím říct... Jsem ohromen, vojáku. Když mi Sandor řekl, že jsi sám zachránil farmy, nemohl jsem tomu uvěřit... Ale tady stojíš, vítězi!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_ThunderbladeFaarad_2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Glad I could help. I will be on my way now.</Data></Cell>
+    <Cell><Data ss:Type="String">Jsem rád, že jsem mohl pomoci. Teď už půjdu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_ThunderbladeFaarad_3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">What? Nonsense! Everyone is talking about the hero who stopped the Svriir! Including the Merchant-Prince himself! He actually wants to reward you in person!</Data></Cell>
+    <Cell><Data ss:Type="String">Co? Nesmysl! Všichni mluví o hrdinovi, který zastavil Svriiry! Včetně samotného prince obchodníků! Chce tě odměnit osobně!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_ThunderbladeFaarad_4</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">I’m not sure it’s a good idea. I would rather keep away from honors…</Data></Cell>
+    <Cell><Data ss:Type="String">Nejsem si jistý, jestli je to dobrý nápad. Raději bych se držel dál od vyznamenání...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_ThunderbladeFaarad_5</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Declining our ruler's invitation is not an option! Go to the Palace, the guards will let you in.</Data></Cell>
+    <Cell><Data ss:Type="String">Odmítnutí pozvání našeho vládce nepřipadá v úvahu! Jdi do paláce, stráže vás pustí dovnitř.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_PlayerComment_1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">So much for keeping a low-profile.</Data></Cell>
+    <Cell><Data ss:Type="String">Teď už moc nenápadný nebudu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_PlayerComment_2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Val will kill me…</Data></Cell>
+    <Cell><Data ss:Type="String">Val mě zabije...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_TeachingGeography_1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">This one.</Data></Cell>
+    <Cell><Data ss:Type="String">Tenhle.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_TeachingGeography_2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">An Onyx! Symbol of the city of Gomora! Jewel of… Jewel of… the earth?</Data></Cell>
+    <Cell><Data ss:Type="String">Onyx! Symbol města Gomora! Klenot... Klenot... země?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_TeachingGeography_3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">No you imbecile! Let’s start again!</Data></Cell>
+    <Cell><Data ss:Type="String">Ne, ty imbecile! Začneme znovu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelStormfall_1</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Stormfall of course! Our good city! The Jewel of the Sea!</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfall samozřejmě! Naše dobré město! Klenot moře!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelStormfall_2</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">We excel at diamond crafting, cartography and anything related to the sea! Our navy is unparalleled!</Data></Cell>
+    <Cell><Data ss:Type="String">Vynikáme při tvorbě diamantů, map a všem, co souvisí s mořem! Naše námořnictvo nemá konkurenci!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelStormfall_3</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Noble traits indeed. But these days I wish we would excel at obliterating Svriirs...</Data></Cell>
+    <Cell><Data ss:Type="String">Ušlechtilé rysy opravdu. Ale v dnešní době bych si spíš přál, abychom vynikali vyhlazováním Svriirů ...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelGomora_1</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">You better remember this time: the Onyx is for Gomora, Jewel of the Pariahs.</Data></Cell>
+    <Cell><Data ss:Type="String">Tentokrát si to zapamatuj: Onyx je pro Gomora, Klenot vyvrženců.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelGomora_2</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">The only known place around the four realms that shelters all types of dark cults, as long as they behave. </Data></Cell>
+    <Cell><Data ss:Type="String">Všechny stále fungující temné kulty se ukrývají na jediném známém místě ze čtyř říší.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelGomora_3</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Many worrying myths and tales shroud the isolated city… forbidden magic, cursed items, rumors of psychics abductions…</Data></Cell>
+    <Cell><Data ss:Type="String">Mnoho znepokojivých mýtů a příběhů zahaluje izolované město... Zakázaná magie, prokleté předměty, zvěsti o únosech jasnovidců...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelGomora_4</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Why we are allied with them is beyond me. A city of filth for the filthy. We should be above that.</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Překvapuje mě, že s nimi spolupracujeme. Město špíny pro špinavce. Neměli bychom se tak ponižovat.&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelThreepeaks_1</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">An Emerald for the Jewel of the mountains. Three-Peaks is the city of the thousand bridges.</Data></Cell>
+    <Cell><Data ss:Type="String">Smaragd, Klenot hor. Tři Koruny jsou městem tisíce mostů.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelThreepeaks_2</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">It merges three mountaintops into a single city. They specialize in spices, incense and spiritual insights.</Data></Cell>
+    <Cell><Data ss:Type="String">Spojuje tři vrcholky hor do jednoho města. Specializují se na koření, kadidla a duchovní vedení.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelThreepeaks_3</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">And drugs.</Data></Cell>
+    <Cell><Data ss:Type="String">A drogy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelThreepeaks_4</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Sir?</Data></Cell>
+    <Cell><Data ss:Type="String">Pane?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelThreepeaks_5</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Ahem. A story for another time.</Data></Cell>
+    <Cell><Data ss:Type="String">Ehm. Příběh pro příště.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelVulcain_1</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">The best swords of the four realms come from here; Vulcaïn, The Jewel of steel.</Data></Cell>
+    <Cell><Data ss:Type="String">Nejlepší meče ze čtyř říší přicházejí odtud: Vulcain, Klenot oceli.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelVulcain_2</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Their ruby is as red as the volcano’s pit under the city. The weapons they forge are legendary both in quality and price.</Data></Cell>
+    <Cell><Data ss:Type="String">Jejich rubín je červený jako jáma sopky pod městem. Zbraně, které kovávají, jsou legendární jak v kvalitě, tak v ceně.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelSalander_1</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">An Amethyst, symbol of...</Data></Cell>
+    <Cell><Data ss:Type="String">Ametyst, symbol...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelSalander_2</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">An Alexandrite.</Data></Cell>
+    <Cell><Data ss:Type="String">Alexandrit.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelSalander_3</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Yes, of course! An Alexandrite, symbol of Salander, Jewel of the Earth.</Data></Cell>
+    <Cell><Data ss:Type="String">Ano, samozřejmě! Alexandrit, symbol Salander, Klenot Země.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelSalander_4</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">The city is built underground among the ruins of an old civilization. They specialize in the trade of ancient artefacts and their history.</Data></Cell>
+    <Cell><Data ss:Type="String">Město je postaveno pod zemí mezi ruinami staré civilizace. Specializují se na obchod se starověkými artefakty a jejich historii.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelArchion_1</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Archion! The flying city! A sapphire represents the Jewel of the Clouds!</Data></Cell>
+    <Cell><Data ss:Type="String">Archion! Létající město! Safír představuje Klenot mraků!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelArchion_2</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">This city has three anchor points throughout the year. It changes positions, selling knowledge in exchange for slaves.</Data></Cell>
+    <Cell><Data ss:Type="String">Toto město kotví na třech místech během roku. Neustále mění svou pozici, prodává znalosti výměnou za otroky.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelArchion_3</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">I’ve heard they get that knowledge from rangers they send beyond the frontiers of the known world.</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Slyšel jsem, že získavají tyto znalosti od zvědů, které posílají až za hranice známého světa.&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelArchion_4</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Their casualties confirm what we already know: the two other continents aren’t meant for humans. A Shame.</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Jejich ztráty potvrzují to, co už víme: dva další kontinenty nejsou určeny pro lidi. Škoda.&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelCtul_1</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Oh! I love that one! An Amber for C’tul, the Jewel of the Hunt.</Data></Cell>
+    <Cell><Data ss:Type="String">Oh! Ten miluju! Amber pro C'tul, Klenot lovu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelCtul_2</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">The city is actually built across the back of two gigantic beasts walking side by side. It is perpetually in movement across vast plains circled by lush jungles!</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Město postavené na zádech dvou obřích zvířat, které kráčí vedle sebe. &#10;Po celou dobu putují hustou džunglí a rozlehlou plání!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelCtul_3</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Calm down. What do we trade with them?</Data></Cell>
+    <Cell><Data ss:Type="String">Uklidni se. S čím s nimi obchodujeme?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelCtul_4</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">I… don’t remember.</Data></Cell>
+    <Cell><Data ss:Type="String">Já... nevzpomínám si</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelCtul_5</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">Exotic creatures and quality leather! This is more important than the diet of these beasts that amaze your young mind.</Data></Cell>
+    <Cell><Data ss:Type="String">Exotické bytosti a kvalitní kůže! Tohle je více důležitější než strava těchto šelem, které ohromují tů tvou mladou mysl.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_PalaceGuard</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Come forward! Meet Merchant-Prince Damaskus of Stormfall, keeper of the sea jewel, the city and all its people.</Data></Cell>
+    <Cell><Data ss:Type="String">Přistupte! Seznamte se s Princem Obchodníků Damaskusem ze Stormfallu, strážcem mořského klenotu, města a všech jeho obyvatel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">On behalf of the people of Stormfall I thank you and hereby name you the champion of the city.</Data></Cell>
+    <Cell><Data ss:Type="String">Jménem lidu Stormfallu vám děkuji a tímto vás jmenuji šampionem města.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Ahem, sir?</Data></Cell>
+    <Cell><Data ss:Type="String">Ehm, pane?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Milord.</Data></Cell>
+    <Cell><Data ss:Type="String">Výsosti.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="29.25">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">{Milord, I’m glad I could help but I would really, really like to avoid the champion thing and go back to my daily routine.|Milord, I’m glad I could help but I would really, really like to avoid the champion thing and go back to my daily routine.}</Data></Cell>
+    <Cell><Data ss:Type="String">{Výsosti, jsem rád, že jsem mohl pomoci, ale já bych byl opravdu, ale opravdu rád, kdybych se vyhnul tomu abych se stal šampionem a vrátil se ke kazdodenním činnostem.|Výsosti, jsem rád, že jsem mohl pomoci, ale já bych byl opravdu, ale opravdu rád, kdybych se vyhnul tomu abych se stal šampionem a vrátil se ke kazdodenním činnostem.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="31.5">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_5</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Your humility honors you, champion, but smile and rejoice with us. Your bravery saved many lives. You made this a day of victory!</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá pokora tě ctí, šampióne, ale usmívej se a raduj se s námi. Tvá statečnost zachránila mnoho životů. Díky tobě je tento den dnem vítězství!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_6</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Look, they aren’t even saved! The Svriirs were not attacking, they were fleeing the phenomenon from the deep&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">Podívejte se, oni nejsou zachráněni! Svriiové neútočili, utíkali před fenoménem z hlubin...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_7</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Enough!</Data></Cell>
+    <Cell><Data ss:Type="String">Dost!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_8</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Leave us.</Data></Cell>
+    <Cell><Data ss:Type="String">Nech nás.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_9</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Milord?!</Data></Cell>
+    <Cell><Data ss:Type="String">Výsosti?!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_10</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Now!</Data></Cell>
+    <Cell><Data ss:Type="String">Hned</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_11</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Yes milord!</Data></Cell>
+    <Cell><Data ss:Type="String">Ano Výsosti!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_12</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">You saw the apparitions, didn’t you?</Data></Cell>
+    <Cell><Data ss:Type="String">Viděl jsi zjevení, že?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_13</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">There’s more and more of them. You have to warn your people!</Data></Cell>
+    <Cell><Data ss:Type="String">Je jich víc a víc. Musíte varovat své lidi!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_14</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Not a chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Ani náhodou.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_15</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">{You can’t keep your men in the dark! They aren’t prepared for this!|You can’t let your men in the dark! They aren’t prepared for this!}</Data></Cell>
+    <Cell><Data ss:Type="String">{Nemůžete držet své lidi v nevědomosti! Nejsou na to připraveni!| Nemůžete nechat své lidi v nevědomosti! Nejsou na to připraveni!}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_16</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">I am doing what’s best for the city! Mass panic won’t do anyone any good!</Data></Cell>
+    <Cell><Data ss:Type="String">Dělám to, co je nejlepší pro město! Masová panika nikomu nepomůže!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">ACT1_Quest2_SF_DamaskusTalk1_17</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">I have allies studying this phenomenon. They will bring me answers, then we shall act with what little forces we have left. Until then, keep this to yourself if you really want to help the city.</Data></Cell>
+    <Cell><Data ss:Type="String">Mám spojence, kteří studují tento jev. Jakmile budu znát odpovědi, ostatní ozbrojené síly začnou jednat.. Do té doby si to nech pro sebe, pokud opravdu chceš pomoct městu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:MergeAcross="1" ss:StyleID="s80"><Data ss:Type="String">Quest3</Data></Cell>
@@ -1438,14 +1507,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_PlayerComment1_1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">No more delays. I should meet with Val now.</Data></Cell>
+    <Cell><Data ss:Type="String">Už žádná zpoždění. Měl bych se sejít s Val.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_PlayerComment1_2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Damaskus is playing a dangerous game.</Data></Cell>
+    <Cell><Data ss:Type="String">Damaskus hraje nebezpečnou hru.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_FoodRationing</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Stay in line if you want food!</Data></Cell>
+    <Cell><Data ss:Type="String">Zůstaňte ve frontě, pokud chcete jídlo!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_BrokenCart</Data></Cell>
@@ -1454,6 +1526,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_Harlan_1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">For the ninth time, no Harlan, you can't use the lift. Orders are strict.</Data></Cell>
+    <Cell><Data ss:Type="String">Podeváté, ne Harlane, nemůžeš použít výtah. Rozkazy jsou jasné.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_Harlan_2</Data></Cell>
@@ -1462,10 +1535,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_Harlan_3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Not my problem. Given the current situation we have bigger things on our hands.</Data></Cell>
+    <Cell><Data ss:Type="String">To není můj problém. V současné situaci máme důležitější věci na práci.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_CitizenDebate_1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">I’m telling you, Merchant-Prince Damaskus is done for! The noble houses will never forgive this mess!</Data></Cell>
+    <Cell><Data ss:Type="String">Říkám ti, Princ Obchodníků je za tohle zodpovědný. Vznešené rodiny na tohle nikdy nezapomenou!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_CitizenDebate_2</Data></Cell>
@@ -1474,10 +1549,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_OldLadyWantsAction_1</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Look at them, they are getting angrier!</Data></Cell>
+    <Cell><Data ss:Type="String">Podívej se na ně, jsou čím dál víc naštvanější!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_OldLadyWantsAction_2</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Ma'am, we really should leave, things are getting out of control.</Data></Cell>
+    <Cell><Data ss:Type="String">Madam, opravdu bychom měli odejít, věci se vymykají kontrole.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_OldLadyWantsAction_3</Data></Cell>
@@ -6787,7 +6864,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>6</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
