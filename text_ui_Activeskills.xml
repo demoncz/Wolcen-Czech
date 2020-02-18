@@ -127,7 +127,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1858029131264" ss:Parent="s62">
+  <Style ss:ID="m2414523659472" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -138,7 +138,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1858029131284" ss:Parent="s62">
+  <Style ss:ID="m2414523659492" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -149,7 +149,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1858029131304" ss:Parent="s62">
+  <Style ss:ID="m2414523659512" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -160,7 +160,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1858029682784" ss:Parent="s62">
+  <Style ss:ID="m2414523656768" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -171,7 +171,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1858029682804" ss:Parent="s62">
+  <Style ss:ID="m2414523656788" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -182,7 +182,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1858029682824" ss:Parent="s62">
+  <Style ss:ID="m2414523656808" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -193,7 +193,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1858029682844" ss:Parent="s62">
+  <Style ss:ID="m2414523656828" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -204,7 +204,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1858029682864" ss:Parent="s62">
+  <Style ss:ID="m2414523656848" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -215,7 +215,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1858029682884" ss:Parent="s62">
+  <Style ss:ID="m2414523656868" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -338,6 +338,9 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
   </Style>
+  <Style ss:ID="s112">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
  </Styles>
  <Names>
   <NamedRange ss:Name="characters"
@@ -364,7 +367,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s68">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1858029682784"><Data ss:Type="String">AST INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2414523656768"><Data ss:Type="String">AST INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_title</Data></Cell>
@@ -442,7 +445,7 @@
     <Cell><Data ss:Type="String">Duplikovaná dovednost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1858029682804"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2414523656788"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_enneract_of</Data></Cell>
@@ -452,6 +455,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="105.75">
     <Cell><Data ss:Type="String">ui_enneract_lore</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;&quot;Enneracts resurface every now and then. Those lucky enough to find them, not knowing any better, usually sell them on to be siphoned into energy crystals which fuel weapons or industry.\n\nScholars have theorized that they may contain a small fragment of a divine entity's power, stored in an ancient but definitely manmade device. \n\nWhile mages may spend their life studying a few Enneracts to replicate their signature essence and cast spells, a select few are drawn to them and are able to absorb the energy within, making it theirs in an instant.&quot;&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;&quot;Ennerakty se tu a tam znovu vynoří. Ti, kteří mají to štěstí, že je najdou, a neznají nic lepšího, je obvykle prodávají dál, aby byly přečerpány do energetických krystalů, které napájejí zbraně nebo průmysl.\n\nUčenci se domnívají, že mohou obsahovat malý úlomek moci božské entity, uložený v prastarém, ale rozhodně člověkem vyrobeném zařízení.\n\nZatímco mágové mohou strávit život studiem několika Enneraktů, aby replikovali jejich charakteristickou esenci a vrhali kouzla, několik vyvolených je k nim přitahováno a jsou schopni absorbovat energii uvnitř, takže je v mžiku jejich.&quot;&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BaseAttack</Data></Cell>
@@ -476,244 +480,292 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboUnarmed_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;A Republican Instructor once told you: &quot;So you're good at throwing punches eh? Great. Now pick up a weapon or go home&quot;. Which was a little ironic, given that the military academy was your home.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Jeden republikánský instruktor ti jednou řekl: &quot;Takže ty umíš dobře rozdávat rány, co? Ohromné. Teď seber tu zbraň, nebo jdi domů&quot;. Což bylo trochu ironické, vzhledem k tomu, že vojenská akademie byla tvým domovem.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboShield</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Shield Combo</Data></Cell>
-    <Cell><Data ss:Type="String">Kombo se Štítem</Data></Cell>
+    <Cell><Data ss:Type="String">Kombo se štítem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboShield_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Perform a powerful Melee combo with your shield and equipped weapon.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Melee&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Proveď mocné Kombo na blízko svým štítem a vybavenou zbraní.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;Základní útok&lt;/b&gt;, &lt;b&gt;Na blízko&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboOneHanded</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">One handed Strikes</Data></Cell>
-    <Cell><Data ss:Type="String">Jednoruční úder</Data></Cell>
+    <Cell><Data ss:Type="String">Jednoruční útoky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboOneHanded_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Slice, hack or smash foes with your main hand weapon.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Melee&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Rozřež, rozsekej nebo rozdrť nepřátele svou hlavní ruční zbraní.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;Základní útok&lt;/b&gt;, &lt;b&gt;Na blízko&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboOneHanded_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Human creativity knows no bounds when it comes to inventing tools of slaughter. The only thing that matches that inspiration is their desire to do it in a stylish and effective way.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Lidská tvořivost nezná hranic, pokud jde o vymýšlení vražedných nástrojů. Jediné, co se vyrovná této inspiraci, je touha udělat to stylově a efektivně.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualWield</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Dual Wield Strikes</Data></Cell>
-    <Cell><Data ss:Type="String">Úder Dvěmi Zbraněmi</Data></Cell>
+    <Cell><Data ss:Type="String">Útoky dvěmi zbraněmi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualWield_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Unleash a flurry of blows with both of your weapons.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Melee&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Vypusť záplavu úderů oběma svými zbraněmi.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;Základní útok&lt;/b&gt;, &lt;b&gt;Na blízko&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualWield_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Traditional fighters tend to consider the shield as the superior option. Clearly they have never fought the Screaming Furies of Laibon: a regiment of women dual wielding kopeshes while shouting fear away.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Tradiční bojovníci mají tendenci považovat štít za nejlepší volbu. Je jasné, že nikdy nebojovali s Ječícim fúriemi z Laibonu: Pluk žen bojujících dvěma válečnými srpy a zastrašujícím jekotem.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboGreatSword</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Two Handed Sword Strikes</Data></Cell>
-    <Cell><Data ss:Type="String">Úder Obouručním Mečem</Data></Cell>
+    <Cell><Data ss:Type="String">Útoky obouručním mečem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboGreatSword_desc</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Swing your two handed sword to cleave your foes.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Melee&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Máchni svým obouručním mečem, abys rozťal nepřátele.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;Základní útok&lt;/b&gt;, &lt;b&gt;Na blízko&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboGreatSword_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;At the military academy your strategy teacher rambled time and time again about the battle of Samatras. The Kuei Empire's light cavalry spotted a regiment of Republican footmen isolated from the rest of the battle. A swift sweep should have been enough to break the poor infantry... except they were greatsword wielders. That day, the Republican army had horsemeat for dinner.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Na vojenské akademii se tvůj učitel strategie znovu a znovu vracel k bitvě u Samatrasu. Lehká kavalerie Kuejské říše spatřila pluk Republikánských pěšáků izolovaných od zbytku bitvy. K rozbití ubohé pěchoty měl stačit rychlý výpad... až na to, že měli obouruční meče. Toho dne měla Republikánská armáda k večeři koňské maso.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboWarhammer</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Two Handed Mace Strikes</Data></Cell>
-    <Cell><Data ss:Type="String">Úder Obouručním Palcátem</Data></Cell>
+    <Cell><Data ss:Type="String">Útoky obouručním palcátem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboWarhammer_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Maul your enemies with your two handed mace.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Melee&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Dej co proto nepřátelům svým obouručním palcátem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;BZákladní útok&lt;/b&gt;, &lt;b&gt;Na blízko&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboWarhammer_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;A jest only truly appreciated by battlehammer users: &quot;Before a tournament, a knight spends two hours turtling behind three layers of thick fullplate armor. Scared of being late, he hurries in the arena and asks his unarmoured challenger &quot;What time is it?&quot; The lowborn picks up his maul and answers: &quot;It's hammer time!&quot;.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Vtip, který opravdu ocení jen uživatelé bitevního kladiva: &quot;Před turnajem tráví rytíř dvě hodiny tím, že se navléká do tří vrstev silného plátového brnění. Bojí se, že přijde pozdě, spěchá do arény a ptá se svého nepancéřovaného vyzyvatele &quot;Jaký je čas?&quot; Neurozený zvedne kladivo a odpoví: &quot;Je čas kladiva!&quot;.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboBattleaxe</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Two Handed Axe Strikes</Data></Cell>
-    <Cell><Data ss:Type="String">Úder Obouruční Sekerou</Data></Cell>
+    <Cell><Data ss:Type="String">Útoky obouruční sekerou</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboBattleaxe_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Swing your two handed axe to cut down your foes.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Melee&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Švihni svou obouruční sekerou, abys pokácel nepřátele.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;Základní útok&lt;/b&gt;, &lt;b&gt;Na blízko&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboBattleaxe_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Some see fighting as a dance, an art, a poetic display of murder. Meanwhile, others wield a big fat greataxe and chop people in half as casually as a butcher cuts meat. To each their own.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Někteří považují boj za tanec, umění, poetické zobrazení vraždy. Mezitím jiní třímají velkou těžkou sekeru a sekají lidi na půlky tak ledabyle, jako řezník seká maso.&#10;Každý podle svého.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualDaggers</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Dual Daggers Strikes</Data></Cell>
-    <Cell><Data ss:Type="String">Úder Dvěmi Dýkami</Data></Cell>
+    <Cell><Data ss:Type="String">Útoky dvěmi dýkami</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualDaggers_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Unleash a flurry of blows with two daggers.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Melee&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Rozpoutej záplavu ran dvěma dýkami.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;Základní útok&lt;/b&gt;, &lt;b&gt;Na blízko&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualDaggers_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Murderers, sociopaths and assassins all seem to share an unhealthy fetish for knives. Some researchers tried to understand this phenomenon. Their endeavour did not yield any conclusive results, given that half of them gave up after the first half got slaughtered, all with the same cause of death: multiple stabbings.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Zdá se, že vrazi, sociopati a atentátníci sdílejí nezdravou závislost na nožích. Někteří badatelé se snažili tento jev pochopit. Jejich snaha nepřinesla žádné průkazné výsledky, vzhledem k tomu, že polovina se výzkumu vzdala po tom, co ta první polovina z nich byla povražděna, všichni měli stejnou příčinu smrti: Mnohonásobná probodnutí.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboPistol</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Single Pistol Shots</Data></Cell>
-    <Cell><Data ss:Type="String">Střelba z Jedné Pistole</Data></Cell>
+    <Cell><Data ss:Type="String">Střelba z jedné pistole</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboPistol_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Fire at your foes with a crystal pistol.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Projectile&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Střílej na své nepřátele křišťálovou pistolí.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;Základní útok&lt;/b&gt;, &lt;b&gt;Střela&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboPistol_lore</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;There's an old saying in the explorer's guild of Stormfall: &quot;Do not bring a sword to a gunfight&quot;.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ve spolku průzkumníků Stormfallu mají staré rčení: &quot;Do přestřelky si nenos meč&quot;.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualPistols</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Dual Pistols Shots</Data></Cell>
-    <Cell><Data ss:Type="String">Střelba ze Dvou Pistolí</Data></Cell>
+    <Cell><Data ss:Type="String">Střelba ze dvou pistolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualPistols_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Fire at your foes with two crystal pistols.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Projectile&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Střílej na své nepřátele ze dvou křišťálových pistolí.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;Základní útok&lt;/b&gt;, &lt;b&gt;Střela&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualPistols_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;In the independent city of Archion there used to be an academy that taught sophisticated fighting techniques with two pistols. The training was so intense that people could be gone for years without being seen again. The world later learned that the academy had been shut down. Apparently the instructors were hiding the bodies of an absurd amount of students, dead to self-inflicted injuries.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;V nezávislém městě Archion bývala akademie, která vyučovala sofistikované bojové techniky se dvěma pistolemi. Výcvik byl tak intenzivní, že lidé mohli odejít na celá léta, aniž by je někdo znovu viděl. Svět se později dozvěděl, že akademie byla uzavřena. Instruktoři zřejmě ukrývali těla absurdního množství studentů, zemřelých na následky zranění, která si sami způsobili.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboMeleePistol</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Melee and Pistol Hits</Data></Cell>
+    <Cell><Data ss:Type="String">Zásahy na blízko a pistolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboMeleePistol_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Execute a deadly barrage of blows and shots.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Projectile&lt;/b&gt;, &lt;b&gt;Melee&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Proveď smrtící kanonádu úderů a výstřelů.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;Základní útok&lt;/b&gt;, &lt;b&gt;Střela&lt;/b&gt;, &lt;b&gt;Na blízko&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboMeleePistol_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;After several drinks of liquor, Captain James, a skypirate known for his infamous heist in the flying city of Archion, will often share his wisdom with the newbloods in his crew: &quot;Alrigh' gather 'round ya silly skyvirgins! Everyone listen! Like oi always say, victory ain't 'bout the size of yar canons, nah it ain't, but its all 'bout...&quot;, and that's generally when he passes out.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Po několika skleničkách kořalky se kapitán James, nebeský pirát známý svou neslavnou loupeží v létajícím městě Archion, chce obvykle podělit o svá moudra s nováčky ve své posádce: &quot;Tak jo, pojďte sem vy, pitomé nebeské panny! Všichni poslouchejte! Jak se vždycky říká, vítězství není o velikosti vašich kanonů, ne není, ale to je tak všechno...&quot;, a to je obvykle všechno, než ztratí vědomí.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboPistolShield</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Pistol Shots with Shield</Data></Cell>
+    <Cell><Data ss:Type="String">Střelba z pistole se štítem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboPistolShield_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Fire at your foes with a crystal pistol while protecting yourself with a shield.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Projectile&lt;/b&gt;, &lt;b&gt;Melee&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Střílejte na své nepřátele křišťálovou pistolí, zatímco se chráníte štítem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;Základní útok&lt;/b&gt;, &lt;b&gt;Střela&lt;/b&gt;, &lt;b&gt;Na blízko&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboPistolShield_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Pistol and Shield is the trademark style of the Protectors' infantry: the army of the Republic in charge of homeland security and population control. A line of Protectors handling a local riot can be a dreadful sight: the shieldwall blocks basic projectiles like paving stones, bottles and sharp sticks, and anyone getting close takes a bullet to the knee. With an order from their superior, they do not hesitate to shoot to kill.&lt;/i&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Pistole a štíty jsou typické pro pěchotu Protektorů: Armádu republiky, která má na starosti vnitřní bezpečnost a kontrolu obyvatelstva. Na řadu Protektorů, kteří zvládají místní výtržnost, může být strašný pohled: Štítová stěna blokuje základní střely jako dlažební kameny, láhve a ostré klacky a každý, kdo se dostane do její blízkosti, dostane kulku do kolene. Na rozkaz svého nadřízeného neváhají střílet, aby zabili.&lt;/i&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Bow</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Bow Shots</Data></Cell>
-    <Cell><Data ss:Type="String">Střelba z Luku</Data></Cell>
+    <Cell><Data ss:Type="String">Střelba z luku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Bow_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Shoot arrows at your foes.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Projectile&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Střílej šípy na své nepřátele.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;Základní útok&lt;/b&gt;, &lt;b&gt;Střely&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Bow_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The noble arrow, the great equalizer. A lord on his high horse, a knight with a castleforged sword, or a pitchfork-wielding peasant will all share the same fate once showered with arrows.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Vznešený šíp, velký vyrovnávač. Pán na svém velikém koni, rytíř s na hradě kovaným mečem nebo rolník mávající vidlemi, budou všichni sdílet stejný osud, jakmile je pokropí šípy.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Staff</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Staff Blasts</Data></Cell>
+    <Cell><Data ss:Type="String">Výstřel z hole</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Staff_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Tap into the staff's power to cast projectiles.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tags&lt;/font&gt;: &lt;b&gt;Basic Attack&lt;/b&gt;, &lt;b&gt;Projectile&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Využij moc hole střílet projektily.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Tagy&lt;/font&gt;: &lt;b&gt;Základní útok&lt;/b&gt;, &lt;b&gt;Střely&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Staff_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Charging into battle? Muddy skirmishes? Gory eviscerations? These are peasant practices at best. Exterminating your foes from afar with magic is just more stylish... and more sanitary.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Vrhat se do boje? Zápasy v blátě? Krvavé vykuchání? To jsou přinejlepším selské praktiky. Vyhladit své nepřátele z dálky magií je prostě stylovější... a hygieničtější.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_AST_ArrowsRain</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Wailing Arrows</Data></Cell>
+    <Cell><Data ss:Type="String">Kvílející šípy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_ArrowsRain_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Let loose a volley of arrows in a circular area that damages enemies over time.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Attack:&lt;/font&gt; Only usable with bows and pistols.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Attack&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Vypusť salvu šípů v kruhové oblasti, která poškozuje nepřátele v průběhu času.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Útok:&lt;/font&gt; Použitelné pouze s luky a pistolemi.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Útok&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_ArrowsRain_Lore</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron, the Maestre of Industry, forged &quot;Krearion, The First Bow&quot; so that men could master the art of raining death.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron, Pán průmyslu, vytvořill &quot;Krearion, Prvotní luk&quot;, aby muži mohli ovládnout umění pršící smrti.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Bladeslinger</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Phantom Blades</Data></Cell>
+    <Cell><Data ss:Type="String">Přízračné čepele</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Bladeslinger_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Throw a spinning dualblade in a line in front of you that damages enemies caught in its path.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Attack:&lt;/font&gt; Only usable with daggers, bows and pistols.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Attack&lt;/b&gt;, &lt;b&gt;Projectile&lt;/b&gt;, &lt;b&gt;Rogue&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Hoď rotující dvojčepel přímo před sebe, ta poškozuje nepřátele stojící v cestě.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Útok:&lt;/font&gt; Použitelné pouze s luky a pistolemi.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Útok&lt;/b&gt;, &lt;b&gt;Střela&lt;/b&gt;, &lt;b&gt;Tulák&lt;/b&gt;.,</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Bladeslinger_Lore</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron, Maestre of Industry, forged Omeagram, The First Double Bladed Sword, to push humans to their limits in terms of grace and agility. Manipulating this weapon can be as deadly for its wielder as it is for their foes.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron, Pán průmyslu, vytvořil Omeagram, Prvotní meč dvojitého ostří, aby dotlačil lidi na hranici, co se týče půvabu a hbitosti. Manipulace s touto zbraní může být stejně smrtící pro jejího nositele jako pro jeho nepřátele.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Bomb</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Havoc Orb </Data></Cell>
+    <Cell><Data ss:Type="String">Koule zkázy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Bomb_desc</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Target an area and launch an exploding device, dealing fire damage in an area of effect.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Attack:&lt;/font&gt; Only usable with daggers, bows and pistols.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Attack&lt;/b&gt;, &lt;b&gt;Projectile&lt;/b&gt;, &lt;b&gt;Rogue&lt;/b&gt;, &lt;b&gt;Device&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Zaměř oblast a vypusť explodující zařízení, které uděluje poškození ohněm v oblasti účinku.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Útok:&lt;/font&gt; Použitelné pouze s dýkami, luky a pistolemi.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Útok&lt;/b&gt;, &lt;b&gt;Střela&lt;/b&gt;, &lt;b&gt;Tulák&lt;/b&gt;, &lt;b&gt;Zařízení&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Bomb_Lore</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ezaneal, Fallen Lord of Trickery, is an inventor with a brilliant mind. Ironically he uses that technology to appeal to humans' most primal desire; their lust for power. To leverage that to his advantage, he created countless death-bringing machines and devices. The &quot;Empyrean Mortar Mark IV&quot; is just another one of them.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ezaneal, Padlý Pán Podvodu, je vynálezce s brilantní myslí. Ironií je, že tuto technologii využívá k tomu, aby apeloval na nejzákladnější touhu lidí; jejich chtíč po moci. Aby toho využil, vytvořil nespočet smrtících strojů a zařízení. &quot;Empyreanský minomet Mark IV&quot; je jen další z nich.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BrutalStrike</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Anvil's Woe</Data></Cell>
+    <Cell><Data ss:Type="String">Žal kovadliny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BrutalStrike_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Summon a colossal hammer and bring it down on your foes, dealing area damage.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Attack:&lt;/font&gt; Only usable with melee weapons.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Attack&lt;/b&gt;, &lt;b&gt;Warrior&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Vyvolej kolosální kladivo a spusť ho na své nepřátele, uděluje plošné poškození.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Útok:&lt;/font&gt; Použitelné pouze se zbraněmi na blízko.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Útok&lt;/b&gt;, &lt;b&gt;Válečník&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BrutalStrike_Lore</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron, Primordial of Industry, forged &quot;Gaavanir ,The First Hammer&quot; to shatter bones and will alike. Only dust and despair remain in its wake.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Hephaäron, Prapůvodce průmyslu, vytvořil &quot;Gaavanir, Prvotní kladivo&quot;, aby tříštilo jak kosti tak vůli. Za ním zůstává jen prach a zoufalství.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BullEye</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Gunslinger’s Brand</Data></Cell>
+    <Cell><Data ss:Type="String">Pistolníkův cejch</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BullEye_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Channel multiple shots and select targets by hovering over or clicking them. Shots are released when chaneling stops or maximum number of shots is reached.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Attack:&lt;/font&gt; Only usable with bows and pistols.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Attack&lt;/b&gt;, &lt;b&gt;Projectile&lt;/b&gt;, &lt;b&gt;Device&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Soustřeď více výstřelů a vybírej cíle tak, že se nad nimi vznášíš nebo na ně klikneš. Výstřely budou vypuštěny po zastavení soustřeďování nebo po dosažení maximálního počtu výstřelů.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Útok:&lt;/font&gt; Použitelné pouze s luky a pistolemi.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Útok&lt;/b&gt;, &lt;b&gt;Střela&lt;/b&gt;, &lt;b&gt;Zařízení&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BullEye_Lore</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ezaneal, the Fallen Lord of Trickery, created incredible gun-slinging techniques while developing the first pistol, the Handheld Iosonic Cannon.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ezaneal, Padlý Pán Podvodu, vytvořil při vývoji prvotní pistole, Iosonického ručního kanonu, neuvěřitelné střelecké techniky.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChainLightning</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Thunderstrike</Data></Cell>
+    <Cell><Data ss:Type="String">Úder blesku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChainLightning_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Electrocute your foes with bouncing lightning. Each bounce is weaker than the last.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Usmaž své nepřátele odrážejícím se bleskem. Každý odraz je slabší než ten předchozí.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Použitelné pouze s holemi nebo katalyzátory.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ChainLightning_Lore</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Beelmalik, the Fallen Lord of Punishment, used to rule over the primal element of Lightning. He kept a distinct taste for chaining attacks, representative of his desire to capture and imprison his brethren Abanazaar, Lord of Envy, and Etheliel, Lady of Vanity.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Beelmalik, Padlý Pán Trestu, vládl prvotnímu elementu Blesku. Měl ve výrazné oblibě řetězové útoky, representující jeho touhu zajmout a uvěznit své řádové bratry Abanazaara, Pána Závisti a Ethelielu, Paní Marnivosti.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Charge</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Warpath</Data></Cell>
+    <Cell><Data ss:Type="String">Válečná Stezka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Charge_desc</Data></Cell>
@@ -726,6 +778,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_DeathMark</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Mark of Impurity</Data></Cell>
+    <Cell><Data ss:Type="String">Značka Nečistoty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_DeathMark_desc</Data></Cell>
@@ -738,6 +791,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_DualStrike</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Slayer's Flurry</Data></Cell>
+    <Cell><Data ss:Type="String">Závan Zabíječe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_DualStrike_desc</Data></Cell>
@@ -750,6 +804,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Fireball</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Consuming Embers</Data></Cell>
+    <Cell><Data ss:Type="String">Žhavé uhlíky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Fireball_desc</Data></Cell>
@@ -762,6 +817,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_FrostComet</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Tear of Etheliel</Data></Cell>
+    <Cell><Data ss:Type="String">Slza Etheliel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_FrostComet_desc</Data></Cell>
@@ -774,6 +830,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_FrostLance</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Arctic Spear</Data></Cell>
+    <Cell><Data ss:Type="String">Ledové Kopi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_FrostLance_desc</Data></Cell>
@@ -786,6 +843,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FrostNova</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Winter's Grasp</Data></Cell>
+    <Cell><Data ss:Type="String">Dotek Zimy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FrostNova_desc</Data></Cell>
@@ -798,6 +856,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Hook</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Tracker's Reach</Data></Cell>
+    <Cell><Data ss:Type="String">Stopařuv Hák</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Hook_desc</Data></Cell>
@@ -810,6 +869,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_IntroductionLightningAttack</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Purge with Lightning</Data></Cell>
+    <Cell><Data ss:Type="String">Očista Bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_IntroductionLightningAttack_desc</Data></Cell>
@@ -822,6 +882,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Laceration</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Bleeding Edge</Data></Cell>
+    <Cell><Data ss:Type="String">Krvácejíci Ostří</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Laceration_desc</Data></Cell>
@@ -834,6 +895,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Laser</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Annihilation</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhlazení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Laser_desc</Data></Cell>
@@ -1132,7 +1194,7 @@
     <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Moros, Primordial of Dusk, wielded great clouds of darkness to turn the tide of battle when his forces seemed surrounded.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1858029682824"><Data ss:Type="String">SKILLS VARIANTS  &lt;font color=&quot;#cb5316&quot;&gt; Rage  &lt;font color=&quot;#948ec6&quot;&gt; Willpower</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2414523656808"><Data ss:Type="String">SKILLS VARIANTS  &lt;font color=&quot;#cb5316&quot;&gt; Rage  &lt;font color=&quot;#948ec6&quot;&gt; Willpower</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_1</Data></Cell>
@@ -1141,6 +1203,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_1_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Reduces cooldown.</Data></Cell>
+    <Cell><Data ss:Type="String">Snížuje dobu dobíjení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_2</Data></Cell>
@@ -1149,10 +1212,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_2_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Increases damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýšuje poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_3</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Serrated Arrows</Data></Cell>
+    <Cell><Data ss:Type="String">Ozubené Šípy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_3_desc</Data></Cell>
@@ -1161,6 +1226,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_4</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">The Black Cloud</Data></Cell>
+    <Cell><Data ss:Type="String">Černý Mrak</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_4_desc</Data></Cell>
@@ -1173,6 +1239,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_5_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Converts base Physical damage to Fire damage.\n\nIncreases damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Převede základní fyzické poškození na ohnivé poškození.\n\nZvýší poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_5_Lore</Data></Cell>
@@ -1189,10 +1256,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_7</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Eagle Eye</Data></Cell>
+    <Cell><Data ss:Type="String">Orlí Oko</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_7_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Increases critical hit chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýší šanci na kritický úder</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_8</Data></Cell>
@@ -1281,6 +1350,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Bladeslinger_variant_1_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Increases damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýší poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Bladeslinger_variant_1_Lore</Data></Cell>
@@ -2513,10 +2583,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_9</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Meteor Shower</Data></Cell>
+    <Cell><Data ss:Type="String">Roj Meteorů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_9_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Increases number of projectiles, but each projectile's damage is reduced.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýší počet projektilů, ale každému projektilu sníží poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_10</Data></Cell>
@@ -2609,6 +2681,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostComet_variant_4_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Increases damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýší poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostComet_variant_5</Data></Cell>
@@ -2617,6 +2690,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostComet_variant_5_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Converts base Frost damage to Fire damage.\n\nIncreases damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Převede základní Mrazivé poškození na ohnivé.\n\Zvýší poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostComet_variant_5_Lore</Data></Cell>
@@ -2725,10 +2799,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostLance_variant_1</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Crystal Javelin</Data></Cell>
+    <Cell><Data ss:Type="String">Krystalový Oštěp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostLance_variant_1_desc</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Increases damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýšá poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostLance_variant_2</Data></Cell>
@@ -2737,6 +2813,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostLance_variant_2_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Reduces Willpower cost.</Data></Cell>
+    <Cell><Data ss:Type="String">Sníží cenu Vůle.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostLance_variant_3</Data></Cell>
@@ -2917,10 +2994,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostNova_variant_6_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Increases damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýší poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostNova_variant_7</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">PermaFrost</Data></Cell>
+    <Cell><Data ss:Type="String">PermaFrost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostNova_variant_7_desc</Data></Cell>
@@ -2929,6 +3008,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostNova_variant_8</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Hail the Ice Queen</Data></Cell>
+    <Cell><Data ss:Type="String">Sláva Ledové Královny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostNova_variant_8_desc</Data></Cell>
@@ -6824,7 +6904,7 @@
     <Cell ss:StyleID="s62"><Data ss:Type="String">Reduces cooldown.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1858029682844"><Data ss:Type="String">AST BUFF VARIANTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2414523656828"><Data ss:Type="String">AST BUFF VARIANTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FireballFiredamageBoost_Desc</Data></Cell>
@@ -6939,7 +7019,7 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">Stamina Regeneration buff</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1858029682864"><Data ss:Type="String">Aspect of Apocalypse SKILLS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2414523656848"><Data ss:Type="String">Aspect of Apocalypse SKILLS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_APO_Menu_Title</Data></Cell>
@@ -7218,7 +7298,7 @@
     <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;As the First Warrior, Baäpheth understands the true value of patience; strength is worthless if one knows not when to strike.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1858029682884"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2414523656868"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Averagedamage</Data></Cell>
@@ -7553,7 +7633,7 @@
     <Cell ss:StyleID="s103"><Data ss:Type="String">Knock-back Distance: %1m</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1858029131264"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2414523659472"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s105"><Data ss:Type="String">ui_AST_ParamBonus_damage</Data></Cell>
@@ -7584,7 +7664,7 @@
     <Cell ss:StyleID="s106"><Data ss:Type="String">%1 Freeze Duration Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1858029131284"><Data ss:Type="String">SUMMONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2414523659492"><Data ss:Type="String">SUMMONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s108"><Data ss:Type="String">UI_AIName_Summon_Melee</Data></Cell>
@@ -7607,7 +7687,7 @@
     <Cell ss:StyleID="s109"><Data ss:Type="String">Duskshade</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1858029131304"><Data ss:Type="String">ACTIVE SKILL BUFFS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2414523659512"><Data ss:Type="String">ACTIVE SKILL BUFFS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s108"><Data ss:Type="String">ui_Aetherblade_buff_title</Data></Cell>
@@ -7993,13 +8073,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>15</TopRowVisible>
+   <TopRowVisible>1603</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>18</ActiveRow>
+     <ActiveRow>1610</ActiveRow>
      <ActiveCol>2</ActiveCol>
-     <RangeSelection>R19C3:R185C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

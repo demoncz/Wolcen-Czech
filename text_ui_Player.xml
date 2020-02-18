@@ -524,6 +524,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_ailments_chances</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailments Chance</Data></Cell>
+    <Cell><Data ss:Type="String">Šance na Oslabení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_allattributes_damage</Data></Cell>
@@ -743,19 +744,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_cs_dodgechance_score</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Dodge Chance Score</Data></Cell>
-    <Cell><Data ss:Type="String">Skóre šancí na uhnutí</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre šance na vyhnutí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dotattackinflictchance_score</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Attack Status Ailment Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre oslabující šance statusu Útoku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dotspellinflictchance_score</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Spell Status Ailment Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre oslabující šance statusu Kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dotresistchance_score</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Status Ailments Resilience Score</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre oslabující status Odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_dps</Data></Cell>
@@ -1055,20 +1059,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_snareduration</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Snare Duration modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Násobič trvání pasce</Data></Cell>
+    <Cell><Data ss:Type="String">Násobič trvání pasti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spellcastingspeed_score</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Spell Casting Speed Score</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre rychlosti sesílání Kouzel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_spellcriticalchance_score</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Spell Critical Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre kritické šance Kouzel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_stamina</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Stamina</Data></Cell>
-    <Cell><Data ss:Type="String">Výdrž</Data></Cell>
+    <Cell><Data ss:Type="String">Stamina</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_staminaregeneration</Data></Cell>
@@ -1153,6 +1159,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_weaknessscore</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Weakness Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre šance Slabosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_weaknesschance</Data></Cell>
@@ -1261,14 +1268,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_agility_bar_tooltip</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Your current Agility amount. The gauge represents your investment into that attribute compared to the expected value at your level.</Data></Cell>
+    <Cell><Data ss:Type="String">Hodnota tvé aktuální obratnosti. Měřítko zastupuje tvé investované body do tohoto atributu v porovnání s očekávanou hodnotou na tvé úrovni.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_agility_damage_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Bonus Damage gained from the Attribute points assigned to Agility</Data></Cell>
+    <Cell><Data ss:Type="String">Bonusové poškození získané z každého atributního bodu přiděleného do obratnosti.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_agility_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Agility. Affects your Attack Speed Score and Spell Casting Score.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá celková obratnost. Ovlivňuje tvé Skóre útočné rychlosti a Skóre sesílání kouzel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_ailmentbleed_tooltip</Data></Cell>
@@ -1397,7 +1407,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_burnduration_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The default duration of the Burn.</Data></Cell>
-    <Cell><Data ss:Type="String">Základní doba trvání krvácení.</Data></Cell>
+    <Cell><Data ss:Type="String">Základní doba trvání popálení.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_burndurationmod_tooltip</Data></Cell>
@@ -1455,6 +1465,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_damage_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Your basic Damage with equipped Weapons.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvé základní poškození s vybavenými zbraněmi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_dashrange_tooltip</Data></Cell>
@@ -1463,6 +1474,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_default_transferttime_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Transfer time of rage into willpower and vice versa.</Data></Cell>
+    <Cell><Data ss:Type="String">Doba trvání na převod vzteku na vůli a naopak.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_defense_tooltip</Data></Cell>
@@ -1483,6 +1495,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_dodgechance_score_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Modifier applied to your Dodge Chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Modifikátor aplikovaný na tvou šanci na vyhnutí se.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_dodgechance_tooltip</Data></Cell>
@@ -1531,18 +1544,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_freezechance_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Chance to Freeze with Frost Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá celkové šance na zmrazení mrznoucím poškozením.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_freezeduration_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The default duration of the Freeze.</Data></Cell>
+    <Cell><Data ss:Type="String">Základní doba trvání zmražení mrazivým poškozením.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_freezedurationmod_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The global duration modifier applied to Freezing.</Data></Cell>
+    <Cell><Data ss:Type="String">Základní doba trvání zmražení.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_freezescore_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The Freeze Chance Score is the main modifier to your Freeze Chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Sóre šance zmrazení je hlavním modifikátorem pro tvou šanci zmražení.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_frenzyduration_tooltip</Data></Cell>
@@ -1569,10 +1586,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_health_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Your Current Health Points. You lose them when enemies hit you, and die if they reach 0.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá aktuální hodnota zdraví. Zdraví ztrácíte, jakmile vás nepřítel udeří. Když zdraví klesne na 0 tak zemřete.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_healthregen_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The amount of Health Points you restore each Tick.</Data></Cell>
+    <Cell><Data ss:Type="String">Množsví zdraví, které získáte každým tikem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_healthregenfrequency_tooltip</Data></Cell>
@@ -1714,18 +1733,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_shockduration_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The default duration of the Shock.</Data></Cell>
+    <Cell><Data ss:Type="String">Výchozí hodnota trvání šoku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_shockdurationmod_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The global duration modifier applied to Shocking.</Data></Cell>
+    <Cell><Data ss:Type="String">Souhrné trvání modifikátoru aplikovaného na šok.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_shockscore_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The Shock Chance Score is the main modifier to your Shock Chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre šance na šok je hlavním modifikátorem na tvou šanci šoku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_shocktick_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The delay between each damage tick from a Shock stack.</Data></Cell>
+    <Cell><Data ss:Type="String">Prodleva mezi každým poškozením ze zásobníku šoku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_snareduration_tooltip</Data></Cell>
@@ -1762,34 +1785,42 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_stasisscore_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The Stasis Chance Score is the main modifier to your Stasis Chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre šance stáze je hlavním modifikátorem na tvou šanci stáze.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_stunchance_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Chance to Stun.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá celková šance na omráčení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_stunduration_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The default duration of the Stun.</Data></Cell>
+    <Cell><Data ss:Type="String">Výchozí doba trvání omráčení.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_stundurationmod_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The global duration modifier applied to Stunning.</Data></Cell>
+    <Cell><Data ss:Type="String">Souhrná doba trvání modifikátoru aplikovaná na omráčení.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_stunresistance_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Stun Resistance. May give you a chance to completely ignore an incoming Stun.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvé celková odolnost na omráčení. Může přinést šanci na celkové vyhnutí se příchozího omráčení.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_stunscore_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The Stun Chance Score is the main modifier to your Stun Chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre šance na omráčení je hlavním modifikátorem na tvou šanci na omráčení.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_thorndamage_tooltip</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Your total Thorns Damage. Thorns are Physical Damage inflicted to enemies when they hit you and which pierce through their Protections.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvé celkové Trnové poškození. Trny jsou fyzické poškození způsobené nepřátelům, když na tebe úspěšně zaútočí a taktéž projde jejich obranou.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_thorndamagemod_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The global Damage modifier applied to your Thorns Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Souhrný modifikátor poškození aplikovaný na tvé Trnové poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_tooltiponhover_bleed_statusailmentbasechance</Data></Cell>
@@ -1869,14 +1900,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_tooltiponhover_willpower_dotresistchance_score</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Ailment Resilience</Data></Cell>
+    <Cell><Data ss:Type="String">Odolnost oslabení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_tooltiponhover_willpower_dotattackinflictchance_score</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Ailment Chance on Attack</Data></Cell>
+    <Cell><Data ss:Type="String">Oslabující šance útoku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_tooltiponhover_willpower_dotspellinflictchance_score</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Ailment Chance on Spell</Data></Cell>
+    <Cell><Data ss:Type="String">Oslabující šance kouzel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_tooltiponhover_physical_resistance</Data></Cell>
@@ -2020,9 +2054,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>3</ActiveRow>
-     <ActiveCol>2</ActiveCol>
-     <RangeSelection>R4C3:R402C3</RangeSelection>
+     <ActiveRow>16</ActiveRow>
+     <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

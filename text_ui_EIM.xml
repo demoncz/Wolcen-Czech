@@ -1956,7 +1956,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rend_damage_weapon</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">%1-%2 Rend Damage added to Attacks</Data></Cell>
-    <Cell><Data ss:Type="String">%1-%2 Přidá do útoku tržřné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1-%2 Přidá do útoku tržné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rend_protection</Data></Cell>
@@ -3241,8 +3241,9 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>19</ActiveRow>
-     <ActiveCol>5</ActiveCol>
+     <ActiveRow>2</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+     <RangeSelection>R3C3:R647C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

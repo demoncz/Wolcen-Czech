@@ -244,7 +244,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterBossMod</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Champion and Specialist Enemies receive an additional Boss Modifier.</Data></Cell>
-    <Cell><Data ss:Type="String">Šampioni a Specialisté získají dodatečný modifiér Bosse.</Data></Cell>
+    <Cell><Data ss:Type="String">Šampioni a Specialisté získají dodatečný modifikátor bosse.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_soulexplosion</Data></Cell>
@@ -259,10 +259,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_resurectSimilar</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Chance for Enemies to spawn weak Enemies upon Death.</Data></Cell>
+    <Cell><Data ss:Type="String">Šance, že nepřátele po smrti vyvolají slabší nepřátele.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_explosiononplayer</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Explosions will pursue you at regular intervals.</Data></Cell>
+    <Cell><Data ss:Type="String">Výbuchy vás budou pronásledovat v pravidelných intervalech.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_modifier_monsterResistAll</Data></Cell>
@@ -283,166 +285,207 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterDamageFire</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Enemies Deal +%1 additional Fire Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé způsobují o +%1 více ohnivého poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_TrashDamageFire</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Underling Enemies Deal +%1 additional Fire Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Poskoci způsobují o +%1 více ohnivého poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_LieutenantDamageFire</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Fire Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Specialisté způsobují o +%1 více ohnivého poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_EliteDamageFire</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Champion Enemies Deal +%1 additional Fire Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Šampioni způsobují o +%1 více ohnivého poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterDamageFrost</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Enemies Deal +%1 additional Frost Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé způsobují o +%1 více poškození mrazem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_TrashDamageFrost</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Underling Enemies Deal +%1 additional Frost Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Poskoci způsobují o +%1 více poškození mrazem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_LieutenantDamageFrost</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Frost Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Specialisté způsobují o +%1 více poškození mrazem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_EliteDamageFrost</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Champion Enemies Deal +%1 additional Frost Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Šampioni způsobují o +%1 více poškození mrazem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterDamageLighting</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Enemies Deal +%1 additional Lightning Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé způsobují o +%1 více poškození bleskem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_TrashDamageLightning</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Underling Enemies Deal +%1 additional Lightning Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Poskoci způsobují o +%1 více poškození bleskem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_LieutenantDamageLightning</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Lightning Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Specialisté způsobují o +%1 více poškození bleskem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_EliteDamageLightning</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Champion Enemies Deal +%1 additional Lightning Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Šampioni způsobují o +%1 více poškození bleskem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterDamageUmbra</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Enemies Deal +%1 additional Aether Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé způsobují o +%1 více poškození étherem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_TrashDamageUmbra</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Underling Enemies Deal +%1 additional Aether Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Poskoci způsobují o +%1 více poškození étherem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_LieutenantDamageUmbra</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Aether Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Specialisté způsobují o +%1 více poškození étherem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_EliteDamageUmbra</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Champion Enemies Deal +%1 additional Aether Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Šampioni způsobují o +%1 více poškození étherem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterDamageSacred</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Enemies Deal +%1 additional Sacred Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé způsobují o +%1 více posvátného poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_TrashDamageSacred</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Underling Enemies Deal +%1 additional Sacred Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Poskoci způsobují o +%1 více posvátného poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_LieutenantDamageSacred</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Sacred Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Specialisté způsobují o +%1 více posvátného poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_EliteDamageSacred</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Champion Enemies Deal +%1 additional Sacred Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Šampioni způsobují o +%1 více posvátného poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterDamageShadow</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Enemies Deal +%1 additional Shadow Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé způsobují o +%1 více poškození stínem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_TrashDamageShadow</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Underling Enemies Deal +%1 additional Shadow Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Poskoci způsobují o +%1 více poškození stínem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_LieutenantDamageShadow</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Shadow Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Specialisté způsobují o +%1 více poškození stínem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_EliteDamageShadow</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Champion Enemies Deal +%1 additional Shadow Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Šampioni způsobují o +%1 více poškození stínem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterDamageRend</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Enemies Deal +%1 additional Rend Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé způsobují o +%1 více tržného poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_modifier_TrashDamageRend</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Underling Enemies Deal +%1 additional Rend Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Poskoci způsobují o +%1 více tržného poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_LieutenantDamageRend</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Rend Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Specialisté způsobují o +%1 více tržného poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_EliteDamageRend</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Champion Enemies Deal +%1 additional Rend Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Šampioni způsobují o +%1 více tržného poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monsterDamageToxic</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Enemies Deal +%1 additional Toxic Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé způsobují o +%1 více poškození jedem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_TrashDamageToxic</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Underling Enemies Deal +%1 additional Toxic Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Poskoci způsobují o +%1 více poškození jedem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantDamageToxic</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Toxic Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Specialisté způsobují o +%1 více poškození jedem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_EliteDamageToxic</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Champion Enemies Deal +%1 additional Toxic Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Šampioni způsobují o +%1 více poškození jedem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monsterDamagePhysical</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Enemies Deal +%1 additional Physical Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé způsobují o +%1 více fyzického poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_TrashDamagePhysical</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Underling Enemies Deal +%1 additional Physical Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé způsobují o +%1 více fyzického poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_modifier_LieutenantDamagePhysical</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Specialist Enemies Deal +%1 additional Physical Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Poskoci způsobují o +%1 více fyzického poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_EliteDamagePhysical</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Champion Enemies Deal +%1 additional Physical Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Specialisté způsobují o +%1 více fyzického poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_lessManaRegen</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String" x:Ticked="1">-%1 Willpower Regeneration.</Data></Cell>
+    <Cell><Data ss:Type="String">-%1 Regenerace vůle.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_lessStaminaRegen</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String" x:Ticked="1">-%1 Stamina Regeneration.</Data></Cell>
+    <Cell><Data ss:Type="String">-%1 Regenerace staminy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_lessRageGen</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String" x:Ticked="1">-%1 Rage Regeneration.</Data></Cell>
+    <Cell><Data ss:Type="String">-%1 Regenerace vzteku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monsterCriticalResistance</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Enemies receive -%1 Damage from Critical Hits.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé získavají o -%1 poškození kritickými údery.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monsterDotResistance</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Enemies receive -%1 Damage from Ailments.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé získavají o -%1 poškození oslabením.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_projDamageDistance</Data></Cell>
@@ -451,18 +494,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monstersSpeed</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Enemies have +%1 Movement Speed</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátele získají o +%1 větší rychlost pohybu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_TrashesSpeed</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Underling Enemies have +%1 Movement Speed</Data></Cell>
+    <Cell><Data ss:Type="String">Poskoci získají o +%1 větší rychlost pohybu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantsSpeed</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have +%1 Movement Speed</Data></Cell>
+    <Cell><Data ss:Type="String">Specialisté získají o +%1 větší rychlost pohybu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_ElitesSpeed</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have +%1 Movement Speed</Data></Cell>
+    <Cell><Data ss:Type="String">Šampioni získají o +%1 větší rychlost pohybu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monstersHealth</Data></Cell>
@@ -599,6 +646,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantPoisonFromSky</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have the Acid Rain Boss Modifier</Data></Cell>
+    <Cell><Data ss:Type="String">Specialist Enemies have the Acid Rain Boss Modifier</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_ElitePoisonFromSky</Data></Cell>
@@ -774,8 +822,9 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>14</ActiveRow>
+     <ActiveRow>2</ActiveRow>
      <ActiveCol>2</ActiveCol>
+     <RangeSelection>R3C3:R109C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

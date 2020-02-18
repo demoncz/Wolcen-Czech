@@ -234,6 +234,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_endgamedialog_townchatter1_1</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">I can't get her to speak. It's as though the fog is there, surrounding her, shrouding the world. I look into her eyes see nothingness. I don't know what to do...</Data></Cell>
+    <Cell><Data ss:Type="String">Nemůžu ji přimět, aby mluvila. Jako by tam byla mlha, která ji obklopuje a zahaluje svět. Dívám se jí do očí, vidím nicotu. Nevím, co mám dělat...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_endgamedialog_townchatter1_2</Data></Cell>
@@ -5743,6 +5744,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>7</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

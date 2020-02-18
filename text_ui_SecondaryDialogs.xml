@@ -186,110 +186,137 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_eviscerator_p1_2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Another stain on creation to be cleansed.</Data></Cell>
+    <Cell><Data ss:Type="String">Další skvrna na stvoření, která musí být vyčištěna.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_eviscerator_p1_3</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">A diversion. I suppose I can spare the time.</Data></Cell>
+    <Cell><Data ss:Type="String">Rozptýlení. Tím ušetřím nějaký čas.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_eviscerator_p1_4</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">How it gawks with such ignorance. A pitiful creature.</Data></Cell>
+    <Cell><Data ss:Type="String">Jak zírá s takovou nevědomostí. Ubohé stvoření.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_eviscerator_p1_5</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">So many points of vulnerability, which one to choose...</Data></Cell>
+    <Cell><Data ss:Type="String">Tolik zranitelných bodů, které si jen vybrat...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_eviscerator_p2_1</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Such feeble quarry, a waste of my time.</Data></Cell>
+    <Cell><Data ss:Type="String">Taková slabá kořist, ztráta mého času.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_eviscerator_p2_2</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Clumsy, predictable... Worthless.</Data></Cell>
+    <Cell><Data ss:Type="String">Nemotorný, předvídatelný... Bezcenný</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_eviscerator_p2_3</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Sever the neck, preserve the head.</Data></Cell>
+    <Cell><Data ss:Type="String">Přeříznout krk, zachovat hlavu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_eviscerator_p2_4</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">An unseen predator, I strike!</Data></Cell>
+    <Cell><Data ss:Type="String">Udeřím jako neviditelný predátor!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_eviscerator_p2_5</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Incapacitate, then execute.</Data></Cell>
+    <Cell><Data ss:Type="String">Zneschopnit, pak popravit.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_eviscerator_p3_1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">You dare resist the hand of Purity?! Foul demon, you will be culled!</Data></Cell>
+    <Cell><Data ss:Type="String">Ty si troufáš odporovat ruce čištoty?! Odporný Démone, budeš zničen!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_eviscerator_p3_2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Another misstep, your folly will be your demise!</Data></Cell>
+    <Cell><Data ss:Type="String">Další přešlap, tvá pošetilost bude tvůj zánik!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_eviscerator_p3_3</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">A foolish decision, you lost your right to a swift death.</Data></Cell>
+    <Cell><Data ss:Type="String">Pošetilé rozhodnutí, ztratil jsi právo na rychlou smrt.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_eviscerator_p3_4</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">The audacity of this one! Accept your fate, pathetic demonspawn!</Data></Cell>
+    <Cell><Data ss:Type="String">Taková drzost od tebe! Přijmi svůj osud, ubohý démone!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_eviscerator_p3_5</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">I will cut your skin into ribbons and sharpen my blades on your bones!</Data></Cell>
+    <Cell><Data ss:Type="String">Rozstříhám tvou kůži na stuhy a naostřím si ostří na tvých kostech!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p1_1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">As was forseen, the impure one stands before me.</Data></Cell>
+    <Cell><Data ss:Type="String">Jak jsem předpokládal, ten nečistý stojí přede mnou.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p1_2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Conflicted wanderer, what do you live for?</Data></Cell>
+    <Cell><Data ss:Type="String">Konfliktní poutníku, pro co žiješ?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p1_3</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">The stench of your spirit is inexcusable.</Data></Cell>
+    <Cell><Data ss:Type="String">Zápach tvého ducha je neomluvitelný.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p1_4</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">As was foreseen, a wretched mutation.</Data></Cell>
+    <Cell><Data ss:Type="String">Jak jsem předpokládal, ubohá mutace.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p1_5</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">A vestige of corruption, malformed and conflicted.</Data></Cell>
+    <Cell><Data ss:Type="String">Pozůstatek nákazy, znetvořený a konfliktní.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p2_1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Submit to your destiny, your fate is sealed.</Data></Cell>
+    <Cell><Data ss:Type="String">Poddej se svému osudu, tvůj osud je zpečetěn.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p2_2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">In your heart, darkness holds dominion, does it not?</Data></Cell>
+    <Cell><Data ss:Type="String">Ve vašem srdci, temnota drží nadvládu, že?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p2_3</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Your mind is burdened with impure thoughts.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá mysl je zatížena nečistými myšlenkami.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p2_4</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Come to me, and be cleansed of your profanity.</Data></Cell>
+    <Cell><Data ss:Type="String">Pojď ke mě a buď očištěn od svého rouhání.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p2_5</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Like the others of your kind, you shall return to dust.</Data></Cell>
+    <Cell><Data ss:Type="String">Stejně jako ostatní tvého druhu se obratíte v prach.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p3_1</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Your sins against creation weigh you down.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvé hříchy proti stvoření tě tíží.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p3_2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Your efforts have revealed your potential, and exposed your weaknesses.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvé úsilí odhalilo tvůj potenciál a odhalilo tvé slabiny.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p3_3</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">A resilient spirit, you will be remembered in death.</Data></Cell>
+    <Cell><Data ss:Type="String">Odolný duch, bude, po tvé smrti se na tebe bude vzpomínat.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p3_4</Data></Cell>
@@ -299,6 +326,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p3_5</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">My gaze pierces your every intention, you are condemned to eternal rest.</Data></Cell>
+    <Cell><Data ss:Type="String">Můj pohled propichuje každý tvůj záměr, jsi odsouzený věčnému odpočinku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s73">
     <Cell ss:StyleID="s79"/>
@@ -369,8 +397,9 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>29</ActiveRow>
+     <ActiveRow>2</ActiveRow>
      <ActiveCol>2</ActiveCol>
+     <RangeSelection>R3C3:R47C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

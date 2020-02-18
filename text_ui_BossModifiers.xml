@@ -205,12 +205,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_Fast</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Fast</Data></Cell>
-    <Cell><Data ss:Type="String">Rychlost</Data></Cell>
+    <Cell><Data ss:Type="String">Rychlý</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_Tough</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Tough</Data></Cell>
-    <Cell><Data ss:Type="String">Odolnost</Data></Cell>
+    <Cell><Data ss:Type="String">Odolný</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_Unstoppable</Data></Cell>
@@ -310,7 +310,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_BossModifier_ChargerIntouchable</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Invincible</Data></Cell>
-    <Cell><Data ss:Type="String">Neviditelnost</Data></Cell>
+    <Cell><Data ss:Type="String">Neviditelný</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_BossModifier_DropCreatures</Data></Cell>
@@ -355,11 +355,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_RandomLightning</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Lightning Bolts</Data></Cell>
-    <Cell><Data ss:Type="String">Úder blesků</Data></Cell>
+    <Cell><Data ss:Type="String">Údery blesků</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_RandomPoison_DZ</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Miasma</Data></Cell>
+    <Cell><Data ss:Type="String">Miazma</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_CirclingBlades</Data></Cell>
@@ -394,11 +395,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_CirclingRend_DZ</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Blood Ring</Data></Cell>
-    <Cell><Data ss:Type="String">Kruh krve</Data></Cell>
+    <Cell><Data ss:Type="String">Krvavý kruh</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_RandomRend_DZ</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Rending Circles</Data></Cell>
+    <Cell><Data ss:Type="String">Trhací kruhy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_ToxicSky_Homing</Data></Cell>
@@ -413,10 +415,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_MovingGround_DZ</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Shifting Earth</Data></Cell>
+    <Cell><Data ss:Type="String">Pohyblivá země</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_RandomLightning_CloseRange</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Lightning Surges</Data></Cell>
+    <Cell><Data ss:Type="String">Bleskový příboj</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_FireHoming_Projectiles</Data></Cell>
@@ -436,28 +440,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_RendBeam_DZ</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Seething Beams</Data></Cell>
+    <Cell><Data ss:Type="String">Spalující paprsky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_LightningStorm_Slow</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Creeping Jolts</Data></Cell>
+    <Cell><Data ss:Type="String">Plíživé nárazy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_LightningBolts_ForthAndBack</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Spiralling Bolts</Data></Cell>
-    <Cell><Data ss:Type="String">Spirálový blesk</Data></Cell>
+    <Cell><Data ss:Type="String">Spirálové blesky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_BoltsFromSky</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Lightning Strikes</Data></Cell>
-    <Cell><Data ss:Type="String">Úder blesků</Data></Cell>
+    <Cell><Data ss:Type="String">Údery hromů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_ShadowBackAndForth</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Seeping Shadows</Data></Cell>
+    <Cell><Data ss:Type="String">Prosakování stínů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_ToxicProjectiles_RandomDirection</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Pestilent Scatter</Data></Cell>
+    <Cell><Data ss:Type="String">Nakažlivé rozptýlení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_BossModifier_Stronger</Data></Cell>
@@ -567,12 +575,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>3</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>21</ActiveRow>
-     <ActiveCol>5</ActiveCol>
+     <ActiveRow>17</ActiveRow>
+     <ActiveCol>4</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

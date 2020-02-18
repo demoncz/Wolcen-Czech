@@ -684,7 +684,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_smuggler_path_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Smuggler’s Path</Data></Cell>
-    <Cell><Data ss:Type="String">Pašerákova Cesta</Data></Cell>
+    <Cell><Data ss:Type="String">Pašerácká Stezka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_necropolis_1_name</Data></Cell>
@@ -733,7 +733,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_coast_of_wrecks_desc</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">&lt;Font Size=&quot;18&quot; Color=&quot;#FFFFFF&quot;&gt;These caves were carved by millennia of rough weather. This climate inspired the name of the &lt;b&gt;Sea of Torment&lt;/b&gt; northwest from here. Countless ships were lost to it, only to be washed up on the shore. &lt;b&gt;Sea Svriir&lt;/b&gt; have recently swum up from the depths to invade them.&lt;/Font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;Font Size=&quot;18&quot; Color=&quot;#FFFFFF&quot;&gt;Tyto jeskyně byly tvarovany po tisíc let díky drsnému počasí. Zdejší klima bylo inspirací pro název &lt;b&gt;Moře Utrpení&lt;b&gt; severozápadně odtud. Nespočet lodí zde bylo potopeno a vyplaveno na břeh. Před nedávnem se &lt;b&gt;Svriirské Moře&lt;/b&gt; vynořilo z hlubin aby je napadlo. &lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;18&quot; Color=&quot;#FFFFFF&quot;&gt;Tyto jeskyně byly tvarovany po tisíce let díky drsnému počasí. Zdejší klima bylo inspirací pro název &lt;b&gt;Moře Utrpení&lt;b&gt; severozápadně odtud. Nespočet lodí zde bylo potopeno a vyplaveno na břeh. Před nedávnem se &lt;b&gt;Svriirské Moře&lt;/b&gt; vynořilo z hlubin aby je napadlo. &lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_highlands_desc</Data></Cell>
@@ -1240,6 +1240,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Nowhere_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Dawn's Crest Camp</Data></Cell>
+    <Cell><Data ss:Type="String">Tábor Svítání</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_rempart_1_name</Data></Cell>
@@ -1338,6 +1339,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_HeimlockArena_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Fury's Ascent Ritual</Data></Cell>
+    <Cell><Data ss:Type="String">Zuřivý Rituál Vzestupu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_VaultOfTruthOverlook_name</Data></Cell>
@@ -1732,8 +1734,9 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>19</ActiveRow>
-     <ActiveCol>5</ActiveCol>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+     <RangeSelection>R4C3:R299C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

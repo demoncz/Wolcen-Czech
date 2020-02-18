@@ -1996,7 +1996,9 @@
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
      <ActiveCol>2</ActiveCol>
+     <RangeSelection>R4C3:R47C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
