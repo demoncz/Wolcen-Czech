@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -304,8 +304,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>17</ActiveRow>
-     <ActiveCol>1</ActiveCol>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

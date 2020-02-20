@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -608,6 +608,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_Start02_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: I’m not quite dead yet!</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Ještě nejsem mrtvý!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Meet Valeria</Data></Cell>
@@ -615,7 +616,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: You look awfully real for a nightmare.</Data></Cell>
-    <Cell><Data ss:Type="String">%1: Ještě nejsem mrtvý!</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Na noční můru vypadáš hrozně opravdově.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_2</Data></Cell>
@@ -1438,10 +1439,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SFEarthquake_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Damaskus: Are you saying it can’t be stopped?</Data></Cell>
+    <Cell><Data ss:Type="String">Damaskus: Říkáš, že to nelze zastavit?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SFEarthquake_2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: It can, but not from here. I just need more time.</Data></Cell>
+    <Cell><Data ss:Type="String">% 1: Může, ale odtud ne. Potřebuji víc času.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SFEarthquake_3</Data></Cell>
@@ -1450,22 +1453,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SFEarthquake_4</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Damaskus: We’ll help you prepare an exp…</Data></Cell>
+    <Cell><Data ss:Type="String">Damaskus: Pomůžeme ti připravit expe...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SFEarthquake_5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Damaskus: It is here…</Data></Cell>
+    <Cell><Data ss:Type="String">Damaskus: Je to tady...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SFEarthquake_6</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Stormfall Guard: EARTHQUAKE!</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfall Guard: ZEMĚTŘESENÍ!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SFEarthquake_7</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Damaskus: My city!</Data></Cell>
+    <Cell><Data ss:Type="String">Damaskus: Mé město!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SFEarthquake_8</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Damaskus: Take this map! It will lead you to the Brotherhood of Dawn and your friend! Leave! Leave now if you are to save anything!</Data></Cell>
+    <Cell><Data ss:Type="String">Damašek: Vezmi si tuto mapu! Dovede tě to k Bratrstvu Úsvitu a tvé přítelkyni! Odejdi! Odejdi hned, pokud chceš něco zachránit!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Shamans vs Brotherhood</Data></Cell>
@@ -1564,54 +1572,67 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Zima: Ashar, Moros'ani!</Data></Cell>
+    <Cell><Data ss:Type="String">Zima: Ashar, Moros'ani!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Zima: Ashar, Moros'ani!</Data></Cell>
+    <Cell><Data ss:Type="String">Zima: Ashar, Moros'ani!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Zima: Anameterassü! Zatar'e !</Data></Cell>
+    <Cell><Data ss:Type="String">Zima: Anameterassü! Zatar'e !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_4</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Zima: Thank you, Avenger.</Data></Cell>
+    <Cell><Data ss:Type="String">Zima: Děkuji ti, Mstiteli.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Good luck saving your tribe, Zima.</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Hodně štěstí k záchraně tvého kmene, Zimo.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_6</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Zima: Save what you can, but don't hope for much.</Data></Cell>
+    <Cell><Data ss:Type="String">Zima: Zachraň, co můžeš, ale nedoufej v mnoho.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_7</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Zima: The Cult of the Sleeper consumes all.</Data></Cell>
+    <Cell><Data ss:Type="String">Zima: Kult Spáče pohltí všechny.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_8</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Ugh !</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Fuj !</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_9</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Va-</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Va-</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_10</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: Sssshhhhhtt.</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: PŠšššttttt.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_11</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: Keep it down!</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Ztiš se!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_12</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Are you okay? Where's the Brotherhood?</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Jsi v pořádku? Kde je Bratrstvo?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZimaBreaksSpell_13</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Valeria: Oh they're close enough.</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria: Oh, jsou dost blízko.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Zombie horde with Brotherhood</Data></Cell>
@@ -1619,6 +1640,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Gernese: Hold the line!</Data></Cell>
+    <Cell><Data ss:Type="String">Gernese: Držte linii!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_2</Data></Cell>
@@ -1627,22 +1649,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_3</Data></Cell>
     <Cell ss:StyleID="s97"><Data ss:Type="String">Gernese: They're flanking us!</Data></Cell>
+    <Cell><Data ss:Type="String">Gernese: Obklíčili nás!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_4</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: We can't hold them all! We have to close the gate!</Data></Cell>
+    <Cell><Data ss:Type="String">% 1: Všechny je neudržíme! Musíme zavřít bránu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Gernese: Dawn does not hide from darkness.</Data></Cell>
+    <Cell><Data ss:Type="String">Gernese: Úsvit se nebude skrývat před temnotou.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_6</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Gernese: This is our only chance to get out, there is no going back now.</Data></Cell>
+    <Cell><Data ss:Type="String">Gernese: Tohle je naše jediná šance, jak se dostat ven, už se není kam vracet.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_7</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: Bloody zealot! Your men will die for nothing!</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Zatracený fanatiku! Vaši muži zemřou pro nic za nic!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_8</Data></Cell>
@@ -1651,6 +1678,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_9</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Gernese: As long as one of us remains, hope is with us.</Data></Cell>
+    <Cell><Data ss:Type="String">Gernese: Pokud alespoň jeden z nás zůstane, naděje je s námi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_10</Data></Cell>
@@ -1659,10 +1687,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_11</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: There's too many, my abilities have limits you know!</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Je jich příliš mnoho, mé schopnosti mají limity, chápeš!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_12</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Gernese: We shall see about that.</Data></Cell>
+    <Cell><Data ss:Type="String">Gernese: Přesvědčíme se.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_ZombieHorde_13</Data></Cell>
@@ -2691,8 +2721,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>16</ActiveRow>
-     <ActiveCol>4</ActiveCol>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

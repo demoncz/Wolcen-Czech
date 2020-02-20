@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -216,7 +216,6 @@
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
    <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="303.75"/>
    <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="524.25"/>
-   <Column ss:AutoFitWidth="0" ss:Width="309.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s65">
     <Cell ss:StyleID="s66"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
@@ -407,10 +406,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="48.75">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_endgamedialog_townchatter8_1</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">She scares me, you know.</Data></Cell>
+    <Cell><Data ss:Type="String">Děsí mě, víš.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_endgamedialog_townchatter8_2</Data></Cell>
     <Cell ss:StyleID="s74"><Data ss:Type="String">Who?</Data></Cell>
+    <Cell><Data ss:Type="String">Kdo?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_endgamedialog_townchatter8_3</Data></Cell>
@@ -5744,7 +5745,6 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>7</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

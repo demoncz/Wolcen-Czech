@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -188,7 +188,7 @@
    ss:DefaultRowHeight="13.3125">
    <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="336.75"/>
    <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="470.25"/>
-   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="259.5"/>
+   <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="160.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s66">
     <Cell ss:StyleID="s67"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
@@ -255,12 +255,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_notif_IsInvitingYou</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Is Inviting you</Data></Cell>
-    <Cell><Data ss:Type="String">Zve vás</Data></Cell>
+    <Cell><Data ss:Type="String">Tě zve</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_notif_YouWereKickedFromGroup</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;You've been kicked&lt;/Font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;Byl jste vyhozen&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font color=&quot;#ffffff&quot;&gt;Byl jsi vyhozen&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_notif_WasKicked</Data></Cell>
@@ -303,9 +303,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>3</ActiveRow>
      <ActiveCol>2</ActiveCol>
-     <RangeSelection>R4C3:R19C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -250,7 +250,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_SacredImbued</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Sacred Imbued</Data></Cell>
-    <Cell><Data ss:Type="String">Naplněný posvátně</Data></Cell>
+    <Cell><Data ss:Type="String">Naplněný posvátností</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_BossModifier_ShadowImbued</Data></Cell>
@@ -310,7 +310,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_BossModifier_ChargerIntouchable</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Invincible</Data></Cell>
-    <Cell><Data ss:Type="String">Neviditelný</Data></Cell>
+    <Cell><Data ss:Type="String">Nezničitelný</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_BossModifier_DropCreatures</Data></Cell>
@@ -578,8 +578,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>17</ActiveRow>
-     <ActiveCol>4</ActiveCol>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

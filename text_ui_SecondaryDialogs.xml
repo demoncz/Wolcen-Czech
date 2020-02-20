@@ -16,7 +16,7 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -136,7 +136,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_charger_p2_2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Prove your worth, feeble one.</Data></Cell>
-    <Cell><Data ss:Type="String">Dokaž zda-li jsi hoden, slabochu.</Data></Cell>
+    <Cell><Data ss:Type="String">Dokaž, zda-li jsi hoden, slabochu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_charger_p2_3</Data></Cell>
@@ -211,7 +211,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_sariseldialog_eviscerator_p2_2</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Clumsy, predictable... Worthless.</Data></Cell>
-    <Cell><Data ss:Type="String">Nemotorný, předvídatelný... Bezcenný</Data></Cell>
+    <Cell><Data ss:Type="String">Nemotorný, předvídatelný... Bezcenný.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_eviscerator_p2_3</Data></Cell>
@@ -286,7 +286,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p2_2</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">In your heart, darkness holds dominion, does it not?</Data></Cell>
-    <Cell><Data ss:Type="String">Ve vašem srdci, temnota drží nadvládu, že?</Data></Cell>
+    <Cell><Data ss:Type="String">Ve tvém srdci temnota převládá, že?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p2_3</Data></Cell>
@@ -301,7 +301,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p2_5</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Like the others of your kind, you shall return to dust.</Data></Cell>
-    <Cell><Data ss:Type="String">Stejně jako ostatní tvého druhu se obratíte v prach.</Data></Cell>
+    <Cell><Data ss:Type="String">Stejně jako ostatní tvého druhu se obratíš v prach.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p3_1</Data></Cell>
@@ -316,7 +316,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p3_3</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">A resilient spirit, you will be remembered in death.</Data></Cell>
-    <Cell><Data ss:Type="String">Odolný duch, bude, po tvé smrti se na tebe bude vzpomínat.</Data></Cell>
+    <Cell><Data ss:Type="String">Odolná to duše, po tvé smrti se na tebe bude vzpomínat.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p3_4</Data></Cell>
@@ -326,7 +326,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_sariseldialog_tracker_p3_5</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">My gaze pierces your every intention, you are condemned to eternal rest.</Data></Cell>
-    <Cell><Data ss:Type="String">Můj pohled propichuje každý tvůj záměr, jsi odsouzený věčnému odpočinku.</Data></Cell>
+    <Cell><Data ss:Type="String">Bezproblému prohlédnu každý tvůj záměr, jsi odsouzený k věčnému odpočinku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s73">
     <Cell ss:StyleID="s79"/>
@@ -397,9 +397,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>2</ActiveRow>
      <ActiveCol>2</ActiveCol>
-     <RangeSelection>R3C3:R47C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

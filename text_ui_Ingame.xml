@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -123,7 +123,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2242360664960">
+  <Style ss:ID="m1922205535536">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -134,7 +134,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2242360664128">
+  <Style ss:ID="m1922205535744">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -145,7 +145,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2242360664148">
+  <Style ss:ID="m1922205535764">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -156,7 +156,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2242360664168">
+  <Style ss:ID="m1922205535784">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -167,7 +167,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2242360664188">
+  <Style ss:ID="m1922205535804">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -178,7 +178,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2242360664208">
+  <Style ss:ID="m1922205535824">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -189,7 +189,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2242360664228">
+  <Style ss:ID="m1922205535844">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -200,7 +200,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2242360663088" ss:Parent="s62">
+  <Style ss:ID="m1922205538864" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -211,7 +211,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2242360663108">
+  <Style ss:ID="m1922205538884">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -222,7 +222,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2242360663128">
+  <Style ss:ID="m1922205538904">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -233,7 +233,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2242360663148">
+  <Style ss:ID="m1922205538924">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -244,7 +244,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2242360663168">
+  <Style ss:ID="m1922205538944">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -255,7 +255,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2242360663188">
+  <Style ss:ID="m1922205538964">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -379,7 +379,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360663088"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205538864"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PlayerChest_UnlockCost</Data></Cell>
@@ -397,7 +397,7 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">Inventář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360663108"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205538884"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_party_leader_is_choosing_adventure</Data></Cell>
@@ -667,7 +667,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_restartRequired</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Please restart the game to apply your changes</Data></Cell>
-    <Cell><Data ss:Type="String">Prosím restartujte hru k aplikování změn</Data></Cell>
+    <Cell><Data ss:Type="String">Prosím restartuj hru k aplikování změn</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cannot_revive_when_nemesis_is_alive</Data></Cell>
@@ -802,7 +802,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_not_enough_points</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot unlock an Aspects of Apocalypse without a Unlock Point.</Data></Cell>
-    <Cell><Data ss:Type="String">Nemůžeš odemknout Aspekty Apokalypsy bez Odblokovacího Bodu</Data></Cell>
+    <Cell><Data ss:Type="String">Nemůžeš odemknout Apokalyptické bytí bez Odblokovacího bodu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_not_possible_now</Data></Cell>
@@ -830,7 +830,7 @@
     <Cell><Data ss:Type="String">Hněv Sarisel není v tomto herní režimu dostupný.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360663128"><Data ss:Type="String">ARCHIVIST</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205538904"><Data ss:Type="String">ARCHIVIST</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_knowledge</Data></Cell>
@@ -840,7 +840,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_archivist_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Archivist</Data></Cell>
-    <Cell><Data ss:Type="String">Archivář</Data></Cell>
+    <Cell><Data ss:Type="String">Archivářka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_level_up</Data></Cell>
@@ -850,7 +850,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_skill_levelup</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Skill Level up</Data></Cell>
-    <Cell><Data ss:Type="String">Dovednost navýšena</Data></Cell>
+    <Cell><Data ss:Type="String">Level Dovednosti navýšen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_archivist_header</Data></Cell>
@@ -863,7 +863,7 @@
     <Cell><Data ss:Type="String">Duplikát</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360663148"><Data ss:Type="String">JEWELER</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205538924"><Data ss:Type="String">JEWELER</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_title</Data></Cell>
@@ -921,7 +921,7 @@
     <Cell><Data ss:Type="String">Nelze změnit počet míst na předmětech kde jsou místa uzamčené. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360663168"><Data ss:Type="String">VOTING + EVENTS + SARISEL MODE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205538944"><Data ss:Type="String">VOTING + EVENTS + SARISEL MODE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_reset_sarisel_adventure_popup_title</Data></Cell>
@@ -951,14 +951,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_eviscerator_impale_other_player</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Your ally is trapped by an Untainted Shadowblade!\nAttack it to save them!</Data></Cell>
+    <Cell><Data ss:Type="String">Tvůj spojenec je uvězněn Neposkvrněnou Stínovou čepelí!\nZaútoč na ni, abys je zachránil!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_eviscerator_impale_local_player</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You are trapped by an Untainted Shadowblade!\nAllies must attack it to save you!</Data></Cell>
+    <Cell><Data ss:Type="String">Jsi uvězněn Neposkvrněnou Stínovou čepelí!\nSpojenci na ni musí zaútočit, aby tě zachránili!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_charger_killspawns</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">An Untainted Zealot has appeared!\nKill the clones to defeat it!</Data></Cell>
+    <Cell><Data ss:Type="String">Objevil se Neposkvrněný Zaelot!\nZabij klony, abys ho porazil!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Adventure_SariselMode_RewardChest_QuestLabel</Data></Cell>
@@ -973,159 +976,192 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_LeaveTheCoast_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Friendly Fire</Data></Cell>
+    <Cell><Data ss:Type="String">Spojenecká palba</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_LeaveTheCoast_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">As you ascend toward the surface, you hear the echoes of a nearby battle.</Data></Cell>
+    <Cell><Data ss:Type="String">Když stoupáš k hladině, slyšíš ozvěny nedaleké bitvy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_SvriirRaid_1_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The Last Stand</Data></Cell>
-    <Cell><Data ss:Type="String">Poslední Odpor</Data></Cell>
+    <Cell><Data ss:Type="String">Poslední odpor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_SvriirRaid_1_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The ground shakes as an enormous horde of Svriirs approaches the last Stormfall barricade that protects the way to the refugee camp. Sandor and his men are preparing for their final battle.</Data></Cell>
+    <Cell><Data ss:Type="String">Země se otřásá, když se obrovská horda Svriirů blíží k poslední barikádě Stormfallu, která chrání cestu do uprchlického tábora. Sandor a jeho muži se připravují na závěrečnou bitvu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Sirkis_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The Bane of the Storm</Data></Cell>
-    <Cell><Data ss:Type="String">Kletba Bouře</Data></Cell>
+    <Cell><Data ss:Type="String">Prokletí bouře</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Sirkis_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Despite the surrounding Soul Surges that chill the air, there is a very clear stream of warmth that emanates from this cave.</Data></Cell>
+    <Cell><Data ss:Type="String">I přes okolní Duševní vzedmutí, které ochlazuje vzduch, je zde velmi zřetelný proud tepla, který vyzařuje z této jeskyně.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_StormfallInn_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">A Warm Welcome</Data></Cell>
-    <Cell><Data ss:Type="String">Vřelé Uvítání</Data></Cell>
+    <Cell><Data ss:Type="String">Vřelé uvítání</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_StormfallInn_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Nothing like resting at the luxury inn of the Palace District to meet Valeria. The Laughing Sea Gal' knows how to welcome its customers, even in a city on the brink of chaos.</Data></Cell>
+    <Cell><Data ss:Type="String">Chceš-li se setkat s Valérií, nečekej nic jako odpočinek v luxusním hostinci v Palácové čtvrti. U Smějící se Mořské hoky vědí, jak přivítat své zákazníky, a to i ve městě na pokraji chaosu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Naarlog_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Battleborns</Data></Cell>
-    <Cell><Data ss:Type="String">Zrození k Válce</Data></Cell>
+    <Cell><Data ss:Type="String">Zrození k válce</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Naarlog_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You and Edric are almost through the Flayers' territory. Smoke rises from the Brotherhood of Dawn's camp; the Purifier's army shouldn't be far now.</Data></Cell>
+    <Cell><Data ss:Type="String">Ty a Edric jste už skoro skrz území Stahovačů. Z tábora Bratrstva Úsvitu stoupá kouř; Armáda Čističů by teď neměla být daleko.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_UmbraRelay_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Whispers from Within</Data></Cell>
+    <Cell><Data ss:Type="String">Šepoty zevnitř</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_UmbraRelay_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">A majestic chamber lies ahead. What appears to be a dead end. As you approach, something ominous starts to stir from the depths of your consciousness.</Data></Cell>
+    <Cell><Data ss:Type="String">Před tebou leží majestátní komnata. Což se jeví jako slepá ulička. Jak se blížíš, z hlubin tvého vědomí se začne zvedat něco zlověstného.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_TPS_EdricAmbush_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">No Matter the Odds</Data></Cell>
+    <Cell><Data ss:Type="String">Bez ohledu na šance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_TPS_EdricAmbush_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You finally reached the tainted Core of Anankis. Now you will have to find a way to stop it if Stormfall is to be saved.</Data></Cell>
+    <Cell><Data ss:Type="String">Konečně jste dosáhli Zkaženého jádra Anankisu. Nyní budete muset najít způsob, jak ho zastavit, pokud má být Stormfall zachráněn.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Yudai_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Fear No Evil</Data></Cell>
+    <Cell><Data ss:Type="String">Neboj se žádného zla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Yudai_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The clash against Yudaï is now unavoidable. He wishes to use you as a new vessel for his powers. This is no longer about heroism, the strength you must gather to prevail will have to come from the sheer will to survive.</Data></Cell>
+    <Cell><Data ss:Type="String">Střet s Yudai je teď nevyhnutelný. Chce tě využít jako novou schránku pro své síly. Tady už nejde o hrdinství, síla, kterou musíš shromáždit, abys zvítězil, bude muset přijít z pouhé vůle přežít.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BanditOutpost_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Familiar Face</Data></Cell>
-    <Cell><Data ss:Type="String">Známá Tvář</Data></Cell>
+    <Cell><Data ss:Type="String">Známá tvář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BanditOutpost_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Flayers Wildlings are mobilizing in the distance. Something is chasing after them.</Data></Cell>
+    <Cell><Data ss:Type="String">Divousové Stahovačů se shromažďují v dálce. Něco se za nimi žene.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_MeetHeimlock_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The Plea</Data></Cell>
+    <Cell><Data ss:Type="String">Prosba</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_MeetHeimlock_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The Purifiers camp shouldn't be far now. There is little doubt that Maëlys is already on the way to 'welcome' you and Edric. You must reach Grand Inquisitor Heimlock and plead your case to cease the infighting about your supposed 'witchcraft'.</Data></Cell>
+    <Cell><Data ss:Type="String">Tábor Čističů by teď neměl být daleko. Není pochyb o tom, že Maëlys už je na cestě &quot;přivítat&quot; tebe i s Edricem. Musíš zastihnout Velkého inkvizitora Heimlocka a obhájit svůj připad, abys zastavil vnitřní boje o tvé domnělé &quot;čarodějnictví&quot;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Vheguaad_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Frozen Bones</Data></Cell>
+    <Cell><Data ss:Type="String">Zmrzlé kosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Vheguaad_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Sinister voices echo from the depths, chanting in unison. Doesn't sound like good news.</Data></Cell>
+    <Cell><Data ss:Type="String">Z hlubin se ozývají zlověstné hlasy, které jednotně skandují. Nezní to jako dobrá zpráva.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_SF_ACT1_to_ACT2_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Give Your Report</Data></Cell>
+    <Cell><Data ss:Type="String">Podej hlášení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_SF_ACT1_to_ACT2_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">After informing the Merchant-Prince in details about what's happening below Stormfall, he will share with you the position of Valeria that his scouts have retrieved.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepting will transition you and your party to Chapter 2]&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">Poté, co tě Obchodní Kníže  podrobně informuje o tom, co se děje pod Stormfallem, podělí se s tebou o pozici Valerie, kterou jeho zvědové získali.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Přijetí přemístí tvou skupinu do Kapitoly 2]&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_MercyArena_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Begging for Mercy</Data></Cell>
+    <Cell><Data ss:Type="String">Žebrání o milost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_MercyArena_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Mercy seems to rule from this arena. To get Zima's help and break the Shadow-wall, you need to put him down. If legends about him are true, expect the worst.</Data></Cell>
+    <Cell><Data ss:Type="String">Milosrdenství, zdá se, vládne z této arény. Abys získal Zimovu pomoc a prolomil Stínovou zeď, musíš ho složit. Pokud jsou legendy o něm pravdivé, čekej to nejhorší.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_TC_LegionOfDeath_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Breaking the Spell</Data></Cell>
+    <Cell><Data ss:Type="String">Prolomení kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_TC_LegionOfDeath_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You arrive just in time to witness Zima breaking the shadow wall. Hopefully someone survived the onslaught on the other side…</Data></Cell>
+    <Cell><Data ss:Type="String">Dorazíš právě včas, abys byl svědkem toho, jak Zima rozbíjí stínovou zeď. Doufejme, že někdo přežil nápor na druhé straně …</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_InnerSanctum_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Might of the Searing Song</Data></Cell>
+    <Cell><Data ss:Type="String">Moc Prudké písně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_InnerSanctum_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Eos Gernese and his men need to carve their way back to the light, with your support, they now have a chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Eos Gernese a jeho muži si potřebují prořezat cestu zpět na světlo, s tvou podporou mají nyní šanci.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_VOS2Event_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Demonhunting</Data></Cell>
+    <Cell><Data ss:Type="String">Lov na démona</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_VOS2Event_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The smell of sulphur mixes with dead flesh as you reach the point of origin of the undead tide. Maybe you should turn around.</Data></Cell>
+    <Cell><Data ss:Type="String">Pach síry se mísí s mrtvým masem, když dosáhneš místa původu nemrtvého přílivu. Možná bys se měl otočit.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_ForestClearing_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">First Contact</Data></Cell>
+    <Cell><Data ss:Type="String">První kontakt</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_ForestClearing_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Valeria and you are journeying toward the recently razed city of Cordanon. What's the worst that could happen?</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria a ty cestujete k nedávno se zemí srovnanému městu Cordanon. Co horšího se může stát?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_FleshCity_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Laments of Fury</Data></Cell>
+    <Cell><Data ss:Type="String">Nářky Zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_FleshCity_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Cordanon's gates are in sight. A deep sense of foreboding invade your mind.</Data></Cell>
+    <Cell><Data ss:Type="String">Brány Cordanonu jsou na dohled. Hluboko do tvé mysli proniká zlé tušení.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_LambachBossFight_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The Lambach</Data></Cell>
+    <Cell><Data ss:Type="String">Lambach</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_LambachBossFight_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">In order to get to the Helion's first piece, it's now time to face the Lambach and end its horrors… if that's even possible.</Data></Cell>
+    <Cell><Data ss:Type="String">Abychom se dostali k první části Helionu, je teď čas postavit se Lambachovi a skoncovat s jeho hrůzami… pokud je to vůbec možné.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_TC_ACT2_to_ACT3_title</Data></Cell>
@@ -1135,6 +1171,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_TC_ACT2_to_ACT3_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Now that Gernese has the first piece of the Helion, you must journey north with the survivors of the Vault of Hope, to obtain the second piece and assemble the mythical weapon.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepting will transition you and your party to Chapter 3]&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">Teď, když má Gernese první kus Helionu, musíš se vydat na sever s pozůstalými z Krypty Naděje, získat druhý díl a sestavit mýtickou zbraň.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Přijetí přemístí tvou skupinu do Kapitoly 3]&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT3_InnerSanctum_title</Data></Cell>
@@ -1144,6 +1181,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT3_InnerSanctum_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The second piece of the Helion should be in the sanctum. Given it hasn't been breached yet, it should be safe to proceed.</Data></Cell>
+    <Cell><Data ss:Type="String">Druhý díl Helionu by měl být ve svatyni. Vzhledem k tomu, že ještě nebyla porušena, mělo by být bezpečné pokračovat.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT3_RW1_WW1_title</Data></Cell>
@@ -1153,38 +1191,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT3_RW1_WW1_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">For you to do your part and open the main gates of Crimson Keep, you will need the Daybreakers to do theirs, and attract Republican troops their way so that you may pass.</Data></Cell>
+    <Cell><Data ss:Type="String">Abys splnil svou úlohu a otevřel hlavní brány Karmínové pevnosti, budeš potřebovat Úsvitáře, aby udělali své a vylákali republikánské jednotky jejich cestou, abys mohl projít.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT3_Trenches_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The Battle Within</Data></Cell>
+    <Cell><Data ss:Type="String">Vnitřní bitva</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT3_Trenches_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Valeria and you will have to crush the reinforcements sent by the forces of Fury and use their portal to get up the remparts.</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria a ty budete muset rozdrtit posily vyslané silami Zuřivosti a použít jejich portál, aby se dostaly nahoru zbytky.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT3_TowerTop_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The Gates of Crimson Keep</Data></Cell>
+    <Cell><Data ss:Type="String">Brány Karmínové pevnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT3_TowerTop_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">As the power core charges up in energy, forces of Fury will surely try to sabotage it to prevent the opening of the main gate. If they succeed, Gernese and his men will be pinned down and crushed.</Data></Cell>
+    <Cell><Data ss:Type="String">Jak se energetické jádro nabíjí energií, síly Zuřivosti se ho jistě pokusí sabotovat, aby zabránily otevření hlavní brány. Pokud uspějí, přišpendlí Gernese a jeho muže na místě a rozdrtí je.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT3_HeimlockBossFight_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Fury's Ascent</Data></Cell>
+    <Cell><Data ss:Type="String">Vzestup Zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT3_HeimlockBossFight_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You can hear familliar voices coming from behind. They made it. You are all in time to stop Ahriman's summoning before it even started. Victory is at hand.</Data></Cell>
+    <Cell><Data ss:Type="String">Zezadu je slyšet známé hlasy. Zvládli to. Všichni jste tu včas, abyste zastavili Ahrimanovo vyvolávání, než vůbec začne. Vítězství je na dosah ruky.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT3_HA_ACT3_to_ACT4_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Closing the Abyssal Gate</Data></Cell>
+    <Cell><Data ss:Type="String">Zavření Hlubinné brány</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT3_HA_ACT3_to_ACT4_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Gernese is slowly closing the Abyssal gate. And yet, as he does so, something is intensifying on the other side. Time is running short. Fury is here.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepting will end the campaign and bring you back to main menu so that you can play the endgame mode: &quot;Champion of Stormfall&quot;.]&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">Gernese pomalu zavírá Hlubinnou bránu. A ještě když to dělá, na druhé straně něco sílí. Čas se krátí. Zuřivost je tady.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Přijetí ukončí kampaň a přenese tě zpět do hlavní nabídky, abys si mohl zahrát závěrečný mod: &quot;Šampion Stormfallu&quot;.]&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_warning</Data></Cell>
@@ -1202,7 +1249,7 @@
     <Cell><Data ss:Type="String">Odmítnout</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360663188"><Data ss:Type="String">OBJECTS AND ALTARS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205538964"><Data ss:Type="String">OBJECTS AND ALTARS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cursed_chest</Data></Cell>
@@ -1297,7 +1344,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s104"><Data ss:Type="String">ui_apoglobe_altar</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Aspects of Apocalypse Shrine</Data></Cell>
-    <Cell><Data ss:Type="String">Svatyně Aspektů Apokalypsy</Data></Cell>
+    <Cell><Data ss:Type="String">Svatyně Apokalyptických bytí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s104"><Data ss:Type="String">ui_buff_tooltip</Data></Cell>
@@ -1350,7 +1397,7 @@
     <Cell><Data ss:Type="String">Katalyzátor tělesné víry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360664128"><Data ss:Type="String">AREA MODIFIER ALTAR UI</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205535744"><Data ss:Type="String">AREA MODIFIER ALTAR UI</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_map_modifier</Data></Cell>
@@ -1410,7 +1457,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_altar_refuse</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Altar Confirmation</Data></Cell>
-    <Cell><Data ss:Type="String">Potvrzení Oltáře</Data></Cell>
+    <Cell><Data ss:Type="String">Potvrzení oltáře</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_altar_refuse</Data></Cell>
@@ -1440,11 +1487,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_infuse_map_cost</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Lure Untainteds for %1</Data></Cell>
+    <Cell><Data ss:Type="String">Lákadlo Neposkvrněných</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_infuse_desc</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">If you accept multiple Area Modifiers, you have the option to take on the Wrath of Sarisel, allowing Untainteds to challenge you during the expedition. You will be rewarded at the end of the expedition instead of receiving loot drops.</Data></Cell>
-    <Cell ss:StyleID="s91"><Data ss:Type="String">Pokud použijete mnoho modifikátoru oblasti, budete moci čelit Hněvu Sarisel, což umožní, aby vás Untainteds????? vyzvali během expedice. Odměnu získáte pouze na konci expedice namísto náhodně nalezených kořistí.&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">Pokud přijmeš více Plošných modifikátorů, máš možnost přijmout Hněv Sarisel a umožnit tak Neposkvrněným, aby tě během výpravy vyzvali. Budeš  odměněn na konci výpravy místo získávání jednotlivých kořistí.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_cost</Data></Cell>
@@ -1492,7 +1540,7 @@
     <Cell><Data ss:Type="String">Hráči mají %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360664148"><Data ss:Type="String">AREA MODIFIERS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205535764"><Data ss:Type="String">AREA MODIFIERS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_desc</Data></Cell>
@@ -1502,7 +1550,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterBossMod</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">All Champion and Specialist tier Enemies receive an additional Boss Modifier.</Data></Cell>
-    <Cell><Data ss:Type="String">Všichni Šampioni a Specialisté získají dodatečný Modifikátor Bosse</Data></Cell>
+    <Cell><Data ss:Type="String">Všichni Šampioni a Specialisté získají dodatečný Modifikátor bosse</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterResistFire</Data></Cell>
@@ -1512,7 +1560,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterResistFrost</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Enemies have %1 Frost Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátele mají %1 Odolnost vůči Mrázu</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátele mají %1 Odolnost vůči Mrazu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s106"><Data ss:Type="String">ui_modifier_monsterResistLighting</Data></Cell>
@@ -1550,7 +1598,7 @@
     <Cell><Data ss:Type="String">Nepřátele mají %1 Odolnost vůči Fyzickému poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360664168"><Data ss:Type="String">SARISEL MODE VICTORY SCREEN</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205535784"><Data ss:Type="String">SARISEL MODE VICTORY SCREEN</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s107"><Data ss:Type="String">ui_BuffAppliedCountPerPlayer</Data></Cell>
@@ -1683,7 +1731,7 @@
     <Cell><Data ss:Type="String">Pokročilé statistiky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360664188"><Data ss:Type="String">TRADING INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205535804"><Data ss:Type="String">TRADING INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s110"><Data ss:Type="String">ui_notif_TradeInvitation</Data></Cell>
@@ -1766,7 +1814,7 @@
     <Cell><Data ss:Type="String">Klikni pravým tlačítkem k nabídnutí předmětu k obchodu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360664208"><Data ss:Type="String">MERCHANT TOOLTIPS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205535824"><Data ss:Type="String">MERCHANT TOOLTIPS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_click_to_buy</Data></Cell>
@@ -1791,7 +1839,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_right_click_to_learn_skill</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Right-click to learn this skill or obtain Primordial Affinity if you already do</Data></Cell>
-    <Cell><Data ss:Type="String">Klikni pravým tlačítkem k naučení dovednosti nebo k získání Prvotní Vazby</Data></Cell>
+    <Cell><Data ss:Type="String">Klikni pravým tlačítkem k naučení dovednosti nebo k získání Prvotní vazby</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_right_click_to_equip</Data></Cell>
@@ -1806,7 +1854,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_right_click_to_sell_skill_for_knowledge</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Right-click to trade this Enneract for Primordial Affinity</Data></Cell>
-    <Cell><Data ss:Type="String">Klikni pravým tlačítkem k výměně Enneraktu za Prvotní Vazbu</Data></Cell>
+    <Cell><Data ss:Type="String">Klikni pravým tlačítkem k výměně Enneraktu za Prvotní vazbu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s105"><Data ss:Type="String">ui_ic_right_click_to_select_reagent</Data></Cell>
@@ -1824,7 +1872,7 @@
     <Cell><Data ss:Type="String">Přetáhni tento drahokam na místo osazení v předmětu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360664228"><Data ss:Type="String">WEAPON TOOLTIPS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205535844"><Data ss:Type="String">WEAPON TOOLTIPS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_elementalDamage</Data></Cell>
@@ -1834,7 +1882,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_materialDamage</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Material</Data></Cell>
-    <Cell><Data ss:Type="String">Materiál</Data></Cell>
+    <Cell><Data ss:Type="String">Materiální</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_occultDamage</Data></Cell>
@@ -1844,7 +1892,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_quality</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Quality</Data></Cell>
-    <Cell><Data ss:Type="String">Kvalita</Data></Cell>
+    <Cell><Data ss:Type="String">Kvalitní</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tooltip_damage_fire</Data></Cell>
@@ -1889,7 +1937,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tooltip_damage_toxic</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">%1 Toxic</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Toxické</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Jedové</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_tooltip_damage_umbra</Data></Cell>
@@ -1897,7 +1945,7 @@
     <Cell><Data ss:Type="String">%1 Éter</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2242360664960"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1922205535536"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_xp_at_level</Data></Cell>
@@ -2067,17 +2115,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_fire_resistance</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Fire Resistance</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Odolnost na oheň</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Odolnost proti ohni</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_frost_resistance</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Frost Resistance</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Odolnost na mráz</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Odolnost proti mrazu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lightning_resistance</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Lightning Resistance</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Odolnost na blesky</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Odolnost proti bleskům</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_MagicFind</Data></Cell>
@@ -2117,7 +2165,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Constitution</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Toughness</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Tuhost</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Houževnatost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_remaining_points</Data></Cell>
@@ -2232,7 +2280,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s103"><Data ss:Type="String">ui_non_dot_damage_percent</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">%1 Non-Ailment Damage dealt</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Non-Ailment Damage dealt</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Neoslabujícího poškození uděleno</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s113"><Data ss:Type="String">ui_no_effect</Data></Cell>
@@ -2257,7 +2305,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s103"><Data ss:Type="String">ui_apocalyptic_resource_cost</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Primordial Essence Cost</Data></Cell>
-    <Cell><Data ss:Type="String">Cena Prvotní Esence</Data></Cell>
+    <Cell><Data ss:Type="String">Cena Prvotní esence</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s103"><Data ss:Type="String">ui_broken</Data></Cell>
@@ -2354,11 +2402,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>309</TopRowVisible>
+   <TopRowVisible>363</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>332</ActiveRow>
+     <ActiveRow>319</ActiveRow>
      <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>

@@ -14,7 +14,7 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -375,7 +375,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Cofe_HalfBreed</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Flesh Spawn</Data></Cell>
-    <Cell><Data ss:Type="String">Havěť z Masa</Data></Cell>
+    <Cell><Data ss:Type="String">Havěť Masa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_COFE_Lambach</Data></Cell>
@@ -400,12 +400,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofe_Cultist</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Cultist of the Aberrant</Data></Cell>
-    <Cell><Data ss:Type="String">Aberantův Kultista</Data></Cell>
+    <Cell><Data ss:Type="String">Kultista Aberanta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofe_Fanatic</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Fanatic of the Aberrant</Data></Cell>
-    <Cell><Data ss:Type="String">Aberantův Fanatik</Data></Cell>
+    <Cell><Data ss:Type="String">Fanatik Aberanta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofe_Zombie</Data></Cell>
@@ -464,7 +464,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Golgoth</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Punisher Exoskeleton</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačený Exoskeleton Kata</Data></Cell>
+    <Cell><Data ss:Type="String">Potlačený Exoskeleton Trestač</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofy_Cultist</Data></Cell>
@@ -697,12 +697,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s73">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_AIName_Outlaws_MeleeBandit</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flayer Raider</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer Nájezdník</Data></Cell>
+    <Cell><Data ss:Type="String">Stahovač Nájezdník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_RangedBandit</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flayer Archer</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer Lučištník</Data></Cell>
+    <Cell><Data ss:Type="String">Stahovač Lučištník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Dog</Data></Cell>
@@ -717,27 +717,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Trapper</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flayer Sapper</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer Saper</Data></Cell>
+    <Cell><Data ss:Type="String">Stahovač Sapér</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Trapper_Stun</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flayer Staggerer</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer Omračovač</Data></Cell>
+    <Cell><Data ss:Type="String">Stahovač Omračovač</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_KennelMaster</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flayer Kennel Master</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer Lovec</Data></Cell>
+    <Cell><Data ss:Type="String">Stahovač Lovec</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Wallbreaker</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Flayer Wallbreaker</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer Ničitel</Data></Cell>
+    <Cell><Data ss:Type="String">Stahovač Ničitel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Thug</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Flayer Warmaster</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer Válečný Mistr</Data></Cell>
+    <Cell><Data ss:Type="String">Stahovač Válečný Mistr</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Outlaws: Shadow wildlings</Data></Cell>
@@ -771,7 +771,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Trapper_Shadow</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Tribal Sapper</Data></Cell>
-    <Cell><Data ss:Type="String">Kmenový Saper</Data></Cell>
+    <Cell><Data ss:Type="String">Kmenový Sapér</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_Wallbreaker_Shadow</Data></Cell>
@@ -33972,7 +33972,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_Brute</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Golmuth, Flayer Philosopher</Data></Cell>
-    <Cell><Data ss:Type="String">Golmuth, Filozof Flayer</Data></Cell>
+    <Cell><Data ss:Type="String">Golmuth, Stahovač Filozof</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_Minispecter</Data></Cell>
@@ -34016,7 +34016,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_LanternBearer</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Miré the Siphonner</Data></Cell>
-    <Cell><Data ss:Type="String">Miré Sifon</Data></Cell>
+    <Cell><Data ss:Type="String">Miré Přečerpávač</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_FleshScarab</Data></Cell>
@@ -34147,8 +34147,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>16</ActiveRow>
-     <ActiveCol>5</ActiveCol>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

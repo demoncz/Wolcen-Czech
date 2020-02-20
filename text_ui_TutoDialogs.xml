@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -311,7 +311,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="120">
     <Cell><Data ss:Type="String">ui_TutoDialogs2_p1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 4/14] Leveling up in Wolcen&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Basic progression:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Each level grants you 1 of each attribute, max health and health regeneration&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Customize attributes:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; You earn 10 more points to distribute in the Character Sheet (C)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Passive skills:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; And 1 passive point to spend in the Passive Skill Tree (P)&lt;/Font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 4/14] Zvyšování levelu ve Wolcen&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Základní postup:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Každý nový level přidá 1 bod do atributu maximálního zdraví a regenerace zdraví&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Customize attributes:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Dostaneš 10 dalších bodů k rozdělení do atributú ve vlastnostech postavy (C)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Pasivní dovednosti:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; A 1 pasivní bod k použití ve Stromu pasivních dovedností (P)&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 4/14] Zvyšování levelu ve Wolcen&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Základní postup:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Každý nový level přidá 1 bod do atributu maximálního zdraví a regenerace zdraví&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Customize attributes:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Dostaneš 10 dalších bodů k rozdělení do atributú v panelu vlastností postavy (C)&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Pasivní dovednosti:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; A 1 pasivní bod k použití ve Stromu pasivních dovedností (P)&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="114.75">
     <Cell><Data ss:Type="String">ui_TutoDialogs3_p1</Data></Cell>
@@ -346,7 +346,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="105.75">
     <Cell><Data ss:Type="String">ui_TutoDialogs7_Title</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tips 11/14] Character Sheet&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Stats bundles:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Each Attribute groups bonuses useful for most playstyles&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Damage bonuses:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Your three main attributes give bonus damage according to their ranking&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Detailed Character Sheet:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Click on “Show details” to know more about in-depth statistics&lt;/Font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 11/14] Vlastnosti postavy&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Atributové skupiny:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Bonus každé skupiny atributů je použitelný pro většinu herních stylů&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Bonus k poškození:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Tvé tři hlavní atributy dávají bonus k poškození sestupně, dle jejich hodnocení&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Podrobnosti vlastností postavy:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Klikni na “Ukázat podrobnosti” pro zobrazení větších podrobností vlastností postavy&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot; &gt;&lt;b&gt;[Tip 11/14] Vlastnosti postavy&lt;/b&gt;&lt;/Font&gt;\n\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Atributové skupiny:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Bonus každé skupiny atributů je použitelný pro většinu herních stylů&lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Bonus k poškození:&lt;/b&gt;&lt;/Font&gt; &lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Tvé tři hlavní atributy dávají bonus k poškození sestupně, dle jejich hodnocení v &lt;/Font&gt;\n&lt;Font Size=&quot;11&quot; color=&quot;#ccb270&quot;&gt;&lt;b&gt;Podrobnostním panelu vlastností postavy:&lt;/b&gt;&lt;/Font&gt;&lt;Font Size=&quot;11&quot; color=&quot;##dddddd&quot;&gt; Klikni na “Ukázat podrobnosti” pro zobrazení větších podrobností vlastností postavy&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_TutoDialogs8_Title</Data></Cell>
@@ -465,12 +465,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_4_Title</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Character Sheet&lt;/b&gt;&lt;/font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Vlastnosti postavy&lt;/b&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;13&quot;&gt;&lt;b&gt;Panel vlastnosti postavy&lt;/b&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_4_p1</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Press &lt;font color=&quot;#c5b14d&quot;&gt;C&lt;/font&gt; to open your character sheet.</Data></Cell>
-    <Cell><Data ss:Type="String">Stiskni klávesu&lt;font color=&quot;#c5b14d&quot;&gt;C&lt;/font&gt; pro otevření vlastností postavy.</Data></Cell>
+    <Cell><Data ss:Type="String">Stiskni klávesu&lt;font color=&quot;#c5b14d&quot;&gt;C&lt;/font&gt; pro otevření panelu vlastností postavy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Svriir_Tuto_4_p2</Data></Cell>
@@ -610,7 +610,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="90">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_5_content</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">• By killing the monsters of Wolcen, you have grown in power and gained a level.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;C&lt;/b&gt;&lt;/font&gt; to open your &lt;font color=&quot;#72c6db&quot;&gt;Character Sheet&lt;/font&gt;. Assign points to the 4 different &lt;font color=&quot;#72c6db&quot;&gt;Attributes&lt;/font&gt;. Each &lt;font color=&quot;#72c6db&quot;&gt;Attribute&lt;/font&gt; affects different aspects of your character.\n\n• Press &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;P&lt;/b&gt;&lt;/font&gt; to open your &lt;font color=&quot;#72c6db&quot;&gt;Passive Skill Tree&lt;/font&gt; and assign &lt;font color=&quot;#72c6db&quot;&gt;Skill Points&lt;/font&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">• Zabíjením monster ve Wolcen jsi získal zkušenosti, tím sis zvýšil úroveň a stal jsi se mocnějším.\n\n• Stiskni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;C&lt;/b&gt;&lt;/font&gt; pro otevření &lt;font color=&quot;#72c6db&quot;&gt;Vlasností postavy&lt;/font&gt;. Rozděl body do 4 ruzných &lt;font color=&quot;#72c6db&quot;&gt;Atributů&lt;/font&gt;. Každý &lt;font color=&quot;#72c6db&quot;&gt;Atribut&lt;/font&gt; ovlivňuje jiné vlastnosti tvé postavy.\n\n• Stiskni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;P&lt;/b&gt;&lt;/font&gt; pro otevření &lt;font color=&quot;#72c6db&quot;&gt;Stromu pasivních dovedností&lt;/font&gt; a přiřaď &lt;font color=&quot;#72c6db&quot;&gt;Dovednostní body&lt;/font&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">• Zabíjením monster ve Wolcen jsi získal zkušenosti, tím sis zvýšil úroveň a stal jsi se mocnějším.\n\n• Stiskni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;C&lt;/b&gt;&lt;/font&gt; pro otevření &lt;font color=&quot;#72c6db&quot;&gt;Panelu vlasností postavy&lt;/font&gt;. Rozděl body do 4 ruzných &lt;font color=&quot;#72c6db&quot;&gt;Atributů&lt;/font&gt;. Každý &lt;font color=&quot;#72c6db&quot;&gt;Atribut&lt;/font&gt; ovlivňuje jiné vlastnosti tvé postavy.\n\n• Stiskni &lt;font color=&quot;#c5b14d&quot;&gt;&lt;b&gt;P&lt;/b&gt;&lt;/font&gt; pro otevření &lt;font color=&quot;#72c6db&quot;&gt;Stromu pasivních dovedností&lt;/font&gt; a přiřaď &lt;font color=&quot;#72c6db&quot;&gt;Dovednostní body&lt;/font&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_Tutorial_6_title</Data></Cell>
@@ -675,7 +675,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s93"><Data ss:Type="String">ui_Tutorial_11_title</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Character Sheet</Data></Cell>
-    <Cell><Data ss:Type="String">Vlastnosti postavy</Data></Cell>
+    <Cell><Data ss:Type="String">Panel vlastností postavy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="105.75">
     <Cell ss:StyleID="s93"><Data ss:Type="String">ui_Tutorial_11_content</Data></Cell>
@@ -784,7 +784,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Tutorial_22_title</Data></Cell>
-    <Cell ss:StyleID="s92"><Data ss:Type="String">Fast Tavel</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Fast Travel</Data></Cell>
     <Cell><Data ss:Type="String">Rychlé cestování</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="75">
@@ -1130,9 +1130,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>3</ActiveRow>
      <ActiveCol>2</ActiveCol>
-     <RangeSelection>R4C3:R153C4</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

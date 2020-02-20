@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -209,17 +209,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Poisoned_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Poison deals Toxic Damage over time to the target.</Data></Cell>
-    <Cell><Data ss:Type="String">Otrava zbůsobí cíli toxické poškození v čase.</Data></Cell>
+    <Cell><Data ss:Type="String">Otrava zbůsobí cíli jedové poškození v čase.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Burning_title</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Burning</Data></Cell>
-    <Cell><Data ss:Type="String">Zapálení</Data></Cell>
+    <Cell><Data ss:Type="String">Popálení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Burning_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Burning deals Fire Damage over time both to the target and those around it.</Data></Cell>
-    <Cell><Data ss:Type="String">Zapálení zbůsobí cíli a všem v okolí ohnivé poškození v čase.</Data></Cell>
+    <Cell><Data ss:Type="String">Popálení zbůsobí cíli a všem v okolí ohnivé poškození v čase.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Frozen_title</Data></Cell>
@@ -239,7 +239,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Bleeding_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Bleed deals Rend Damage over time.</Data></Cell>
-    <Cell><Data ss:Type="String">Krvácení způsobí cíli ?rend? poškození v čase.</Data></Cell>
+    <Cell><Data ss:Type="String">Krvácení způsobí cíli tržné poškození v čase.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Shocked_title</Data></Cell>
@@ -249,17 +249,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Shocked_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Shock deals Lightning Damage over time. Additional damage can occur if several characters afflicted with shock stay close together.</Data></Cell>
-    <Cell><Data ss:Type="String">Šok způsobí cíli poškození v čase. K dodatečnému poškození může dojít jakmile stojí několik postav které jsou šokovány blízko u sebe.</Data></Cell>
+    <Cell><Data ss:Type="String">Šok způsobí bleskové poškození v čase. K dodatečnému poškození může dojít, jakmile stojí několik postav, ovliněných šokem, blízko u sebe.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Weakened_title</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Weakness</Data></Cell>
-    <Cell><Data ss:Type="String">Oslabení</Data></Cell>
+    <Cell><Data ss:Type="String">Slabost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Weakened_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Weakness reduces the Damage dealt by the target.</Data></Cell>
-    <Cell><Data ss:Type="String">Oslabení sníží poškození které cíl způsobí</Data></Cell>
+    <Cell><Data ss:Type="String">Slabost sníží poškození způsobené cílem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Stasis_title</Data></Cell>
@@ -269,7 +269,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Stasis_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Stasis slows every movement of the target.</Data></Cell>
-    <Cell><Data ss:Type="String">Stáze zpomaluje pohyb cíle</Data></Cell>
+    <Cell><Data ss:Type="String">Stáze zpomaluje pohyb cíle.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Cursed_title</Data></Cell>
@@ -279,7 +279,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Cursed_desc</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Cursed increases the Damage taken by the target.</Data></Cell>
-    <Cell><Data ss:Type="String">Prokletí zvýší Poškození uložené cíli</Data></Cell>
+    <Cell><Data ss:Type="String">Prokletí zvýší poškození způsobené cílem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s76"><Data ss:Type="String">Passive Skills Effects</Data></Cell>
@@ -291,17 +291,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PressSpaceToRevive</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Hold Space for second wind\n%1/%2 Tokens Remaining</Data></Cell>
-    <Cell><Data ss:Type="String">Podržte mezerník pro druhou šanci\n%1/%2 Zbývá Oživení</Data></Cell>
+    <Cell><Data ss:Type="String">Podrž mezerník pro druhou šanci\n%1/%2 Zbývá oživení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ClicToReviveAlly</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Click to assist</Data></Cell>
-    <Cell><Data ss:Type="String">Zmáčkni pro pomoc</Data></Cell>
+    <Cell><Data ss:Type="String">Klikni pro pomoc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_press_x_to_give_up</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Hold X to Give up</Data></Cell>
-    <Cell><Data ss:Type="String">Podržte X abyste se vzdali</Data></Cell>
+    <Cell><Data ss:Type="String">Podrž X aby ses vzdal</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="66"/>
    <Row ss:Index="175" ss:AutoFitHeight="0" ss:Height="25.5"/>
@@ -399,8 +399,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>23</ActiveRow>
-     <ActiveCol>7</ActiveCol>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

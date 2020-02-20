@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -442,7 +442,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_arrowsrain</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Wailing Arrows</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Šípky nářku</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Šípy nářku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_bladeslinger</Data></Cell>
@@ -452,26 +452,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_bomb</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Havoc Orb</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Kouly skázy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_brutalstrike</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Anvil's Woe</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Kovadlinu žalu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_bullseye</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Gunslinger's Brand</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Pistolníkuv cejch</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_chainlightning</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Thunderstrike</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Úder blesku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_charge</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Warpath</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Válečnou stezku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_deathmark</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Mark of Impurity</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Značku nečistoty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_dualstrike</Data></Cell>
@@ -501,46 +507,57 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_hook</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Tracker's Reach</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Stopařuv hák</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_laceration</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Bleeding Edge</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Krvácejíci ostří</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_laser</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Annihilation</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Vyhlazení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_leap</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Wings of Ishmir</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Křídla Ishmir</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_reave</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Wrath of Baäpheth</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Baäphethuv hněv</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_sacredground</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Bulwark of Dawn</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Hradba úsvitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_spreadshot</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Stings of Krearion</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Krearionové žihadla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_teleport</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Aether Jump</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Aetherický skok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_turret</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast 'Avenger' Autoturret</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat 'Mstitelová' střílna</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_warcry</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Sovereign Shout</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Suverenní výkřik</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_whirlwind</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Bladestorm</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Čepele bouře</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_aetherblade</Data></Cell>
@@ -549,6 +566,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_aetherblast</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Eclipse</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Zatmění</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_corpse_explosion</Data></Cell>
@@ -561,22 +579,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_holydive</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Light-bringer</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Nositél světla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_ironguard</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Juggernaut</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Kolos</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_possession</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Parasite</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Parazita</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_ringofpain</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Blood for Blood</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Krev za krev</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_smokebomb</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Duskshroud</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Rubáš šera</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_eim_can_cast_sniper</Data></Cell>
@@ -621,162 +644,162 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_fire_to_frost</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Fire Damage converted into Frost Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození ohněm převedeno na poškození mrazem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Ohnivého poškození převedeno na poškození mrazem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_fire_to_lightning</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Fire Damage converted into Lightning Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození ohněm převedeno na poškození bleskem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Ohnivého poškození převedeno na poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_fire_to_physical</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Fire Damage converted into Physical Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození ohněm převedeno na fyzické poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Ohnivého poškození převedeno na fyzické poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_fire_to_rend</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Fire Damage converted into Rend Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození ohněm převedeno na tržné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Ohnivého poškození převedeno na tržné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_fire_to_sacred</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Fire Damage converted into Sacred Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození ohněm převedeno na posvátné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Ohnivého poškození převedeno na posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_fire_to_shadow</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Fire Damage converted into Shadow Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození ohněm převedeno na poškození stínem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Ohnivého poškození převedeno na poškození stínem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_fire_to_toxic</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Fire Damage converted into Toxic Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození ohněm převedeno na poškození jedem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Ohnivého poškození převedeno na poškození jedem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_fire_to_umbra</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Fire Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození ohněm převedeno na poškození étherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Ohnivého poškození převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_frost_to_fire</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Frost Damage converted into Fire Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození mrazem převedeno na poškození ohněm</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Mrazivého poškození převedeno na poškození ohněm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_frost_to_lightning</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Frost Damage converted into Lightning Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození mrazem převedeno na poškození bleskem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Mrazivého poškození převedeno na poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_frost_to_physical</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Frost Damage converted into Physical Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození mrazem převedeno na fyzické poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Mrazivého poškození převedeno na fyzické poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_frost_to_rend</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Frost Damage converted into Rend Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození mrazem převedeno na tržné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Mrazivého poškození převedeno na tržné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_frost_to_sacred</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Frost Damage converted into Sacred Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození mrazem převedeno na posvátné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Mrazivého poškození převedeno na posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_frost_to_shadow</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Frost Damage converted into Shadow Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození mrazem převedeno na poškození stínem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Mrazivého poškození převedeno na poškození stínem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_frost_to_toxic</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Frost Damage converted into Toxic Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození mrazem převedeno na poškození jedem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Mrazivého poškození převedeno na poškození jedem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_frost_to_umbra</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Frost Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození mrazem převedeno na poškození étherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Mrazivého poškození převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_lightning_to_fire</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Lightning Damage converted into Fire Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození bleskem převedeno na poškození ohněm</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Bleskového poškození převedeno na poškození ohněm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_lightning_to_frost</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Lightning Damage converted into Frost Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození bleskem převedeno na poškození mrazem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Bleskového poškození převedeno na poškození mrazem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_lightning_to_physical</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Lightning Damage converted into Physical Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození bleskem převedeno na fyzické poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Bleskového poškození převedeno na fyzické poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_lightning_to_rebd</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Lightning Damage converted into Rend Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození bleskem převedeno na tržné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Bleskového poškození převedeno na tržné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_lightning_to_sacred</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Lightning Damage converted into Sacred Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození bleskem převedeno na posvátné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Bleskového poškození převedeno na posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_lightning_to_shadow</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Lightning Damage converted into Shadow Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození bleskem převedeno na poškození stínem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Bleskového poškození převedeno na poškození stínem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_lightning_to_toxic</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Lightning Damage converted into Toxic Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození bleskem převedeno na poškození jedem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Bleskového poškození převedeno na poškození jedem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_lightning_to_umbra</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Lightning Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození bleskem převedeno na poškození étherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Bleskového poškození převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_physcial_to_frost</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Physical Damage converted into Frost Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Fyzické poškození převedeno na poškození mrazem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Fyzického poškození převedeno na poškození mrazem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_physical_to_fire</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Physical Damage converted into Fire Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Fyzické poškození převedeno na poškození ohněm</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Fyzického poškození převedeno na poškození ohněm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_physical_to_lightning</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Physical Damage converted into Lightning Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Fyzické poškození převedeno na poškození bleskem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Fyzického poškození převedeno na poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_physical_to_rend</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Physical Damage converted into Rend Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Fyzické poškození převedeno na tržné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Fyzického poškození převedeno na tržné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_physical_to_sacred</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Physical Damage converted into Sacred Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Fyzické poškození převedeno na posvátné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Fyzického poškození převedeno na posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_physical_to_shadow</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Physical Damage converted into Shadow Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Fyzické poškození převedeno na poškození stínem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Fyzického poškození převedeno na poškození stínem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_physical_to_toxic</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Physical Damage converted into Toxic Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Fyzické poškození převedeno na poškození jedem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Fyzického poškození převedeno na poškození jedem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_physical_to_umbra</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Physical Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Fyzické poškození převedeno na poškození étherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Fyzického poškození převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_rend_to_fire</Data></Cell>
@@ -821,162 +844,162 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_sacred_to_fire</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Sacred Damage converted into Fire Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Posvátné poškození převedeno na poškození ohněm</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Posvátného poškození převedeno na poškození ohněm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_sacred_to_frost</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Sacred Damage converted into Frost Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Posvátné poškození převedeno na poškození mrazem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Posvátného poškození převedeno na poškození mrazem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_sacred_to_lightning</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Sacred Damage converted into Lightning Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Posvátné poškození převedeno na poškození bleskem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Posvátného poškození převedeno na poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_sacred_to_physical</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Sacred Damage converted into Physical Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Posvátné poškození převedeno na fyzické poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Posvátného poškození převedeno na fyzické poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_sacred_to_rend</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Sacred Damage converted into Rend Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Posvátné poškození převedeno na tržné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Posvátného poškození převedeno na tržné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_sacred_to_shadow</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Sacred Damage converted into Shadow Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Posvátné poškození převedeno na poškození stínem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Posvátného poškození převedeno na poškození stínem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_sacred_to_toxic</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Sacred Damage converted into Toxic Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Posvátné poškození převedeno na poškození jedem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Posvátného poškození převedeno na poškození jedem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_sacred_to_umbra</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Sacred Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Posvátné poškození převedeno na poškození étherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Posvátného poškození převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_shadow_to_fire</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shadow Damage converted into Fire Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození stínem převedeno na poškození ohněm</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Stínového poškození převedeno na poškození ohněm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_shadow_to_frost</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shadow Damage converted into Frost Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození stínem převedeno na poškození mrazem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Stínového poškození převedeno na poškození mrazem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_shadow_to_lightning</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shadow Damage converted into Lightning Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození stínem převedeno na poškození bleskem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Stínového poškození převedeno na poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_shadow_to_physical</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shadow Damage converted into Physical Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození stínem převedeno na fyzické poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Stínového poškození převedeno na fyzické poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_shadow_to_rend</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shadow Damage converted into Rend Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození stínem převedeno na tržné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Stínového poškození převedeno na tržné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_shadow_to_sacred</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shadow Damage converted into Sacred Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození stínem převedeno na posvátné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Stínového poškození převedeno na posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_shadow_to_toxic</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shadow Damage converted into Toxic Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození stínem převedeno na poškození jedem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Stínového poškození převedeno na poškození jedem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_shadow_to_umbra</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shadow Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození stínem převedeno na poškození étherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Stínového poškození převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_toxic_to_fire</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Toxic Damage converted into Fire Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození jedem převedeno na poškození ohněm</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Jedového poškození převedeno na poškození ohněm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_toxic_to_frost</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Toxic Damage converted into Frost Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození jedem převedeno na poškození mrazem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Jedového poškození převedeno na poškození mrazem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_toxic_to_lightning</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Toxic Damage converted into Lightning Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození jedem převedeno na poškození bleskem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Jedového poškození převedeno na poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_toxic_to_physical</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Toxic Damage converted into Physical Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození jedem převedeno na fyzické poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Jedového poškození převedeno na fyzické poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_toxic_to_rend</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Toxic Damage converted into Rend Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození jedem převedeno na tržné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Jedového poškození převedeno na tržné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_toxic_to_sacred</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Toxic Damage converted into Sacred Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození jedem převedeno na posvátné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Jedového poškození převedeno na posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_toxic_to_shadow</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Toxic Damage converted into Shadow Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození jedem převedeno na poškození stínem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Jedového poškození převedeno na poškození stínem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_toxic_to_umbra</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Toxic Damage converted into Aether Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození jedem převedeno na poškození étherem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Jedového poškození převedeno na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_umbra_to_fire</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Aether Damage converted into Fire Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na poškození ohněm</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Étherického poškození převedeno na poškození ohněm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_umbra_to_frost</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Aether Damage converted into Frost Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na poškození mrazem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Étherického poškození převedeno na poškození mrazem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_umbra_to_lightning</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Aether Damage converted into Lightning Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na poškození bleskem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Étherického poškození převedeno na poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_umbra_to_physical</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Aether Damage converted into Physical Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na fyzické poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Étherického poškození převedeno na fyzické poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_umbra_to_poison</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Aether Damage converted into Poison Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na poškození jedem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Étherického poškození převedeno na poškození jedem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_umbra_to_rend</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Aether Damage converted into Rend Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na trzné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Étherického poškození převedeno na trzné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_umbra_to_sacred</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Aether Damage converted into Sacred Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na posvátné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Étherického poškození převedeno na posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_umbra_to_shadow</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Aether Damage converted into Shadow Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození étherem převedeno na poškození stínem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Étherického poškození převedeno na poškození stínem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_critchance_doubled_on_dash</Data></Cell>
@@ -1484,7 +1507,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_frost_damage_percent</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">%1 Frost Damage</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Poškození mrazem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Mrazivého poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_frost_damage_percent_spell</Data></Cell>
@@ -1941,12 +1964,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rend_damage_percent_spell</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Rend Damage added to Spells</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Přidá do kouzel tržné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Přidá ke kouzlům tržné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rend_damage_percent_weapon</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Rend Damage added to Attacks</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Přidá do útoku tržné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Přidá k útoku tržné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rend_damage_spell</Data></Cell>
@@ -1988,14 +2011,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_eim_sacred_damage_percent</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">%1 Sacred Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_sacred_damage_percent_spell</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">%1 Sacred Damage added to Spells</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Přidá ke kouzlům posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_eim_sacred_damage_percent_weapon</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">%1 Sacred Damage added to Attacks</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Přidá k útoku posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_sacred_damage_spell</Data></Cell>
@@ -2096,38 +2122,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_skillrequirement_keyword_fire</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Fire Spells</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Ohnivá kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_skillrequirement_keyword_frost</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Frost Spells</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Mrazivá kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_skillrequirement_keyword_lightning</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Lightning Spells</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Blesková kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_skillrequirement_keyword_physical</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Physical Spells</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Fyzické kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_skillrequirement_keyword_rend</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Rend Spells</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Tržné kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_skillrequirement_keyword_sacred</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Allows the Bearer to Cast Sacred Spells</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Postvátné kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_skillrequirement_keyword_shadow</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Shadow Spells</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Stínové kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_skillrequirement_keyword_toxic</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Toxic Spells</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Toxické kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_skillrequirement_keyword_umbra</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Aether Spells</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Aetherové kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_skills_buffs_intensity</Data></Cell>
@@ -3044,6 +3079,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_eim_life_leech_percent_frost</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Frost Damage into Life Leech</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Mrazivého poškození do Sání života</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_eim_resourcegeneration_percent</Data></Cell>
@@ -3241,9 +3277,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>2</ActiveRow>
      <ActiveCol>2</ActiveCol>
-     <RangeSelection>R3C3:R647C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -435,12 +435,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">INTRO_Quest1_SapperEncounter_Talk_1</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">A bomber.</Data></Cell>
-    <Cell><Data ss:Type="String">Bomber.</Data></Cell>
+    <Cell><Data ss:Type="String">Bombér.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">INTRO_Quest1_SapperEncounter_Talk_2</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">You will burn, Republican trash!</Data></Cell>
-    <Cell><Data ss:Type="String">Shoříš ty Republikánský odpade!</Data></Cell>
+    <Cell><Data ss:Type="String">Shoříš, ty Republikánský odpade!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">INTRO_Quest1_SapperDefeated_Talk</Data></Cell>
@@ -1842,12 +1842,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_BO_MeetEdric2_5</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">That night the three of us swore to always keep each other’s back. No matter the odds.</Data></Cell>
-    <Cell><Data ss:Type="String">Tu noc jsme si my tři přísahali, že si navzájem budeme krýt záda. Bez ohledu na situaci.</Data></Cell>
+    <Cell><Data ss:Type="String">Tu noc jsme si my tři přísahali, že si navzájem budeme krýt záda. Bez ohledu na to, co je v sázce.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_BO_MeetEdric2_6</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">No matter the odds.</Data></Cell>
-    <Cell><Data ss:Type="String">Bez ohledu na situaci.</Data></Cell>
+    <Cell><Data ss:Type="String">Bez ohledu na to, co je v sázce.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">ACT1_Quest3_BO_MeetEdric2_7</Data></Cell>
@@ -1877,12 +1877,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_BO_OutlawAmbush1_2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">No matter the odds!</Data></Cell>
-    <Cell><Data ss:Type="String">Bez ohledu na situaci.</Data></Cell>
+    <Cell><Data ss:Type="String">Bez ohledu na to, co je v sázce!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_BO_OutlawAmbush1_3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">No matter the odds!</Data></Cell>
-    <Cell><Data ss:Type="String">Bez ohledu na situaci.</Data></Cell>
+    <Cell><Data ss:Type="String">Bez ohledu na to, co je v sázce!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_BO_OutlawAmbush2_1</Data></Cell>
@@ -2087,7 +2087,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_PlayerComment4_1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">There is no giving up on family. No matter the odds, right Val?</Data></Cell>
-    <Cell><Data ss:Type="String">Nemůžeš se vzdát své rodiny. Bez ohledu na šance, že Val?</Data></Cell>
+    <Cell><Data ss:Type="String">Nemůžeš se vzdát své rodiny. Bez ohledu na to, co je v sázce, že Val?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest3_SF_PlayerComment4_2</Data></Cell>
@@ -2433,7 +2433,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest5_TPS_YudaiFightIntroTalk1_5</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">With pleasure. But first, I must have a little chat with my future host. Come closer, vessel.</Data></Cell>
-    <Cell><Data ss:Type="String">S potěšením. Ale nejdřív si promluvím se svým budoucím hostitelem. Pojď blíž, nádobo.</Data></Cell>
+    <Cell><Data ss:Type="String">S radostí. Ale nejdřív si promluvím se svým budoucím hostitelem. Pojď blíž, nádobo.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest5_TPS_YudaiFightIntroTalk2_1</Data></Cell>
@@ -2448,6 +2448,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest5_TPS_YudaiFightIntroTalk2_3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">We did. You and I had an argument on that cliff. Alas, your friend intervened. How is Val?</Data></Cell>
+    <Cell><Data ss:Type="String">Potkali. Vyměňovali jsme si názory na tom útesu. Bohužel Alas, tvůj přítel zasáhnul. Jak se má Val?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest5_TPS_YudaiFightIntroTalk2_4</Data></Cell>
@@ -2577,7 +2578,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="37.5">
     <Cell><Data ss:Type="String">ACT1_Quest5_TPSC_EdricFightP1Talk1_3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">You stand accused of desertion, murder of your own people, consorting with the occult and conspiring with enemies of the Republic…</Data></Cell>
-    <Cell><Data ss:Type="String">Jsi obviněn z dezerce, vraždy vlastního lidu, bratříčkování s okultismem a spiknutí s nepřáteli republiky...</Data></Cell>
+    <Cell><Data ss:Type="String">Jsi obviněn z dezerce, vraždy vlastního lidu, bratříčkování se s okultismem a spiknutí s nepřáteli republiky...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest5_TPSC_EdricFightP1Talk1_4</Data></Cell>
@@ -2627,7 +2628,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest5_TPSC_EdricDeadTalk1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">No matter the odds…</Data></Cell>
-    <Cell><Data ss:Type="String">Bez ohledu na šance...</Data></Cell>
+    <Cell><Data ss:Type="String">Bez ohledu na to, co je v sázce...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest5_TPSC_EdricDeadTalk2</Data></Cell>
@@ -2637,7 +2638,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest5_TPSC_GuardianSpiritTalk1_1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Come to me, we do not have much time before my essence vanishes from this world. Neither of us have time to grieve our losses. You have to hear me before I inexorably fade into oblivion.</Data></Cell>
-    <Cell><Data ss:Type="String">Pojď zamnou, nemáme moc času, než má esence zmizí z tohoto světa. Nemáme čas truchlit nad našimi ztrátami. Musíš mě poslouchat, než se neúprosně vytratím do zapomnění..</Data></Cell>
+    <Cell><Data ss:Type="String">Pojď zamnou, nemáme moc času, než má esence zmizí z tohoto světa. Nemáme čas truchlit nad našimi ztrátami. Musíš mě vyslechnout, než se neúprosně vytratím do zapomnění..</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest5_TPSC_GuardianSpiritTalk1_2</Data></Cell>
@@ -2657,12 +2658,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest5_SF_DamaskusTalk1_2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Not without pain. What’s the situation?</Data></Cell>
-    <Cell><Data ss:Type="String">Nebylo to bez bolesti. Jaká je situace?</Data></Cell>
+    <Cell><Data ss:Type="String">Né bez zármutku. Jaká je situace?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">ACT1_Quest5_SF_DamaskusTalk1_3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">The earthquakes are intensifying, and with them, I have reports of dead sightings and ghastly apparitions coming from everywhere… Champion, tell me you learned how to stop this madness.</Data></Cell>
-    <Cell><Data ss:Type="String">Zemětřesení se stupňují, a aby toho nebylo málo, máme zprávy pozorování mrtvých a přízračných zjeveních přicházejících odevšad... Šampióne, řekni mi, že si zjistil jak zastavit to šílenství.</Data></Cell>
+    <Cell><Data ss:Type="String">Zemětřesení se stupňuje, a aby toho nebylo málo, máme zprávy o pozorování mrtvých a přízračných zjeveních přicházejících odevšad... Šampióne, řekni mi, že si zjistil jak můžeme zastavit to šílenství.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest5_SF_DamaskusTalk1_4</Data></Cell>
@@ -2672,12 +2673,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="45">
     <Cell><Data ss:Type="String">ACT1_Quest5_SF_DamaskusTalk1_5</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">If memory serves, the Republic rose from the remains of the kingdom of Alia after the civil war. Back then, the keepers of the faith and king’s guards were followers of the Searing Song, nowadays better known as The Brotherhood of Dawn.</Data></Cell>
-    <Cell><Data ss:Type="String">Pokud mi paměť ještě slouží, republika povstala z pozůstatků království Alia po občanské válce. Tehdy byli strážci víry a královy stráže stoupenci Spalující Písně, nyní lépe známé jako Bratrstvo Úsvitu.</Data></Cell>
+    <Cell><Data ss:Type="String">Pokud mi paměť ještě slouží, po občanské válce Republika povstala z pozůstatků království Alia. Tehdy byli strážci víry a královy stráže stoupenci Spalující Písně, nyní lépe známé jako Bratrstvo Úsvitu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="37.5">
     <Cell><Data ss:Type="String">ACT1_Quest5_SF_DamaskusTalk1_6</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Them again? Careful with your history lessons, books are full of lies… </Data></Cell>
-    <Cell><Data ss:Type="String">Zase oni? Opatrně s výukou dějepisu, knihy jsou plné lží...</Data></Cell>
+    <Cell><Data ss:Type="String">Znovu oni? Opatrně s výukou dějepisu, knihy jsou plné lží...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest5_SF_DamaskusTalk1_7</Data></Cell>
@@ -2697,7 +2698,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="37.5">
     <Cell><Data ss:Type="String">ACT1_Quest5_SF_DamaskusTalk1_10</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">A deal is a deal. She’s still alive. Once I have your full report, I will share her location.</Data></Cell>
-    <Cell><Data ss:Type="String">Dohoda je dohoda. Je pořád naživu. Jakmile mi řekneš všechny podrobnosti, řeknu ti její polohu.</Data></Cell>
+    <Cell><Data ss:Type="String">Dohoda je dohoda. Je pořád naživu. Jakmile obdržím celé tvé hlášení, prozradím ti její polohu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:MergeAcross="1" ss:StyleID="s109"><Data ss:Type="String">Act 2, Quest 1</Data></Cell>
@@ -2705,614 +2706,767 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_1</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Mylord, the entire population is flocking to the palace. I don't know if we have enough men to contain them this time.</Data></Cell>
+    <Cell><Data ss:Type="String">Výsosti, všechno obyvatelstvo se hrne do paláce. Nevím, jestli máme dost mužů, abychom je tentokrát zadrželi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_2</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">The fog has stopped, the population IS safe.</Data></Cell>
+    <Cell><Data ss:Type="String">Mlha ustoupila, obyvatelstvo už JE v bezpečí.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_3</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Indeed, we do not need the last bastion of order to fall to this madness. If Stormfall is to recover, something has to stand strong.</Data></Cell>
+    <Cell><Data ss:Type="String">Opravdu, nepotřebujeme aby poslední pevnost řádu padla do tohoto šílenství. Má-li se Stormfall zotavit, musíme zůstat silní.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_4</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">When a body is infected, it is sometimes better to sever the dying limb and move on, alive.</Data></Cell>
+    <Cell><Data ss:Type="String">Když je tělo otráveno, je někdy lepší odříznout umírající končetinu a přežít.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_5</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">This is folly. We can't let the people fend for themselves. How are they to believe in us if we do nothing?</Data></Cell>
+    <Cell><Data ss:Type="String">To je šílené. Nemůžeme nechat, aby se o sebe postarali sami. Jak v nás mají věřit, když nic neuděláme?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_6</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Mylord, just say the word and my guards will let them through.</Data></Cell>
+    <Cell><Data ss:Type="String">Výsosti, stačí říct a mé stráže je nechají projít.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_7</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">I won't stand idly by watching my people suffer. Thunderblade!</Data></Cell>
+    <Cell><Data ss:Type="String">Nebudu nečinně stát a dívat se, jak můj lid trpí. Thunderblade!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_8</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Mylord?</Data></Cell>
+    <Cell><Data ss:Type="String">Výsosti?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_9</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Choose your next words carefully Mylord. Should that chaos spread to the final ring, House Blacktide will withdraw support from your claim to the throne.</Data></Cell>
+    <Cell><Data ss:Type="String">Pečlivě zvažte svá slova, Výsosti. Pokud se tento chaos rozšíří do posledního kruhu, rod Blacktide stáhne podporu z vašeho nároku na trůn.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_10</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">So would House Brightgale.</Data></Cell>
+    <Cell><Data ss:Type="String">Stejně jako rod Brightgale.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_11</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">The three of us are in agreement here, your claim is worth nothing if the three big Houses vouch against you. With starving people littering the streets, you won't even have the population on your side to support you. You've run out of options Damaskus: you lose us, you're through.</Data></Cell>
+    <Cell><Data ss:Type="String">Všichni tři se shodneme, že váš nárok je ničím, jakmile se tři velké rody zaručí proti vám. S hladovějícími lidmi, potulujícími se ulicemi, nebudete mít na své straně ani obyvatelstvo, které by vás podpořilo. Nemáte na výběr Damaskusi: Jestli ztratíte nás, ztratíte všechno.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_12</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">What are your orders Mylord?</Data></Cell>
+    <Cell><Data ss:Type="String">Jaké jsou vaše rozkazy, Výsosti?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_13</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Mylord?</Data></Cell>
+    <Cell><Data ss:Type="String">Výsosti?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_14</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Keep the population at bay.</Data></Cell>
+    <Cell><Data ss:Type="String">Udržujte obyvatelé pod kontrolou.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_NobleHouseTalk_15</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Good man.</Data></Cell>
+    <Cell><Data ss:Type="String">Moudrý můž.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_1</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">The fog! It has engulfed the whole city!</Data></Cell>
+    <Cell><Data ss:Type="String">Mlha! Pohltila celé město!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_2</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">I can't hear anything coming from the lower rings! Do you see anyone?</Data></Cell>
+    <Cell><Data ss:Type="String">Neslyším nic, co by přicházelo z nižších kruhů! Vidíte někoho?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_3</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">What is this?</Data></Cell>
+    <Cell><Data ss:Type="String">Co je to?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_4</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">You think it's toxic?</Data></Cell>
+    <Cell><Data ss:Type="String">Myslíš, že je to jedovaté?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_5</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">The air is so cold suddenly!</Data></Cell>
+    <Cell><Data ss:Type="String">Vzduch je najednou tak chladný!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_6</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">It's... it's unreal!</Data></Cell>
+    <Cell><Data ss:Type="String">To je... To je neskutečné!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_7</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">This is terrifying!</Data></Cell>
+    <Cell><Data ss:Type="String">Je to děsivé!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_8</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Husband? I... I'm frightened... What's going on?</Data></Cell>
+    <Cell><Data ss:Type="String">Muži? Já... Bojím se... Co se to děje?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_9</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Come here... We'll be fine. I swear.</Data></Cell>
+    <Cell><Data ss:Type="String">Pojď sem... Všechno bude v pohodě. Přísahám.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_10</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Oh no... no no no no no no! This can't be. It's a nightmare!</Data></Cell>
+    <Cell><Data ss:Type="String">Óó né... ne ne ne ne ne ne! To nemůže reálné. To musí být noční můra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_11</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">I saw something move in the mist!</Data></Cell>
+    <Cell><Data ss:Type="String">Viděl jsem, jak se něco v té mlze pohnulo!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_12</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">What? Where!</Data></Cell>
+    <Cell><Data ss:Type="String">Cože? Kde!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_13</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">It was there, I swear!</Data></Cell>
+    <Cell><Data ss:Type="String">Támhle, přísahám!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_14</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">We have to abandon the city at once!</Data></Cell>
+    <Cell><Data ss:Type="String">Musíme okamžitě opustit město!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_15</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">The only way out is through the fog. You're welcome to try your luck but I'm not moving. None of us are!</Data></Cell>
+    <Cell><Data ss:Type="String">Jediná cesta ven vede přes tu mlhu. Můžeš zkusit své štěstí, ale já nikam nepůjdu. Nikdo z nás nepůjde!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_16</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Do you hear that?</Data></Cell>
+    <Cell><Data ss:Type="String">Slyšíte to?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_17</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">I don't hear anything.</Data></Cell>
+    <Cell><Data ss:Type="String">Já nic neslyším.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_18</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Precisely. Why is the city so silent? What's happening down there?</Data></Cell>
+    <Cell><Data ss:Type="String">Přesně. Proč město tak utichlo? Co se to tam dole děje?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FogReactions_19</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">I'm in no rush to find out. The mist stopped, that's all I need to know!</Data></Cell>
+    <Cell><Data ss:Type="String">Nepůjdu to zjistit. Mlha ustoupila, to je vše co potřebuji vědět!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_BlockTopRing_1</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">We can't hold them for long!</Data></Cell>
+    <Cell><Data ss:Type="String">Už je déle neudržíme!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_BlockTopRing_2</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Orders are strict! We have to maintain a perimeter around the Palace and the highest district!</Data></Cell>
+    <Cell><Data ss:Type="String">Rozkazy jsou jasné! Musíme udržet hranice okolo paláce a nejvyšší čtvrti!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_BlockTopRing_3</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">If you're not with the people, you're against us!</Data></Cell>
+    <Cell><Data ss:Type="String">Pokud nejste s námi, jste proti nám!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_BlockTopRing_4</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Traitors!</Data></Cell>
+    <Cell><Data ss:Type="String">Zrádci!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_BlockTopRing_5</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Death to the Thunderguards!</Data></Cell>
+    <Cell><Data ss:Type="String">Smrt Thunderguardům!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_BlockTopRing_6</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Death to the City Watch!</Data></Cell>
+    <Cell><Data ss:Type="String">Smrt městské hlídce!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_BlockTopRing_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Burn the highborns! Burn 'em all!</Data></Cell>
+    <Cell><Data ss:Type="String">Spalte šlechtu! Spalte je všechny!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FallenStatueTalk_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">An earthquake of that magnitude doesn't come alone.</Data></Cell>
+    <Cell><Data ss:Type="String">Zemětřesení o takové síle, nebude jediné.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FallenStatueTalk_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Are you sure?</Data></Cell>
+    <Cell><Data ss:Type="String">Opravdu?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FallenStatueTalk_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Trust me. We should make preparations for more of them.</Data></Cell>
+    <Cell><Data ss:Type="String">Věř mi. Musíme se připravit na další.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FallenStatueTalk_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">What sort of preparations are you expecting? We have no food, no supply lines, no tools even... and now that fog... we are blind with nothing up our sleeves right now.</Data></Cell>
+    <Cell><Data ss:Type="String">Jaké přípravy očekáváte? Nemáme jídlo, žádné stálé zásoby, nemáme ani nářadí... a k tomu ta mlha... jsme oslepeni, bez esa v rukávu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FallenStatueTalk_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Gentlemen, keep that to yourselves. If there is nothing we can do, then let us hope for the best and try to reassure people. Mass panic is the most imminent threat to our survival right now.</Data></Cell>
+    <Cell><Data ss:Type="String">Pánové, nechte si to pro sebe. Pokud už nic nemůžeme udělat, zkusme uklidnit obyvatelstvo a doufejme, že se to všechno urovná. Největší hrozbou pro naše přežití je masová hysterie.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Hang on! We're almost there!</Data></Cell>
+    <Cell><Data ss:Type="String">Vydržte! Už jsme skoro tam!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Urrggh! I can't lift you, too... weak...</Data></Cell>
+    <Cell><Data ss:Type="String">Urrggh! Neunesu tě, tak... slabý...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Don't.... don't let me go!</Data></Cell>
+    <Cell><Data ss:Type="String">Ne... nepouštěj mě!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Don't just stand there, get them a rope!</Data></Cell>
+    <Cell><Data ss:Type="String">Nestůj jak kolík, podej jim lano!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">But the guards don't allow refugees to...</Data></Cell>
+    <Cell><Data ss:Type="String">Ale stráže nedovolují uprchlíkům aby...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">To hell with the bloody guards! What do you think they will do? Put an old woman in jail for saving someone's life?</Data></Cell>
+    <Cell><Data ss:Type="String">K čertu se strážemi! Co mi můžou dělat? Myslíš, že zavřou starého muže do vězení za záchranu něčího života?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">So get me a rope!</Data></Cell>
+    <Cell><Data ss:Type="String">Takže mi podej to lano!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_8</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">But.. but there's no rope to be had... all the supplies were either abandoned in the fog or requisitioned by the city watch!</Data></Cell>
+    <Cell><Data ss:Type="String">Ale... ale tady není žádné lano... všechny zásoby byly buď opuštěny v mlze, nebo zabaveny městskou hlídkou!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_9</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">This city is doomed if we don't do all we can to help each other! I'm done idling in fear!</Data></Cell>
+    <Cell><Data ss:Type="String">Město bude ztraceno, pokud neuděláme vše pro to, abychom si pomohli! Dost strachu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_10</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Take heart both of you! We'll find a way to get you up!</Data></Cell>
+    <Cell><Data ss:Type="String">Vydržte! Najdeme způsob, jak vás vytáhnout!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_TopRingClimb_11</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Thank you milady, thank you...</Data></Cell>
+    <Cell><Data ss:Type="String">Děkuji má paní, děkuji... </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_SandorWife_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">He was down there, protecting the farmlands...</Data></Cell>
+    <Cell><Data ss:Type="String">Byl tam, chránil farmy...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_SandorWife_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Sandor is a strong man, the strongest there is. Please Samara, keep faith!</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor je silný muž, nejsilnější. Prosím Samaro, zachovej víru!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_SandorWife_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">First the svriirs, now this, it's too much. I can't go through all this without him!</Data></Cell>
+    <Cell><Data ss:Type="String">Nejdřív Svriirové, teď tohle, je toho příliš. Bez něj tohle všechno nezvládnu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_SandorWife_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">He will find his way back to you before this nightmare is over. He always makes his way back!</Data></Cell>
+    <Cell><Data ss:Type="String">On si najde cestu zpátky k tobě, než tahle noční můra skončí. Vždycky si našel cestu zpátky!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Scouts! Scouts are back from the farmlands!</Data></Cell>
+    <Cell><Data ss:Type="String">Zvědové! Zvědové se vrátili z farem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Fetch the bloody medic! Tell him to bring his arse here at once!</Data></Cell>
+    <Cell><Data ss:Type="String">Přiveďte toho zatraceného zdravotníka! Řekněte mu, ať pohne zadkem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">These men are freezing...</Data></Cell>
+    <Cell><Data ss:Type="String">Ti lidé mrznou...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">You! Go to the Palace, get them warm food and blankets!</Data></Cell>
+    <Cell><Data ss:Type="String">Ty! Běz do paláce, přines jim teplé jídlo a přikrývky!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">But sir, nobles won't agree to share their...</Data></Cell>
+    <Cell><Data ss:Type="String">Ale pane, šlechta nebude souhlasit podělit se svými...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Do I look like I care what these hoarding highborns want?</Data></Cell>
+    <Cell><Data ss:Type="String">Vypadám snad, jako by mi záleželo na tom, co ten vysoce narozený dobytek chce?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">But they won't listen to...</Data></Cell>
+    <Cell><Data ss:Type="String">Ale oni nebudou poslouchat...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_8</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">You got a big axe?</Data></Cell>
+    <Cell><Data ss:Type="String">Máš velkou sekeru?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_9</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Yes?</Data></Cell>
+    <Cell><Data ss:Type="String">Ano?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_10</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Then they'll listen! Use the damn thing if you need to, that will make them think straight! Now go!</Data></Cell>
+    <Cell><Data ss:Type="String">Pak budou poslouchat! Použij tu zatracenou věc, jestli bude potřeba, to je přiměje přemýšlet. A teď běž!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_11</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Yes sir!</Data></Cell>
+    <Cell><Data ss:Type="String">Ano pane!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_12</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Alright son, tell me what you know.</Data></Cell>
+    <Cell><Data ss:Type="String">Dobře synu, řekni mi co víš.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_13</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Freezing... death... everywhere. The dead rising... from the mass graves we dug during the Svriir invasion... we got slaughtered...</Data></Cell>
+    <Cell><Data ss:Type="String">Mráz... smrt... všude. Mrtví vstávají... z masových hrobů, které jsme vykopali během invaze Svriirů... prošli jsme masakrem...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_14</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Any signs of Sandor?</Data></Cell>
+    <Cell><Data ss:Type="String">Něco nového o Sandorovi?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_15</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">We pulled back... he chose to stay behind to find the vanguards and get them back here.</Data></Cell>
+    <Cell><Data ss:Type="String">Stáhli jsme se... rozhodl se zůstat, aby našel předvoj a dostal ho zpátky sem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_16</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Curse him and his blasted sense of duty!</Data></Cell>
+    <Cell><Data ss:Type="String">Proklínám ho a jeho zatracený smysl pro povinnost!!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_FaaradScoutsReturn_17</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Well done my son, you can rest now.</Data></Cell>
+    <Cell><Data ss:Type="String">Dobrá práce, můj synu, už si můžeš odpočinout.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_PillarKilledMan_1</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Someone help me pull him out!</Data></Cell>
+    <Cell><Data ss:Type="String">Pomozte mi ho někdo vytáhnout!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_PillarKilledMan_2</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Help me! Quickly!</Data></Cell>
+    <Cell><Data ss:Type="String">Pomozte mi! Rychle!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_PillarKilledMan_3</Data></Cell>
     <Cell ss:StyleID="s111"><Data ss:Type="String">Madam... he's dead.</Data></Cell>
+    <Cell><Data ss:Type="String">Paní... Je mrtvý.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_PillarKilledMan_4</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Help me!</Data></Cell>
+    <Cell><Data ss:Type="String">Pomozte mi!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_SF_PillarKilledMan_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Listen to me! He's dead!</Data></Cell>
+    <Cell><Data ss:Type="String">Poslouchejte mě! Je mrtvý!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_LeavingBattle_1</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">I didn't come all the way here to turn back now.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřišel jsem až sem, abych se teď vracel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_LeavingBattle_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Running away from battle... If Valeria could see me now...</Data></Cell>
+    <Cell><Data ss:Type="String">Takhle utéct z bitvy... Kdyby mě teď Valeria viděla...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ApproachingBattle_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">There's a battle nearby.</Data></Cell>
+    <Cell><Data ss:Type="String">Nedaleko se odehrává bitva.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ApproachingBattle_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Dead soldiers…</Data></Cell>
+    <Cell><Data ss:Type="String">Mrtví vojáci...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ApproachingBattle_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">It must be where the Purifiers caught up with the Brotherhood fugitives!</Data></Cell>
+    <Cell><Data ss:Type="String">To musí být to místo, kde Očistitelé dohonili uprchlíky z Bratrstva!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ApproachingBattle_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Valeria should have been with them…</Data></Cell>
+    <Cell><Data ss:Type="String">Valeria měla být s nimi...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ApproachingBattle_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Yep, she definitely was.</Data></Cell>
+    <Cell><Data ss:Type="String">Jo, určitě byla.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ApproachingBattle_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Maëlys didn't stand a chance against Val. I'm on the right track.</Data></Cell>
+    <Cell><Data ss:Type="String">Maëlys neměla žádnou šanci proti Val. Jsem na správné cestě.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ApproachingBattle_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Wildlings territory, the echoes of battle are coming from here.</Data></Cell>
+    <Cell><Data ss:Type="String">Území divochů, ozvěny bitvy přicházejí odtud.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_RepublicanSpeech_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Clear the Wildlings camp! Let's carve our own path through it! We're not letting those fugitives get away!</Data></Cell>
+    <Cell><Data ss:Type="String">Vyčistíme ten tábor divochů! Probijeme se přes ně! Nenecháme ty uprchlíky utéct!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_RepublicanSpeech_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Purity in Sacrifice!</Data></Cell>
+    <Cell><Data ss:Type="String">Čistota v oběti!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_RepublicanSpeech_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">No prisoners.</Data></Cell>
+    <Cell><Data ss:Type="String">Nebrat zajatce.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_RepublicanSpeech_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Yes, Justicar!</Data></Cell>
+    <Cell><Data ss:Type="String">Ano, Justikáři!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BurningWildlingCamp_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Purifiers are hitting those wildlings hard.</Data></Cell>
+    <Cell><Data ss:Type="String">Pořádné rány dávají Očistitelé těm divochům.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BurningWildlingCamp_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Push them back! Forward!</Data></Cell>
+    <Cell><Data ss:Type="String">Zatlačte je zpátky! Vpřed!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BurningWildlingCamp_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">For the Republic!</Data></Cell>
+    <Cell><Data ss:Type="String">Za Republiku!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BurningWildlingCamp_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Purity in Sacrifice!</Data></Cell>
+    <Cell><Data ss:Type="String">Čistota v oběti!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BurningWildlingCamp_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">We move as one! Kill them all!</Data></Cell>
+    <Cell><Data ss:Type="String">Pohybujeme se jako jeden! Zabijte je všechny!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BurningWildlingCamp_6</Data></Cell>
     <Cell ss:StyleID="s113"><Data ss:Type="String">Finally, Brotherhood of Dawn territory. Valeria better be there.</Data></Cell>
+    <Cell><Data ss:Type="String">Konečně, území Bratrstva Úsvitu. Valeria by tu měla být</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_FindValeria_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The Cult of the Sleeper is allied with those Wildlings?</Data></Cell>
+    <Cell><Data ss:Type="String">Kult Spáče se spojil s těmi divochy?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_FindValeria_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">I better stop those spellcasters.</Data></Cell>
+    <Cell><Data ss:Type="String">Radši ty čaroděje zastavím.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_FindValeria_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Kill the intruder!</Data></Cell>
+    <Cell><Data ss:Type="String">Zabijte vetřelce!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_FindValeria_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">No matter the odds!</Data></Cell>
+    <Cell><Data ss:Type="String">Bez ohledu na to, co je v sázce!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_FindValeria_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">{Brother|Sister}? Is that you?</Data></Cell>
+    <Cell><Data ss:Type="String">{Bratře|Sestro}? Jsi to ty?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_FindValeria_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Yes! Mop the floor with the bastards!</Data></Cell>
+    <Cell><Data ss:Type="String">Ano! Rozmažme podlahy těmi bastardy!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Damn your powers have grown!</Data></Cell>
+    <Cell><Data ss:Type="String">Sakra tvoje schopnosti narostly!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">You know that one?</Data></Cell>
+    <Cell><Data ss:Type="String">Znáte se?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Yeah, we go way back.</Data></Cell>
+    <Cell><Data ss:Type="String">Ano, a už je to dlouho.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">My, my! You're one hard girl to find, you know that?</Data></Cell>
+    <Cell><Data ss:Type="String">Bylo těžké tě najít, víš to?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">I don't know about that. Maëlys found me.</Data></Cell>
+    <Cell><Data ss:Type="String">O tom nic nevím. Maëlys mě našla.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Yeah, I saw her body on the way here. You're the one that took her armor. You're scavenging bodies now?</Data></Cell>
+    <Cell><Data ss:Type="String">Ano, po cestě jsem zahlédnul její tělo. To tys sebrala její brnění. Takže ty teď okrádáš mrtvoly?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">If the Republic wants to paint me as a traitor, I might as well play the part. Plus, I fancy myself a Justicar now that I took the wench's armor. </Data></Cell>
+    <Cell><Data ss:Type="String">Jestli mě chce Republika považovat za zrádce, můžu hrát tuhle roli. Navíc se ochotně jmenuji Justikářem, když jsem té holce vzala to brnění.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_8</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">What's the deal with these guys? They've got no problem with your origin? As far as I know Daybreakers and Purifiers aren't best buddies...</Data></Cell>
+    <Cell><Data ss:Type="String">O co jde s nimi? Nemají problém s tvým původem? Pokud vím, Daybreakerové a Očistitelé nejsou zrovna nejlepší kamarádi ...? </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_9</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">We all have bigger things on our hands. We didn't really have time to bicker about it. Their Eos is pretty reasonable.</Data></Cell>
+    <Cell><Data ss:Type="String">Teď máme důležitější věci na práci. Nemá smysl se v tom zabývat. Jejich Eos je velmi rozumný.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_10</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Their Eos?</Data></Cell>
+    <Cell><Data ss:Type="String">Jejich Eos?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_11</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">You know, an Eos, like an Inquisitor of theirs. Eos Gernese leads that group nearby, in what they call &quot;The Vault of Hope&quot;.</Data></Cell>
+    <Cell><Data ss:Type="String">No víš, Eos, takový jejich Inkvizitor.  Eos Gernese vede nedalekou skupinu v nečem čemu říkají &quot;Krypta Naděje&quot;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_12</Data></Cell>
     <Cell ss:StyleID="s113"><Data ss:Type="String">Fine. And how did you end up behind that... wall... of shadows?</Data></Cell>
+    <Cell><Data ss:Type="String">Dobře. A jak se stalo to, že jsi na druhé straně té... temné... stěny?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_13</Data></Cell>
     <Cell ss:StyleID="s113"><Data ss:Type="String">Brotherhood of Dawn scouts spotted a warband of these wildlings headed towards their position. As the Daybreakers helped me get out of the Republic’s grasp, I had to fight with them against these invading shadow worshippers.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvědové z Bratrstva Úsvitu spatřili válečnou skupinu těchto divochů, jak míří na jejich pozice. Když mi Daybreakerové pomohli dostat se ze spárů Republiky, musela jsem s něma bojovat proti těmto stínovým uctívačům.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_14</Data></Cell>
     <Cell ss:StyleID="s113"><Data ss:Type="String">We crushed them, but I can't help but think that they weren’t here to defeat us and that the shadow worshippers frontline was just buying time so that their shamans could complete some... ritual. I saw them sacrifice one of their own...</Data></Cell>
+    <Cell><Data ss:Type="String">Rozdrtili jsme je, ale nemůžu stále přestat myslet na to, že oni nás vůbec nechtěli porazit, pouze jen získavali čas pro své šamany, kteří prováděli nějaký... rituál. Viděla jsem, jak obětovali jednoho ze svých...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_15</Data></Cell>
     <Cell ss:StyleID="s113"><Data ss:Type="String">Let me guess: this shadow wall is what came out of it? This means trouble.</Data></Cell>
+    <Cell><Data ss:Type="String">Nech mě hádat: tahle temná stěna z toho vzešla? To znamená potíže.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_16</Data></Cell>
     <Cell ss:StyleID="s113"><Data ss:Type="String">It might be the first step of something bigger. This spell traps us on this position.&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">Mohl by to být první krok něčeho většího. To kouzlo nás uvěznilo na tomhle místě.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_17</Data></Cell>
     <Cell ss:StyleID="s113"><Data ss:Type="String">Any idea why the Wildlings would attack?</Data></Cell>
+    <Cell><Data ss:Type="String">Nějaký nápad, proč by divoši zaútočili?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_18</Data></Cell>
     <Cell ss:StyleID="s113"><Data ss:Type="String">To be honest I'm not even sure it was the wildlings' initiative, the cultist you just killed was leading their ritual, and he was definitely not part of their tribe. Another power is at work.</Data></Cell>
+    <Cell><Data ss:Type="String">Upřímně, nejsem si jistá, jestli to začali divoši. Kultista, kterého si {zabil|zabila}, vedl ten rituál, a rozhodně nepatřil k jejich kmeni. Nějaká jiná síla v tom má prsty.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_ValeriaCatchup_19</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">I've seen men like this before, this one belonged to the Cult of the Sleeper. Necromancers.</Data></Cell>
+    <Cell><Data ss:Type="String">Už jsem viděl takové lidi, tento patřil ke Kultu Spáče. Nekromantové.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Oh no...</Data></Cell>
+    <Cell><Data ss:Type="String">O né...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">What is it?</Data></Cell>
+    <Cell><Data ss:Type="String">Co je to?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">An attack!</Data></Cell>
+    <Cell><Data ss:Type="String">Útok!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Everyone, back to the camp! Our brethren need us!</Data></Cell>
+    <Cell><Data ss:Type="String">Všichni zpátky do tábora! Naši bratři nás potřebují!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_8</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_9</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_10</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_11</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">This is not good.</Data></Cell>
+    <Cell><Data ss:Type="String">Tohle není dobré.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_12</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">A pincer attack?</Data></Cell>
+    <Cell><Data ss:Type="String">Klešťový útok?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_13</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Seems like it. This shadow wall blocks the only valid escape route from their camp. Whatever's attacking is going for the throat.</Data></Cell>
+    <Cell><Data ss:Type="String">Vypadá to tak. Ta temná stěna účinně blokuje naši jedinou únikovou cestu z jejich tábora. Ať nás napadne cokoliv, vrhne se přímo po krku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_14</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">You guys are trapped... I must find a way to break this wall!</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Jste uvěznění... Musím najít způsob, jak tu stěnu prolomit!&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_15</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">That would be most appreciated.</Data></Cell>
+    <Cell><Data ss:Type="String">Toho si ceníme.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_16</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">I will help them man the defenses. You find a way through!</Data></Cell>
+    <Cell><Data ss:Type="String">Pomůžu jim posílit obranu. Ty najdi cestu skrz!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_17</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Val? Don't you bloody die. I'm serious.</Data></Cell>
+    <Cell><Data ss:Type="String">Val? Hlavně sakra neumři. Myslím to vážně.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_18</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Surrounded by Daybreakers in their hold might be the safest place in this vale right now. I'll manage!</Data></Cell>
+    <Cell><Data ss:Type="String">Jsem obklopena Daybreakery v jejich pevnosti, na nejbezpečnějším místě v celém údolí. Poradím si!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_19</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">I know... just don't... don't be you? Okay? Play it safe for once.</Data></Cell>
+    <Cell><Data ss:Type="String">Vím... ale prostě... nebuď sama sebou? Dobře? Pro jednou zahraj na jistotu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_BrotherhoodAmbush_20</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">I'll do my best.</Data></Cell>
+    <Cell><Data ss:Type="String">Udělám, co bude v mých silách.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_DyingShamanTalk_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Okay... How do you cross the uncrossable?</Data></Cell>
+    <Cell><Data ss:Type="String">Dobře... jak překročit nepřekročitelné?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_DyingShamanTalk_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">You're alive?</Data></Cell>
+    <Cell><Data ss:Type="String">Jsi naživu?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_DyingShamanTalk_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">My... sister...</Data></Cell>
+    <Cell><Data ss:Type="String">Má... sestra...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_DyingShamanTalk_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">My sister... she was detained by Mercy, the leader of my tribe... tell her what he did to me...</Data></Cell>
+    <Cell><Data ss:Type="String">Má sestra... byla zadržena Lítostí, vůdcem mého kmene...řekni ji co mi udělal...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_DyingShamanTalk_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">What about you?</Data></Cell>
+    <Cell><Data ss:Type="String">A co je s tebou?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest1_VOS_DyingShamanTalk_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">There's nothing you can do to save me now... Hurry and find Zima... Save her.</Data></Cell>
+    <Cell><Data ss:Type="String">Už mi nemůžeš pomoct... pospěš si a najdi Zimu... zachraň ji.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s80"><Data ss:Type="String">Act 2, Quest 2 -&gt; up until finish talking with zima at shadow wall</Data></Cell>
@@ -3320,318 +3474,397 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_ExploreWildlings_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">It's not like I have any other leads, alright, I will find this Zima. She better help me put an end to this shadow wall.</Data></Cell>
+    <Cell><Data ss:Type="String">Ne, že bych neměl co na práci, ale dobře, najdu tu Zimu. Možná by mi mohla pomoct odstranit tu stínovou stěnu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_ExploreWildlings_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">This path leads to the heart of the shadow worshippers.</Data></Cell>
+    <Cell><Data ss:Type="String">Tato cesta vede přímo do srdce uctívačů stínu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_ExploreWildlings_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Well here's hoping that attacking them in broad daylight will mess up their powers...</Data></Cell>
+    <Cell><Data ss:Type="String">No, doufám, že útok na ně za bílého dne zkazí jejich schopnosti...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_ExploreWildlings_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">These woods are their domain. What could possibly go wrong?</Data></Cell>
+    <Cell><Data ss:Type="String">Tyhle lesy jsou jejich panství. Co by se mohlo pokazit?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The avenger! As the spirits whispered.</Data></Cell>
+    <Cell><Data ss:Type="String">Mstitel! Jak duchové šeptali.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">We have to talk, Avenger!</Data></Cell>
+    <Cell><Data ss:Type="String">Musíme si promluvit, Mstiteli!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Avenger? Why are you calling me that?</Data></Cell>
+    <Cell><Data ss:Type="String">Mstiteli? Proč mě tak nazýváš?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Because that's what you will do: avenge.</Data></Cell>
+    <Cell><Data ss:Type="String">Protože to je to, co vlastně uděláš: pomstíš se.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">And who am I supposed to avenge exactly?</Data></Cell>
+    <Cell><Data ss:Type="String">Koho přesně bych měl pomstít?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">My sister. You will kill the one named Mercy. Spirits have carried the news of her death as well as justice taking the shape of a champion: my avenger.</Data></Cell>
+    <Cell><Data ss:Type="String">Moji sestru. Zabiješ toho, známého jako Lítost. Duchové zvěstovali zprávy o její smrti, tak samo jako o spravedlnosti v podobě šampiona: mého mstitele. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">You're Zima! Look, if I do that, will you help me undo the spell that he's cast?</Data></Cell>
+    <Cell><Data ss:Type="String">Ty jsi Zima! Podívej, jestli to udělám, pomůžeš mi zrušit to prokletí, které seslal?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_8</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">That is the purpose of our meeting. You put me back on my path, I put your back on yours.</Data></Cell>
+    <Cell><Data ss:Type="String">To je účel našeho setkání. Přivedeš mě zpátky na cestu a já tě přivedu zpátky na tu tvou.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_9</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">I don't usually consort with witches, but I don't have time right now, you're on!</Data></Cell>
+    <Cell><Data ss:Type="String">Obvykle se nespolčuji s čarodějnicemi, ale nemám na výběr, dohoda platí!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_10</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Free at last! Mercy's arena is north of here, he will pay for his treachery.</Data></Cell>
+    <Cell><Data ss:Type="String">Konečně volná! Aréna Lítosti se nachází severně odtud, zaplatí za svojí zradu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_FindZima_11</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">We will have to fight our way through Mercy's fanatics. Be prepared for anything in our woods.</Data></Cell>
+    <Cell><Data ss:Type="String">Budeme se muset přebít přes fanatiky Lítosti. V našich lesech, buď {připravený|připravená} na všechno.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">So... how did you end up in a cage?</Data></Cell>
+    <Cell><Data ss:Type="String">Takže... Jak jsi skončila v kleci?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">My sister and I used to be the most powerful shamans of the tribe, following the shadows of spirits, the heritage of our old ways.</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Moje sestra a já jsme bývali nejmocnějšími šamany kmene, následovali jsme stíny duší, v souladu s našimi dávnými zvyky.&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">But that changed when the first emissaries arrived...</Data></Cell>
+    <Cell><Data ss:Type="String">Ale to se změnilo, když se objevili první vyslanci...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Emissaries? You're mean the Cult of the Sleeper, right?</Data></Cell>
+    <Cell><Data ss:Type="String">Vyslanci? Myslíš Kult Spáče, že?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">They twisted Mercy's mind, or maybe it was already corrupted by greed and thirst for power before they arrived, it matters not: Our tribe made an unholy pact with this cult.</Data></Cell>
+    <Cell><Data ss:Type="String">Překroutili Lítosti mysl, nebo už možná předtím byla poškozena chamtivostí a žízní po moci, na tom nezáleží: Náš kmen uzavřel s tímto kultem bezbožný pakt.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Mercy is a gullible idiot who couldn't see that it would cost us everything to bargain with the Sleeper's minions.</Data></Cell>
+    <Cell><Data ss:Type="String">Lítost je naivní idiot, který si neuvědomil, že paktování se Spáčovými přisluhovači, nás mohlo stát všechno.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">You stood against his decision?</Data></Cell>
+    <Cell><Data ss:Type="String">Postavila ses proti jeho rozhodnutí?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_8</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">We reacted too late, his mind was already filled with promises and lies. Trying to talk him out of it was a mistake. We should have killed him when we had the chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagovali jsme příliš pozdě, jeho mysl už byla plná slibů a lží. Byla chyba se s ním pokoušet mluvit. Měli jsme ho zabít, když byla příležitost.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_9</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">But death is a trade of patience. With you, he will meet his doom, avenger.</Data></Cell>
+    <Cell><Data ss:Type="String">Smrt vyžaduje trpělivost. Díky tobě, se konečně setká se svým osudem, {mstiteli|mstitelko}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_10</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Why did the Cult of the Sleeper take interest in your tribe? What do they want?</Data></Cell>
+    <Cell><Data ss:Type="String">Proč se Kult Spáče tak zajímá o tvůj kmen? Co chtějí?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_11_A</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Psychics. We raid towns in search for these humans gifted with a superior mind, ideal hosts to be possessed by otherwordly entities.</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Médium. Útočíme na města a hledáme lidi, obdařené vznešenější myslí, dokonalé hostitele, kteří mohou být posedlí cizími bytostmi.&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_11_B</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">We provide these innocents to the Cult of the Sleeper... who use them as anchors for their evil overlords.</Data></Cell>
+    <Cell><Data ss:Type="String">Poskytujeme tyto nevinné pro Kult Spáče... a ti je využívají jako kotvy pro své ďábelské vládce.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_12</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Of course, hosts are one of the most valuable resources for cults.</Data></Cell>
+    <Cell><Data ss:Type="String">Samozřejmě, hostitelé jsou jedním z nejcennějších zdrojů pro Kulty.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_13</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">What were you supposed to get in exchange?</Data></Cell>
+    <Cell><Data ss:Type="String">A co jste měli dostat na oplátku?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_14</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">They would help us purge the Daybreakers' presence in the region, allowing us to expand our territory.</Data></Cell>
+    <Cell><Data ss:Type="String">Měli nám pomoci vyčistit region od Daybreakerů, což by nám umožnilo rozšířit naše území.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_WalkWithZima_15</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">I see, it's a win-win for them, they want the Brotherhood dead anyway.</Data></Cell>
+    <Cell><Data ss:Type="String">Chápu, výhodná situace pro všechny, a Bratrstvo je stejně ztracené.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_ZimaNearArena_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">This is his arena. Go forth and execute Mercy, avenger. Such is your fate.</Data></Cell>
+    <Cell><Data ss:Type="String">To je jeho aréna. Jdi a zabij Lítost, {mstiteli|mstitelko}. Takový je tvůj osud.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_ZimaNearArena_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">You're not coming?</Data></Cell>
+    <Cell><Data ss:Type="String">A ty nejdeš?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_ZimaNearArena_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The shadows of spirits did not mention me being part of his doom. You are the Avenger, not I. They have other plans for me.</Data></Cell>
+    <Cell><Data ss:Type="String">Stíny duší se nezmínili o tom, že jsem součástí jeho zkázy. Ty jsi Mstitel, ne já. Mají se mnou jiné plány.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_ZimaNearArena_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">What plans?</Data></Cell>
+    <Cell><Data ss:Type="String">Jaké plány?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_ZimaNearArena_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">If I am seen killing our own leader, I will forfeit all influencial power within our tribe. If I am to expel the Sleeper's influence, I must be able to rally my people. Undoing what Mercy has caused will take time, but first, he needs to die.</Data></Cell>
+    <Cell><Data ss:Type="String">Jak mě uvidí,  jak zabíjím vlastního vůdce, ztratím veškerý vliv v kmeni. Mám-li vykázat vliv Spáče, musím být schopna shromáždit svůj lid. Napravit to, co Lítost způsobila, bude nějakou dobu trvat, ale nejdřív, musí zemřít.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_ZimaNearArena_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">You can't stay here then. You should do your part now, we must hurry if we are to save anyone behind that shadow-wall!</Data></Cell>
+    <Cell><Data ss:Type="String">Nemůžeš tu tedy zůstat. Dělej, co dělat musíš, musíme si pospíšit, chceme-li někoho zachránit za tou temnou stěnou!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_VOS_ZimaNearArena_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Very well, I will work on breaking the spell while you fight in the arena. I shall meet you at my sister's final resting place.</Data></Cell>
+    <Cell><Data ss:Type="String">Dobře, budu pracovat na prolomení kouzla, zatímco ty budeš bojovat v aréně. Sejdeme se na místě posledního odpočinku mé sestry.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyIntro_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Welcome to my arena, I could kill you on the spot but that would be no fun. Let's make you squeal first!</Data></Cell>
+    <Cell><Data ss:Type="String">Vítej v mé aréně, mohl bych tě zabít teď a tady, ale to by nebyla žádná zábava. Nejdřív tě donutím zakvičet!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyIntro_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">I'm looking for Mercy.</Data></Cell>
+    <Cell><Data ss:Type="String">Hledám Lítost.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyIntro_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Mercy, Mercy your leader, not mercy... mercy.&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">Lítost, Lítost vašeho vůdce, a né lítost jako lítost...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyIntro_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Well then you have found him. I'm Mercy, a name earned due to the last word people utter after crossing my path! You shall&#45;-</Data></Cell>
+    <Cell><Data ss:Type="String">{Našel|našla} si ho. Já jsem Lítost, jméno dané kvůli posledním slovům, která mi pronesou všichni, kteří mi stojí v cestě. Budeš...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyIntro_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Whoa, let me stop you right there... you're Mercy? Look I mean no disrespect and all but... you do sound like a twelve year old...</Data></Cell>
+    <Cell><Data ss:Type="String">Počkej, dáme si pauzu... Ty jsi Lítost? Podívej, nechci být neuctivý, ale... zníš jako dvanáctiletý...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyIntro_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">They all make puns before they plead for their life. You will be no different.</Data></Cell>
+    <Cell><Data ss:Type="String">Všichni si dělají legraci, než začnou prosit o život. To bude i tvůj případ.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyIntro_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Now! My people! Let me offer you this fool's death as entertainment!</Data></Cell>
+    <Cell><Data ss:Type="String">Takže! Mí lidé! Jako součást zábavy vám nabízím smrt {tohoto neštěstníka|této nešťastnice}!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Your first challenge! Our very own... Toxicmaster Toremy!</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá první výzva! Náš spanilý... Toremy Mistr Toxinů!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">I hope you like having acid spat at your face.</Data></Cell>
+    <Cell><Data ss:Type="String">Doufám, že máš rád, když ti na obličej stříká kyselina.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Oh boy... Look, I already told you, you're not good at this. Send him in already!</Data></Cell>
+    <Cell><Data ss:Type="String">Ach jo... Podívej, už jsem ti {řekl|řekla}, že v tom nejsi dobrý. Pošli už ho konečně!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Mmmh. Alright then.</Data></Cell>
+    <Cell><Data ss:Type="String">Mmmh. Jak si přeješ.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Bring on Mazarra!</Data></Cell>
+    <Cell><Data ss:Type="String">Přiveďte Mazarru!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">She will remind our hotheaded friend of his own mortality!</Data></Cell>
+    <Cell><Data ss:Type="String">Ona připomene {našemu tvrdohlavci jeho smrtelnost|naší tvrdohlavkyni její smrtelnost}!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Damnit! Unleash the exotic beasts! All of them!</Data></Cell>
+    <Cell><Data ss:Type="String">Zatraceně! Vypusťte exotická zvířata! Všechny!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_8</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">At least you did the butcher's work for tonight's feast.</Data></Cell>
+    <Cell><Data ss:Type="String">Přinejmenším jsi udělal řeznickou práci na dnešní hostinu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_9</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Oh well, on to your next challengers! The Majarans brothers! Chemistry geniuses from the Republic gone rogue! Behold!</Data></Cell>
+    <Cell><Data ss:Type="String">No dobře, je čas na další protivníky! Bratři Majaransové! Vzpurní chemičtí géniové z Republiky! Patřte!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_10</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Is that all you've got? Can you not move that fat arse off your throne and face me?</Data></Cell>
+    <Cell><Data ss:Type="String">To je všechno, co máš? Nemůžeš ten tlustý zadek sundat z trůnu a postavit se mi?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_11</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">You.... you... you! Your death will be horrible. HORRIBLE!</Data></Cell>
+    <Cell><Data ss:Type="String">Ty.... ty... ty! Tvá smrt bude strašlivá. STRAŠLIVÁ!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_12</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Awaken Augustëa!</Data></Cell>
+    <Cell><Data ss:Type="String">Probudit Augustëu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_13</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">She hasn't been fed in three weeks. I hope your flesh is tender.</Data></Cell>
+    <Cell><Data ss:Type="String">Tři týdny nebyla krmena. Doufám, že je tvoje maso je delikátní.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_14</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Three slaves to the one that takes that fool down!</Data></Cell>
+    <Cell><Data ss:Type="String">Tři otroky tomu, kdo toho blázna sejme!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyWaves_15</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Oh come on...</Data></Cell>
+    <Cell><Data ss:Type="String">Ale no tak...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">You're such a bore, you can't even die properly. What do you bloody want...?</Data></Cell>
+    <Cell><Data ss:Type="String">Jsi tak nudný, že ani nemůžeš normálně zemřít. Co sakra chceš...?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Your head. I have no &quot;mercy&quot; for those who bargain with cults.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvojí hlavu. Nemám žádnou &quot;Lítost&quot; pro ty, kteří vyjednávají s kulty.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Oh so that's why you came here? To stop our expansion?</Data></Cell>
+    <Cell><Data ss:Type="String">A proto jsi tady? Zastavit naši expanzi?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Nothing will remain to rule but a graveyard once the Cult of the Sleeper finishes its work!</Data></Cell>
+    <Cell><Data ss:Type="String">Nebude čemu vládnout, jakmile Kult Spáče dokončí svůj plán, zbyde pouze hřbitov!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Then I shall rule that graveyard!</Data></Cell>
+    <Cell><Data ss:Type="String">Tak budu vládnout hřbitovu!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">But you won't live to see it.</Data></Cell>
+    <Cell><Data ss:Type="String">Ale ty se toho nedožiješ.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">I will put your corpse on a pike as a reminder for those who defy me!</Data></Cell>
+    <Cell><Data ss:Type="String">Dám tvou mrtvolu na bodec, jako připomínku pro ty, kteří se mi budou chtít vzepřít!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_8</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Taste my axe!</Data></Cell>
+    <Cell><Data ss:Type="String">Ochutnej mou sekeru!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_9</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Beg for Mercy!</Data></Cell>
+    <Cell><Data ss:Type="String">Pros o lítost!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_10</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Die! Die! Die! Just die already!</Data></Cell>
+    <Cell><Data ss:Type="String">Zemři! Zemři! Zemři! Zemři už konečně!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_MercyShowdown_11</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Zima sends her regards.</Data></Cell>
+    <Cell><Data ss:Type="String">Zima posílá pozdravy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_ZimaTeleport_1</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Travel through my shadows. I'll put you back on your path as you have returned me to mine.</Data></Cell>
+    <Cell><Data ss:Type="String">Přejdi přes mé stíny. Přivedu tě zpátky na cestu, tak jak si přivedl ty mě na tu mou.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_ZimaTeleport_2</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Oh no, I'm not taking that portal.</Data></Cell>
+    <Cell><Data ss:Type="String">Oh, né, nepoužiju tenhle portál.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_ZimaTeleport_3</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Scared of shadows? Don't pretend to be wary of magic, I might not know what you are, but I know one thing: you're beyond human.</Data></Cell>
+    <Cell><Data ss:Type="String">Bojíš se stínů? Nepředstírej, že se bojíš magie, možná nevím, kdo jsi, ale vím jednu věc: jsi víc než jen lidská bytost.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_ZimaTeleport_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">I'm not scared of witchcraft.</Data></Cell>
+    <Cell><Data ss:Type="String">Nebojím se kouzel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_ZimaTeleport_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Of course I'm not. Not even a month ago I would have chopped her head off...</Data></Cell>
+    <Cell><Data ss:Type="String">Samozřejmě, že né. Né víc jak před měsícem bych ji {usekl|usekla} hlavu...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_ZimaTeleport_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">And now I'm following a witch into her dark portal... way to go ex-Purifier.</Data></Cell>
+    <Cell><Data ss:Type="String">A teď následuji čarodějnici do jejího temného portálu... vedeš si dobře {bývalý Očistiteli|bývalá Očistitelko}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_ZimaTeleport_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Shadows, heed my call!</Data></Cell>
+    <Cell><Data ss:Type="String">Stíny, slyšte mé volání!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest2_MA_ZimaTeleport_8</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Ssshhhh, be at peace sister, I am here. I will guide you through Eriebe's veil of death.</Data></Cell>
+    <Cell><Data ss:Type="String">Pšššt, nelekej se sestro, už jsem tady. Provedu tě přes závoj smrti Eriebe.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s80"><Data ss:Type="String">Act 2, Quest 3</Data></Cell>
@@ -3639,6 +3872,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaPlan_1</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">What happened?</Data></Cell>
+    <Cell><Data ss:Type="String">Co se stalo?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaPlan_2</Data></Cell>
@@ -3735,6 +3969,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaCharge_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">No matter the odds!</Data></Cell>
+    <Cell><Data ss:Type="String">Bez ohledu na to, co je v sázce!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_ValeriaCharge_8</Data></Cell>
@@ -3967,22 +4202,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_SanctumEvent_4</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_SanctumEvent_5</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_SanctumEvent_6</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_SanctumEvent_7</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_SanctumEvent_8</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_SanctumEvent_9</Data></Cell>
@@ -4071,14 +4311,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_SanctumFinale_15</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_SanctumFinale_16</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_SanctumFinale_17</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest3_VOH_SanctumFinale_18</Data></Cell>
@@ -4129,7 +4372,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest4_VOS_CampPlan_7</Data></Cell>
-    <Cell ss:StyleID="s117"><Data ss:Type="String">Easier said then done. Your friend is not going anywhere in her state. And neither are we.</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">Easier said than done. Your friend is not going anywhere in her state. And neither are we.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest4_VOS_CampPlan_8</Data></Cell>
@@ -4505,6 +4748,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest5_VOS_FleshAmbush_3</Data></Cell>
     <Cell ss:StyleID="s116"><Data ss:Type="String">No matter the odds!</Data></Cell>
+    <Cell><Data ss:Type="String">Bez ohledu na to, co je v sázce!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest5_VOS_FleshAmbush_4</Data></Cell>
@@ -5940,6 +6184,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">ACT3_Quest1_NW_CampChatter2_2</Data></Cell>
     <Cell ss:StyleID="s125"><Data ss:Type="String">One with the light!</Data></Cell>
+    <Cell><Data ss:Type="String">Sjednoceni se světlem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">ACT3_Quest1_NW_CampChatter3_1</Data></Cell>
@@ -6180,10 +6425,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT3_Quest2_NW_ValeriaTalk1_7</Data></Cell>
     <Cell ss:StyleID="s124"><Data ss:Type="String">No matter the odds?</Data></Cell>
+    <Cell><Data ss:Type="String">Bez ohledu na to, co je v sázce?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT3_Quest2_NW_ValeriaTalk1_8</Data></Cell>
     <Cell ss:StyleID="s125"><Data ss:Type="String">{No matter the odds.|No matter the odds.}</Data></Cell>
+    <Cell><Data ss:Type="String">{Bez ohledu na to, co je v sázce.|Bez ohledu na to, co je v sázce.}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT3_Quest2_NW_Valeria1_1</Data></Cell>
@@ -7091,9 +7338,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>3</ActiveRow>
      <ActiveCol>2</ActiveCol>
-     <RangeSelection>R4C3:R1562C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

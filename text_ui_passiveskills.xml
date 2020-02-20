@@ -16,7 +16,7 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -384,6 +384,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FERO_9_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">The Wild Card</Data></Cell>
+    <Cell><Data ss:Type="String">Divoká karta</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FERO_9_lore</Data></Cell>
@@ -544,10 +545,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WARR_14_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Strike like Lightning</Data></Cell>
+    <Cell><Data ss:Type="String">Udeř jako blesk</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WARR_15_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Brutality</Data></Cell>
+    <Cell><Data ss:Type="String">Brutalita</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WARR_16_name</Data></Cell>
@@ -564,6 +567,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WARR_17_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Blood Offering</Data></Cell>
+    <Cell><Data ss:Type="String">Krvavá nabídka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WARR_18_name</Data></Cell>
@@ -572,18 +576,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WARR_19_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Whirlwind of Steel</Data></Cell>
+    <Cell><Data ss:Type="String">Vichřice ocele</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WARR_20_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Whirlwind of Steel</Data></Cell>
+    <Cell><Data ss:Type="String">Vichřice ocele</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WARR_21_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Whirlwind of Steel</Data></Cell>
+    <Cell><Data ss:Type="String">Vichřice ocele</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WARR_22_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Swiftness</Data></Cell>
+    <Cell><Data ss:Type="String">Svižnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WARR_23_name</Data></Cell>
@@ -1016,14 +1024,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_MELEE_19_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Swiftness</Data></Cell>
+    <Cell><Data ss:Type="String">Svižnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_MELEE_20_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Swiftness</Data></Cell>
+    <Cell><Data ss:Type="String">Svižnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_MELEE_21_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Swiftness</Data></Cell>
+    <Cell><Data ss:Type="String">Svižnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_MELEE_22_name</Data></Cell>
@@ -1220,6 +1231,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_DIST_27_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Swiftness</Data></Cell>
+    <Cell><Data ss:Type="String">Svižnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_DIST_28_name</Data></Cell>
@@ -1260,14 +1272,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_WILL_4_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Adept</Data></Cell>
+    <Cell><Data ss:Type="String">Adept</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_WILL_5_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Adept</Data></Cell>
+    <Cell><Data ss:Type="String">Adept</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_WILL_6_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Physician</Data></Cell>
+    <Cell><Data ss:Type="String">Fyzik</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_WILL_7_name</Data></Cell>
@@ -1368,6 +1383,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_Section_Elementalist</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Cabalist</Data></Cell>
+    <Cell><Data ss:Type="String">Kabalista</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_ELEM_1_name</Data></Cell>
@@ -1376,14 +1392,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_ELEM_2_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Tormentor</Data></Cell>
+    <Cell><Data ss:Type="String">Trýznitel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_ELEM_3_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Master of Curses</Data></Cell>
+    <Cell><Data ss:Type="String">Mistr kleteb</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_ELEM_4_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Master of Curses</Data></Cell>
+    <Cell><Data ss:Type="String">Mistr kleteb</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_ELEM_5_name</Data></Cell>
@@ -1488,6 +1507,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_ELEM_24_name</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Power of the First Men</Data></Cell>
+    <Cell><Data ss:Type="String">Síla prvních mužů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_ELEM_24_lore</Data></Cell>
@@ -1532,6 +1552,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_Section_Master</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Warlock</Data></Cell>
+    <Cell><Data ss:Type="String">Černokněžník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s68"><Data ss:Type="String">ui_MAST_1_name</Data></Cell>
@@ -1920,14 +1941,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_SNIP_2_name</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Frostbite</Data></Cell>
+    <Cell><Data ss:Type="String">Omrzlina</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_SNIP_3_name</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Frostbite</Data></Cell>
+    <Cell><Data ss:Type="String">Omrzlina</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_SNIP_4_name</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Call of the Wild</Data></Cell>
+    <Cell><Data ss:Type="String">Volání přírody</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_SNIP_5_name</Data></Cell>
@@ -2059,7 +2083,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_SIEGE_8_gameplaydesc</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">You will receive a bonus depending on which archetype your equipped Chest-piece belongs to.\n\nIf you have a Bruiser Chest-piece, you receive Health regeneration for each Health point on the armor.\n\nIf you have a Heavy Chest-piece, its All Resistance bonus is doubled.\n\nIf you have a Rogue Rogue Chest-piece, you regenerate Health and Force Shield each time you complete a dodge. The amount that you regenerate is determined by the Health points given by the Armor.\n\nIf you have a Sorcerer Chest-piece regenerate Force Shield based on the amount of Force Shield on the Armor.</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">You will receive a bonus depending on which archetype your equipped Chest-piece belongs to.\n\nIf you have a Bruiser Chest-piece, you receive Health regeneration for each Health point on the armor.\n\nIf you have a Heavy Chest-piece, its All Resistance bonus is doubled.\n\nIf you have a Rogue Chest-piece, you regenerate Health and Force Shield each time you complete a dodge. The amount that you regenerate is determined by the Health points given by the Armor.\n\nIf you have a Sorcerer Chest-piece regenerate Force Shield based on the amount of Force Shield on the Armor.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_SIEGE_9_name</Data></Cell>
@@ -3214,7 +3238,6 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>28</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

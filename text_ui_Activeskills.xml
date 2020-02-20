@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -127,7 +127,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2414523659472" ss:Parent="s62">
+  <Style ss:ID="m2417363327392" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -138,7 +138,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2414523659492" ss:Parent="s62">
+  <Style ss:ID="m2417363327412" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -149,7 +149,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2414523659512" ss:Parent="s62">
+  <Style ss:ID="m2417363327432" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -160,7 +160,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2414523656768" ss:Parent="s62">
+  <Style ss:ID="m2417363326352" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -171,7 +171,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2414523656788" ss:Parent="s62">
+  <Style ss:ID="m2417363326372" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -182,7 +182,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2414523656808" ss:Parent="s62">
+  <Style ss:ID="m2417363326392" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -193,7 +193,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2414523656828" ss:Parent="s62">
+  <Style ss:ID="m2417363326412" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -204,7 +204,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2414523656848" ss:Parent="s62">
+  <Style ss:ID="m2417363326432" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -215,7 +215,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2414523656868" ss:Parent="s62">
+  <Style ss:ID="m2417363326452" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -367,7 +367,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s68">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2414523656768"><Data ss:Type="String">AST INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2417363326352"><Data ss:Type="String">AST INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_title</Data></Cell>
@@ -445,7 +445,7 @@
     <Cell><Data ss:Type="String">Duplikovaná dovednost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2414523656788"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2417363326372"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_enneract_of</Data></Cell>
@@ -720,7 +720,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BrutalStrike</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Anvil's Woe</Data></Cell>
-    <Cell><Data ss:Type="String">Žal kovadliny</Data></Cell>
+    <Cell><Data ss:Type="String">Kovadlina žalu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BrutalStrike_desc</Data></Cell>
@@ -765,7 +765,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Charge</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Warpath</Data></Cell>
-    <Cell><Data ss:Type="String">Válečná Stezka</Data></Cell>
+    <Cell><Data ss:Type="String">Válečná stezka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Charge_desc</Data></Cell>
@@ -778,7 +778,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_DeathMark</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Mark of Impurity</Data></Cell>
-    <Cell><Data ss:Type="String">Značka Nečistoty</Data></Cell>
+    <Cell><Data ss:Type="String">Značka nečistoty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_DeathMark_desc</Data></Cell>
@@ -791,7 +791,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_DualStrike</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Slayer's Flurry</Data></Cell>
-    <Cell><Data ss:Type="String">Závan Zabíječe</Data></Cell>
+    <Cell><Data ss:Type="String">Závan vraha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_DualStrike_desc</Data></Cell>
@@ -830,7 +830,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_FrostLance</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Arctic Spear</Data></Cell>
-    <Cell><Data ss:Type="String">Ledové Kopi</Data></Cell>
+    <Cell><Data ss:Type="String">Ledové kopi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_FrostLance_desc</Data></Cell>
@@ -843,7 +843,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FrostNova</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Winter's Grasp</Data></Cell>
-    <Cell><Data ss:Type="String">Dotek Zimy</Data></Cell>
+    <Cell><Data ss:Type="String">Dotek zimy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FrostNova_desc</Data></Cell>
@@ -856,7 +856,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Hook</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Tracker's Reach</Data></Cell>
-    <Cell><Data ss:Type="String">Stopařuv Hák</Data></Cell>
+    <Cell><Data ss:Type="String">Stopařuv hák</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Hook_desc</Data></Cell>
@@ -869,7 +869,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_IntroductionLightningAttack</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Purge with Lightning</Data></Cell>
-    <Cell><Data ss:Type="String">Očista Bleskem</Data></Cell>
+    <Cell><Data ss:Type="String">Očista bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_IntroductionLightningAttack_desc</Data></Cell>
@@ -882,7 +882,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Laceration</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Bleeding Edge</Data></Cell>
-    <Cell><Data ss:Type="String">Krvácejíci Ostří</Data></Cell>
+    <Cell><Data ss:Type="String">Krvácejíci ostří</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Laceration_desc</Data></Cell>
@@ -908,6 +908,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Leap</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Wings of Ishmir</Data></Cell>
+    <Cell><Data ss:Type="String">Křídla Ishmir</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Leap_desc</Data></Cell>
@@ -920,6 +921,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Reave</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Wrath of Baäpheth</Data></Cell>
+    <Cell><Data ss:Type="String">Baäphethuv hněv</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Reave_desc</Data></Cell>
@@ -932,6 +934,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_SacredGround</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Bulwark of Dawn</Data></Cell>
+    <Cell><Data ss:Type="String">Hradba úsvitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_SacredGround_desc</Data></Cell>
@@ -944,6 +947,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SpreadShot</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Stings of Krearion</Data></Cell>
+    <Cell><Data ss:Type="String">Krearionové žihadla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SpreadShot_desc</Data></Cell>
@@ -956,6 +960,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Teleport</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Aether Jump</Data></Cell>
+    <Cell><Data ss:Type="String">Aetherický skok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Teleport_desc</Data></Cell>
@@ -968,6 +973,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Turret</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">&quot;Avenger&quot; Autoturret</Data></Cell>
+    <Cell><Data ss:Type="String">Mstitelova střílna</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Turret_desc</Data></Cell>
@@ -980,6 +986,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_WarCry</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Sovereign Shout</Data></Cell>
+    <Cell><Data ss:Type="String">Suverénní výkřik</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_WarCry_desc</Data></Cell>
@@ -992,6 +999,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_WhirlWind</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Bladestorm</Data></Cell>
+    <Cell><Data ss:Type="String">Čepele bouře</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Whirlwind_desc</Data></Cell>
@@ -1004,6 +1012,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Ironguard</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Juggernaut</Data></Cell>
+    <Cell><Data ss:Type="String">Kolos</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Ironguard_desc</Data></Cell>
@@ -1016,6 +1025,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_HolyDive</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Light-bringer</Data></Cell>
+    <Cell><Data ss:Type="String">Nositel světla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_HolyDive_desc</Data></Cell>
@@ -1028,6 +1038,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_RingOfPain</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Blood for Blood</Data></Cell>
+    <Cell><Data ss:Type="String">Krev za krev</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_RingOfPain_desc</Data></Cell>
@@ -1076,6 +1087,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Vault</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Evasion</Data></Cell>
+    <Cell><Data ss:Type="String">Únik</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Vault_desc</Data></Cell>
@@ -1112,6 +1124,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Vortex</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Anomaly</Data></Cell>
+    <Cell><Data ss:Type="String">Anomálie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Vortex_desc</Data></Cell>
@@ -1160,6 +1173,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Possession</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Parasite</Data></Cell>
+    <Cell><Data ss:Type="String">Parazit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Possession_desc</Data></Cell>
@@ -1184,6 +1198,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_AetherBlast</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Eclipse</Data></Cell>
+    <Cell><Data ss:Type="String">Zatmění</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_AetherBlast_desc</Data></Cell>
@@ -1194,7 +1209,7 @@
     <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Moros, Primordial of Dusk, wielded great clouds of darkness to turn the tide of battle when his forces seemed surrounded.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2414523656808"><Data ss:Type="String">SKILLS VARIANTS  &lt;font color=&quot;#cb5316&quot;&gt; Rage  &lt;font color=&quot;#948ec6&quot;&gt; Willpower</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2417363326392"><Data ss:Type="String">SKILLS VARIANTS  &lt;font color=&quot;#cb5316&quot;&gt; Rage  &lt;font color=&quot;#948ec6&quot;&gt; Willpower</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_1</Data></Cell>
@@ -1217,7 +1232,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_3</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Serrated Arrows</Data></Cell>
-    <Cell><Data ss:Type="String">Ozubené Šípy</Data></Cell>
+    <Cell><Data ss:Type="String">Ozubené šípy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_3_desc</Data></Cell>
@@ -1226,7 +1241,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_4</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">The Black Cloud</Data></Cell>
-    <Cell><Data ss:Type="String">Černý Mrak</Data></Cell>
+    <Cell><Data ss:Type="String">Černý mrak</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_4_desc</Data></Cell>
@@ -1256,7 +1271,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_7</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Eagle Eye</Data></Cell>
-    <Cell><Data ss:Type="String">Orlí Oko</Data></Cell>
+    <Cell><Data ss:Type="String">Orlí oko</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_7_desc</Data></Cell>
@@ -2583,12 +2598,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_9</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Meteor Shower</Data></Cell>
-    <Cell><Data ss:Type="String">Roj Meteorů</Data></Cell>
+    <Cell><Data ss:Type="String">Roj meteorů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_9_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Increases number of projectiles, but each projectile's damage is reduced.</Data></Cell>
-    <Cell><Data ss:Type="String">Zvýší počet projektilů, ale každému projektilu sníží poškození</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýší počet střel, ale kazdé střele sníží poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_10</Data></Cell>
@@ -2690,7 +2705,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostComet_variant_5_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Converts base Frost damage to Fire damage.\n\nIncreases damage.</Data></Cell>
-    <Cell><Data ss:Type="String">Převede základní Mrazivé poškození na ohnivé.\n\Zvýší poškození.</Data></Cell>
+    <Cell><Data ss:Type="String">Převede základní mrazivé poškození na ohnivé.\n\Zvýší poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostComet_variant_5_Lore</Data></Cell>
@@ -2799,12 +2814,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostLance_variant_1</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Crystal Javelin</Data></Cell>
-    <Cell><Data ss:Type="String">Krystalový Oštěp</Data></Cell>
+    <Cell><Data ss:Type="String">Krystalový oštěp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostLance_variant_1_desc</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Increases damage.</Data></Cell>
-    <Cell><Data ss:Type="String">Zvýšá poškození</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýší poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostLance_variant_2</Data></Cell>
@@ -3008,7 +3023,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostNova_variant_8</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Hail the Ice Queen</Data></Cell>
-    <Cell><Data ss:Type="String">Sláva Ledové Královny</Data></Cell>
+    <Cell><Data ss:Type="String">Sláva ledové královny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostNova_variant_8_desc</Data></Cell>
@@ -6904,7 +6919,7 @@
     <Cell ss:StyleID="s62"><Data ss:Type="String">Reduces cooldown.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2414523656828"><Data ss:Type="String">AST BUFF VARIANTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2417363326412"><Data ss:Type="String">AST BUFF VARIANTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FireballFiredamageBoost_Desc</Data></Cell>
@@ -7019,7 +7034,7 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">Stamina Regeneration buff</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2414523656848"><Data ss:Type="String">Aspect of Apocalypse SKILLS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2417363326432"><Data ss:Type="String">Aspect of Apocalypse SKILLS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_APO_Menu_Title</Data></Cell>
@@ -7298,11 +7313,12 @@
     <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;As the First Warrior, Baäpheth understands the true value of patience; strength is worthless if one knows not when to strike.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2414523656868"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2417363326452"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Averagedamage</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Average Damage: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Průměrné poškození: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Projectiles_damageBonusAtMaxRange</Data></Cell>
@@ -7311,10 +7327,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_TotalBasedamage</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Total Damage: %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Celkové poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Physicaldamage</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Physical Damage: %1 - %2</Data></Cell>
+    <Cell><Data ss:Type="String">Fyzické poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Projectiles_AutoPierce</Data></Cell>
@@ -7435,6 +7453,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_SlowDuration</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Slow duration: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Trvání zpomalení: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_ExplosionRadius</Data></Cell>
@@ -7471,14 +7490,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Cooldown</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">Cooldown: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Doba dobíjení: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_CriticalChance</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">Critical Chance: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Kritická šance: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Criticaldamage</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">Critical Damage: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Kritické poškození: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Firedamage</Data></Cell>
@@ -7503,30 +7525,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Projectiles</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">Number of Projectiles: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Počet střel: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_RageCost</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">Rage cost: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Cena vzteku: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_StaminaCost</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">Stamina cost: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Cena staminy: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_RageCostPerSecond</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">Rage cost per second: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Cena vzteku za sekundu: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_RageGeneration</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">Rage generation: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Obnova vzteku: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_RageGenerationPerSecond</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">Rage generation per second: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Obnova vzteku za sekundu: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Range</Data></Cell>
     <Cell ss:StyleID="s103"><Data ss:Type="String">Range: %1</Data></Cell>
+    <Cell><Data ss:Type="String">Vzdálenost: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_ROSTime</Data></Cell>
@@ -7633,7 +7662,7 @@
     <Cell ss:StyleID="s103"><Data ss:Type="String">Knock-back Distance: %1m</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2414523659472"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2417363327392"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s105"><Data ss:Type="String">ui_AST_ParamBonus_damage</Data></Cell>
@@ -7664,7 +7693,7 @@
     <Cell ss:StyleID="s106"><Data ss:Type="String">%1 Freeze Duration Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2414523659492"><Data ss:Type="String">SUMMONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2417363327412"><Data ss:Type="String">SUMMONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s108"><Data ss:Type="String">UI_AIName_Summon_Melee</Data></Cell>
@@ -7681,13 +7710,15 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s108"><Data ss:Type="String">ui_AIName_Summon_Champion_Lightning</Data></Cell>
     <Cell ss:StyleID="s109"><Data ss:Type="String">Punisher</Data></Cell>
+    <Cell><Data ss:Type="String">Punisher</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s108"><Data ss:Type="String">ui_AIName_Summon_Champion_Shadow</Data></Cell>
     <Cell ss:StyleID="s109"><Data ss:Type="String">Duskshade</Data></Cell>
+    <Cell><Data ss:Type="String">Rubáš šera</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2414523659512"><Data ss:Type="String">ACTIVE SKILL BUFFS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2417363327432"><Data ss:Type="String">ACTIVE SKILL BUFFS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s108"><Data ss:Type="String">ui_Aetherblade_buff_title</Data></Cell>
@@ -8073,11 +8104,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>1603</TopRowVisible>
+   <TopRowVisible>1804</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>1610</ActiveRow>
+     <ActiveRow>1812</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

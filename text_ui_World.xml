@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -233,12 +233,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AdventureCharacter1_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Mandates Board</Data></Cell>
-    <Cell><Data ss:Type="String">Tabule Mandátů</Data></Cell>
+    <Cell><Data ss:Type="String">Tabule pověření</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AdventureCharacter2_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Expeditions Map</Data></Cell>
-    <Cell><Data ss:Type="String">Mapa Expedic</Data></Cell>
+    <Cell><Data ss:Type="String">Mapa expedic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DashingEugene_CharacterNameLabel</Data></Cell>
@@ -248,7 +248,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_CitybuildingCharacter_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Thunderblade Zalahir</Data></Cell>
-    <Cell><Data ss:Type="String">Zalahir Hřmící Čepel</Data></Cell>
+    <Cell><Data ss:Type="String">Zalahir Thunderblade</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_StormfallArchivist_CharacterNameLabel</Data></Cell>
@@ -273,37 +273,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Maelys_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Justicar Maëlys</Data></Cell>
-    <Cell><Data ss:Type="String">Justikář Maëlys</Data></Cell>
+    <Cell><Data ss:Type="String">Justikářka Maëlys</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ThunderBlade_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Thunderblade</Data></Cell>
-    <Cell><Data ss:Type="String">Hřmící Čepel</Data></Cell>
+    <Cell><Data ss:Type="String">Thunderblade</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ThunderBladeFaarad_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Thunderblade Faärad</Data></Cell>
-    <Cell><Data ss:Type="String">Faärad Hřmící Čepel</Data></Cell>
+    <Cell><Data ss:Type="String">Faärad Thunderblade</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ThunderBladeSandor_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Thunderblade Sandor</Data></Cell>
-    <Cell><Data ss:Type="String">Sandor Hřmící Čepel</Data></Cell>
+    <Cell><Data ss:Type="String">Sandor Thunderblade</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FlayerWarrior_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Flayer Warrior</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer Válečník</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer válečník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FlayerArcher_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Flayer Archer</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer Lučištník</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer lučištník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FlayerSapper_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Flayer Sapper</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer Saper</Data></Cell>
+    <Cell><Data ss:Type="String">Flayer saper</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Yudai_CharacterNameLabel</Data></Cell>
@@ -313,17 +313,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_StormfallGuard_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Stormfall Guard</Data></Cell>
-    <Cell><Data ss:Type="String">Stormfallský Strážce</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfallský strážce</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_StormfallConscript_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Stormfall Conscript</Data></Cell>
-    <Cell><Data ss:Type="String">Stormfallský Branec</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfallský branec</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_StormfallNoble_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Stormfall Noble</Data></Cell>
-    <Cell><Data ss:Type="String">Storfallský Šlechtic</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfallský šlechtic</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Refugee_CharacterNameLabel</Data></Cell>
@@ -333,7 +333,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Damaskus_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Merchant Prince Damaskus</Data></Cell>
-    <Cell><Data ss:Type="String">Princ Obchodníků Damaskus</Data></Cell>
+    <Cell><Data ss:Type="String">Princ obchodníků Damaskus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Alastor_CharacterNameLabel</Data></Cell>
@@ -358,12 +358,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_GrandInquisitorHeimlock_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Grand Inquisitor Heimlock</Data></Cell>
-    <Cell><Data ss:Type="String">Velký Inkvizitor Heimlock</Data></Cell>
+    <Cell><Data ss:Type="String">Velký inkvizitor Heimlock</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Vhegguad_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Vhegguad, Seal of Anankis</Data></Cell>
-    <Cell><Data ss:Type="String">Vhegguad, Pečeť Anankise</Data></Cell>
+    <Cell><Data ss:Type="String">Vhegguad, pečeť Anankise</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Neiddrerym_CharacterNameLabel</Data></Cell>
@@ -408,12 +408,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_RepublicanSoldier_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Republican Soldier</Data></Cell>
-    <Cell><Data ss:Type="String">Republikánský Voják</Data></Cell>
+    <Cell><Data ss:Type="String">Republikánský voják</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Templars_Priest</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Hierophant of the Searing Song</Data></Cell>
-    <Cell><Data ss:Type="String">Hierofant Spalující Písně</Data></Cell>
+    <Cell><Data ss:Type="String">Hierofant spalující písně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Templars_Knight</Data></Cell>
@@ -439,7 +439,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Zaälbezül_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zaälbezül, Arm of Astharoth</Data></Cell>
-    <Cell><Data ss:Type="String">Zaälbezül, Paže of Astharotha</Data></Cell>
+    <Cell><Data ss:Type="String">Zaälbezül, paže Astharotha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Gernese</Data></Cell>
@@ -449,32 +449,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Shaman_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Dying Morosisan Seer</Data></Cell>
-    <Cell><Data ss:Type="String">Umírající Morosianský Jasnovidec</Data></Cell>
+    <Cell><Data ss:Type="String">Umírající morosianský jasnovidec</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Fanatic_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Fanatic of the Sleeper</Data></Cell>
-    <Cell><Data ss:Type="String">Fanatik Spáče</Data></Cell>
+    <Cell><Data ss:Type="String">Fanatik spáče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Tabbitha_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Tabbitha of House Longshore</Data></Cell>
-    <Cell><Data ss:Type="String">Tabbitha z Rodu Longshore</Data></Cell>
+    <Cell><Data ss:Type="String">Tabbitha z rodu Longshore</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Valense_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Valense of House Blacktide</Data></Cell>
-    <Cell><Data ss:Type="String">Valense z Rodu Blacktide</Data></Cell>
+    <Cell><Data ss:Type="String">Valense z rodu Blacktide</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Annaruz_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Annaruz of House Brightgale</Data></Cell>
-    <Cell><Data ss:Type="String">Annaruz z Rodu Brightgale</Data></Cell>
+    <Cell><Data ss:Type="String">Annaruz z rodu Brightgale</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Citizen_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Stormfall Citizen</Data></Cell>
-    <Cell><Data ss:Type="String">Stormfallský Občan</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfallský občan</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Gendris_CharacterNameLabel</Data></Cell>
@@ -527,12 +527,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_waypoint</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Waypoint</Data></Cell>
-    <Cell><Data ss:Type="String">Waypoint</Data></Cell>
+    <Cell><Data ss:Type="String">Cestovní portál</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WaypointUnlocked</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">%1 waypoint unlocked</Data></Cell>
-    <Cell><Data ss:Type="String">%1 waypoint odemčen</Data></Cell>
+    <Cell><Data ss:Type="String">%1 cestoní portál odemčen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_reset_dungeon</Data></Cell>
@@ -580,7 +580,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_crypt</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Crypt entrance</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Krypty</Data></Cell>
+    <Cell><Data ss:Type="String">Vstup do krypty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Act 1 World Map Name</Data></Cell>
@@ -589,7 +589,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">The Coast of Wrecks</Data></Cell>
-    <Cell><Data ss:Type="String">Pobřeží Vraků</Data></Cell>
+    <Cell><Data ss:Type="String">Pobřeží vraků</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_worldmap_you_are_here</Data></Cell>
@@ -604,12 +604,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_worldmap_explored_dungeon</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Explored Area</Data></Cell>
-    <Cell><Data ss:Type="String">Prozkoumaná Oblast</Data></Cell>
+    <Cell><Data ss:Type="String">Prozkoumaná oblast</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_worldmap_unexplored_dungeon</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Unexplored Area</Data></Cell>
-    <Cell><Data ss:Type="String">Neprozkoumá Oblast</Data></Cell>
+    <Cell><Data ss:Type="String">Neprozkoumá oblast</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_worldmap_waypoint</Data></Cell>
@@ -619,17 +619,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_worldmap_act_hub</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">City Hub</Data></Cell>
-    <Cell><Data ss:Type="String">Centrum Města</Data></Cell>
+    <Cell><Data ss:Type="String">Centrum města</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_worldmap_camp</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Safe Area</Data></Cell>
-    <Cell><Data ss:Type="String">Bezpečná Oblast</Data></Cell>
+    <Cell><Data ss:Type="String">Bezpečná oblast</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_worldmap_locked_path</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Locked Area</Data></Cell>
-    <Cell><Data ss:Type="String">Uzamčená Oblast</Data></Cell>
+    <Cell><Data ss:Type="String">Uzamčená oblast</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_coast_of_wrecks_name</Data></Cell>
@@ -644,7 +644,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_stormfall_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Stormfall - Palace District</Data></Cell>
-    <Cell><Data ss:Type="String">Stormfall - Palácová Čtvrť</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfall - Palácová čtvrť</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_stormfall_farmlands_name</Data></Cell>
@@ -654,47 +654,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_svriir_network_1_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Svriir Cave Network 1</Data></Cell>
-    <Cell><Data ss:Type="String">Jeskyně Svriir 1. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Jeskyně Svriir 1. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_svriir_tributes_storage_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Tributes Chamber</Data></Cell>
-    <Cell><Data ss:Type="String">Komnata Cti</Data></Cell>
+    <Cell><Data ss:Type="String">Komnata cti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_svriir_network_2_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Svriir Cave Network 2</Data></Cell>
-    <Cell><Data ss:Type="String">Jeskyně Svriir 2. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Jeskyně Svriir 2. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_flayer_outpost_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Flayers Outpost</Data></Cell>
-    <Cell><Data ss:Type="String">Flayerská Výspa</Data></Cell>
+    <Cell><Data ss:Type="String">Flayerská výspa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_ravaged_camp_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ravaged Brotherhood Camp</Data></Cell>
-    <Cell><Data ss:Type="String">Zdevastovaný Tábor Bratrstva</Data></Cell>
+    <Cell><Data ss:Type="String">Zdevastovaný tábor bratrstva</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_green_bluffs_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Green Bluffs</Data></Cell>
-    <Cell><Data ss:Type="String">Zelené Útesy</Data></Cell>
+    <Cell><Data ss:Type="String">Zelené útesy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_smuggler_path_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Smuggler’s Path</Data></Cell>
-    <Cell><Data ss:Type="String">Pašerácká Stezka</Data></Cell>
+    <Cell><Data ss:Type="String">Pašerácká stezka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_necropolis_1_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Urhan Necropolis 1</Data></Cell>
-    <Cell><Data ss:Type="String">Nekropole Urhan 1. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Nekropole Urhan 1. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_necropolis_3_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Urhan Necropolis 2</Data></Cell>
-    <Cell><Data ss:Type="String">Nekropole Urhan 2. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Nekropole Urhan 2. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_gates_of_anankis_name</Data></Cell>
@@ -704,27 +704,27 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_anankis_halls_1_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Anankis’ Halls 1</Data></Cell>
-    <Cell><Data ss:Type="String">Síně Anankis 1. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Síně Anankis 1. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_anankis_halls_2_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Anankis’ Halls 2</Data></Cell>
-    <Cell><Data ss:Type="String">Síně Anankis 2. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Síně Anankis 2. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_anankis_core_overlook_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Anankis’ Core Overlook</Data></Cell>
-    <Cell><Data ss:Type="String">Vyhlídka Na Jádro Anankis</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhlídka na jádro Anankis</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_anankis_halls_3_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Anankis’ Halls 3</Data></Cell>
-    <Cell><Data ss:Type="String">Síně Anankis 3. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Síně Anankis 3. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_act_1_anankis_core_overlook_2_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Anankis' Core Overlook 2</Data></Cell>
-    <Cell><Data ss:Type="String">Vyhlídka Na Jádro Anankis 2. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhlídka na jádro Anankis 2. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Act 1 World Map Desc</Data></Cell>
@@ -733,7 +733,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_coast_of_wrecks_desc</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">&lt;Font Size=&quot;18&quot; Color=&quot;#FFFFFF&quot;&gt;These caves were carved by millennia of rough weather. This climate inspired the name of the &lt;b&gt;Sea of Torment&lt;/b&gt; northwest from here. Countless ships were lost to it, only to be washed up on the shore. &lt;b&gt;Sea Svriir&lt;/b&gt; have recently swum up from the depths to invade them.&lt;/Font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;Font Size=&quot;18&quot; Color=&quot;#FFFFFF&quot;&gt;Tyto jeskyně byly tvarovany po tisíce let díky drsnému počasí. Zdejší klima bylo inspirací pro název &lt;b&gt;Moře Utrpení&lt;b&gt; severozápadně odtud. Nespočet lodí zde bylo potopeno a vyplaveno na břeh. Před nedávnem se &lt;b&gt;Svriirské Moře&lt;/b&gt; vynořilo z hlubin aby je napadlo. &lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;18&quot; Color=&quot;#FFFFFF&quot;&gt;Tyto jeskyně byly tvarovány po tisíce let díky drsnému počasí. Zdejší klima bylo inspirací pro název &lt;b&gt;Moře utrpení&lt;b&gt; severozápadně odtud. Nespočet lodí zde bylo ztraceno a vyplaveno na břeh. Před nedávnem se &lt;b&gt;Svriirské Moře&lt;/b&gt; vynořilo z hlubin aby je napadlo. &lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_highlands_desc</Data></Cell>
@@ -910,22 +910,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_1_farmstead_hornet_lair_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Wedding Circle</Data></Cell>
-    <Cell><Data ss:Type="String">Svatební Kruh</Data></Cell>
+    <Cell><Data ss:Type="String">Svatební kruh</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_anankis_core_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Anankis' Core</Data></Cell>
-    <Cell><Data ss:Type="String">Anankisovo Jádro</Data></Cell>
+    <Cell><Data ss:Type="String">Jádro Anankis</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_republic_camp_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Republican Camp Outskirts</Data></Cell>
-    <Cell><Data ss:Type="String">Předměstí Republikánského Tábora</Data></Cell>
+    <Cell><Data ss:Type="String">Předměstí republikánského tábora</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_tavern_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Stormfall - The Laughing Sea Gal</Data></Cell>
-    <Cell><Data ss:Type="String">Stormfall - U Smějící Se Mořské Panny</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfall - U Smějící se mořské panny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_palace_name</Data></Cell>
@@ -935,12 +935,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_sirkiss_lair_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Sirkis's Lair</Data></Cell>
-    <Cell><Data ss:Type="String">Sirkisové doupě</Data></Cell>
+    <Cell><Data ss:Type="String">Sirkisovo doupě</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act1_republic_camp_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Purifiers Warcamp Outskirt</Data></Cell>
-    <Cell><Data ss:Type="String">Předměstí Válečného tábora Čistitelů</Data></Cell>
+    <Cell><Data ss:Type="String">Předměstí Válečného tábora očistitelů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Act 2 World Map Name</Data></Cell>
@@ -954,7 +954,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_VOS1_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Shadaron Forest</Data></Cell>
-    <Cell><Data ss:Type="String">Shadaronský Les</Data></Cell>
+    <Cell><Data ss:Type="String">Shadaronský les</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_VOS2_name</Data></Cell>
@@ -964,12 +964,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_stormfall_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Stormfall - Palace District</Data></Cell>
-    <Cell><Data ss:Type="String">Stormfall - Palácová Čtvrť</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfall - Palácová čtvrť</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_InnerSanctum_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Sanctum of Hope</Data></Cell>
-    <Cell><Data ss:Type="String">Svatyně Náděje</Data></Cell>
+    <Cell><Data ss:Type="String">Svatyně naděje</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_WarlordLair_name</Data></Cell>
@@ -979,57 +979,57 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_TemplarCamp_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Daybreakers Breached Fort</Data></Cell>
-    <Cell><Data ss:Type="String">Narušená Pevnost Daybreakerů</Data></Cell>
+    <Cell><Data ss:Type="String">Narušená pevnost daybreakerů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_PSOverlook_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Corrupted Catalyst Overlook</Data></Cell>
-    <Cell><Data ss:Type="String">Vyhlídka na Zkažený Katalyzátor</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhlídka na zkažený katalyzátor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_FleshForest1_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Flesh Frontier</Data></Cell>
-    <Cell><Data ss:Type="String">Tělesná Hranice</Data></Cell>
+    <Cell><Data ss:Type="String">Tělesná hranice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_FleshForest2_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Flesh Forest</Data></Cell>
-    <Cell><Data ss:Type="String">Tělesný Les</Data></Cell>
+    <Cell><Data ss:Type="String">Tělesný les</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_FleshCity_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Cordanon's Outskirts</Data></Cell>
-    <Cell><Data ss:Type="String">Předměstí Naděje</Data></Cell>
+    <Cell><Data ss:Type="String">Cordonanské předměstí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_TempleOfJustice_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Vault of Hope</Data></Cell>
-    <Cell><Data ss:Type="String">Krypta Naděje</Data></Cell>
+    <Cell><Data ss:Type="String">Krypta naděje</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_IncubationChamber1_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Incubation Chambers 1</Data></Cell>
-    <Cell><Data ss:Type="String">Inkubační Komnata 1. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Inkubační komnata 1. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_IncubationChamber2_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Incubation Chambers 2</Data></Cell>
-    <Cell><Data ss:Type="String">Inkubační Komnata 2. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Inkubační komnata 2. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_SvriirCave_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Echoing Path</Data></Cell>
-    <Cell><Data ss:Type="String">Cesta Ozvěn</Data></Cell>
+    <Cell><Data ss:Type="String">Cesta ozvěn</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_ICWaypointArea_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Experimentation Room</Data></Cell>
-    <Cell><Data ss:Type="String">Experimentální Místnost</Data></Cell>
+    <Cell><Data ss:Type="String">Experimentální místnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_TemplarCampExterior_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Daybreakers' Valley</Data></Cell>
-    <Cell><Data ss:Type="String">Údolí Daybreakerů</Data></Cell>
+    <Cell><Data ss:Type="String">Údolí daybreakerů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_Flesh_City_Inner_name</Data></Cell>
@@ -1043,7 +1043,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_VOS2_HiddenBossSpot_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Helmshire's Townhall</Data></Cell>
-    <Cell><Data ss:Type="String">Helmshirská Radnice</Data></Cell>
+    <Cell><Data ss:Type="String">Helmshirská radnice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_LambachP1Arena_name</Data></Cell>
@@ -1205,7 +1205,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_BattlefieldOverlook_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Battlefield Overlook</Data></Cell>
-    <Cell><Data ss:Type="String">Vyhlídka Na Bojišti</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhlídka na bojišti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_CoreOverlook_name</Data></Cell>
@@ -1215,7 +1215,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_dawn_gate_hall_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Vault of Truth's Dawngate</Data></Cell>
-    <Cell><Data ss:Type="String">Spodní Brána Krypty Pravdy</Data></Cell>
+    <Cell><Data ss:Type="String">Spodní brána krypty pravdy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_elevator_platform_name</Data></Cell>
@@ -1225,32 +1225,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Monolith1_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Monolith - Lower Halls</Data></Cell>
-    <Cell><Data ss:Type="String">Monolith - Dolní Síně</Data></Cell>
+    <Cell><Data ss:Type="String">Monolith - Dolní díně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Monolith2_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Monolith - Upper Halls</Data></Cell>
-    <Cell><Data ss:Type="String">Monolith - Horní Síně</Data></Cell>
+    <Cell><Data ss:Type="String">Monolith - Horní síně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_monolith_gate_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Monolith's Gate</Data></Cell>
-    <Cell><Data ss:Type="String">Brána Monolitu</Data></Cell>
+    <Cell><Data ss:Type="String">Brána monolitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Nowhere_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Dawn's Crest Camp</Data></Cell>
-    <Cell><Data ss:Type="String">Tábor Svítání</Data></Cell>
+    <Cell><Data ss:Type="String">Tábor svítání</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_rempart_1_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Cell-H Ramparts</Data></Cell>
-    <Cell><Data ss:Type="String">Hradby V Sektoru H</Data></Cell>
+    <Cell><Data ss:Type="String">Hradby v sektoru H</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_rempart_2_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Cell-F Ramparts</Data></Cell>
-    <Cell><Data ss:Type="String">Hradby V Sektoru F</Data></Cell>
+    <Cell><Data ss:Type="String">Hradby v sektoru F</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Redwaste1_name</Data></Cell>
@@ -1260,7 +1260,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Redwaste2_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Republican Backline</Data></Cell>
-    <Cell><Data ss:Type="String">Republikánská Zadní Linie</Data></Cell>
+    <Cell><Data ss:Type="String">Republikánská zadní linie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_republican_trench_warfare_name</Data></Cell>
@@ -1270,47 +1270,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_stormfall_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Stormfall - Palace District</Data></Cell>
-    <Cell><Data ss:Type="String">Stormfall - Palácova Čtvrť</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfall - Palácova čvrť</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_tower_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower</Data></Cell>
-    <Cell><Data ss:Type="String">Západní Věž</Data></Cell>
+    <Cell><Data ss:Type="String">Západní věž</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_2_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower 1</Data></Cell>
-    <Cell><Data ss:Type="String">Západní Věž 1. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Západní věž 1. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_3_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower 2</Data></Cell>
-    <Cell><Data ss:Type="String">Západní Věž 2. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Západní věž 2. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_4_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower 3</Data></Cell>
-    <Cell><Data ss:Type="String">Západní Věž 3. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Západní věž 3. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_5_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower 4</Data></Cell>
-    <Cell><Data ss:Type="String">Západní Věž 4. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Západní věž 4. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_6_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower 5</Data></Cell>
-    <Cell><Data ss:Type="String">Západní Věž 5. Patro</Data></Cell>
+    <Cell><Data ss:Type="String">Západní věž 5. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_7_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower's Machinery</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Západní Věž Mašinérie</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Západní věž mašinérie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_RampartGatePlatform_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Western Tower's Top</Data></Cell>
-    <Cell><Data ss:Type="String">Vrchol Západní Věže</Data></Cell>
+    <Cell><Data ss:Type="String">Vrchol západní věže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Act 3 Area Name</Data></Cell>
@@ -1324,37 +1324,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_TempleOfSerenity_WingOfFaith_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Wing of Faith</Data></Cell>
-    <Cell><Data ss:Type="String">Křídlo Víry</Data></Cell>
+    <Cell><Data ss:Type="String">Křídlo víry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_TempleOfSerenity_WingOfWar_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Wing of Light</Data></Cell>
-    <Cell><Data ss:Type="String">Křídlo Světla</Data></Cell>
+    <Cell><Data ss:Type="String">Křídlo světla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_InnerSanctum_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Sanctum of Truth</Data></Cell>
-    <Cell><Data ss:Type="String">Svatyně Pravdy</Data></Cell>
+    <Cell><Data ss:Type="String">Svatyně pravdy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_HeimlockArena_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Fury's Ascent Ritual</Data></Cell>
-    <Cell><Data ss:Type="String">Zuřivý Rituál Vzestupu</Data></Cell>
+    <Cell><Data ss:Type="String">Zuřivý rituál vzestupu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_VaultOfTruthOverlook_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Vault of Truth Overlook</Data></Cell>
-    <Cell><Data ss:Type="String">Vyhlídka Na Kryptu Pravdy</Data></Cell>
+    <Cell><Data ss:Type="String">Vyhlídka na kryptu pravdy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_Tower_Transition_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Eastern Tower</Data></Cell>
-    <Cell><Data ss:Type="String">Východní Věž</Data></Cell>
+    <Cell><Data ss:Type="String">Východní věž</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_RepublicanTrenchWarfare_HiddenBossSpot_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Purifiers Camp Outskirts</Data></Cell>
-    <Cell><Data ss:Type="String">Předměstí Tábora Čistitelů</Data></Cell>
+    <Cell><Data ss:Type="String">Předměstí tábora očistitelů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">Act 3 World Map Desc</Data></Cell>
@@ -1525,47 +1525,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_TempleFlesh_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Cordanon's Dawn Chapel</Data></Cell>
-    <Cell><Data ss:Type="String">Cardanonova Kaple Úsvitu</Data></Cell>
+    <Cell><Data ss:Type="String">Cardanonova kaple úsvitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_TempleDesert_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Daybreakers' Abandoned Shrine</Data></Cell>
-    <Cell><Data ss:Type="String">Opuštěna Svatyně Daybreakerů</Data></Cell>
+    <Cell><Data ss:Type="String">Opuštěna svatyně Daybreakerů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_Svriir_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Svriir Hivecluster</Data></Cell>
-    <Cell><Data ss:Type="String">Klastr Svriirského Roje</Data></Cell>
+    <Cell><Data ss:Type="String">Klastr Svriirského roje</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_SoulCave_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Caves of the Sleeper</Data></Cell>
-    <Cell><Data ss:Type="String">Jeskyně Spáče</Data></Cell>
+    <Cell><Data ss:Type="String">Jeskyně spáče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_RedWasteRepublic_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Republican Territory - Southern Red Wastes</Data></Cell>
-    <Cell><Data ss:Type="String">Republikánské Území - Jižní Rudá Pustina</Data></Cell>
+    <Cell><Data ss:Type="String">Republikánské území - Jižní rudá pustina</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_RedWaste_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Southern Red Wastes</Data></Cell>
-    <Cell><Data ss:Type="String">Jižní Rudá Pustina</Data></Cell>
+    <Cell><Data ss:Type="String">Jižní rudá pustina</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_PPS_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Primordial Catalyst</Data></Cell>
-    <Cell><Data ss:Type="String">Prvotní Katalyzátor</Data></Cell>
+    <Cell><Data ss:Type="String">Prvotní katalyzátor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_NecropolisMossy_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Breached Urhan Necropolis</Data></Cell>
-    <Cell><Data ss:Type="String">Narušená Nekropole Urhan</Data></Cell>
+    <Cell><Data ss:Type="String">Narušená nekropole Urhan</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_NecropolisImpaled_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Defiled Urhan Necropolis</Data></Cell>
-    <Cell><Data ss:Type="String">Znečištěná Nekropole Urhan</Data></Cell>
+    <Cell><Data ss:Type="String">Znečištěná nekropole Urhan</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_Necropolis_Name</Data></Cell>
@@ -1580,22 +1580,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_GenericCave_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Caverns Network</Data></Cell>
-    <Cell><Data ss:Type="String">Síť Jeskyní</Data></Cell>
+    <Cell><Data ss:Type="String">Síť jeskyní</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_ForestGore_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Woods of the Defiler</Data></Cell>
-    <Cell><Data ss:Type="String">Lesy Znečišťovatele</Data></Cell>
+    <Cell><Data ss:Type="String">Lesy znečišťovatele</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_ForestAutumn_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Republican Forest</Data></Cell>
-    <Cell><Data ss:Type="String">Republikánský Les</Data></Cell>
+    <Cell><Data ss:Type="String">Republikánský les</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_Forest_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Green Bluffs - Deep Thicket</Data></Cell>
-    <Cell><Data ss:Type="String">Zelené Útesy - Hluboké Houští</Data></Cell>
+    <Cell><Data ss:Type="String">Zelené útesy - Hluboké houští</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
    <Row ss:Index="304" ss:AutoFitHeight="0" ss:Height="15">
@@ -1734,9 +1734,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>3</ActiveRow>
      <ActiveCol>2</ActiveCol>
-     <RangeSelection>R4C3:R299C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

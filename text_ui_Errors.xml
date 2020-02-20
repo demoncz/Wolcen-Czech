@@ -78,7 +78,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -226,7 +226,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gserror_Friendlist_Request_AlreadyFriend</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">This WolcenTag is already in your friendlist.</Data></Cell>
-    <Cell><Data ss:Type="String">Tento WolcenTag je již ve vašem seznamu přátel.</Data></Cell>
+    <Cell><Data ss:Type="String">Tento WolcenTag je již ve tvém seznamu přátel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gserror_Friendlist_Request_AlreadyPending</Data></Cell>
@@ -251,7 +251,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gserror_Friendlist_Remove_NotFriend</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">This WolcenTag can't be removed because it isn't in your friendlist.</Data></Cell>
-    <Cell><Data ss:Type="String">Tento WolcenTag nelze odstranit protože není ve vašem seznamu přátel.</Data></Cell>
+    <Cell><Data ss:Type="String">Tento WolcenTag nelze odstranit protože není vetvém seznamu přátel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s77">
     <Cell ss:StyleID="s78"><Data ss:Type="String">Wolcen Tag</Data></Cell>
@@ -358,7 +358,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gserror_Group_CreateGameSession_NotGroupLeader</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">You are not the group leader.</Data></Cell>
-    <Cell><Data ss:Type="String">Nejste vedoucí skupiny.</Data></Cell>
+    <Cell><Data ss:Type="String">Nejsi vedoucí skupiny.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gserror_Group_CreateGameSession_GroupMembersStillInGame</Data></Cell>
@@ -373,12 +373,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gserror_Group_CreateGameSession_CannotStartWhileInvitationsPending</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Game can't start while an Invitation is still pending.</Data></Cell>
-    <Cell><Data ss:Type="String">Hru nelze začít když jsou čakající pozvánky nevyřízené.</Data></Cell>
+    <Cell><Data ss:Type="String">Hru nelze začít z důvodu nevyřízených pozvánek.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gserror_Group_ActivateGameSession_PlayerSessionsCreationFailed</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Something went wrong during the game creation. Please try again.</Data></Cell>
-    <Cell><Data ss:Type="String">Během vytváření hry se něco pokazilo. Prosím zkuste to znovu.</Data></Cell>
+    <Cell><Data ss:Type="String">Během vytváření hry se něco pokazilo. Prosíme, zkus to znovu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:StyleID="s77">
     <Cell ss:StyleID="s78"><Data ss:Type="String">GameLift</Data></Cell>
@@ -401,7 +401,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_gserror_Chat_NobodyInGroup</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Nobody in group to chat with.</Data></Cell>
-    <Cell><Data ss:Type="String">Nikdo ve skupině se kterým by sis chatoval.</Data></Cell>
+    <Cell><Data ss:Type="String">Ve skupine není nikdo, s kým by sis mohl psát.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">Chat</Data></Cell>
@@ -1996,9 +1996,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>3</ActiveRow>
      <ActiveCol>2</ActiveCol>
-     <RangeSelection>R4C3:R47C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

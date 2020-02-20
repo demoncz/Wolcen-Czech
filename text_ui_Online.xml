@@ -8,10 +8,10 @@
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Title>Audio script template</Title>
   <Author>Maëlenn Lumineau</Author>
-  <LastAuthor>UBBOSATHLA</LastAuthor>
+  <LastAuthor>Wolcen_James</LastAuthor>
   <LastPrinted>2003-10-30T09:38:41Z</LastPrinted>
   <Created>2002-06-17T19:14:00Z</Created>
-  <LastSaved>2017-02-23T12:31:06Z</LastSaved>
+  <LastSaved>2020-02-17T16:32:33Z</LastSaved>
   <Company>Electronic Arts</Company>
   <Version>16.00</Version>
  </DocumentProperties>
@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -163,11 +163,11 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C2"/>
   </Names>
-  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="741" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="742" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
    <Column ss:AutoFitWidth="0" ss:Width="306"/>
    <Column ss:AutoFitWidth="0" ss:Width="590.25"/>
-   <Column ss:AutoFitWidth="0" ss:Width="257.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
     <Cell ss:StyleID="s65"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
@@ -185,7 +185,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_content_playonlinenotsupporteddrmfree</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Online Mode is not currently supported, but this feature will come in the future. We deeply apologize for the inconvenience.</Data></Cell>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">Režim online není v současné době podporován ale tato funkce přijde v budoucnu. Hluboce se omlouváme za nepříjemnosti.</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Režim online není v současné době podporován, ale tato funkce přijde v budoucnu. Hluboce se omlouváme za nepříjemnosti.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_title_playonlinenotavailable</Data></Cell>
@@ -215,7 +215,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_net_loadingceinventory</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Loading construction engine inventory</Data></Cell>
-    <Cell ss:StyleID="s78"><Data ss:Type="String">Načítání stavebního jádra inventáře.</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Načítání tvorby jádra inventáře.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_net_loadingdailydungeon</Data></Cell>
@@ -261,6 +261,11 @@
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_popup_content_inactivity</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">You will be disconnected for inactivity in %1 seconds.</Data></Cell>
     <Cell ss:StyleID="s78"><Data ss:Type="String">Budete odpojeni z důvodu nečinnosti za %1 sekund.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s64">
+    <Cell ss:StyleID="Default"><Data ss:Type="String">ui_gserror_CloudServersDownForMaintenance </Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Online Mode is currently unavailable as it undergoes maintenance</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Online režim je v součastné době nedostupný neboť probíhá údržba</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">LEADERBOARD</Data></Cell>
@@ -314,7 +319,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_noleaderboardinofflinemode</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">You can't access the Leaderboard in Offline Mode.</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Nelze se připojit k žebříčku v Offline režimu.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Nelze se připojit k žebříčku v offline režimu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">DAILY DUNGEON</Data></Cell>
@@ -323,55 +328,55 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_lb_dailydungeon</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Daily Dungeon</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Denní Dungeon</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Denní dungeon</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_title_nodailydungeoninofflinemode</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Daily Dungeon not activated</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Denní Dungeon není aktivován</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Denní dungeon není aktivován</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_popup_content_nodailydungeoninofflinemode</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">You can't access the Daily Dungeon in Offline Mode.</Data></Cell>
-    <Cell ss:StyleID="s79"><Data ss:Type="String">Nelze se připojit k dennímu Dungeonu v Offline režimu.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Nelze se připojit k dennímu dungeonu v offline režimu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="8"/>
-   <Row ss:Index="44" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="45" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="4"/>
-   <Row ss:Index="52" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="53" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="4"/>
-   <Row ss:Index="58" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="59" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="4"/>
-   <Row ss:Index="64" ss:AutoFitHeight="0" ss:Height="25.5"/>
-   <Row ss:Index="66" ss:AutoFitHeight="0" ss:Height="15" ss:Span="31"/>
-   <Row ss:Index="101" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="38"/>
-   <Row ss:Index="141" ss:AutoFitHeight="0" ss:Height="15" ss:Span="15"/>
-   <Row ss:Index="158" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="65" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="67" ss:AutoFitHeight="0" ss:Height="15" ss:Span="31"/>
+   <Row ss:Index="102" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="38"/>
+   <Row ss:Index="142" ss:AutoFitHeight="0" ss:Height="15" ss:Span="15"/>
+   <Row ss:Index="159" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="246"/>
-   <Row ss:Index="440" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="441" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="444" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
-   <Row ss:Index="523" ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:Index="445" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="78"/>
+   <Row ss:Index="524" ss:AutoFitHeight="0" ss:Height="18"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="528" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="531" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="535" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="538" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="542" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="545" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
-   <Row ss:Index="559" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="529" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="532" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="536" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="539" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="543" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="546" ss:AutoFitHeight="0" ss:Height="15" ss:Span="13"/>
+   <Row ss:Index="560" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="564" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="565" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="568" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="572" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="569" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="573" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="63.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="47.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="51"/>
@@ -379,11 +384,11 @@
    <Row ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="581" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="582" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="584" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="585" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="588" ss:AutoFitHeight="0" ss:Height="25.5"/>
+   <Row ss:Index="589" ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="75.75"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="85.5"/>
@@ -394,33 +399,33 @@
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="602" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="604" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="603" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="605" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="611" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
-   <Row ss:Index="616" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="612" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="4"/>
+   <Row ss:Index="617" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="620" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
-   <Row ss:Index="624" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
-   <Row ss:Index="626" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
-   <Row ss:Index="629" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
-   <Row ss:Index="633" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="635" ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:Index="621" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="3"/>
+   <Row ss:Index="625" ss:AutoFitHeight="0" ss:Height="15" ss:Span="1"/>
+   <Row ss:Index="627" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="2"/>
+   <Row ss:Index="630" ss:AutoFitHeight="0" ss:Height="15" ss:Span="3"/>
+   <Row ss:Index="634" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
+   <Row ss:Index="636" ss:AutoFitHeight="0" ss:Height="15"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="38.25" ss:Span="1"/>
-   <Row ss:Index="639" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
-   <Row ss:Index="642" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="649" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="640" ss:AutoFitHeight="0" ss:Height="15" ss:Span="2"/>
+   <Row ss:Index="643" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="650" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="1"/>
-   <Row ss:Index="652" ss:AutoFitHeight="0" ss:Height="38.25"/>
+   <Row ss:Index="653" ss:AutoFitHeight="0" ss:Height="38.25"/>
    <Row ss:AutoFitHeight="0" ss:Height="25.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="6"/>
-   <Row ss:Index="661" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
-   <Row ss:Index="668" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
+   <Row ss:Index="662" ss:AutoFitHeight="0" ss:Height="25.5" ss:Span="6"/>
+   <Row ss:Index="669" ss:AutoFitHeight="0" ss:Height="15" ss:Span="73"/>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <PageSetup>
@@ -443,9 +448,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>2</ActiveRow>
      <ActiveCol>2</ActiveCol>
-     <RangeSelection>R3C3:R34C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

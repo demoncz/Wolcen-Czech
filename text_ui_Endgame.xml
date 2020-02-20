@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -497,6 +497,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_expedition_special_mission_footer</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Insert Map or Incense to access content.</Data></Cell>
+    <Cell><Data ss:Type="String">Vlož mapu nebo kadidlo k přístupu k obsahu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_expedition_ui_magic_find_bonus</Data></Cell>
@@ -539,6 +540,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_citybuilding_production_summary_no_DBNO</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Not Downed </Data></Cell>
+    <Cell><Data ss:Type="String">Nepadnuto</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_citybuilding_production_summary_cp_killed</Data></Cell>
@@ -604,7 +606,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_seekers_garrison</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Seekers Garrison</Data></Cell>
-    <Cell><Data ss:Type="String">Pevnost Hledačů</Data></Cell>
+    <Cell><Data ss:Type="String">Pevnost hledačů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_seekers_garrison_desc</Data></Cell>
@@ -613,6 +615,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_trade_assembly</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Stormfall Trade Assembly</Data></Cell>
+    <Cell><Data ss:Type="String">Obchodní shromáždění</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_trade_assembly_desc</Data></Cell>
@@ -621,7 +624,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_dark_market</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Dark Market</Data></Cell>
-    <Cell><Data ss:Type="String">Temný Trh</Data></Cell>
+    <Cell><Data ss:Type="String">Temný trh</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_dark_market_desc</Data></Cell>
@@ -630,7 +633,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_transmutation_forge</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Transmutation Forge</Data></Cell>
-    <Cell><Data ss:Type="String">Kovárna Přeměn</Data></Cell>
+    <Cell><Data ss:Type="String">Transmutační kovárna</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_transmutation_forge_desc</Data></Cell>
@@ -639,7 +642,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_bank</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Diamond Bank</Data></Cell>
-    <Cell><Data ss:Type="String">Diamantová Banka</Data></Cell>
+    <Cell><Data ss:Type="String">Diamantová banka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_bank_desc</Data></Cell>
@@ -657,7 +660,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_enneract_lab</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Enneract Laboratory</Data></Cell>
-    <Cell><Data ss:Type="String">Eneraktová Laboratoř</Data></Cell>
+    <Cell><Data ss:Type="String">Enneraktová laboratoř</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_enneract_lab_desc</Data></Cell>
@@ -666,7 +669,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_siphon_chamber</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Siphon Chamber</Data></Cell>
-    <Cell><Data ss:Type="String">Sifonova Komnata</Data></Cell>
+    <Cell><Data ss:Type="String">Přečerpávací komora</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_siphon_chamber_desc</Data></Cell>
@@ -675,6 +678,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_injector_seat</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Energy Instillator</Data></Cell>
+    <Cell><Data ss:Type="String">Energetický intikátor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_injector_seat_desc</Data></Cell>
@@ -683,7 +687,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_1</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">The Cartographical Archives</Data></Cell>
-    <Cell><Data ss:Type="String">Kartografické Archivy</Data></Cell>
+    <Cell><Data ss:Type="String">Kartografické archivy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_1_desc</Data></Cell>
@@ -692,6 +696,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Primordial Institute (West)</Data></Cell>
+    <Cell><Data ss:Type="String">Prvotní institut (západ)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_2_desc</Data></Cell>
@@ -700,7 +705,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_3</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Primordial Institute (Main)</Data></Cell>
-    <Cell><Data ss:Type="String">Prvotní Institut (hlavní)</Data></Cell>
+    <Cell><Data ss:Type="String">Prvotní institut (hlavní)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_3_desc</Data></Cell>
@@ -709,7 +714,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_4</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Primordial Institute (East)</Data></Cell>
-    <Cell><Data ss:Type="String">Prvotní Institut (východ)</Data></Cell>
+    <Cell><Data ss:Type="String">Prvotní institut (východ)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_4_desc</Data></Cell>
@@ -718,7 +723,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_5</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Salt Baths of Stormfall</Data></Cell>
-    <Cell><Data ss:Type="String">Stormfallské Solné Lázně</Data></Cell>
+    <Cell><Data ss:Type="String">Storfallské solné lázně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_5_desc</Data></Cell>
@@ -727,7 +732,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_6</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Refuge For the Blind</Data></Cell>
-    <Cell><Data ss:Type="String">Útočiště Pro Nevidomé</Data></Cell>
+    <Cell><Data ss:Type="String">Útočiště pro nevidomé</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_wonder_6_desc</Data></Cell>
@@ -736,7 +741,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_shipyard</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Stormfall Shipyard</Data></Cell>
-    <Cell><Data ss:Type="String">Stormfallská Loděnice</Data></Cell>
+    <Cell><Data ss:Type="String">Stormfallská loděnice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_building_shipyard_desc</Data></Cell>
@@ -748,7 +753,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_1_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate the Archives</Data></Cell>
-    <Cell><Data ss:Type="String">Renovuj Archivy</Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj archívy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_1_construct_lore</Data></Cell>
@@ -770,7 +775,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_2_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate Institute (West) </Data></Cell>
-    <Cell><Data ss:Type="String">Renovuj Institut (západ)</Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj institut (západ)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="49.5">
     <Cell><Data ss:Type="String">ui_wonder_2_construct_lore</Data></Cell>
@@ -792,7 +797,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_3_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate Institute (Main)</Data></Cell>
-    <Cell><Data ss:Type="String">Renovuj Institut (hlavní)</Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj institut (hlavní)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="116.25">
     <Cell><Data ss:Type="String">ui_wonder_3_construct_lore</Data></Cell>
@@ -814,7 +819,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_4_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate Institute (East) </Data></Cell>
-    <Cell><Data ss:Type="String">Renovuj Institut (východ)</Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj institut (východ)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="72">
     <Cell><Data ss:Type="String">ui_wonder_4_construct_lore</Data></Cell>
@@ -836,7 +841,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_5_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate Salt Baths</Data></Cell>
-    <Cell><Data ss:Type="String">Renovuj Solné Lázně</Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj solné lázně</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_5_construct_lore</Data></Cell>
@@ -854,12 +859,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_5_construct_reward_desc</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">The Salt Baths have been renovated, giving you a permanent Magic-Find boost.</Data></Cell>
-    <Cell><Data ss:Type="String">Zrenovoval jsi Solné Lázně a získal ji trvalé zvýšení k nalezení magických předmětů.</Data></Cell>
+    <Cell><Data ss:Type="String">Zrenovoval jsi solné lázně a získal ji trvalé zvýšení k nalezení magických předmětů.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_6_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate Refuge </Data></Cell>
-    <Cell><Data ss:Type="String">Renovuj Útočiště</Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj útočiště</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_6_construct_lore</Data></Cell>
@@ -877,7 +882,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_wonder_6_construct_reward_desc</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">The Refuge has been renovated, giving you a permanent Gold-Find boost.</Data></Cell>
-    <Cell><Data ss:Type="String">Zrenovoval jsi Útočiště a získal ji trvalé zvýšení k nalezení zlata.</Data></Cell>
+    <Cell><Data ss:Type="String">Zrenovoval jsi útočiště a získal ji trvalé zvýšení k nalezení zlata.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">CONSTRUCTION PROJECTS</Data></Cell>
@@ -893,6 +898,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_seekers_garrison_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovation Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Renovace dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_seekers_garrison_construct_reward_lore</Data></Cell>
@@ -913,6 +919,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_trade_assembly_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovation Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Renovace dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_trade_assembly_construct_reward_lore</Data></Cell>
@@ -933,6 +940,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Contact Established: ‘The Curator’</Data></Cell>
+    <Cell><Data ss:Type="String">Navázání kontaktu: 'Kurátor'</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_construct_reward_lore</Data></Cell>
@@ -945,6 +953,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_transmutation_forge_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Construct Transmutation Forge</Data></Cell>
+    <Cell><Data ss:Type="String">Postav Transmutační kovárnu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_transmutation_forge_construct_lore</Data></Cell>
@@ -953,6 +962,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_transmutation_forge_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Construction Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Stavba dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_transmutation_forge_construct_reward_lore</Data></Cell>
@@ -965,6 +975,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_transmutation_forge_upgrade</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Upgrade Forge</Data></Cell>
+    <Cell><Data ss:Type="String">Vylepši kovárnu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_transmutation_forge_upgrade_lore</Data></Cell>
@@ -985,6 +996,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_bank_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Construct Bank</Data></Cell>
+    <Cell><Data ss:Type="String">Postav banku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_bank_construct_lore</Data></Cell>
@@ -993,6 +1005,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_bank_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Construction Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Stavba dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_bank_construct_reward_lore</Data></Cell>
@@ -1001,6 +1014,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_bank_construct_reward_desc</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">The Diamond Bank has been constructed, allowing you to store items and equipment in its vault.</Data></Cell>
+    <Cell><Data ss:Type="String">Diamantová banka byla postavena, umožní ti ukládat předměty a a vybavení v jejim trezoru.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_anankis_artifact_construct</Data></Cell>
@@ -1025,6 +1039,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_enneract_lab_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Construct Enneract Lab</Data></Cell>
+    <Cell><Data ss:Type="String">Postav Enneraktovou laboratoř</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_enneract_lab_construct_lore</Data></Cell>
@@ -1033,6 +1048,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_enneract_lab_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Construction Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Stavba dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_enneract_lab_construct_reward_lore</Data></Cell>
@@ -1045,6 +1061,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_siphon_chamber_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Construct Siphon Chamber</Data></Cell>
+    <Cell><Data ss:Type="String">Postav Přečerpávací komoru</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_siphon_chamber_construct_lore</Data></Cell>
@@ -1053,6 +1070,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_siphon_chamber_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Construction Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Stavba dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_siphon_chamber_construct_reward_lore</Data></Cell>
@@ -1065,6 +1083,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_injector_seat_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Construct Instillator</Data></Cell>
+    <Cell><Data ss:Type="String">Postav konvertor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_injector_seat_construct_lore</Data></Cell>
@@ -1073,6 +1092,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_injector_seat_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Construction Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Stavba dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_injector_seat_construct_reward_lore</Data></Cell>
@@ -1085,6 +1105,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_shipyard_construct</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovate Shipyard</Data></Cell>
+    <Cell><Data ss:Type="String">Renovuj loděnici</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_shipyard_construct_lore</Data></Cell>
@@ -1093,6 +1114,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_shipyard_construct_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Renovation Complete</Data></Cell>
+    <Cell><Data ss:Type="String">Renovace dokončena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_shipyard_construct_reward_lore</Data></Cell>
@@ -1108,6 +1130,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_bank_buy_stash</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Upgrade Personal Vault </Data></Cell>
+    <Cell><Data ss:Type="String">Vylepši osobní truhlu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_bank_buy_stash_lore</Data></Cell>
@@ -1116,6 +1139,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_buy_stash_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Personal Vault Upgraded</Data></Cell>
+    <Cell><Data ss:Type="String">Osobní truhla vylepšena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_buy_stash_reward_lore</Data></Cell>
@@ -1124,6 +1148,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_buy_stash_reward_summary</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Your personal vault was upgraded, unlocking a new stash tab.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá osobní truhla byla vylepšna, odekmnul jsi nový prostor v truhle.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">ENNERACT LAB PROJECTS</Data></Cell>
@@ -1139,6 +1164,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_enneract_lab_skillcopy_1_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Laboratory Upgraded</Data></Cell>
+    <Cell><Data ss:Type="String">Laboratoř vylepšena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_enneract_lab_skillcopy_1_reward_lore</Data></Cell>
@@ -1147,6 +1173,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_enneract_lab_skillcopy_1_reward_summary</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">The Enneract Lab has been upgraded, allowing her to copy Enneracts for a second time.</Data></Cell>
+    <Cell><Data ss:Type="String">Enneraktová laboratoř byla vylepšena, umožní ti podruhé kopírovat Ennerakty.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">DARK MARKET PROJECTS</Data></Cell>
@@ -1154,6 +1181,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_item_quality_upgrade</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Establish Contact: 'Dark Smith'</Data></Cell>
+    <Cell><Data ss:Type="String">Navázání kontaktu: 'Temný kovář'</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_item_quality_upgrade_lore</Data></Cell>
@@ -1162,6 +1190,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_item_quality_upgrade_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Contact Established: 'Dark Smith'</Data></Cell>
+    <Cell><Data ss:Type="String">Kontakt navázán: 'Temný kovář'</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_item_quality_upgrade_reward_lore</Data></Cell>
@@ -1170,10 +1199,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_item_quality_upgrade_reward_summary</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">You can now have the Dark Smith create higher quality versions of your items.</Data></Cell>
+    <Cell><Data ss:Type="String">Nyní můžeš nechat temného kováře vytvářet předměty vyšší kvality.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_item_rarity_upgrade</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Establish Contact: 'GoldenChild'</Data></Cell>
+    <Cell><Data ss:Type="String">Kontakt navázán: 'Temný kovář'</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_item_rarity_upgrade_lore</Data></Cell>
@@ -1182,6 +1213,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_item_rarity_upgrade_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Contact Established: 'GoldenChild'</Data></Cell>
+    <Cell><Data ss:Type="String">Kontakt navázán: 'Zlaté dítě'</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_item_rarity_upgrade_reward_lore</Data></Cell>
@@ -1194,6 +1226,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_leg_reagent_upgrade</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Establish Contact: 'The Etherean'</Data></Cell>
+    <Cell><Data ss:Type="String">Kontakt navázán: 'Étherán'</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_leg_reagent_upgrade_lore</Data></Cell>
@@ -1202,6 +1235,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_leg_reagent_upgrade_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Contact Established: 'The Etherean'</Data></Cell>
+    <Cell><Data ss:Type="String">Kontakt navázán: 'Étherán'</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_leg_reagent_upgrade_reward_lore</Data></Cell>
@@ -1210,6 +1244,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_dark_market_leg_reagent_upgrade_reward_summary</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">You can now convert Ethereal Reagents to their legendary version through the The Etherean.</Data></Cell>
+    <Cell><Data ss:Type="String">Nyní můžeš nechat Étherána přeměnit éterické reagenty na jejich legendární verzi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_dark_market_buy_uberboss_1</Data></Cell>
@@ -1234,6 +1269,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_dark_market_item_quality_transform</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Increase Item Quality</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýšit kvalitu předmětu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_dark_market_item_quality_transform_lore</Data></Cell>
@@ -1242,6 +1278,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_dark_market_item_quality_transform_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Item Quality Increased</Data></Cell>
+    <Cell><Data ss:Type="String">Kvalita předmětu zvýšena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_dark_market_item_quality_transform_reward_lore</Data></Cell>
@@ -1254,6 +1291,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_dark_market_item_rarity_transform</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Increase Item Rarity</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýšit vzácnost předmětu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_dark_market_item_rarity_transform_lore</Data></Cell>
@@ -1262,6 +1300,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_dark_market_item_rarity_transform_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Item Rarity Increased</Data></Cell>
+    <Cell><Data ss:Type="String">Vzácnost předmětu zvýšena</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">ui_dark_market_item_rarity_transform_reward_lore</Data></Cell>
@@ -1377,6 +1416,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_anankis_seekers_expedition</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Halls of Anankis</Data></Cell>
+    <Cell><Data ss:Type="String">Síně Anankis</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_anankis_seekers_expedition_lore</Data></Cell>
@@ -1385,6 +1425,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_anankis_seekers_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Anankis Expedition</Data></Cell>
+    <Cell><Data ss:Type="String">Expedice Anankis</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_anankis_seekers_reward_lore</Data></Cell>
@@ -1477,6 +1518,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_unknown_shores_seekers_expedition</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Unknown Shores</Data></Cell>
+    <Cell><Data ss:Type="String">Neznámé břehy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_unknown_shores_seekers_expedition_lore</Data></Cell>
@@ -1485,6 +1527,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_unknown_shores_seekers_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Unknown Shores Expedition</Data></Cell>
+    <Cell><Data ss:Type="String">Expedice Neznámé břehy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_unknown_shores_seekers_reward_lore</Data></Cell>
@@ -1517,6 +1560,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_blood_tear_burial_seekers_expedition</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Blood Tear Clan’s Burial Site</Data></Cell>
+    <Cell><Data ss:Type="String">Pohřebiště klanu Krvavé Slzy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_blood_tear_burial_seekers_expedition_lore</Data></Cell>
@@ -1525,6 +1569,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_blood_tear_burial_seekers_reward</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Burial Site Expedition</Data></Cell>
+    <Cell><Data ss:Type="String">Expedice Pohřebiště</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_blood_tear_burial_seekers_reward_lore</Data></Cell>
@@ -3351,8 +3396,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>11</ActiveRow>
-     <ActiveCol>5</ActiveCol>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

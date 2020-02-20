@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -386,7 +386,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_Weapon_Shield_T15</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Divine Brightsteel Pavise</Data></Cell>
-    <Cell><Data ss:Type="String">Štít Božského světla</Data></Cell>
+    <Cell><Data ss:Type="String">Štít božského světla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s85"><Data ss:Type="String">ui_Weapon_Shield_T16</Data></Cell>
@@ -529,7 +529,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_1HAxe_T10</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Dawnstone Cleaver</Data></Cell>
-    <Cell><Data ss:Type="String">Sekáč Kamene Úsvitu</Data></Cell>
+    <Cell><Data ss:Type="String">Sekáč kamene Úsvitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_1HAxe_T11</Data></Cell>
@@ -874,11 +874,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_1HHammer_T12</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Two-Faced Friend</Data></Cell>
-    <Cell><Data ss:Type="String">Dvoutváří přítel</Data></Cell>
+    <Cell><Data ss:Type="String">Přítel dvojí tváře</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_1HHammer_T13</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Percussive Scourge</Data></Cell>
+    <Cell><Data ss:Type="String">Perkusní pohroma</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_1HHammer_T14</Data></Cell>
@@ -888,6 +889,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_1HHammer_T15</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Castigating Embrace</Data></Cell>
+    <Cell><Data ss:Type="String">Kritizované sevření</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_1HHammer_T16</Data></Cell>
@@ -941,6 +943,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_1HSword_T9</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Culling Estoc</Data></Cell>
+    <Cell><Data ss:Type="String">Estocková porážka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_1HSword_T10</Data></Cell>
@@ -950,6 +953,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_1HSword_T11</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Seax of Shade's Expanse</Data></Cell>
+    <Cell><Data ss:Type="String">Sax území stínu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_1HSword_T12</Data></Cell>
@@ -959,11 +963,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_1HSword_T13</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Katzbalger's Flattery</Data></Cell>
+    <Cell><Data ss:Type="String">Katzbalgeova lichotka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_1HSword_T14</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bardic Shortsword</Data></Cell>
-    <Cell><Data ss:Type="String">Bardův krátký meč</Data></Cell>
+    <Cell><Data ss:Type="String">Bardský krátký meč</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_1HSword_T15</Data></Cell>
@@ -997,6 +1002,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_2HSword_T4</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Spearblade</Data></Cell>
+    <Cell><Data ss:Type="String">Čepel kopí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_2HSword_T5</Data></Cell>
@@ -1006,38 +1012,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_2HSword_T6</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Concave Falx</Data></Cell>
+    <Cell><Data ss:Type="String">Vydutý falx</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_2HSword_T7</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Polemarch Bastardsword</Data></Cell>
+    <Cell><Data ss:Type="String">Polemarch meč bastard</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_2HSword_T8</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Blessed Zweihander</Data></Cell>
+    <Cell><Data ss:Type="String">Požehnaný obourčák</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_2HSword_T9</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Corpse Skewer</Data></Cell>
+    <Cell><Data ss:Type="String">Napichovač těl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_2HSword_T10</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Purging Flamberge</Data></Cell>
+    <Cell><Data ss:Type="String">Čistící flamberk</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_2HSword_T11</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Horizon's End</Data></Cell>
+    <Cell><Data ss:Type="String">Horizonův konec</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_2HSword_T12</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Necrophage Greatsword</Data></Cell>
+    <Cell><Data ss:Type="String">Velký meč nekrozy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_2HSword_T13</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Rockbleeder</Data></Cell>
+    <Cell><Data ss:Type="String">Krvácející skála</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_2HSword_T14</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Hollow Claymore</Data></Cell>
+    <Cell><Data ss:Type="String">Dutý dvousečný meč</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_2HSword_T15</Data></Cell>
@@ -1079,6 +1094,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_shield_sacred</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Quintet of Sundowns</Data></Cell>
+    <Cell><Data ss:Type="String">Kvintet západu slunce</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_shield_sacred_lore</Data></Cell>
@@ -1087,6 +1103,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_fire_sword</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Vulcaïn Steel Sword</Data></Cell>
+    <Cell><Data ss:Type="String">Vulcainův ocelový meč</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_fire_sword_lore</Data></Cell>
@@ -1103,7 +1120,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_rend_dagger</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Goremaker, Shard of the Red Mountain</Data></Cell>
-    <Cell><Data ss:Type="String">Goremaker, Úlomek Červených Hor</Data></Cell>
+    <Cell><Data ss:Type="String">Goremaker, Úlomek z Červených Hor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_rend_dagger_lore</Data></Cell>
@@ -1112,6 +1129,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_2h_axe</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Edgy</Data></Cell>
+    <Cell><Data ss:Type="String">Ostrák</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_2h_axe_lore</Data></Cell>
@@ -1128,6 +1146,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_shield_shadow</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Shimmering Shadows</Data></Cell>
+    <Cell><Data ss:Type="String">Třpytivé stíny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_shield_shadow_lore</Data></Cell>
@@ -1145,6 +1164,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_lightning_staff</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Zapstick</Data></Cell>
+    <Cell><Data ss:Type="String">Zapstick</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_lightning_staff_lore</Data></Cell>
@@ -1194,6 +1214,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_lightning_sword</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Zephyron, Herald of Change</Data></Cell>
+    <Cell><Data ss:Type="String">Zephyron, Posel změn</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_lightning_sword_lore</Data></Cell>
@@ -1250,6 +1271,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_unique_shadow_catalyst</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Shaham-Shahar</Data></Cell>
+    <Cell><Data ss:Type="String">Shaham-Shahar</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_unique_shadow_catalyst_lore</Data></Cell>
@@ -1338,18 +1360,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_Staff_T13</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Mandibular Stave</Data></Cell>
+    <Cell><Data ss:Type="String">Mandibulární hůl</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_Staff_T14</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Portable Nexus</Data></Cell>
+    <Cell><Data ss:Type="String">Přenosný svazek</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_Staff_T15</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Brightsteel Quarterstaff</Data></Cell>
+    <Cell><Data ss:Type="String">Dlouhá hůl ze zářivé ocele</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_Staff_T16</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Stave of Venality</Data></Cell>
+    <Cell><Data ss:Type="String">Hůl prodejnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Catalyst</Data></Cell>
@@ -1363,6 +1389,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Catalyst_T2</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Crystal Catalyst</Data></Cell>
+    <Cell><Data ss:Type="String">Krystalový katalyzátor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Catalyst_T3</Data></Cell>
@@ -1376,6 +1403,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Catalyst_T5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Revered Heirloom</Data></Cell>
+    <Cell><Data ss:Type="String">Ctěné dědictví</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Catalyst_T6</Data></Cell>
@@ -1452,8 +1480,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Pistol_T6</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Concealed Pistol</Data></Cell>
-    <Cell><Data ss:Type="String">Skrytá pistole</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">Radiant Pistol</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Pistol_T7</Data></Cell>
@@ -1478,10 +1505,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Weapon_Pistol_T11</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Shadow-Piercing Pistol</Data></Cell>
+    <Cell><Data ss:Type="String">Stínovaná pistol</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_Pistol_T12</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Ivory Splinter Pistol</Data></Cell>
+    <Cell><Data ss:Type="String">Pistole s úlomkem slonoviny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_Pistol_T13</Data></Cell>
@@ -1490,14 +1519,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_Pistol_T14</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Flintlock Fire</Data></Cell>
+    <Cell><Data ss:Type="String">Flintlock</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_Weapon_Pistol_T15</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Heavenly Courier</Data></Cell>
+    <Cell><Data ss:Type="String">Nebeský kurýr</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s93"><Data ss:Type="String">ui_Weapon_Pistol_T16</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Sinful Machine</Data></Cell>
+    <Cell><Data ss:Type="String">Nástroj hříchu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s73"><Data ss:Type="String">ARMOR TYPES</Data></Cell>
@@ -1632,7 +1664,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_OutfitVeteran_Pants_lore</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Never very fashionable, which is why it was worn under armor.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Nikdy nebyli moc módní, proto se nosili pod brněním&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Nikdy nebyli moc módní, proto se nosili pod brněním.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_OutfitVeteran_Boots</Data></Cell>
@@ -1761,6 +1793,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_pants_Abyssal</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Veiled Eclipse</Data></Cell>
+    <Cell><Data ss:Type="String">Závoj zatmění</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_pants_Abyssal_lore</Data></Cell>
@@ -1817,6 +1850,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_vanity_chest</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Beauty Eternal</Data></Cell>
+    <Cell><Data ss:Type="String">Krása věčnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_vanity_chest_lore</Data></Cell>
@@ -1825,6 +1859,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_skypirate_helmet</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">James's Tall Tale</Data></Cell>
+    <Cell><Data ss:Type="String">Příběh Jamese Talla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_skypirate_helmet_lore</Data></Cell>
@@ -2047,6 +2082,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_Heavy_Sollerets_T2</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Sabatons</Data></Cell>
+    <Cell><Data ss:Type="String">Sabatony</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_Heavy_Helmet_T3</Data></Cell>
@@ -6086,7 +6122,6 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>13</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>11715</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -335,7 +335,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A_Q_StepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Report to &quot;Dashing&quot; Eugene via the Board</Data></Cell>
-    <Cell><Data ss:Type="String">Podej hlášení &quot;Dashing&quot; Eugene prostřednictvím tabule</Data></Cell>
+    <Cell><Data ss:Type="String">Podej hlášení &quot;Šviháku&quot; Eugene prostřednictvím tabule</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s72"><Data ss:Type="String">B_A2_Q_QuestNameLabel</Data></Cell>
@@ -360,7 +360,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q_StepNameLabel3</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Report to &quot;Dashing&quot; Eugene via the Expedition Map</Data></Cell>
-    <Cell><Data ss:Type="String">Podej hlášení &quot;Dashing&quot; Eugene mapy expedice</Data></Cell>
+    <Cell><Data ss:Type="String">Podej hlášení &quot;Šviháku&quot; Eugene prostřednictvím mapy expedice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s73"><Data ss:Type="String">System</Data></Cell>
@@ -374,7 +374,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_lore</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">&lt;p style=&quot;justify&quot;&gt;&lt;Font size=&quot;29&quot;&gt;\nChallenge yourself by delving into twisted dungeons where the only opportunity to stop the expedition is by defeating a level’s boss.  For every run you have the option to choose the starting difficulty: the higher you pick, the greater the magic find. Go ever deeper into the dungeons to obtain the best rewards... but beware of your own greed!&lt;/Font&gt;&lt;/p&gt;\n</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;p style=&quot;justify&quot;&gt;&lt;Font size=&quot;29&quot;&gt;\nPříjměte výzvu a ponořte se do klikatých dungeonů, kde jedinou šancí k zastavení expedice je porážka bosse úrovně. Před každou expedicí si budete moci zvolit startovní obtížnost: čim vyšší si vyberete tím lépe budete nacházet magické předměty. Klesejte stále hlouběji a získejte ty nejlepší odměny... ale pozor na svou vlastní chamtivost!&lt;/Font&gt;&lt;/p&gt;\n</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;p style=&quot;justify&quot;&gt;&lt;Font size=&quot;29&quot;&gt;\nPřijmi výzvu a ponoř se do klikatých dungeonů, kde jedinou šancí k ukončení expedice je porážka bosse dané úrovně. Před každou expedicí si budeš moci zvolit startovní obtížnost: čim vyšší si vybereš, tím větší šance na nalezení magických předmětů. Postupuj stále hlouběji a získej ty nejlepší odměny... ale pozor na svou vlastní chamtivost!&lt;/Font&gt;&lt;/p&gt;\n</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_easy_mode</Data></Cell>
@@ -409,7 +409,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_modifier</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String" x:Ticked="1">+%1% Magic Find and Enemies are level %2</Data></Cell>
-    <Cell><Data ss:Type="String" x:Ticked="1">+%1% k nalezení magických předmětů a nepřátelé jsou level %2</Data></Cell>
+    <Cell><Data ss:Type="String">+%1% k nalezení magických předmětů a nepřátelé jsou level %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_confirm_end_npc2_quest_title</Data></Cell>
@@ -454,7 +454,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s72"><Data ss:Type="String">ui_cannot_start_npc2_quest_content</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">You need to be level 15 in order to launch an expedition.</Data></Cell>
-    <Cell><Data ss:Type="String">Musíš být level 15 abys mohl spustit expedici.</Data></Cell>
+    <Cell><Data ss:Type="String">Musíš být minimálně level 15, ke spuštění expedice.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s72"/>
@@ -1500,12 +1500,10 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>3</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>18</ActiveRow>
-     <ActiveCol>4</ActiveCol>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
