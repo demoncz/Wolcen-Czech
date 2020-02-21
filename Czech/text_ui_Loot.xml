@@ -3641,6 +3641,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Goldstone</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Goldstone Amulet</Data></Cell>
+    <Cell><Data ss:Type="String">Amulet ze zlatého kamene</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Amulet_Amethyst</Data></Cell>
@@ -5310,10 +5311,12 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_1</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pale Grey Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Bledě šedé barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_2</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pastel Grey Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Pastelově šedé barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_3</Data></Cell>
@@ -5326,14 +5329,17 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_5</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dark Grey Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Tmavě šedé barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_6</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Vibrant Red Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Zářivé červené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_7</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bright Red Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Jasné červené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_8</Data></Cell>
@@ -5342,22 +5348,27 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_9</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Deep Red Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Sytě červené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_10</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dim Red Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Matně červené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_11</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Brilliant Red Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Briliantově červené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_12</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Neutral Red Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Neutrální červené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_13</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Faded Red Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Vybledlé červené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_14</Data></Cell>
@@ -5370,10 +5381,12 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_16</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pale Red Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Bledě červené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_17</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pastel Red Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Pastelově červené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_18</Data></Cell>
@@ -5386,14 +5399,17 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_20</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dark Red Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Tmavě červené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_21</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Vibrant Orange Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Zářivé oranžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_22</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bright Orange Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Jasné oranžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_23</Data></Cell>
@@ -5402,22 +5418,27 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_24</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Deep Orange Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Sytě oranžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_25</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dim Orange Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Matně oranžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_26</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Brilliant Orange Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Briliantově oranžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_27</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Neutral Orange Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Neutrální oranžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_28</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Faded Orange Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Vybledlé oranžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_29</Data></Cell>
@@ -5430,10 +5451,12 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_31</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pale Orange Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Bledě oranžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_32</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pastel Orange Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Pastelově oranžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_33</Data></Cell>
@@ -5446,14 +5469,17 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_35</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dark Orange Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Tmavě oranžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_36</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Vibrant Yellow Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Zářivé žluté barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_37</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bright Yellow Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Jasné žluté barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_38</Data></Cell>
@@ -5462,22 +5488,27 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_39</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Deep Yellow Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Sytě žluté barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_40</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dim Yellow Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Matně žluté barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_41</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Brilliant Yellow Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Briliantově žluté barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_42</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Neutral Yellow Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Neutrální žluté barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_43</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Faded Yellow Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Vybledlé žluté barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_44</Data></Cell>
@@ -5490,10 +5521,12 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_46</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pale Yellow Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Bledě žluté barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_47</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pastel Yellow Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Pastelově žluté barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_48</Data></Cell>
@@ -5506,6 +5539,7 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_50</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dark Yellow Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Tmavě žluté barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_51</Data></Cell>
@@ -5570,10 +5604,12 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_66</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Vibrant Green Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Zářivé zelené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_67</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bright Green Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Jasné zelené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_68</Data></Cell>
@@ -5582,22 +5618,27 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_69</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Deep Green Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Sytě zelené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_70</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dim Green Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Matně zelené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_71</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Brilliant Green Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Briliantově zelené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_72</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Neutral Green Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Neutrální zelené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_73</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Faded Green Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Vybledlé zelené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_74</Data></Cell>
@@ -5610,10 +5651,12 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_76</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pale Green Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Bledě zelené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_77</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pastel Green Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Pastelově zelené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_78</Data></Cell>
@@ -5626,14 +5669,17 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_80</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dark Green Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Tmavě zelené barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_81</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Vibrant Azure Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Zářivé modré azurové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_82</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bright Azure Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Jasné modré azurové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_83</Data></Cell>
@@ -5642,22 +5688,27 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_84</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Deep Azure Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Sytě modré azurové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_85</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dim Azure Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Matně modré azurové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_86</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Brilliant Azure Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Briliantově modré azurové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_87</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Neutral Azure Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Neutrální modré azurové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_88</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Faded Azure Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Vybledlé modré azurové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_89</Data></Cell>
@@ -5670,10 +5721,12 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_91</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pale Azure Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Bledě modré azurové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_92</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pastel Azure Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Pastelově modré azurové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_93</Data></Cell>
@@ -5686,14 +5739,17 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_95</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dark Azure Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Tmavě modré azurové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_96</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Vibrant Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Zářivé modré barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_97</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bright Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Jasné modré barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_98</Data></Cell>
@@ -5702,22 +5758,27 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_99</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Deep Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Sytě modré barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_100</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dim Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Matně modré barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_101</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Brilliant Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Briliantově modré barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_102</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Neutral Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Neutrální modré barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_103</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Faded Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Vybledlé modré barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_104</Data></Cell>
@@ -5730,10 +5791,12 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_106</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pale Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Bledě modré barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_107</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pastel Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Pastelově modré barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_108</Data></Cell>
@@ -5746,14 +5809,17 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_110</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dark Blue Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Tmavě modré barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_111</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Vibrant Purple Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Zářivé fialové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_112</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bright Purple Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Jasné fialové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_113</Data></Cell>
@@ -5762,22 +5828,27 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_114</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Deep Purple Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Sytě fialové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_115</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dim Purple Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Matně fialové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_116</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Brilliant Purple Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Briliantově fialové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_117</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Neutral Purple Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Neutrální fialové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_118</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Faded Purple Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Vybledlé fialové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_119</Data></Cell>
@@ -5790,10 +5861,12 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_121</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pale Purple Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Bledě fialové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_122</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pastel Purple Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Pastelově fialové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_123</Data></Cell>
@@ -5806,16 +5879,17 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_125</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dark Purple Dye</Data></Cell>
+    <Cell><Data ss:Type="String">Tmavě fialové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_126</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Vibrant Pink Dye</Data></Cell>
-    <Cell><Data ss:Type="String">Zářivě růžová barva</Data></Cell>
+    <Cell><Data ss:Type="String">Zářivé růžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_127</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bright Pink Dye</Data></Cell>
-    <Cell><Data ss:Type="String">Jasně růžová barva</Data></Cell>
+    <Cell><Data ss:Type="String">Jasné růžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_128</Data></Cell>
@@ -5824,27 +5898,27 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_129</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Deep Pink Dye</Data></Cell>
-    <Cell><Data ss:Type="String">Sytě růžová barva</Data></Cell>
+    <Cell><Data ss:Type="String">Sytě růžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_130</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dim Pink Dye</Data></Cell>
-    <Cell><Data ss:Type="String">Tlumená růžová barva</Data></Cell>
+    <Cell><Data ss:Type="String">Matně růžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_131</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Brilliant Pink Dye</Data></Cell>
-    <Cell><Data ss:Type="String">Briliantově růžová barva</Data></Cell>
+    <Cell><Data ss:Type="String">Briliantově růžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_132</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Neutral Pink Dye</Data></Cell>
-    <Cell><Data ss:Type="String">Neutrálně růžová barva</Data></Cell>
+    <Cell><Data ss:Type="String">Neutrální růžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_133</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Faded Pink Dye</Data></Cell>
-    <Cell><Data ss:Type="String">Vybledlá růžová barva</Data></Cell>
+    <Cell><Data ss:Type="String">Vybledlé růžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_134</Data></Cell>
@@ -5857,12 +5931,12 @@
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_136</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pale Pink Dye</Data></Cell>
-    <Cell><Data ss:Type="String">Bledě růžová barva</Data></Cell>
+    <Cell><Data ss:Type="String">Bledě růžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_137</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Pastel Pink Dye</Data></Cell>
-    <Cell><Data ss:Type="String">Pastelově růžová barva</Data></Cell>
+    <Cell><Data ss:Type="String">Pastelově růžové barvivo</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String">ui_loc_key_dye_138</Data></Cell>
@@ -5875,7 +5949,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="13.5">
     <Cell><Data ss:Type="String">ui_loc_key_dye_140</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Dark Pink Dye</Data></Cell>
-    <Cell><Data ss:Type="String">Tmavě růžová barva</Data></Cell>
+    <Cell><Data ss:Type="String">Tmavě růžové barvivo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s105"><Data ss:Type="String">Reagents</Data></Cell>
@@ -6122,6 +6196,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

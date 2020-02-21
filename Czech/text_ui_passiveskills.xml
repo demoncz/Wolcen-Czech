@@ -273,6 +273,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s68">
     <Cell><Data ss:Type="String">ui_cant_reach_this_skill_yet</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">You can't reach this skill yet</Data></Cell>
+    <Cell><Data ss:Type="String">Na tuhle dovednost ještě nemáš.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s68">
     <Cell><Data ss:Type="String">ui_pst_title</Data></Cell>
@@ -292,11 +293,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s68">
     <Cell><Data ss:Type="String">ui_popup_title_savePSTChanges</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Closing the Gate of Fates</Data></Cell>
-    <Cell><Data ss:Type="String">Zavřít Bránu Osůdů</Data></Cell>
+    <Cell><Data ss:Type="String">Zavírání Brány Osudů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s68">
     <Cell><Data ss:Type="String">ui_popup_content_savePSTChanges</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">You have invested points pending confirmation. Would you like to confirm them?</Data></Cell>
+    <Cell><Data ss:Type="String">Investoval jsi body čekající na potvrzení. Chceš je potvrdit?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s68">
     <Cell><Data ss:Type="String">ui_popup_title_resetPST</Data></Cell>
@@ -306,6 +308,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s68">
     <Cell><Data ss:Type="String">ui_popup_content_resetPST</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Would you like to reset your progression in the Gate of Fates? You will get all you passive skills points and attribute points back.</Data></Cell>
+    <Cell><Data ss:Type="String">Chceš resetovat svůj postup v Bráně osudů? Získáš zpět všechny body pasivních dovedností a body vlastností.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s68">
     <Cell><Data ss:Type="String">ui_popup_title_PSTVersionModified</Data></Cell>
@@ -315,10 +318,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s68">
     <Cell><Data ss:Type="String">ui_popup_content_PSTVersionModified</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">The Passive Skills have been modified since the last time you played and we had to reset your points in the Gate of Fates.</Data></Cell>
+    <Cell><Data ss:Type="String">Pasivní dovednosti byly upraveny od doby, kdy jsi naposled hrál, a my jsme museli resetovat tvé body v Bráně osudů.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s68">
     <Cell><Data ss:Type="String">ui_PST_not_impl_yet</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">This Passive Skill has not been implemented yet. Taking it won't cost you any skill points.</Data></Cell>
+    <Cell><Data ss:Type="String">Tao pasivní Dovednost zatím nebyla implementována. Její převzetí tě nebude stát žádné dovednostní body.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s68">
     <Cell><Data ss:Type="String">ui_PST_need_to_select_a_ring_before_rotating</Data></Cell>
@@ -3238,6 +3243,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

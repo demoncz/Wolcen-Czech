@@ -1503,6 +1503,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

@@ -127,7 +127,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2417363327392" ss:Parent="s62">
+  <Style ss:ID="m2650435115248" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -138,7 +138,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2417363327412" ss:Parent="s62">
+  <Style ss:ID="m2650435115268" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -149,7 +149,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2417363327432" ss:Parent="s62">
+  <Style ss:ID="m2650435115288" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -160,7 +160,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2417363326352" ss:Parent="s62">
+  <Style ss:ID="m2650435106304" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -171,7 +171,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2417363326372" ss:Parent="s62">
+  <Style ss:ID="m2650435106324" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -182,7 +182,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2417363326392" ss:Parent="s62">
+  <Style ss:ID="m2650435106344" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -193,7 +193,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2417363326412" ss:Parent="s62">
+  <Style ss:ID="m2650435106364" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -204,7 +204,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2417363326432" ss:Parent="s62">
+  <Style ss:ID="m2650435106384" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -215,7 +215,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2417363326452" ss:Parent="s62">
+  <Style ss:ID="m2650435106404" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -255,62 +255,65 @@
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
   <Style ss:ID="s86">
-   <Borders>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s87" ss:Parent="s67">
+  <Style ss:ID="s87">
    <Borders>
     <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
    </Borders>
   </Style>
   <Style ss:ID="s88" ss:Parent="s67">
-   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
   </Style>
   <Style ss:ID="s89" ss:Parent="s67">
+   <Alignment ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s90" ss:Parent="s67">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s93">
+  <Style ss:ID="s94">
    <Font ss:FontName="Arial" x:Family="Swiss"/>
   </Style>
-  <Style ss:ID="s95" ss:Parent="s67">
+  <Style ss:ID="s96" ss:Parent="s67">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s96" ss:Parent="s66">
+  <Style ss:ID="s97" ss:Parent="s66">
    <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s99" ss:Parent="s66">
+  <Style ss:ID="s100" ss:Parent="s66">
    <Borders/>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#993300"/>
    <Interior ss:Color="#FFEB9C" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s102">
+  <Style ss:ID="s103">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s103" ss:Parent="s67">
+  <Style ss:ID="s104" ss:Parent="s67">
    <Alignment ss:Vertical="Top" ss:WrapText="1"/>
   </Style>
-  <Style ss:ID="s105">
+  <Style ss:ID="s106">
    <Alignment ss:Vertical="Top"/>
   </Style>
-  <Style ss:ID="s106" ss:Parent="s67">
+  <Style ss:ID="s107" ss:Parent="s67">
    <Alignment ss:Vertical="Top"/>
   </Style>
-  <Style ss:ID="s107" ss:Parent="s66">
+  <Style ss:ID="s108" ss:Parent="s66">
    <Alignment ss:Vertical="Top"/>
   </Style>
-  <Style ss:ID="s108">
+  <Style ss:ID="s109">
    <Alignment ss:Vertical="Top"/>
    <Borders/>
    <Interior/>
   </Style>
-  <Style ss:ID="s109" ss:Parent="s67">
+  <Style ss:ID="s110" ss:Parent="s67">
    <Alignment ss:Vertical="Top"/>
    <Borders/>
   </Style>
-  <Style ss:ID="s110" ss:Parent="s67">
+  <Style ss:ID="s111" ss:Parent="s67">
    <Alignment ss:Vertical="Top"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
@@ -324,7 +327,7 @@
    </Borders>
    <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="s111" ss:Parent="s67">
+  <Style ss:ID="s112" ss:Parent="s67">
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
      ss:Color="#D9D9D9"/>
@@ -337,9 +340,6 @@
    </Borders>
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s112">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
   </Style>
  </Styles>
  <Names>
@@ -367,7 +367,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s68">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2417363326352"><Data ss:Type="String">AST INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2650435106304"><Data ss:Type="String">AST INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_title</Data></Cell>
@@ -445,7 +445,7 @@
     <Cell><Data ss:Type="String">Duplikovaná dovednost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2417363326372"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2650435106324"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_enneract_of</Data></Cell>
@@ -565,7 +565,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboBattleaxe_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Some see fighting as a dance, an art, a poetic display of murder. Meanwhile, others wield a big fat greataxe and chop people in half as casually as a butcher cuts meat. To each their own.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Někteří považují boj za tanec, umění, poetické zobrazení vraždy. Mezitím jiní třímají velkou těžkou sekeru a sekají lidi na půlky tak ledabyle, jako řezník seká maso.&#10;Každý podle svého.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Někteří považují boj za tanec, umění, poetické zobrazení vraždy. Mezitím jiní třímají velkou těžkou sekeru a sekají lidi na půlky tak ledabyle, jako řezník seká maso.&#10;Každý podle svého.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualDaggers</Data></Cell>
@@ -673,8 +673,8 @@
     <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Vrhat se do boje? Zápasy v blátě? Krvavé vykuchání? To jsou přinejlepším selské praktiky. Vyhladit své nepřátele z dálky magií je prostě stylovější... a hygieničtější.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:StyleID="s86"><Data ss:Type="String">ui_AST_ArrowsRain</Data></Cell>
-    <Cell ss:StyleID="s87"><Data ss:Type="String">Wailing Arrows</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">ui_AST_ArrowsRain</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">Wailing Arrows</Data></Cell>
     <Cell><Data ss:Type="String">Kvílející šípy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
@@ -709,7 +709,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Bomb_desc</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Target an area and launch an exploding device, dealing fire damage in an area of effect.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Attack:&lt;/font&gt; Only usable with daggers, bows and pistols.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Attack&lt;/b&gt;, &lt;b&gt;Projectile&lt;/b&gt;, &lt;b&gt;Rogue&lt;/b&gt;, &lt;b&gt;Device&lt;/b&gt;.</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Target an area and launch an exploding device, dealing fire damage in an area of effect.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Attack:&lt;/font&gt; Only usable with daggers, bows and pistols.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Attack&lt;/b&gt;, &lt;b&gt;Projectile&lt;/b&gt;, &lt;b&gt;Rogue&lt;/b&gt;, &lt;b&gt;Device&lt;/b&gt;.</Data></Cell>
     <Cell><Data ss:Type="String">Zaměř oblast a vypusť explodující zařízení, které uděluje poškození ohněm v oblasti účinku.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Útok:&lt;/font&gt; Použitelné pouze s dýkami, luky a pistolemi.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Útok&lt;/b&gt;, &lt;b&gt;Střela&lt;/b&gt;, &lt;b&gt;Tulák&lt;/b&gt;, &lt;b&gt;Zařízení&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
@@ -782,7 +782,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_DeathMark_desc</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">Curses a target, increasing the damage it receives.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Attack:&lt;/font&gt; Only usable with daggers, bows and pistols.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Attack&lt;/b&gt;, &lt;b&gt;Rogue&lt;/b&gt;.</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">Curses a target, increasing the damage it receives.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Attack:&lt;/font&gt; Only usable with daggers, bows and pistols.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Attack&lt;/b&gt;, &lt;b&gt;Rogue&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_DeathMark_Lore</Data></Cell>
@@ -964,7 +964,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Teleport_desc</Data></Cell>
-    <Cell ss:StyleID="s89"><Data ss:Type="String">Jump through the Aether to teleport to another position.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;, &lt;b&gt;Movement&lt;/b&gt;.</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">Jump through the Aether to teleport to another position.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;, &lt;b&gt;Movement&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_Teleport_Lore</Data></Cell>
@@ -1209,7 +1209,7 @@
     <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Moros, Primordial of Dusk, wielded great clouds of darkness to turn the tide of battle when his forces seemed surrounded.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2417363326392"><Data ss:Type="String">SKILLS VARIANTS  &lt;font color=&quot;#cb5316&quot;&gt; Rage  &lt;font color=&quot;#948ec6&quot;&gt; Willpower</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2650435106344"><Data ss:Type="String">SKILLS VARIANTS  &lt;font color=&quot;#cb5316&quot;&gt; Rage  &lt;font color=&quot;#948ec6&quot;&gt; Willpower</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_1</Data></Cell>
@@ -1511,7 +1511,7 @@
     <Cell><Data ss:Type="String">ui_Variant_Bladeslinger_variant_16</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Needles in Perpetuity</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15.75" ss:StyleID="s93">
+   <Row ss:AutoFitHeight="0" ss:Height="15.75" ss:StyleID="s94">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_Variant_Bladeslinger_variant_16_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Increases Ailment damage.</Data></Cell>
    </Row>
@@ -1541,7 +1541,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Bomb_variant_3</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Sticky Bomb</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sticky Bomb</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Bomb_variant_3_desc</Data></Cell>
@@ -1749,7 +1749,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BrutalStrike_variant_8_Lore</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Gaavanir slumbers in the Armory of Creation. Its very existence inspired the concept of battlehammers to craftsmen and blacksmiths around the world. Ever since, battlefields have been littered with broken skulls and crushed rib cages.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Gaavanir slumbers in the Armory of Creation. Its very existence inspired the concept of battlehammers to craftsmen and blacksmiths around the world. Ever since, battlefields have been littered with broken skulls and crushed rib cages.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BrutalStrike_variant_9</Data></Cell>
@@ -1821,27 +1821,27 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_1</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Stylish Execution</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Stylish Execution</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_1_desc</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Reduces Rage cost.</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Reduces Rage cost.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_2</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Leave No Witnesses</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Leave No Witnesses</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_2_desc</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Increases number of targets.</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Increases number of targets.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_3</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Flak Handcannon</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Flak Handcannon</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_3_desc</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Each shot of Gunslinger's Brand that hits an enemy deals damage in an area of effect.</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Each shot of Gunslinger's Brand that hits an enemy deals damage in an area of effect.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_3_Lore</Data></Cell>
@@ -1849,39 +1849,39 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_4</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Time Manipulator</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Time Manipulator</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_4_desc</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Converts base Physical damage to Aether damage.\n\nIncreases chance of inflicting Stasis.</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Converts base Physical damage to Aether damage.\n\nIncreases chance of inflicting Stasis.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_4_Lore</Data></Cell>
-    <Cell ss:StyleID="s88"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;After much experimentation and a handful of explosive accidents, Ezaneal created the Handheld Iosonic Cannon, the First Pistol. Its pinpoint accuracy, light weight and ability to shift its traversal of aether to high speeds made it extremely deadly. Giving humanity weapons of this nature, so accessible and deadly, would no doubt cause chaos, but Hephaäron had sealed the Armory of Creation permanently. This was the only way to share his invention with humanity; it would take a genius to get inside…&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;After much experimentation and a handful of explosive accidents, Ezaneal created the Handheld Iosonic Cannon, the First Pistol. Its pinpoint accuracy, light weight and ability to shift its traversal of aether to high speeds made it extremely deadly. Giving humanity weapons of this nature, so accessible and deadly, would no doubt cause chaos, but Hephaäron had sealed the Armory of Creation permanently. This was the only way to share his invention with humanity; it would take a genius to get inside…&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_5</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Ordered Discord</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Ordered Discord</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_5_desc</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Increases chance to inflict Ailments on enemies.</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Increases chance to inflict Ailments on enemies.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_6</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Hipfire Headshots</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Hipfire Headshots</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_6_desc</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Increases critical damage.</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Increases critical damage.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_7</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Order Through Chaos</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Order Through Chaos</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_7_desc</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Every shot of Gunslinger's Brand that hits an enemy increases the damage of the next shot incrementally. This buff is reset when a shot misses.</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Every shot of Gunslinger's Brand that hits an enemy increases the damage of the next shot incrementally. This buff is reset when a shot misses.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_BullEye_variant_7_Lore</Data></Cell>
@@ -2818,7 +2818,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_FrostLance_variant_1_desc</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Increases damage.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Increases damage.</Data></Cell>
     <Cell><Data ss:Type="String">Zvýší poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
@@ -3107,7 +3107,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Hook_variant_2</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Zealous Smite</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Zealous Smite</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Hook_variant_2_desc</Data></Cell>
@@ -3303,7 +3303,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Laceration_variant_8</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Astral Orbit</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Astral Orbit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Laceration_variant_8_desc</Data></Cell>
@@ -3399,7 +3399,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Laser_variant_3_desc</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Increases beam radius.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Increases beam radius.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Laser_variant_4</Data></Cell>
@@ -3439,7 +3439,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Laser_variant_7_desc</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Damage increases over time as the beam is being cast.</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Damage increases over time as the beam is being cast.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Laser_variant_8</Data></Cell>
@@ -3723,7 +3723,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Reave_variant_7_desc</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Increases critical damage.</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Increases critical damage.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Reave_variant_8</Data></Cell>
@@ -4287,7 +4287,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Turret_variant_7_desc</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Increases critical damage.</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Increases critical damage.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Turret_variant_8</Data></Cell>
@@ -4371,7 +4371,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_Variant_WarCry_variant_1</Data></Cell>
-    <Cell ss:StyleID="s95"><Data ss:Type="String">Raging Berserker</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Raging Berserker</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_WarCry_variant_1_desc</Data></Cell>
@@ -6919,7 +6919,7 @@
     <Cell ss:StyleID="s62"><Data ss:Type="String">Reduces cooldown.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2417363326412"><Data ss:Type="String">AST BUFF VARIANTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2650435106364"><Data ss:Type="String">AST BUFF VARIANTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FireballFiredamageBoost_Desc</Data></Cell>
@@ -7034,15 +7034,15 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">Stamina Regeneration buff</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2417363326432"><Data ss:Type="String">Aspect of Apocalypse SKILLS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2650435106384"><Data ss:Type="String">Aspect of Apocalypse SKILLS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_APO_Menu_Title</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String">Aspects of Apocalypse</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Aspects of Apocalypse</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_APO_Tank_Name</Data></Cell>
-    <Cell ss:StyleID="s99"><Data ss:Type="String">Aspect of Dawn</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">Aspect of Dawn</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_APO_Tank_Lore</Data></Cell>
@@ -7313,708 +7313,708 @@
     <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;As the First Warrior, Baäpheth understands the true value of patience; strength is worthless if one knows not when to strike.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2417363326452"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2650435106404"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Averagedamage</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Averagedamage</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Average Damage: %1</Data></Cell>
     <Cell><Data ss:Type="String">Průměrné poškození: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Projectiles_damageBonusAtMaxRange</Data></Cell>
-    <Cell ss:StyleID="s96"><Data ss:Type="String">Damage after %2: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Projectiles_damageBonusAtMaxRange</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Damage after %2: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_TotalBasedamage</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_TotalBasedamage</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Total Damage: %1 - %2</Data></Cell>
     <Cell><Data ss:Type="String">Celkové poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Physicaldamage</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Physicaldamage</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Physical Damage: %1 - %2</Data></Cell>
     <Cell><Data ss:Type="String">Fyzické poškození: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Projectiles_AutoPierce</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Projectiles_AutoPierce</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Pierce Range: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Projectiles_BonusPierce</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Projectiles_BonusPierce</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Pierce Strength: %1 Targets</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_BurnChance</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_BurnChance</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Burn Chance: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_BurnStacks</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_BurnStacks</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Burn Stacks: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_BurnDuration</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_BurnDuration</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Burn Duration: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_ShockChance</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Ailment - Shock Chance: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_ShockChance</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Ailment - Shock Chance: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_ShockDuration</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_ShockDuration</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Shock Duration: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_ShockStacks</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_ShockStacks</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Shock Stacks: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_FreezeChance</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_FreezeChance</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Freeze Chance: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_FreezeDuration</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_FreezeDuration</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Freeze Duration: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_PoisonChance</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_PoisonChance</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Poison Chance: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_PoisonDuration</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Ailment - Poison Duration: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_PoisonDuration</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Ailment - Poison Duration: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_PoisonStacks</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_PoisonStacks</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Poison Stacks: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_BleedChance</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_BleedChance</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Bleed Chance: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_BleedStacks</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Ailment - Bleed Stacks: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_BleedStacks</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Ailment - Bleed Stacks: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_BleedDuration</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Ailment - Bleed Duration: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_BleedDuration</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Ailment - Bleed Duration: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_StunChance</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Ailment - Stun Chance: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_StunChance</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Ailment - Stun Chance: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_StunDuration</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Ailment - Stun Duration: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_StunDuration</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Ailment - Stun Duration: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_StasisChance</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_StasisChance</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Stasis Chance: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_StasisDuration</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_StasisDuration</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Stasis Duration: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_StasisStacks</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_StasisStacks</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Stasis Stacks: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_CurseChance</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_CurseChance</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ailment - Cursed Chance: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_CurseStacks</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Ailment - Cursed Stacks: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_CurseStacks</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Ailment - Cursed Stacks: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_CurseDuration</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Ailment - Cursed Duration: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_CurseDuration</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Ailment - Cursed Duration: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_WeaknessChance</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Ailment - Weakness Chance: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_WeaknessChance</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Ailment - Weakness Chance: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_WeaknessStacks</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Ailment - Weakness Stacks: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_WeaknessStacks</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Ailment - Weakness Stacks: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_WeaknessDuration</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Ailment - Weakness Duration: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_WeaknessDuration</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Ailment - Weakness Duration: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_AilmentRollCount</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_AilmentRollCount</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">%1 independent rolls</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_SlowEfficiency</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_SlowEfficiency</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Slow efficiency: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_SlowDuration</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_SlowDuration</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Slow duration: %1</Data></Cell>
     <Cell><Data ss:Type="String">Trvání zpomalení: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_ExplosionRadius</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_ExplosionRadius</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Effect radius: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_SharpShooterdamage</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_SharpShooterdamage</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Damage increase per Stack: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_SharpShooterMaxStacks</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_SharpShooterMaxStacks</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Maximum stacks: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_SharpShooterDecayTime</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_SharpShooterDecayTime</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Duration before Stacks decay: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_FrostLanceExplosiondamage</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_FrostLanceExplosiondamage</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Shatter damage: %1 &lt;Font Color=&quot;#ffffff&quot;&gt;of spear damage&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_LifeLeech</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_LifeLeech</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Health regeneration: %1 &lt;Font Color=&quot;#ffffff&quot;&gt;of damage dealt over&lt;/Font&gt; %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_CastDelay</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Cast Delay: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_CastDelay</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Cast Delay: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_ChargeMax</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Maximum charges: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_ChargeMax</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Maximum charges: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Cooldown</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Cooldown: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Cooldown</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Cooldown: %1</Data></Cell>
     <Cell><Data ss:Type="String">Doba dobíjení: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_CriticalChance</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Critical Chance: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_CriticalChance</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Critical Chance: %1</Data></Cell>
     <Cell><Data ss:Type="String">Kritická šance: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Criticaldamage</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Critical Damage: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Criticaldamage</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Critical Damage: %1</Data></Cell>
     <Cell><Data ss:Type="String">Kritické poškození: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Firedamage</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Fire Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Firedamage</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Fire Damage: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Frostdamage</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Frost Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Frostdamage</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Frost Damage: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Bleedingdamage</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Rend Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Bleedingdamage</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Rend Damage: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Poisondamage</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Poison Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Poisondamage</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Poison Damage: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Lightningdamage</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Lightning Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Lightningdamage</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Lightning Damage: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Projectiles</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Number of Projectiles: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Projectiles</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Number of Projectiles: %1</Data></Cell>
     <Cell><Data ss:Type="String">Počet střel: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_RageCost</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Rage cost: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_RageCost</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Rage cost: %1</Data></Cell>
     <Cell><Data ss:Type="String">Cena vzteku: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_StaminaCost</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Stamina cost: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_StaminaCost</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Stamina cost: %1</Data></Cell>
     <Cell><Data ss:Type="String">Cena staminy: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_RageCostPerSecond</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Rage cost per second: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_RageCostPerSecond</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Rage cost per second: %1</Data></Cell>
     <Cell><Data ss:Type="String">Cena vzteku za sekundu: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_RageGeneration</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Rage generation: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_RageGeneration</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Rage generation: %1</Data></Cell>
     <Cell><Data ss:Type="String">Obnova vzteku: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_RageGenerationPerSecond</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Rage generation per second: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_RageGenerationPerSecond</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Rage generation per second: %1</Data></Cell>
     <Cell><Data ss:Type="String">Obnova vzteku za sekundu: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Range</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Range: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Range</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Range: %1</Data></Cell>
     <Cell><Data ss:Type="String">Vzdálenost: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_ROSTime</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Resource consuming time: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_ROSTime</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Resource consuming time: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Sacreddamage</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Sacred Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Sacreddamage</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Sacred Damage: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Shadowdamage</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Shadow Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Shadowdamage</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Shadow Damage: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_UmbraCost</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Willpower Cost: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_UmbraCost</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Willpower Cost: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_UmbraCostPerSecond</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Willpower Cost per second: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_UmbraCostPerSecond</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Willpower Cost per second: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Umbradamage</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Umbradamage</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Aether damage: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_UmbRageneration</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Willpower Generation: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_UmbRageneration</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Willpower Generation: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_UmbRagenerationPerSecond</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Willpower Generation per second: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_UmbRagenerationPerSecond</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Willpower Generation per second: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Weapondamage</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Attack Damage: %1 - %2</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_Weapondamage</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Attack Damage: %1 - %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Stack_Chance</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">(%1 Chance)</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Stack_Chance</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">(%1 Chance)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Stack_Earning_OnTick</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Charge(s) gained with time: %1 every %2</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Stack_Earning_OnTick</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Charge(s) gained with time: %1 every %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_MaxSummon</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Max Summons: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_MaxSummon</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Max Summons: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Ironguard_Absorption</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Damage Absorption: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Ironguard_Absorption</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Damage Absorption: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_SkillDuration</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Skill Duration: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_SkillDuration</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Skill Duration: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_HealAmount</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Heal Amount: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_HealAmount</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Heal Amount: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_CriticalInflictScore</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Critical Hit Chance Score: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_CriticalInflictScore</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Critical Hit Chance Score: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_ForceShieldOnHit</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Force Shield on Hit: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_ForceShieldOnHit</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Force Shield on Hit: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_WillpowerOnKill</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Willpower on Kill: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_WillpowerOnKill</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Willpower on Kill: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_WillpowerOnHit</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Willpower on Hit: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_WillpowerOnHit</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Willpower on Hit: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_WillpowerOnCriticalHit</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Willpower on Critical Hit: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_WillpowerOnCriticalHit</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Willpower on Critical Hit: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_NumberOfTargets</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Number of Targets: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_NumberOfTargets</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Number of Targets: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_NumberOfBounces</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Number of Bounces: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_NumberOfBounces</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Number of Bounces: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_ProjectilePierce</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Projectile Pierce: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_ProjectilePierce</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Projectile Pierce: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_SummonAverageDamage</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Summon average Damage: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_SummonAverageDamage</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Summon average Damage: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_SummonHealth</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String" x:Ticked="1">Summon Health: %1</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_SummonHealth</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String" x:Ticked="1">Summon Health: %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_BlownAwayDistance</Data></Cell>
-    <Cell ss:StyleID="s103"><Data ss:Type="String">Knock-back Distance: %1m</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">ui_AST_Param_BlownAwayDistance</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">Knock-back Distance: %1m</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2417363327392"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2650435115248"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s105"><Data ss:Type="String">ui_AST_ParamBonus_damage</Data></Cell>
-    <Cell ss:StyleID="s106"><Data ss:Type="String">%1 Damage Increase Bonus</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">ui_AST_ParamBonus_damage</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">%1 Damage Increase Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s105"><Data ss:Type="String">ui_AST_ParamBonus_Cooldown</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">ui_AST_ParamBonus_Cooldown</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">%1 Cooldown Reduction</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s105"><Data ss:Type="String">ui_AST_ParamBonus_RageCostReduction</Data></Cell>
-    <Cell ss:StyleID="s106"><Data ss:Type="String">%1 Rage Cost Reduction</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">ui_AST_ParamBonus_RageCostReduction</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">%1 Rage Cost Reduction</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s105"><Data ss:Type="String">ui_AST_ParamBonus_RageGenerationAugmentation</Data></Cell>
-    <Cell ss:StyleID="s106"><Data ss:Type="String">%1 Rage Generation Increase</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">ui_AST_ParamBonus_RageGenerationAugmentation</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">%1 Rage Generation Increase</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s105"><Data ss:Type="String">ui_AST_ParamBonus_umbraCostReduction</Data></Cell>
-    <Cell ss:StyleID="s106"><Data ss:Type="String">%1 Willpower Reduction</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">ui_AST_ParamBonus_umbraCostReduction</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">%1 Willpower Reduction</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s105"><Data ss:Type="String">ui_AST_ParamBonus_Weapondamage</Data></Cell>
-    <Cell ss:StyleID="s107"><Data ss:Type="String">%1 Attack Damage Increase</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">ui_AST_ParamBonus_Weapondamage</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">%1 Attack Damage Increase</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ParamBonus_FrozenTime</Data></Cell>
-    <Cell ss:StyleID="s106"><Data ss:Type="String">%1 Freeze Duration Bonus</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">%1 Freeze Duration Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2417363327412"><Data ss:Type="String">SUMMONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2650435115268"><Data ss:Type="String">SUMMONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">UI_AIName_Summon_Melee</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Plagueling</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">UI_AIName_Summon_Melee</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Plagueling</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">UI_AIName_Summon_Ranged</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Plagueling Archer</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">UI_AIName_Summon_Ranged</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Plagueling Archer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">UI_AIName_Summon_Champion_Toxic</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Immortal Maw</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">UI_AIName_Summon_Champion_Toxic</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Immortal Maw</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_AIName_Summon_Champion_Lightning</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Punisher</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_AIName_Summon_Champion_Lightning</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Punisher</Data></Cell>
     <Cell><Data ss:Type="String">Punisher</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_AIName_Summon_Champion_Shadow</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Duskshade</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_AIName_Summon_Champion_Shadow</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Duskshade</Data></Cell>
     <Cell><Data ss:Type="String">Rubáš šera</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2417363327432"><Data ss:Type="String">ACTIVE SKILL BUFFS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2650435115288"><Data ss:Type="String">ACTIVE SKILL BUFFS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_Aetherblade_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Infinity Blades Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_Aetherblade_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Infinity Blades Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_Aetherblast_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Eclipse Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_Aetherblast_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Eclipse Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_arrowsrain_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Wailing Arrows Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_arrowsrain_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Wailing Arrows Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_Bulleye_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Gunslinger's Brand Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_Bulleye_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Gunslinger's Brand Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_Charge_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Warpath Buff Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_Charge_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Warpath Buff Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_corpseexplosion_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Plagueburst Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_corpseexplosion_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Plagueburst Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_hammer_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Flight of Gaavanir Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_hammer_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Flight of Gaavanir Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_holydive_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Light-bringer Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_holydive_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Light-bringer Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_ironguard_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Juggernaut Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_ironguard_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Juggernaut Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_laser_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Annihilation Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_laser_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Annihilation Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_leap_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Wings of Ishmir Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_leap_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Wings of Ishmir Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_reave_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Wrath of Baäpheth Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_reave_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Wrath of Baäpheth Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_ringofpain_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Blood for Blood Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_ringofpain_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Blood for Blood Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_sacredground_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Bulwark of Dawn Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_sacredground_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Bulwark of Dawn Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_smokebomb_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Duskshroud Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_smokebomb_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Duskshroud Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_sniper_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">“Deathgazer” Railgun Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_sniper_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">“Deathgazer” Railgun Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_teleport_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Aether Jump Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_teleport_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Aether Jump Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_vortex_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Anomaly Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_vortex_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Anomaly Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_warcry_buff_title</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Sovereign Shout Bonus</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_warcry_buff_title</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Sovereign Shout Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_whirlwind_buff_title</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_whirlwind_buff_title</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Bladestorm Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_aggression_percent_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Threat generation</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_all_resistance_score_percent_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased All Resistance Score</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_attackspeed_score_percent_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Attack Speed</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_blockchance_unconditional_flat_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Block Chance</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_criticalchance_attackskill_score_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Critical Chance on Attacks</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_criticalchance_score_percent_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Critical Chance</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_criticaldamage_projectiles_pts_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Critical Chance on Projectile </Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_damage_percent_as_fire_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Extra Damage is dealt as Fire Damage</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_damage_percent_as_lightning_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Extra Damage is dealt as Lightning Damage</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_damage_percent_as_shadow_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Extra Damage is dealt as Shadow Damage</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_damage_percent_as_toxic_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Extra Damage is dealt as Toxic Damage</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_damage_percent_as_umbra_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Extra Damage is dealt as Aether Damage</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_damage_percent_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Damage</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_damage_taken_percent_from_projectile_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increases Resistance to Projectiles</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_dodgechance_score_percent_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Dodge Chance</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_forceshield_regeneration_flat_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Force Shield Regeneration</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_health_regen_pts_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Health Regeneration</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_life_leech_percent_global_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Life Leech</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_movespeed_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Movement Speed</Data></Cell>
-    <Cell ss:StyleID="s110"/>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_rend_damage_per_health_percent_missing_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Rend Damage is dealt based upon missing Health</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_aggression_percent_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Threat generation</Data></Cell>
     <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_resourcegeneration_percent_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Resource Generation</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_all_resistance_score_percent_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased All Resistance Score</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_shadow_damage_per_health_percent_missing_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Shadow damage is dealt based upon missing Health</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_attackspeed_score_percent_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Attack Speed</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_skillrequirement_keyword_melee_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Allows you to use Skills with the Warrior Skill Tag</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_blockchance_unconditional_flat_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Block Chance</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_spellcastingspeed_score_percent_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Spell Casting Speed</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_criticalchance_attackskill_score_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Critical Chance on Attacks</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_stamina_regeneration_percent_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Stamina Regeneration</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_criticalchance_score_percent_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Critical Chance</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_statusailment_inflict_chance_score_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Chance to inflict Ailments</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_criticaldamage_projectiles_pts_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Critical Chance on Projectile </Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_attack_and_cast_speed_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Attack and Spell Casting Speed</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_damage_percent_as_fire_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Extra Damage is dealt as Fire Damage</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:StyleID="s108"><Data ss:Type="String">ui_attack_cast_movement_speed_buff_skill</Data></Cell>
-    <Cell ss:StyleID="s109"><Data ss:Type="String">Increased Attack, Spell Casting, and Movement Speed</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_damage_percent_as_lightning_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Extra Damage is dealt as Lightning Damage</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_damage_percent_as_shadow_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Extra Damage is dealt as Shadow Damage</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_damage_percent_as_toxic_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Extra Damage is dealt as Toxic Damage</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_damage_percent_as_umbra_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Extra Damage is dealt as Aether Damage</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_damage_percent_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Damage</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_damage_taken_percent_from_projectile_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increases Resistance to Projectiles</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_dodgechance_score_percent_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Dodge Chance</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_forceshield_regeneration_flat_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Force Shield Regeneration</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_health_regen_pts_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Health Regeneration</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_life_leech_percent_global_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Life Leech</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_movespeed_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Movement Speed</Data></Cell>
+    <Cell ss:StyleID="s111"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_rend_damage_per_health_percent_missing_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Rend Damage is dealt based upon missing Health</Data></Cell>
+    <Cell ss:StyleID="s112"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_resourcegeneration_percent_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Resource Generation</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_shadow_damage_per_health_percent_missing_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Shadow damage is dealt based upon missing Health</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_skillrequirement_keyword_melee_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Allows you to use Skills with the Warrior Skill Tag</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_spellcastingspeed_score_percent_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Spell Casting Speed</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_stamina_regeneration_percent_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Stamina Regeneration</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_statusailment_inflict_chance_score_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Chance to inflict Ailments</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_attack_and_cast_speed_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Attack and Spell Casting Speed</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">ui_attack_cast_movement_speed_buff_skill</Data></Cell>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">Increased Attack, Spell Casting, and Movement Speed</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:Index="2" ss:StyleID="s110"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:Index="2" ss:StyleID="s110"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:Index="2" ss:StyleID="s110"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:Index="2" ss:StyleID="s110"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:Index="2" ss:StyleID="s110"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:Index="2" ss:StyleID="s110"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:Index="2" ss:StyleID="s110"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:Index="2" ss:StyleID="s110"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:Index="2" ss:StyleID="s109"/>
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s110"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="76"/>
    <Row ss:Index="1973" ss:AutoFitHeight="0" ss:Height="25.5"/>
@@ -8104,11 +8104,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>1804</TopRowVisible>
+   <TopRowVisible>1818</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>1812</ActiveRow>
+     <ActiveRow>1809</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

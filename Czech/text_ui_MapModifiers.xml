@@ -269,22 +269,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_modifier_monsterResistAll</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String" x:Ticked="1">+%1 to Enemies' All Resistance Score.</Data></Cell>
-    <Cell><Data ss:Type="String">1% k stavu Odolnosti všemu neprátel.</Data></Cell>
+    <Cell><Data ss:Type="String" x:Ticked="1">+%1 k stavu Odolnosti všemu neprátel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterResistElemental</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String" x:Ticked="1">+%1 to Enemies' Elemental Resistance Score.</Data></Cell>
-    <Cell><Data ss:Type="String">1% k stavu Elementalní odolnosti nepřátel.</Data></Cell>
+    <Cell><Data ss:Type="String">+%1 k stavu Elementalní odolnosti nepřátel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterResistOccult</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String" x:Ticked="1">+%1 to Enemies' Occult Resistance Score.</Data></Cell>
-    <Cell><Data ss:Type="String">1% k stavu Okultní odolnosti nepřátel.</Data></Cell>
+    <Cell><Data ss:Type="String">+%1 k stavu Okultní odolnosti nepřátel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterResistMaterial</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String" x:Ticked="1">+%1 to Enemies' Material Resistance Score.</Data></Cell>
-    <Cell><Data ss:Type="String">1% k stavu Mteriální odolnosti nepřátel.</Data></Cell>
+    <Cell><Data ss:Type="String">+%1 k stavu Mteriální odolnosti nepřátel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterDamageFire</Data></Cell>
@@ -879,7 +879,8 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveCol>2</ActiveCol>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>5</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

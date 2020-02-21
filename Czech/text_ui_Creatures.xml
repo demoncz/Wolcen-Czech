@@ -296,12 +296,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_FirstmanMage</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Tainted First Man Sorcerer</Data></Cell>
-    <Cell><Data ss:Type="String">Skažený Kouzelník Prvních Lidí</Data></Cell>
+    <Cell><Data ss:Type="String">Zkažený Kouzelník Prvních Lidí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_FirstmanMelee</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Tainted First Man</Data></Cell>
-    <Cell><Data ss:Type="String">Skažený Válečník Prvních Lidí</Data></Cell>
+    <Cell><Data ss:Type="String">Zkažený Válečník Prvních Lidí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">Cult of Flesh</Data></Cell>
@@ -34089,7 +34089,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_KennelMaster</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Marbaras of the Howling Tower</Data></Cell>
-    <Cell><Data ss:Type="String">Marbaras z Vycí Věže</Data></Cell>
+    <Cell><Data ss:Type="String">Marbaras z Vyjící Věže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_GiantScreecher</Data></Cell>
@@ -34144,9 +34144,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
+   <TopRowVisible>72</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

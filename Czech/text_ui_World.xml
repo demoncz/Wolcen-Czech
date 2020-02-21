@@ -669,7 +669,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_flayer_outpost_name</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Flayers Outpost</Data></Cell>
-    <Cell><Data ss:Type="String">Flayerská výspa</Data></Cell>
+    <Cell><Data ss:Type="String">Výspa Stahovačů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_ravaged_camp_name</Data></Cell>
@@ -1201,6 +1201,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Exiles Septentrional Wasteland</Data></Cell>
+    <Cell><Data ss:Type="String">Severní pustina vyhnanců</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_BattlefieldOverlook_name</Data></Cell>

@@ -944,7 +944,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_presence</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Presence</Data></Cell>
-    <Cell><Data ss:Type="String">Přítomnost</Data></Cell>
+    <Cell><Data ss:Type="String">Prezence</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_rageconservation</Data></Cell>
@@ -989,7 +989,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_resistances_elemental</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Elemental</Data></Cell>
-    <Cell><Data ss:Type="String">Elementární</Data></Cell>
+    <Cell><Data ss:Type="String">Elementální</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_resistances_material</Data></Cell>
@@ -1743,7 +1743,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_presence_tooltip</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Your current Presence level. Affects how enemies spot and target you in combat. A normal value for Presence is 100%: below, you become harder to target and see. At 0%, you are invisible. At values higher than 100%, you are easier to spot and track.</Data></Cell>
-    <Cell><Data ss:Type="String">Tvá aktuální úroveň Prezence. Ovlivňuje to, jak moc tě nepřátelé rozpoznají  a zaměří v boji. Běžná hodnota Prezenceje je 100%: Při nižší jsi hůře zaměřitelný a viditelný. Při 0% jsi neviditelný. Při hodnotách vyšších než 100% jsi snadněji rozpoznatelný a sledovaatelný.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá aktuální úroveň Prezence. Ovlivňuje to, jak moc tě nepřátelé rozpoznají  a zaměří v boji. Běžná hodnota Prezenceje je 100%: Při nižší jsi hůře zaměřitelný a viditelný. Při 0% jsi neviditelný. Při hodnotách vyšších než 100% jsi snadněji rozpoznatelný a sledovatelný.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_rageconservation_tooltip</Data></Cell>
@@ -1823,6 +1823,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_shockdamage_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Lightning Damage per Stack inflicted each time the Shock Ailment ticks. The first displayed value corresponds to one Shock stack whereas the second one represents the Damage for the maximum number of stacks you can put on one target.</Data></Cell>
+    <Cell><Data ss:Type="String">Poškození bleskem na stack je způsobeno pokaždé, když zapůsobí Oslabení šokem. První zobrazená hodnota odpovídá jednomu stacku šoků, zatímco druhá představuje poškození za maximální počet staků, které můžeš dát na jeden cíl.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_shockduration_tooltip</Data></Cell>
@@ -1842,40 +1843,47 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_shocktick_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The delay between each damage tick from a Shock stack.</Data></Cell>
-    <Cell><Data ss:Type="String">Prodleva mezi každým zapůsobením poškozením ze stacku šoku.</Data></Cell>
+    <Cell><Data ss:Type="String">Prodleva mezi každým zapůsobením poškozením ze stacku šoků.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_snareduration_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The global duration modifier applied to Snare and Root.</Data></Cell>
+    <Cell><Data ss:Type="String">Celkové trvání modifikátoru aplikovaného na Smyčku a Kořeny.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_spellcastingspeed_score_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Modifier applied to your Spell Casting Speed.</Data></Cell>
+    <Cell><Data ss:Type="String">Modifikátor aplikovaný na tvou Rychlost sesílání kouzel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_spellcriticalchance_score_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Modifier applied to your Spell Critical Chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Modifikátor aplikovaný na tvou Šanci na kritický zásah kouzel..</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_stamina_tooltip</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">The maximum amount of Stamina points available. Stamina points allow you to Dodge Roll.</Data></Cell>
+    <Cell><Data ss:Type="String">Maximální množství dostupných bodů Staminy. Body Staminy ti umožňují provést Úhybný kotoul.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_staminaregeneration_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The delay to restore a Stamina point that has been spent.</Data></Cell>
+    <Cell><Data ss:Type="String">Zpoždění při obnově bodů Staminy, které byly spotřebovány.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_stasischance_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Chance to Apply Stasis with Aether Damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá celková šance aolikovat Stázy s Poškozením Éterem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_stasisduration_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The default duration of the Stasis.</Data></Cell>
-    <Cell><Data ss:Type="String">Základní doba trvání trvání stáze.</Data></Cell>
+    <Cell><Data ss:Type="String">Základní doba trvání Stáze.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_stasisefficiency_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The global duration modifier applied to Stasis.</Data></Cell>
+    <Cell><Data ss:Type="String">Modifikátor celkového trvání aplikovaný na Stázi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_stasisscore_tooltip</Data></Cell>
@@ -2055,6 +2063,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_toughness_bar_tooltip</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Your current Toughness amount. The gauge represents your investment into that attribute compared to the expected value at your level.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvé aktuální množství Houževnatosti. Měřidlo představuje tvou investici do tohoto atributu ve srovnání s očekávanou hodnotou na tvé úrovni.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_toughness_damage_tooltip</Data></Cell>
@@ -2064,44 +2073,52 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_toughness_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Toughness. Affects your Maximum Health and Maximum Force Shield.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá celková Houževnatost. Ovlivňuje tvé Maximální zdraví a maximum Silového štítu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_umbra_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Aether Damage has a natural chance to inflict Stasis on its target.</Data></Cell>
+    <Cell><Data ss:Type="String">Poškození éterem má přirozenou šanci způsobit Stázi svému cíli.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_umbracost_tooltip</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">The global modifier to the Willpower cost of all your Spells. Lower costs are not necessary a positive thing depending on your playstyle, since they lower the amount of the opposite Resource generated.</Data></Cell>
+    <Cell><Data ss:Type="String">Celkový modifikátor množství Vůle potřebné  na všechna tvá Kouzla. Nižší množství není, v závislosti na tvém stylu hraní, nutně pozitivní věc , protože snižuje množství generovaného opačného zdroje.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_umbrageneration_tooltip</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Your Willpower Regeneration per second. It also represents the Rage you lose each seconds once the Rage Conservation delay is over.</Data></Cell>
+    <Cell><Data ss:Type="String">Regenerace tvé Vůle za sekundu. Představuje také Vztek, který ztratíš každou sekundu, jakmile skončí zpoždění Uchování vzteku.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_umbraregeneration_tooltip</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">The amount of Willpower Points generated each time you hit an enemy with a Staff.</Data></Cell>
-    <Cell><Data ss:Type="String">Počet bodů vůle generované každým úderem holí do nepřítele.</Data></Cell>
+    <Cell><Data ss:Type="String">Množství bodů Vůle generované pokaždé, když zasáhneš nepřítele Holí.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_weaknesschance_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Your total Chance to inflict Weakness with Sacred Damage of any source.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá celková šance způsobit Slabost s Posvátné poškození z jakéhokoliv zdroje.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_weaknessduration_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The default duration of the Weakness.</Data></Cell>
-    <Cell><Data ss:Type="String">Základní doba trvání oslabení.</Data></Cell>
+    <Cell><Data ss:Type="String">Základní doba trvání Slabosti.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_weaknessdurationmod_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The global duration modifier applied to Weakening.</Data></Cell>
+    <Cell><Data ss:Type="String">Celkové trvání modifikátoru aplikovaného na Oslabení.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_weaknessefficiency_tooltip</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">The global Efficiency of the Weakness you inflict, scaling up its different effects. The first displayed value corresponds to the decrease in damage dealth by targets that have one Weakness stack, whereas the second represents the decrease in damage dealt by the target when they have the maximum number of stacks.</Data></Cell>
+    <Cell><Data ss:Type="String">Celková efektivita Slabosti, kterou působíš, zvětšuje její různé účinky. První zobrazená hodnota odpovídá poklesu poškození udělovaných cíli, které mají jeden stack Slabosti, zatímco druhá představuje pokles poškození, které cíl uděluje, když ma maximální počet stacků.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_weaknessscore_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">The Weakness Chance Score is the main modifier to your Weakness Chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Skóre šance na způsobení Slabosti je hlavní modifikátor tvé Šance na způsobení Slabosti.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_weapondamage_tooltip</Data></Cell>
@@ -2111,6 +2128,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_willpower_bar_tooltip</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Your current Wisdom amount. The gauge represents your investment into that attribute compared to the expected value at your level.</Data></Cell>
+    <Cell><Data ss:Type="String">Aktuální množství tvé Moudrosti. Měřidlo představuje tvou investici do tohoto atributu ve srovnání s očekávanou hodnotou na tvé úrovni.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_willpower_damage_tooltip</Data></Cell>
@@ -2120,6 +2138,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_cs_willpower_tooltip</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">Your total Wisdom. Affects your Attack Status Chance Score and your Spell Status Chance Score.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvá celková moudrost. Ovlivní skóre šance tvého útočného statusu a skóre šance statusu tvých kouzel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"/>
@@ -2149,6 +2168,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
