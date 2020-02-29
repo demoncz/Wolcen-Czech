@@ -14,7 +14,7 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>11715</WindowHeight>
+  <WindowHeight>12315</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -115,7 +115,7 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
-    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">CREATURES</Data></Cell>
@@ -241,7 +241,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_TaintedPrimordialArmor</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Tainted Primordial Armor</Data></Cell>
-    <Cell><Data ss:Type="String">Skažené Prvotní Brnění</Data></Cell>
+    <Cell><Data ss:Type="String">Zkažené Prvotní Brnění</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_HalfBreedOfSoul</Data></Cell>
@@ -276,7 +276,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_TaintedPrimordialGuardian</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Tainted Primordial Guardian</Data></Cell>
-    <Cell><Data ss:Type="String">Skažený Prvotní Strážce</Data></Cell>
+    <Cell><Data ss:Type="String">Zkažený Prvotní Strážce</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_DemonOfSouls</Data></Cell>
@@ -434,37 +434,37 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_RangeSoldier</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Missile Infantry</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačená Střelná Jednotka</Data></Cell>
+    <Cell><Data ss:Type="String">Zatracená Střelná Jednotka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_MeleeSoldier</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Shock Infantry</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačená Šoková Jednotka</Data></Cell>
+    <Cell><Data ss:Type="String">Zatracená Šoková Jednotka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Veteran</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Purifier Veteran</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačený Očistitel Veterán</Data></Cell>
+    <Cell><Data ss:Type="String">Zatracený Očistitel Veterán</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Siegebeast</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Mortarbeast</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačená Moždířová Bestie</Data></Cell>
+    <Cell><Data ss:Type="String">Zatracená Moždířová Bestie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Sniper</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Railgunner</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačený Odstřelovač</Data></Cell>
+    <Cell><Data ss:Type="String">Zatracený Odstřelovač</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Assassin</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Alastor</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačený Alastor</Data></Cell>
+    <Cell><Data ss:Type="String">Zatracený Alastor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Golgoth</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Punisher Exoskeleton</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačený Exoskeleton Trestač</Data></Cell>
+    <Cell><Data ss:Type="String">Zatracený Exoskeleton Trestač</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofy_Cultist</Data></Cell>
@@ -484,22 +484,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Knight</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Aurora Knight</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačený Rytíř Jitřenky</Data></Cell>
+    <Cell><Data ss:Type="String">Zatracený Rytíř Jitřenky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Priest</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Hierophant</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačený Hierofant</Data></Cell>
+    <Cell><Data ss:Type="String">Zatracený Hierofant</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Squire_Hammer</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Brother</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačený Bratr</Data></Cell>
+    <Cell><Data ss:Type="String">Zatracený Bratr</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Pacified_Squire_Sword</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Pacified Brother</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačený Bratr</Data></Cell>
+    <Cell><Data ss:Type="String">Zatracený Bratr</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Cofy_Instigator</Data></Cell>
@@ -648,7 +648,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Svriirs_Morgon_Poison</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Misshapen Infected</Data></Cell>
-    <Cell><Data ss:Type="String">Znetvořený Nakažený</Data></Cell>
+    <Cell><Data ss:Type="String">Znetvořený Nakaženec</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Svriirs_Alpha_Fire</Data></Cell>
@@ -33676,7 +33676,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_BanditWarlord_B</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Mercy</Data></Cell>
-    <Cell><Data ss:Type="String">Lítost</Data></Cell>
+    <Cell><Data ss:Type="String">Mercy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_Yudai_B</Data></Cell>
@@ -33796,7 +33796,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_VOS2_Mercy_Zombie</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Risen Mercy</Data></Cell>
-    <Cell><Data ss:Type="String">Vzkříšená Lítost</Data></Cell>
+    <Cell><Data ss:Type="String">Vzkříšená Mercy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_InnerSanctum_Enforcer</Data></Cell>
@@ -33821,7 +33821,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Trenches_Golgoth</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Pacified Experiment #P90</Data></Cell>
-    <Cell><Data ss:Type="String">Potlačený Experiment #P90</Data></Cell>
+    <Cell><Data ss:Type="String">Zatracený Experiment #P90</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_Tower_Veteran</Data></Cell>
@@ -34144,11 +34144,9 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>72</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>1</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

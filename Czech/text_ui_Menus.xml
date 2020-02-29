@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>11715</WindowHeight>
+  <WindowHeight>12315</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -221,7 +221,7 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
-    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s65">
     <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">GAME MENU</Data></Cell>
@@ -358,7 +358,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ptbr</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Brazilian Portugese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Brazilian Portuguese</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">Portugalština Brazilská</Data></Cell>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
@@ -421,7 +421,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_portuguesebrazilian</Data></Cell>
-    <Cell ss:StyleID="s63"><Data ss:Type="String">Brazilian Portugese</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Brazilian Portuguese</Data></Cell>
     <Cell ss:StyleID="Default"><Data ss:Type="String">Portugalština Brazilská</Data></Cell>
     <Cell ss:StyleID="Default"/>
     <Cell ss:StyleID="Default"/>
@@ -556,7 +556,7 @@
    <Row ss:AutoFitHeight="0" ss:StyleID="Default">
     <Cell ss:StyleID="s64"><Data ss:Type="String">ui_welcomebeta1</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Welcome on Wolcen: Lords of Mayhem!\nHere are some useful links:\n\nOfficial Forums: www.wolcengame.com\nOfficial Discord server: discord.gg/wolcenstudio\nOfficial Facebook page: https://www.facebook.com/WolcenGame\nOfficial Twitter account: https://twitter.com/WolcenGame\nFollow us on Reddit: https://www.reddit.com/r/Wolcen/</Data></Cell>
-    <Cell><Data ss:Type="String">Vitejte ve Wolcen: Lords of Mayhem!\nTady jsou některé užitečné odkazy:\n\nOficiální Fórum: www.wolcengame.com\nOficiální Discord server: discord.gg/wolcenstudio\nOfficial Facebooková stránka: https://www.facebook.com/WolcenGame\nOficiální Twitter účet: https://twitter.com/WolcenGame\nSleduj nás na Redditu: https://www.reddit.com/r/Wolcen/\nNa češtině pracovali : DemonCZ, Loncore, StoneCZE, Sullysun, Drakefran</Data></Cell>
+    <Cell><Data ss:Type="String">Vitejte ve Wolcen: Lords of Mayhem!\nTady jsou některé užitečné odkazy:\n\nOficiální Fórum: www.wolcengame.com\nOficiální Discord server: discord.gg/wolcenstudio\nOfficial Facebooková stránka: https://www.facebook.com/WolcenGame\nOficiální Twitter účet: https://twitter.com/WolcenGame\nSleduj nás na Redditu: https://www.reddit.com/r/Wolcen/\nNa češtině pracovali : DemonCZ, Loncore, StoneCZE, Sullysun, Drakefran\nNeoficiální CZ/SK fans web: http://www.wolcenfans.cz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Apply</Data></Cell>
@@ -769,7 +769,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ApocalypticForms</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Aspects of Apocalypse</Data></Cell>
-    <Cell><Data ss:Type="String">Apokalyptické bytí</Data></Cell>
+    <Cell><Data ss:Type="String">Aspekty Apokalypsy </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_CityBuilding</Data></Cell>
@@ -784,7 +784,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_GateOfFates</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Gate of Fates</Data></Cell>
-    <Cell><Data ss:Type="String">Brána osudu</Data></Cell>
+    <Cell><Data ss:Type="String">Brána Osudů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_WorldMap</Data></Cell>
@@ -2427,12 +2427,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_mm_kb_apocalyptic_scene</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Aspects of Apocalypse</Data></Cell>
-    <Cell><Data ss:Type="String">Apokalyptické bytí</Data></Cell>
+    <Cell><Data ss:Type="String">Aspekty Apokalypsy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_mm_kb_apocalyptic_form</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Aspects of Apocalypse transformation</Data></Cell>
-    <Cell><Data ss:Type="String">Transformace Apokalyptických bytí</Data></Cell>
+    <Cell><Data ss:Type="String">Proměna Aspektů Apokalypsy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">CHARACTER SELECTION</Data></Cell>
@@ -2660,7 +2660,6 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>2</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

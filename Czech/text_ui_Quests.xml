@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>11715</WindowHeight>
+  <WindowHeight>12315</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -203,9 +203,6 @@
   <Style ss:ID="s92">
    <Alignment ss:Vertical="Top"/>
   </Style>
-  <Style ss:ID="s94">
-   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
-  </Style>
  </Styles>
  <Names>
   <NamedRange ss:Name="characters"
@@ -221,12 +218,12 @@
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
    <Column ss:StyleID="s65" ss:AutoFitWidth="0" ss:Width="272.25"/>
    <Column ss:StyleID="s66" ss:AutoFitWidth="0" ss:Width="555"/>
-   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="265.5"/>
    <Row ss:AutoFitHeight="0" ss:Height="13.5" ss:StyleID="s68">
     <Cell ss:StyleID="s69"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
-    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:MergeAcross="1" ss:StyleID="s73"><Data ss:Type="String">QUESTS INTERFACE</Data></Cell>
@@ -527,7 +524,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Talk to Demetra, the Archivist</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si archivářkou Demetrou</Data></Cell>
+    <Cell><Data ss:Type="String">Promluv si s archivářkou Demetrou</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S3_StepNameLabel</Data></Cell>
@@ -542,7 +539,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S3_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Talk to Thunderblade Fäarad</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Fäaradem ze Hřmící čepele</Data></Cell>
+    <Cell><Data ss:Type="String">Promluv si s Fäaradem Thunderblade</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S4_StepNameLabel</Data></Cell>
@@ -582,7 +579,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S5_UpdateStepNameLabel6</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Talk to Thunderblade Sandor</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si se Sandorem ze Hřmící čepele</Data></Cell>
+    <Cell><Data ss:Type="String">Promluv si se Sandorem Thunderblade</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S6_StepNameLabel</Data></Cell>
@@ -637,7 +634,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S12_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Report to Thunderblade Fäarad in Stormfall using your Town Portal</Data></Cell>
-    <Cell><Data ss:Type="String">Použij městský portál a podej zprávu Fäaradovi ze Hřmící čepele</Data></Cell>
+    <Cell><Data ss:Type="String">Použij městský portál a podej zprávu Fäaradovi Thunderblade</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q2_S13_StepNameLabel</Data></Cell>
@@ -701,82 +698,67 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Find the Flayer Outpost</Data></Cell>
-    <Cell><Data ss:Type="String">Najdi základnu Flayerů</Data></Cell>
+    <Cell><Data ss:Type="String">Najdi základnu Stahovačů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Flayer Outpost</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do základny Flayerů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A1_Q3_EventQuestLabel2</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Battleborns</Data></Cell>
-    <Cell><Data ss:Type="String">Narozeni k boji</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S5_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Journey through the Flayers Territory</Data></Cell>
-    <Cell><Data ss:Type="String">Projdi přes území Flayerů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S6_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Leave the Flayer Territory</Data></Cell>
-    <Cell><Data ss:Type="String">Odejdi z území Flayerů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S6_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Survive the Flayer Ambush</Data></Cell>
-    <Cell><Data ss:Type="String">Přežij přepadení Flayerů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S6_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Slay Naärlog</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij Naärloga</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S7_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Find the Purifiers' Camp</Data></Cell>
-    <Cell><Data ss:Type="String">Najdi tábor Očistitelů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S8_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Cross the Ravaged Camp</Data></Cell>
-    <Cell><Data ss:Type="String">Přejdi přes zničený tábor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S8_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Talk to the Wounded Knight</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si se zraněným rytířem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S9_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Leave the Ravaged Camp</Data></Cell>
-    <Cell><Data ss:Type="String">Odejdi ze zničeného tábora</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S10_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Reach the Purifiers' Camp</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do tábora Očistitelů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S10_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Purifiers' Camp</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do tábora Očistitelů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S10_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Talk to Heimlock</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Heimlockem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S10_UpdateStepNameLabel3</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Leave the Area</Data></Cell>
-    <Cell><Data ss:Type="String">Odejdi z oblasti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q3_S11_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Palace</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do paláce</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">Act1_Main4</Data></Cell>
@@ -785,112 +767,90 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A1_Q4_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">The Unknown</Data></Cell>
-    <Cell><Data ss:Type="String">Neznámý</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Reach the Throne</Data></Cell>
-    <Cell><Data ss:Type="String">Jdi k trůnu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Talk to Merchant-Prince Damaskus</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s princem obchodníků Damaskusem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Reach the Smuggler's Path</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup na cestu Pašeráka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S3_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Smuggler's Path</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup na cestu Pašeráka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Delve Deeper</Data></Cell>
-    <Cell><Data ss:Type="String">Ponoř se níže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S5_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Reach the Necropolis</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do nekropole</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S5_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Explore the Necropolis</Data></Cell>
-    <Cell><Data ss:Type="String">Prozkoumej nekropoli</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S6_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Reach the Next Floor</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do dalšího patra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S6_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Cut Off the Dome's Power Source</Data></Cell>
-    <Cell><Data ss:Type="String">Odřízni zdroj energie kopule</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S6_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Banish the Damned Creatures</Data></Cell>
-    <Cell><Data ss:Type="String">Odstraň prokletá stvoření</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S7_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Delve deeper into the Necropolis</Data></Cell>
-    <Cell><Data ss:Type="String">Ponoř se níž do nekropole</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S8_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Find a way to Cross the Rift</Data></Cell>
-    <Cell><Data ss:Type="String">Najdi cestu skrze trhlinu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S8_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Open the Ossuaries</Data></Cell>
-    <Cell><Data ss:Type="String">Otevři Kostnici</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S9_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Explore the Depths</Data></Cell>
-    <Cell><Data ss:Type="String">Prozkoumej hlubinu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S9_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
-    <Cell><Data ss:Type="String">Poslouchej okolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_EventQuestLabel2</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Frozen Bones</Data></Cell>
-    <Cell><Data ss:Type="String">Mrazivé kosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_EventStepLabel2_1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Defeat Vhegguadh</Data></Cell>
-    <Cell><Data ss:Type="String">Poraž Vhegguadha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_EventStepLabel2_2</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Slay the Devourer</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij Požírače</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S10_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Venture into the Frozen Path</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej se na Zamrzlou cestu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S10_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Investigate the Ritual</Data></Cell>
-    <Cell><Data ss:Type="String">Prozkoumej rituál</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q4_S10_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Face the Cultist of the Sleeper</Data></Cell>
-    <Cell><Data ss:Type="String">Vyzvi kultistu Spáče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s84"><Data ss:Type="String">Act1_Main5</Data></Cell>
@@ -899,27 +859,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A1_Q5_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Secrets of Anankis</Data></Cell>
-    <Cell><Data ss:Type="String">Tajemství Anankis</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Open the Gate of Anankis</Data></Cell>
-    <Cell><Data ss:Type="String">Otevři bránu Anankis</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach Anankis' Hall 1</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do síně Anankis 1. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Explore Anankis' Hall 1</Data></Cell>
-    <Cell><Data ss:Type="String">Prozkoumej síň Anankis 1. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Pursue the Cultist</Data></Cell>
-    <Cell><Data ss:Type="String">Jdi po stopách kultisty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S5_StepNameLabel</Data></Cell>
@@ -927,17 +882,14 @@
       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#008000">Reach</Font><Font
        html:Size="12" html:Color="#008000"> Anankis' Core Overlo</Font><Font
        html:Color="#008000">ok</Font></ss:Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Vyhlídky jádra Anankis</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S5_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Explore Anankis' Hall 2</Data></Cell>
-    <Cell><Data ss:Type="String">Prozkoumej síň Anankis 2. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S5_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
-    <Cell><Data ss:Type="String">Poslouchej okolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S5_UpdateStepNameLabel3</Data></Cell>
@@ -945,102 +897,82 @@
       xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#008000">Reach</Font><Font
        html:Size="12" html:Color="#008000"> Anankis' Core Overlo</Font><Font
        html:Color="#008000">ok</Font></ss:Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Vyhlídku jádra Anankis</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S6_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Talk to the Cultist</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s kultistou</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A1_Q5_EventQuestLabel1</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Fear No Evil</Data></Cell>
-    <Cell><Data ss:Type="String">Neboj se zla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A1_Q5_EventSteptLabel1</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Silence the Whisper of Anameterassü</Data></Cell>
-    <Cell><Data ss:Type="String">Utiš šepot Anameterassü</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S6_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Banish Yudaï</Data></Cell>
-    <Cell><Data ss:Type="String">Poraž Yudai</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S6_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Talk to the Primordial Guardian</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Prvotním strážcem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S8_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach Anankis's Halls 3</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do síní Anankis 3. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S8_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Explore Anankis's Halls 3</Data></Cell>
-    <Cell><Data ss:Type="String">Prozkoumej síně Anankis 3. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A1_Q5_EventQuestLabel2</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">No Matter the Odds</Data></Cell>
-    <Cell><Data ss:Type="String">Bez ohledu na šanci</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A1_Q5_EventStepNametLabel2_1</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Subjugate Justicar Edric</Data></Cell>
-    <Cell><Data ss:Type="String">Podmaň si justikáře Edrica</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A1_Q5_EventStepNametLabel2_2</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Resist Edric</Data></Cell>
-    <Cell><Data ss:Type="String">Odolej Edricovi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A1_Q5_EventStepNametLabel2_3</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Kill your Brother</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij svého bratra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S9_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach Anankis' Core Overlook 2</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Vyhlídky jádra Anankis 2. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S10_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Explore Anankis' Core Overlook 2</Data></Cell>
-    <Cell><Data ss:Type="String">Porzkoumej Vyhlídku jádra Anankis 2. patro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S11_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Core</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Jádra</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S11_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Explore the Core</Data></Cell>
-    <Cell><Data ss:Type="String">Prozkoumej Jádro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S11_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Face Judgement</Data></Cell>
-    <Cell><Data ss:Type="String">Čel rozsudku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S12_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to the Primordial Guardian Spirit</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s duchem Prvotního strážce</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S13_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Merchant-Prince Damaskus</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s princem obchodníků Damaskusem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A1_Q5_S14_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Give your report to Merchant-Prince Damaskus</Data></Cell>
-    <Cell><Data ss:Type="String">Podej zprávu princi obchodníků Damaskusem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">Act2_Main1</Data></Cell>
@@ -1049,37 +981,30 @@
    <Row ss:AutoFitHeight="0" ss:Height="21.75">
     <Cell ss:StyleID="s92"><Data ss:Type="String">ui_A2_Q1_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Chasing Val</Data></Cell>
-    <Cell><Data ss:Type="String">Pronásledování Val</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q1_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Track Down Valeria</Data></Cell>
-    <Cell><Data ss:Type="String">Vystopuj Valerii</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q1_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Leave the Area</Data></Cell>
-    <Cell><Data ss:Type="String">Opusť oblast</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q1_S2_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Kill Janaris and his Minions</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij Janaris a jeho Posluhovače</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q1_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Valeria</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Valerií</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q1_S3_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
-    <Cell><Data ss:Type="String">Poslouchej okolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q1_S3_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to the Dying Shaman</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s umírajícím šamanem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">Act2_Main2</Data></Cell>
@@ -1088,82 +1013,66 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s92"><Data ss:Type="String">ui_A2_Q2_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Creeping Shadows</Data></Cell>
-    <Cell><Data ss:Type="String">Plíživé stíny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Find the Entrance to the Shadow Worshippers' Lair</Data></Cell>
-    <Cell><Data ss:Type="String">Najdi vstup do doupěte Uctívačů stínu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S1_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Look for Zima</Data></Cell>
-    <Cell><Data ss:Type="String">Najdi Zimu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S1_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Free Zima</Data></Cell>
-    <Cell><Data ss:Type="String">Osvoboď Zimu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S1_UpdateStepNameLabel3</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Zima</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si se Zimou</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Go through Shadaron Forest and find Mercy's Arena</Data></Cell>
-    <Cell><Data ss:Type="String">Projdi skrze Shedaronský Les a najdi Mercyinu arénu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S2_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Zima</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si se Zimou</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Enter Mercy's Arena</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Mercyiny arény</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S3_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Beat Mercy's Champions</Data></Cell>
-    <Cell><Data ss:Type="String">Poraž Mercyiny šampióny</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S3_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Mercy</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Mercy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S3_UpdateStepNameLabel3</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Challenge Mercy</Data></Cell>
-    <Cell><Data ss:Type="String">Vyzvi Mercy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_A2_Q2_EventQuestLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">The Avenger</Data></Cell>
-    <Cell><Data ss:Type="String">Mstitel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S3_EventStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Kill Mercy</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij Mercy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
-    <Cell><Data ss:Type="String">Poslouchej okolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S5_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Enter Zima's Portal</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Zimova portálu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q2_S5_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Zima</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si se Zimou</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="12">
     <Cell ss:StyleID="s90"><Data ss:Type="String">Act2_Main3</Data></Cell>
@@ -1172,82 +1081,66 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s92"><Data ss:Type="String">ui_A2_Q3_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">The Darkest Dusk</Data></Cell>
-    <Cell><Data ss:Type="String">Nejtemnější Soumrak</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Approach the Brotherhood of Dawn Fortifications</Data></Cell>
-    <Cell><Data ss:Type="String">Přistup k opevnění Bratrstva úsvitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="21.75">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S1_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Valeria</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Valerií</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Enter the Brotherhood of Dawn Fortifications</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do opevnění Bratrstva úsvitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S2_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Clear the Area</Data></Cell>
-    <Cell><Data ss:Type="String">Vyčisti oblast</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Valeria</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Valerií</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S3_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Enter the Vault of Hope</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do krypty Naděje</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Look for the Remaining Brothers</Data></Cell>
-    <Cell><Data ss:Type="String">Hledej pozůstalé Bratry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S5_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Enter the Sanctum of Hope</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do svatyně Naděje</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S5_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
-    <Cell><Data ss:Type="String">Poslouchej okolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S5_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Talk to Gernese</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Gernesem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S5_UpdateStepNameLabel3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
-    <Cell><Data ss:Type="String">Poslouchej okolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S6_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to the Aurora Knight</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s rytířem Jitřenky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S6_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Resist the Onslaught</Data></Cell>
-    <Cell><Data ss:Type="String">Odolej útoku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S6_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Use your Aspect of Apocalypse to prevail</Data></Cell>
-    <Cell><Data ss:Type="String">Použij své Apokalyptické bytí, abys vyhrál</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q3_S6_UpdateStepNameLabel3</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Gernese</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Gernesem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="17.25">
     <Cell ss:StyleID="s90"><Data ss:Type="String">Act2_Main4</Data></Cell>
@@ -1256,57 +1149,46 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s92"><Data ss:Type="String">ui_A2_Q4_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Dawnbringer</Data></Cell>
-    <Cell><Data ss:Type="String">Posel Úsvitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q4_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Gernese</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Gernesem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q4_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Valeria</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Valerií</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q4_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach Helmshire</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Helmshire</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q4_S3_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Find the Necromantic Origin</Data></Cell>
-    <Cell><Data ss:Type="String">Najdi zdroj nekromancie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q4_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Enter the Necromantic Ritual</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do nekromantského rituálu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q4_S4_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Listen to the Surroundings</Data></Cell>
-    <Cell><Data ss:Type="String">Poslouchej okolí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q4_S4_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Nerukaï</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Nerukai</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q4_S4_UpdateStepNameLabel3</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">End the Necromantic Ritual</Data></Cell>
-    <Cell><Data ss:Type="String">Ukonči nekromantský rituál</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q4_EventQuestLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Demon Hunting</Data></Cell>
-    <Cell><Data ss:Type="String">Lov Démonů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q4_EventStepLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Banish Nerukaï and destroy Mercy… again</Data></Cell>
-    <Cell><Data ss:Type="String">Poraž Nerukai a znič Mercy… znovu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s90"><Data ss:Type="String">Act2_Main5</Data></Cell>
@@ -1315,122 +1197,98 @@
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s92"><Data ss:Type="String">ui_A2_Q5_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Journey into Madness</Data></Cell>
-    <Cell><Data ss:Type="String">Cesta k šílenství</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Report back to Gernese in his camp by Fast Travelling using the Worldmap</Data></Cell>
-    <Cell><Data ss:Type="String">Podej zprávu Gernesovi v jeho táboře. Použij rychlé cestování na mapě světa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Journey Toward Cordanon</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej se do Cordanonu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S2_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Journey Toward Cordanon</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej se do Cordanonu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Survive the Ambush</Data></Cell>
-    <Cell><Data ss:Type="String">Přežij útok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S3_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Defeat Justicar Azenhal</Data></Cell>
-    <Cell><Data ss:Type="String">Poraž justikáře Azenhala</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S3_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to the Creature</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si se Stvořením</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Explore the Flesh Frontier</Data></Cell>
-    <Cell><Data ss:Type="String">Prozkoumej Tělesnou hranici</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S4_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to The Lambach</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Lambachem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S4_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Journey through the Flesh Frontier</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej se skrz Tělesnou hranici</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S4_UpdateStepNameLabel3</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Destroy the Hearts of Corruption</Data></Cell>
-    <Cell><Data ss:Type="String">Znič Srdce nákazy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S5_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Leave the Flesh Frontier</Data></Cell>
-    <Cell><Data ss:Type="String">Opusť Tělesnou hranici</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S5_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Flesh Forest</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Tělesného lesa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S6_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Journey through the Flesh Forest</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej se skrz Tělesný les</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S6_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Destroy the Hearts of Corruption</Data></Cell>
-    <Cell><Data ss:Type="String">Znič Srdce nákazy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S7_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Leave Flesh Forest</Data></Cell>
-    <Cell><Data ss:Type="String">Opusť Tělesný les</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S7_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Enter the Cordanon's Mines</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Cordanonských dolů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S8_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Journey through the Cordanon's Mines</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej se skrz Cordanonské doly</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S8_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach Cordanon</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Cordanonu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S9_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Look for the Brotherhood of Dawn men</Data></Cell>
-    <Cell><Data ss:Type="String">Podívej se po lidech z Bratrství úsvitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S10_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Approach Cordanon</Data></Cell>
-    <Cell><Data ss:Type="String">Přistup ke Cordanonu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S9_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Destroy All Foes</Data></Cell>
-    <Cell><Data ss:Type="String">Znič všechny nepřátele</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S9_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Banish Zaalbezül</Data></Cell>
-    <Cell><Data ss:Type="String">Poraž Zaalbezül</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q5_S9_UpdateStepNameLabel3</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Valeria</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Valerií</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">Act2_Main6</Data></Cell>
@@ -1439,77 +1297,62 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s92"><Data ss:Type="String">ui_A2_Q6_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Cordial Invitation</Data></Cell>
-    <Cell><Data ss:Type="String">Srdečné Pozvání</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Delve into the Incubation Chambers</Data></Cell>
-    <Cell><Data ss:Type="String">Ponoř se do Inkubačních komnat</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Lambach</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Lambachem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_S2_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Kill Valeria's Clones</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij klon Valerie</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_S2_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Leave the Area</Data></Cell>
-    <Cell><Data ss:Type="String">Opusť oblast</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Delve Deeper</Data></Cell>
-    <Cell><Data ss:Type="String">Ponoř se hlouběji</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Corrupted Catalyst Overlook</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do vyhlídky na Zkažený katalyzátor</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_S5_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Genesis</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Geneze</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_S5_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Lambach</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Lambachem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_S5_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fight the Flesh Creatures</Data></Cell>
-    <Cell><Data ss:Type="String">Bojuj proti bytostem Z Masa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_EventQuestLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Charming</Data></Cell>
-    <Cell><Data ss:Type="String">Okouzlující</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_EventStepLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Kill Lambach</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij Lambacha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_EventStepLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Really kill Lambach</Data></Cell>
-    <Cell><Data ss:Type="String">Vážně zabij Lambacha</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_S6_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Gernese</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Gernesem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_A2_Q6_S7_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Give the First Piece of the Helion to Gernese in his camp by Fast Travelling using the Worldmap</Data></Cell>
-    <Cell><Data ss:Type="String">Přines první část Helionu Gernesovi v jeho táboře. Použij rychlé cestování na mapě světa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">Act3_Main1</Data></Cell>
@@ -1518,72 +1361,58 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Illusions of Peace</Data></Cell>
-    <Cell><Data ss:Type="String">Iluze míru</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Gernese</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Gernesem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S1_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Find a Path to the Vault of Truth</Data></Cell>
-    <Cell><Data ss:Type="String">Najdi cestu do Krypty pravdy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S1_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Aurora Knight Gendris</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s rytířem jitřenky Gendrisem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S1_UpdateStepNameLabel3</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Use the Escape Tunnel to Enter the Vault of Truth</Data></Cell>
-    <Cell><Data ss:Type="String">Použij únikový tunel a dostaň se do Krypty pravdy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Enter the Vault of Truth's Main Halls</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do hlavní síně Krypty pravdy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the end of a Wing and Attune to its Altar</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej se na konec křídla a slaď se s oltářem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S3_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach and Attune to the Altar on the other Wing</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej a slaď se s oltářem v druhém křídle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Sanctum of Truth</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Svatyně Pravdy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S5_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Take the Second Part of the Helion</Data></Cell>
-    <Cell><Data ss:Type="String">Vezmi druhou část Helionu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S5_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Banish Sinadrahel and his Allies</Data></Cell>
-    <Cell><Data ss:Type="String">Poraž Sinadrahel a jeho spojence</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S5_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Retrieve the Second Part of the Helion</Data></Cell>
-    <Cell><Data ss:Type="String">Získej druhou část Helionu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S6_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Gernese in his camp by Fast Travelling using the Worldmap</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Gernesem v jeho táboře. Použij rychlé cestování na mapě světa</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q1_S7_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Valeria</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Valerií</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">Act3_Main2</Data></Cell>
@@ -1592,62 +1421,50 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q2_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Infiltration</Data></Cell>
-    <Cell><Data ss:Type="String">Infiltrace</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q2_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Journey through the Red Wastes</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej se skrz Rudou pustinu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q2_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Journey to the Battlefield Overlook</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej se k Výhlídce na bojišti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q2_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Journey through the Republican Backline</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej se skrz Republikánskou zadní linii</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q2_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Journey through the Purifiers Battlefield</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej se skrz Bojiště očistitelů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q2_S5_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach Crimson Keep's Remparts</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Karmínové věže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q2_S6_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Enter the Bridgehead</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Předmostí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q2_S6_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Kill the Pacified Republicans</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij všechny potlačené republikány</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q2_S6_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Survive to the Counter-Attack</Data></Cell>
-    <Cell><Data ss:Type="String">Přežij protiútok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q2_S6_UpdateStepNameLabel3</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Kill Ydrael and his Puppet</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij Ydraela a jeho loutku</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q2_S6_UpdateStepNameLabel4</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Heimlock</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Heimlockem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q2_S7_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Use the Portal</Data></Cell>
-    <Cell><Data ss:Type="String">Použij portál</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">Act3_Main3</Data></Cell>
@@ -1656,72 +1473,58 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">The Gates of Fury</Data></Cell>
-    <Cell><Data ss:Type="String">Zuřivé brány</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fight through Cell-H's Remparts</Data></Cell>
-    <Cell><Data ss:Type="String">Probojuj se skrze hradby v sektoru H</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S1_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Eastern Tower</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Východní věže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Heimlock</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Heimlockem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S2_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fight through Cell-G's Remparts</Data></Cell>
-    <Cell><Data ss:Type="String">Probojuj se skrz hradby v sektoru G</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S2_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Enter the Western Tower</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Západní věže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Main Gate Opening Mechanism</Data></Cell>
-    <Cell><Data ss:Type="String">Dosáhni otvíracího mechanismu hlavní brány</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S3_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Activate the Main Gate Opening Mechanism</Data></Cell>
-    <Cell><Data ss:Type="String">Aktivuj otvírací mechanismus hlavní brány</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Top of the Western Tower</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup na vrchol Západní věže</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S4_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Defend the Gate Mechanism Generator</Data></Cell>
-    <Cell><Data ss:Type="String">Braň generátor mechanismu brány</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S4_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Kill Nikölas, The Spear of Balance</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij Nikölase, Kopí rovnováhy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S6_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Monolith's Entrance</Data></Cell>
-    <Cell><Data ss:Type="String">Dosáhni vstupu do monolitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S5_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Heimlock</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Heimlockem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q3_S5_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Valeria</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Valerií</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">Act3_Main4</Data></Cell>
@@ -1730,97 +1533,78 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_QuestLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Fury's Ascent</Data></Cell>
-    <Cell><Data ss:Type="String">Nárust Zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S1_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Enter the Monolith</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do monolitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S1_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Journey through the Monolith's Lower Halls</Data></Cell>
-    <Cell><Data ss:Type="String">Vydej se skrz Dolní síně monolitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S1_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Monolith's Upper Halls</Data></Cell>
-    <Cell><Data ss:Type="String">Vstup do Horních síní monolitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S2_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Anasareth</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Anasareth</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S2_UpdateStepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Kill the three Instruments of Fury</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij tři Nástroje zuřivosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S3_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Reach the Conflux's Portal</Data></Cell>
-    <Cell><Data ss:Type="String">Dosáhni Soutokového portálu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S3_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Anasareth</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Anasareth</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S3_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Use the Conflux's Portal</Data></Cell>
-    <Cell><Data ss:Type="String">Použij Soutokový portál</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S4_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Explore the Area</Data></Cell>
-    <Cell><Data ss:Type="String">Prozkoumej oblast</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S4_UpdateStepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Activate the Conflux Access Platform</Data></Cell>
-    <Cell ss:StyleID="s94"><Data ss:Type="String">Aktivuj přístupovou platformu Soutokového portálu&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S4_UpdateStepNameLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Heimlock</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Heimlockem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S5_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Talk to Gernese</Data></Cell>
-    <Cell><Data ss:Type="String">Promluv si s Gernesem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q5_EventQuestLabel2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Patricide</Data></Cell>
-    <Cell><Data ss:Type="String">Otcovražda</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q5_EventStepNametLabel2_1</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Overpower Heimlock</Data></Cell>
-    <Cell><Data ss:Type="String">Vyčerpej Heimlocka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q5_EventStepNametLabel2_2</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Vainquish Heimlock</Data></Cell>
-    <Cell><Data ss:Type="String">Přemož Haimlocka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q5_EventStepNametLabel2_3</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Break Heimlock</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij Haimlocka</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S7_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Thrive in Champion of Stormfall Mode</Data></Cell>
-    <Cell><Data ss:Type="String">Rozvíjej se dále v režimu Šampion Stormfallu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_A3_Q4_S8_StepNameLabel</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">Thrive in Champion of Stormfall Mode</Data></Cell>
-    <Cell><Data ss:Type="String">Rozvíjej se dále v režimu Šampion Stormfallu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:Span="104"/>
    <Row ss:Index="463" ss:AutoFitHeight="0" ss:Height="25.5"/>

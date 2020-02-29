@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>11715</WindowHeight>
+  <WindowHeight>12315</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -216,7 +216,7 @@
     <Cell ss:StyleID="s67"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
-    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s71"><Data ss:Type="String">WORLD</Data></Cell>
@@ -233,7 +233,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AdventureCharacter1_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Mandates Board</Data></Cell>
-    <Cell><Data ss:Type="String">Tabule pověření</Data></Cell>
+    <Cell><Data ss:Type="String">Tabule Mandátů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AdventureCharacter2_CharacterNameLabel</Data></Cell>
@@ -532,12 +532,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_WaypointUnlocked</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">%1 waypoint unlocked</Data></Cell>
-    <Cell><Data ss:Type="String">%1 cestoní portál odemčen</Data></Cell>
+    <Cell><Data ss:Type="String">%1 cestovní portál odemčen</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s83"><Data ss:Type="String">ui_reset_dungeon</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Interact to generate a new dungeon</Data></Cell>
-    <Cell><Data ss:Type="String">Použij, k vytvoření nového dungeonu</Data></Cell>
+    <Cell><Data ss:Type="String">Použij k vytvoření nového dungeonu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s77"><Data ss:Type="String">Sleeping</Data></Cell>
@@ -614,7 +614,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_worldmap_waypoint</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Waypoint</Data></Cell>
-    <Cell><Data ss:Type="String">Waypoint</Data></Cell>
+    <Cell><Data ss:Type="String">Cestovní portál</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_worldmap_act_hub</Data></Cell>
@@ -979,7 +979,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_TemplarCamp_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Daybreakers Breached Fort</Data></Cell>
-    <Cell><Data ss:Type="String">Narušená pevnost daybreakerů</Data></Cell>
+    <Cell><Data ss:Type="String">Narušená pevnost Daybreakerů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_PSOverlook_name</Data></Cell>
@@ -1029,7 +1029,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_TemplarCampExterior_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Daybreakers' Valley</Data></Cell>
-    <Cell><Data ss:Type="String">Údolí daybreakerů</Data></Cell>
+    <Cell><Data ss:Type="String">Údolí Daybreakerů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_Flesh_City_Inner_name</Data></Cell>
@@ -1216,7 +1216,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_dawn_gate_hall_name</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Vault of Truth's Dawngate</Data></Cell>
-    <Cell><Data ss:Type="String">Spodní brána krypty pravdy</Data></Cell>
+    <Cell><Data ss:Type="String">Spodní brána úsvitu krypty pravdy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_elevator_platform_name</Data></Cell>

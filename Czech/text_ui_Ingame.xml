@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>11715</WindowHeight>
+  <WindowHeight>12315</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -123,7 +123,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2603795254912">
+  <Style ss:ID="m1954701159680">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -134,7 +134,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2603795254288">
+  <Style ss:ID="m1954701159472">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -145,7 +145,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2603795254308">
+  <Style ss:ID="m1954701159492">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -156,7 +156,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2603795254328">
+  <Style ss:ID="m1954701159512">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -167,7 +167,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2603795254348">
+  <Style ss:ID="m1954701159532">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -178,7 +178,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2603795254368">
+  <Style ss:ID="m1954701159552">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -189,7 +189,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2603795254388">
+  <Style ss:ID="m1954701159572">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -200,7 +200,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2603795253872" ss:Parent="s62">
+  <Style ss:ID="m1954701159264" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -211,7 +211,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2603795253892">
+  <Style ss:ID="m1954701159284">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -222,7 +222,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2603795253912">
+  <Style ss:ID="m1954701159304">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -233,7 +233,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2603795253932">
+  <Style ss:ID="m1954701159324">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -244,7 +244,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2603795253952">
+  <Style ss:ID="m1954701159344">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -255,7 +255,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2603795253972">
+  <Style ss:ID="m1954701159364">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -339,6 +339,19 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
+  <Style ss:ID="s109" ss:Parent="s65">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF0000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
   <Style ss:ID="s110">
    <Borders/>
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#333333"/>
@@ -379,7 +392,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795253872"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159264"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PlayerChest_UnlockCost</Data></Cell>
@@ -397,7 +410,7 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">Inventář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795253892"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159284"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_party_leader_is_choosing_adventure</Data></Cell>
@@ -527,7 +540,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_cannot_replace_used_skill</Data></Cell>
     <Cell ss:StyleID="s94"><Data ss:Type="String">You cannot move a spell during its cooldown.</Data></Cell>
-    <Cell><Data ss:Type="String">Nemůžeš přemístit kouzlo během jeho času dobíjení.</Data></Cell>
+    <Cell><Data ss:Type="String">Nemůžeš přemístit kouzlo během aktivního cooldownu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_cant_equip_unique_twice</Data></Cell>
@@ -592,17 +605,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_socketnotempty</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">This gem socket is not empty.</Data></Cell>
-    <Cell><Data ss:Type="String">Místo k osazení drahokamem není prázdné.</Data></Cell>
+    <Cell><Data ss:Type="String">Tento socket pro drahokam není prázdný.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_cantsocketbasicinunique</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot put a basic gem into a Unique socket.</Data></Cell>
-    <Cell><Data ss:Type="String">Nemůžeš osadit základní drahokam do unikátního slotu.</Data></Cell>
+    <Cell><Data ss:Type="String">Nemůžeš vložit základní drahokam do unikátního socketu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_cantsocketuniqueinbasic</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot put a Unique gem into a basic socket.</Data></Cell>
-    <Cell><Data ss:Type="String">Nemůžeš osadit unikátní drahokam do základního slotu.</Data></Cell>
+    <Cell><Data ss:Type="String">Nemůžeš vložit unikátní drahokam do základního socketu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_gem_levelprereqnotsatisfied</Data></Cell>
@@ -691,13 +704,13 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_maximum_affix_count_reached</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot use this Reagent: maximum Affix count reached.</Data></Cell>
-    <Cell><Data ss:Type="String">Reagent nelze použít: byl dosažen maximální počet Affixů.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot use this Reagent: maximum Magic Effect count reached.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagent nelze použít: byl dosažen maximální počet Magických efektů.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_minimum_affix_count_reached</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot use this Reagent: minimum Affix count reached.</Data></Cell>
-    <Cell><Data ss:Type="String">Reagent nelze použít: byl dosažen minimální počet Affixů.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot use this Reagent: minimum Magic Effect count reached.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagent nelze použít: byl dosažen minimální počet Magických efektů.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_craft_incompatible_rarities</Data></Cell>
@@ -711,8 +724,8 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_no_affix_available_to_add</Data></Cell>
-    <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot use this Reagent: no Affixes available to add.</Data></Cell>
-    <Cell><Data ss:Type="String">Reagent nelze použít: Nejsou dostupné žádné Affixy.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot use this Reagent: no Magic Effects available to add.</Data></Cell>
+    <Cell><Data ss:Type="String">Reagent nelze použít: Nejsou dostupné žádné Magické efekty.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_can_only_craft_weapon_or_armor</Data></Cell>
@@ -802,7 +815,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_not_enough_points</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot unlock an Aspects of Apocalypse without a Unlock Point.</Data></Cell>
-    <Cell><Data ss:Type="String">Nemůžeš odemknout Apokalyptické bytí bez Odblokovacího bodu</Data></Cell>
+    <Cell><Data ss:Type="String">Nemůžeš odemknout Aspekty Apokalypsy bez Odblokovacího bodu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_not_possible_now</Data></Cell>
@@ -830,7 +843,7 @@
     <Cell><Data ss:Type="String">Hněv Sarisel není v tomto herní režimu dostupný.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795253912"><Data ss:Type="String">ARCHIVIST</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159304"><Data ss:Type="String">ARCHIVIST</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_knowledge</Data></Cell>
@@ -863,7 +876,7 @@
     <Cell><Data ss:Type="String">Duplikát</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795253932"><Data ss:Type="String">JEWELER</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159324"><Data ss:Type="String">JEWELER</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_title</Data></Cell>
@@ -873,7 +886,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_itemhasnosocket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">This item does not have a gem socket.</Data></Cell>
-    <Cell><Data ss:Type="String">Tento předmět nemá místo na osazení drahokamem.</Data></Cell>
+    <Cell><Data ss:Type="String">Tento předmět nemá socket pro drahokam.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_itemhasnogem</Data></Cell>
@@ -898,7 +911,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_reroll_sockets</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Re-roll Item Sockets</Data></Cell>
-    <Cell><Data ss:Type="String">Zmeň počet míst na osazení drakokamy</Data></Cell>
+    <Cell><Data ss:Type="String">Zmeň počet socketů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_socketRerollCost</Data></Cell>
@@ -908,20 +921,20 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_socket_reroll_items_has_gems</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot re-roll item sockets one items that have gems socketed.</Data></Cell>
-    <Cell><Data ss:Type="String">Nelze změnit počet míst na předmětech, když jsou předměty osazeny drahokamy.</Data></Cell>
+    <Cell><Data ss:Type="String">Nelze změnit počet socketů na předmětu, když jsou předměty osázeny drahokamy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_socket_reroll_cannot_have_sockets</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot re-roll item sockets on items that do not have sockets.</Data></Cell>
-    <Cell><Data ss:Type="String">Nelze změnit počet míst na předmětech, když předměty žádné místo neobsahují.</Data></Cell>
+    <Cell><Data ss:Type="String">Nelze změnit počet socketů na předmětech, když předměty žádné sockety neobsahují.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_socket_reroll_sockets_locked</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You cannot re-roll item sockets on items where the sockets are locked.</Data></Cell>
-    <Cell><Data ss:Type="String">Nelze změnit počet míst na předmětech kde jsou místa uzamčené. </Data></Cell>
+    <Cell><Data ss:Type="String">Nelze změnit počet socketů na předmětech, kde jsou sockety uzamčené. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795253952"><Data ss:Type="String">VOTING + EVENTS + SARISEL MODE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159344"><Data ss:Type="String">VOTING + EVENTS + SARISEL MODE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_reset_sarisel_adventure_popup_title</Data></Cell>
@@ -961,7 +974,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_charger_killspawns</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">An Untainted Zealot has appeared!\nKill the clones to defeat it!</Data></Cell>
-    <Cell><Data ss:Type="String">Objevil se Neposkvrněný Zaelot!\nZabij klony, abys ho porazil!</Data></Cell>
+    <Cell><Data ss:Type="String">Objevil se Neposkvrněný Fanatik!\nZabij klony, abys ho porazil!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Adventure_SariselMode_RewardChest_QuestLabel</Data></Cell>
@@ -1001,7 +1014,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Sirkis_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Despite the surrounding Soul Surges that chill the air, there is a very clear stream of warmth that emanates from this cave.</Data></Cell>
-    <Cell><Data ss:Type="String">I přes okolní Duševní vzedmutí, které ochlazuje vzduch, je zde velmi zřetelný proud tepla, který vyzařuje z této jeskyně.</Data></Cell>
+    <Cell><Data ss:Type="String">I přes okolní duševní vzedmutí, které ochlazuje vzduch, je zde velmi zřetelný proud tepla, který vyzařuje z této jeskyně.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_StormfallInn_title</Data></Cell>
@@ -1011,7 +1024,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_StormfallInn_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Nothing like resting at the luxury inn of the Palace District to meet Valeria. The Laughing Sea Gal' knows how to welcome its customers, even in a city on the brink of chaos.</Data></Cell>
-    <Cell><Data ss:Type="String">Chceš-li se setkat s Valérií, nečekej nic jako odpočinek v luxusním hostinci v Palácové čtvrti. U Smějící se Mořské hoky vědí, jak přivítat své zákazníky, a to i ve městě na pokraji chaosu.</Data></Cell>
+    <Cell><Data ss:Type="String">Chceš-li se setkat s Valerií, nečekej nic jako odpočinek v luxusním hostinci v Palácové čtvrti. U Smějící se Mořské Panny vědí, jak přivítat své zákazníky, a to i ve městě na pokraji chaosu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Naarlog_title</Data></Cell>
@@ -1021,7 +1034,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Naarlog_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You and Edric are almost through the Flayers' territory. Smoke rises from the Brotherhood of Dawn's camp; the Purifier's army shouldn't be far now.</Data></Cell>
-    <Cell><Data ss:Type="String">Ty a Edric jste už skoro skrz území Stahovačů. Z tábora Bratrstva Úsvitu stoupá kouř; Armáda Čističů by teď neměla být daleko.</Data></Cell>
+    <Cell><Data ss:Type="String">Ty a Edric jste už skoro skrz území Stahovačů. Z tábora Bratrstva Úsvitu stoupá kouř; Armáda Očistitelů by už neměla být daleko.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_UmbraRelay_title</Data></Cell>
@@ -1041,7 +1054,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_TPS_EdricAmbush_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You finally reached the tainted Core of Anankis. Now you will have to find a way to stop it if Stormfall is to be saved.</Data></Cell>
-    <Cell><Data ss:Type="String">Konečně jste dosáhli Zkaženého jádra Anankisu. Nyní budete muset najít způsob, jak ho zastavit, pokud má být Stormfall zachráněn.</Data></Cell>
+    <Cell><Data ss:Type="String">Konečně jste dosáhli zkaženého jádra Anankisu. Nyní budete muset najít způsob, jak ho zastavit, pokud má být Stormfall zachráněn.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Yudai_title</Data></Cell>
@@ -1061,7 +1074,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BanditOutpost_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Flayers Wildlings are mobilizing in the distance. Something is chasing after them.</Data></Cell>
-    <Cell><Data ss:Type="String">Divousové Stahovačů se shromažďují v dálce. Něco se za nimi žene.</Data></Cell>
+    <Cell><Data ss:Type="String">Divochové Stahovačů se shromažďují v dálce. Něco se za nimi žene.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_MeetHeimlock_title</Data></Cell>
@@ -1071,7 +1084,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_MeetHeimlock_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The Purifiers camp shouldn't be far now. There is little doubt that Maëlys is already on the way to 'welcome' you and Edric. You must reach Grand Inquisitor Heimlock and plead your case to cease the infighting about your supposed 'witchcraft'.</Data></Cell>
-    <Cell><Data ss:Type="String">Tábor Čističů by teď neměl být daleko. Není pochyb o tom, že Maëlys už je na cestě &quot;přivítat&quot; tebe i s Edricem. Musíš zastihnout Velkého inkvizitora Heimlocka a obhájit svůj připad, abys zastavil vnitřní boje o tvé domnělé &quot;čarodějnictví&quot;.</Data></Cell>
+    <Cell><Data ss:Type="String">Tábor Očistitelů by teď neměl být daleko. Není pochyb o tom, že Maëlys už je na cestě &quot;přivítat&quot; tebe i s Edricem. Musíš zastihnout Velkého Inkvizitora Heimlocka a obhájit svůj připad, abys zastavil vnitřní boje o tvé domnělé &quot;čarodějnictví&quot;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_BossFight_Vheguaad_title</Data></Cell>
@@ -1091,17 +1104,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT1_SF_ACT1_to_ACT2_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">After informing the Merchant-Prince in details about what's happening below Stormfall, he will share with you the position of Valeria that his scouts have retrieved.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Accepting will transition you and your party to Chapter 2]&lt;/Font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">Poté, co tě Obchodní Kníže  podrobně informuje o tom, co se děje pod Stormfallem, podělí se s tebou o pozici Valerie, kterou jeho zvědové získali.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Přijetí přemístí tvou skupinu do Kapitoly 2]&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">Poté, co tě Princ Obchodníků podrobně informuje o tom, co se děje pod Stormfallem, podělí se s tebou o pozici Valerie, kterou jeho zvědové získali.\n\n&lt;Color=&quot;#ff0000&quot;&gt;[Přijetí přemístí tvou skupinu do Kapitoly 2]&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_MercyArena_title</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Begging for Mercy</Data></Cell>
-    <Cell><Data ss:Type="String">Žebrání o milost</Data></Cell>
+    <Cell><Data ss:Type="String">Žebrání o lítost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_MercyArena_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Mercy seems to rule from this arena. To get Zima's help and break the Shadow-wall, you need to put him down. If legends about him are true, expect the worst.</Data></Cell>
-    <Cell><Data ss:Type="String">Milosrdenství, zdá se, vládne z této arény. Abys získal Zimovu pomoc a prolomil Stínovou zeď, musíš ho složit. Pokud jsou legendy o něm pravdivé, čekej to nejhorší.</Data></Cell>
+    <Cell><Data ss:Type="String">Mercy, zdá se, vládne z této arény. Abys získal pomoc od Zimy a prolomil Temnou Stěnu, musíš ho složit. Pokud jsou legendy o něm pravdivé, čekej to nejhorší.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_TC_LegionOfDeath_title</Data></Cell>
@@ -1111,7 +1124,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_TC_LegionOfDeath_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">You arrive just in time to witness Zima breaking the shadow wall. Hopefully someone survived the onslaught on the other side…</Data></Cell>
-    <Cell><Data ss:Type="String">Dorazíš právě včas, abys byl svědkem toho, jak Zima rozbíjí stínovou zeď. Doufejme, že někdo přežil nápor na druhé straně …</Data></Cell>
+    <Cell><Data ss:Type="String">Dorazíš právě včas, abys byl svědkem toho, jak Zima rozbíjí temnou stěnu. Doufejme, že někdo přežil nápor na druhé straně …</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_InnerSanctum_title</Data></Cell>
@@ -1131,7 +1144,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_VOS2Event_text</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">The smell of sulphur mixes with dead flesh as you reach the point of origin of the undead tide. Maybe you should turn around.</Data></Cell>
-    <Cell><Data ss:Type="String">Pach síry se mísí s mrtvým masem, když dosáhneš místa původu nemrtvého přílivu. Možná bys se měl otočit.</Data></Cell>
+    <Cell><Data ss:Type="String">Pach síry se mísí s mrtvým masem, když dosáhneš místa původu nemrtvého přílivu. Možná by ses měl otočit.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_vote_ACT2_ForestClearing_title</Data></Cell>
@@ -1249,7 +1262,7 @@
     <Cell><Data ss:Type="String">Odmítnout</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795253972"><Data ss:Type="String">OBJECTS AND ALTARS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159364"><Data ss:Type="String">OBJECTS AND ALTARS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cursed_chest</Data></Cell>
@@ -1344,7 +1357,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s104"><Data ss:Type="String">ui_apoglobe_altar</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Aspects of Apocalypse Shrine</Data></Cell>
-    <Cell><Data ss:Type="String">Svatyně Apokalyptických bytí</Data></Cell>
+    <Cell><Data ss:Type="String">Svatyně Aspektů Apokalypsy</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s104"><Data ss:Type="String">ui_buff_tooltip</Data></Cell>
@@ -1397,7 +1410,7 @@
     <Cell><Data ss:Type="String">Katalyzátor tělesné víry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795254288"><Data ss:Type="String">AREA MODIFIER ALTAR UI</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159472"><Data ss:Type="String">AREA MODIFIER ALTAR UI</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_map_modifier</Data></Cell>
@@ -1540,7 +1553,7 @@
     <Cell><Data ss:Type="String">Hráči mají %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795254308"><Data ss:Type="String">AREA MODIFIERS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159492"><Data ss:Type="String">AREA MODIFIERS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_desc</Data></Cell>
@@ -1598,7 +1611,7 @@
     <Cell><Data ss:Type="String">Nepřátele mají %1 Odolnost vůči Fyzickému poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795254328"><Data ss:Type="String">SARISEL MODE VICTORY SCREEN</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159512"><Data ss:Type="String">SARISEL MODE VICTORY SCREEN</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s107"><Data ss:Type="String">ui_BuffAppliedCountPerPlayer</Data></Cell>
@@ -1668,12 +1681,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s81">
     <Cell><Data ss:Type="String">ui_NumberOfElitesKilled</Data></Cell>
     <Cell ss:StyleID="s108"><Data ss:Type="String">Number of Champions Killed</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Počet zabitých Šampionů</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Počet zabitých Šampionů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.4375" ss:StyleID="s81">
     <Cell><Data ss:Type="String">ui_NumberOfCursedChestsOpened</Data></Cell>
     <Cell ss:StyleID="s108"><Data ss:Type="String">Cursed Chests</Data></Cell>
-    <Cell ss:StyleID="Default"><Data ss:Type="String">Otevřeno prokletých truhel</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Otevřeno prokletých truhel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s107"><Data ss:Type="String">ui_OverallHealPerPlayer</Data></Cell>
@@ -1731,7 +1744,7 @@
     <Cell><Data ss:Type="String">Pokročilé statistiky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795254348"><Data ss:Type="String">TRADING INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159532"><Data ss:Type="String">TRADING INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s110"><Data ss:Type="String">ui_notif_TradeInvitation</Data></Cell>
@@ -1814,7 +1827,7 @@
     <Cell><Data ss:Type="String">Klikni pravým tlačítkem k nabídnutí předmětu k obchodu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795254368"><Data ss:Type="String">MERCHANT TOOLTIPS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159552"><Data ss:Type="String">MERCHANT TOOLTIPS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_click_to_buy</Data></Cell>
@@ -1869,10 +1882,10 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_drop_on_item_to_socket</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Drag this gem to an item with an empty socket</Data></Cell>
-    <Cell><Data ss:Type="String">Přetáhni tento drahokam na místo osazení v předmětu</Data></Cell>
+    <Cell><Data ss:Type="String">Přetáhni tento drahokam na prázdný socket předmětu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795254388"><Data ss:Type="String">WEAPON TOOLTIPS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159572"><Data ss:Type="String">WEAPON TOOLTIPS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_elementalDamage</Data></Cell>
@@ -1945,7 +1958,7 @@
     <Cell><Data ss:Type="String">%1 Éter</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2603795254912"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1954701159680"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_xp_at_level</Data></Cell>
@@ -2405,7 +2418,6 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>2</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

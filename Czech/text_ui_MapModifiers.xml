@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>11715</WindowHeight>
+  <WindowHeight>12315</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -231,12 +231,12 @@
    x:FullRows="1" ss:DefaultColumnWidth="60">
    <Column ss:Width="269.25"/>
    <Column ss:AutoFitWidth="0" ss:Width="569.25"/>
-   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="333"/>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s65">
     <Cell ss:StyleID="s66"><Data ss:Type="String">KEY</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">ORIGINAL TEXT</Data><NamedCell
       ss:Name="Print_Area"/></Cell>
-    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s70"><Data ss:Type="String">MAP MODIFIERS</Data></Cell>
@@ -244,7 +244,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterBossMod</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Champion and Specialist Enemies receive an additional Boss Modifier.</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni a Specialisté získají dodatečný modifikátor bosse.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští šampioni a specialisté získají dodatečný modifikátor bosse.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_soulexplosion</Data></Cell>
@@ -254,7 +254,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_randomExplosion</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String">Explosions occur randomly while in Combat.</Data></Cell>
-    <Cell><Data ss:Type="String">Výskyt náhodných explozí během boje.</Data></Cell>
+    <Cell><Data ss:Type="String">Exploze se vyskytují náhodně během boje.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_resurectSimilar</Data></Cell>
@@ -269,22 +269,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_modifier_monsterResistAll</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String" x:Ticked="1">+%1 to Enemies' All Resistance Score.</Data></Cell>
-    <Cell><Data ss:Type="String" x:Ticked="1">+%1 k stavu Odolnosti všemu neprátel.</Data></Cell>
+    <Cell><Data ss:Type="String">+%1 ke stavu odolnosti všem nepřátel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterResistElemental</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String" x:Ticked="1">+%1 to Enemies' Elemental Resistance Score.</Data></Cell>
-    <Cell><Data ss:Type="String">+%1 k stavu Elementalní odolnosti nepřátel.</Data></Cell>
+    <Cell><Data ss:Type="String">+%1 ke stavu elementalní odolnosti nepřátel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterResistOccult</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String" x:Ticked="1">+%1 to Enemies' Occult Resistance Score.</Data></Cell>
-    <Cell><Data ss:Type="String">+%1 k stavu Okultní odolnosti nepřátel.</Data></Cell>
+    <Cell><Data ss:Type="String">+%1 ke stavu okultní odolnosti nepřátel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterResistMaterial</Data></Cell>
     <Cell ss:StyleID="s77"><Data ss:Type="String" x:Ticked="1">+%1 to Enemies' Material Resistance Score.</Data></Cell>
-    <Cell><Data ss:Type="String">+%1 k stavu Mteriální odolnosti nepřátel.</Data></Cell>
+    <Cell><Data ss:Type="String">+%1 ke stavu mteriální odolnosti nepřátel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_monsterDamageFire</Data></Cell>
@@ -489,7 +489,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monsterDotResistance</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Enemies receive -%1 Damage from Ailments.</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelé získavají o -%1 poškození oslabením.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé získavají o -%1 poškození Oslabením.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_projDamageDistance</Data></Cell>
@@ -524,52 +524,52 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_TrashesHealth</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Underling Enemies have +%1 Movement Health</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Poskoci získají o +%1 větší rychlost pohybu.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Poskoci získají o +%1 více pohybu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantsHealth</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have +%1 Movement Health</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté získají o +%1 větší rychlost pohybu.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté získají o +%1 více pohybu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_ElitesHealth</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have +%1 Movement Health</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni získají o +%1 větší rychlost pohybu.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Šampioni získají o +%1 více pohybu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monstersLessCC</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Crowd Control effects are -%1 effective on Enemies</Data></Cell>
-    <Cell><Data ss:Type="String">Efekty Ovládání davu jsou o -%1 efektivnější na Nepřátelích.</Data></Cell>
+    <Cell><Data ss:Type="String">Efekty ovládání davu jsou o -%1 efektivnější na Nepřátelích.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_TrashesLessCC</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Crowd Control effects are -%1 effective on Underling Enemies</Data></Cell>
-    <Cell><Data ss:Type="String">Efekty Ovládání davu jsou o -%1 efektivnější na nepřátelských Poskocích.</Data></Cell>
+    <Cell><Data ss:Type="String">Efekty ovládání davu jsou o -%1 efektivnější na nepřátelských Poskocích.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantsLessCC</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Crowd Control effects are -%1 effective on Specialist Enemies</Data></Cell>
-    <Cell><Data ss:Type="String">Efekty Ovládání davu jsou o -%1 efektivnější na nepřátelských Specialistech.</Data></Cell>
+    <Cell><Data ss:Type="String">Efekty ovládání davu jsou o -%1 efektivnější na nepřátelských Specialistech.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_ElitesLessCC</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Crowd Control effects are -%1 effective on Champion Enemies</Data></Cell>
-    <Cell><Data ss:Type="String">Efekty Ovládání davu jsou o -%1 efektivnější na nepřátelských Šampionech.</Data></Cell>
+    <Cell><Data ss:Type="String">Efekty ovládání davu jsou o -%1 efektivnější na nepřátelských Šampionech.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monsterBurnOnHit</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Enemies have +%1 Chance to inflict Burn on Hit</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelé mají +%1 k šanci způsobit při zásahu Hoření</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé mají +%1 k šanci způsobit při zásahu Popálení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_modifier_TrashBurnOnHit</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Underling Enemies have +%1 Chance to inflict Burn on Hit</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Poskoci mají +%1 k šanci způsobit při zásahu Hoření</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Poskoci mají +%1 k šanci způsobit při zásahu Popálení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantBurnOnHit</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have +%1 Chance to inflict Burn on Hit</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají +%1 k šanci způsobit při zásahu Hoření</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají +%1 k šanci způsobit při zásahu Popálení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monsterShockOnHit</Data></Cell>
@@ -649,137 +649,137 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monsterCurseOnHit</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Enemies have +%1 Chance to inflict Cursed on Hit</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelé mají +%1 k šanci způsobit při zásahu Prokletý</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé mají +%1 k šanci způsobit při zásahu Prokletí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_TrashCurseOnHit</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Underling Enemies have +%1 Chance to inflict Cursed on Hit</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Poskoci mají +%1 k šanci způsobit při zásahu Prokletý</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Poskoci mají +%1 k šanci způsobit při zásahu Prokletí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantCurseOnHit</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have +%1 Chance to inflict Cursed on Hit</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají +%1 k šanci způsobit při zásahu Prokletý</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají +%1 k šanci způsobit při zásahu Prokletí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monsterStasisOnHit</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Enemies have +%1 Chance to inflict Stasis on Hit</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelé mají +%1 k šanci způsobit při zásahu Stagnaci</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé mají +%1 k šanci způsobit při zásahu Stázi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s86"><Data ss:Type="String">ui_modifier_TrashStasisOnHit</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Underling Enemies have +%1 Chance to inflict Stasis on Hit</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Poskoci mají +%1 k šanci způsobit při zásahu Stagnaci</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Poskoci mají +%1 k šanci způsobit při zásahu Stázi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantStasisOnHit</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have +%1 Chance to inflict Stasis on Hit</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají +%1 k šanci způsobit při zásahu Stagnaci</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají +%1 k šanci způsobit při zásahu Stázi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_EliteStasisOnHit</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have +%1 Chance to inflict Stasis on Hit</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají +%1 k šanci způsobit při zásahu Stagnaci</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají +%1 k šanci způsobit při zásahu Stázi</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantPoisonFromSky</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have the Acid Rain Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají Šéfův modifikátor Kyselinového deště</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají bossův modifikátor Kyselinového deště</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_ElitePoisonFromSky</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have the Acid Rain Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají Šéfův modifikátor Kyselinového deště</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají bossův modifikátor Kyselinového deště</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantRandomLightning</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have the Lightning Bolts Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají Šéfův modifikátor Blesků</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají bossův modifikátor Bleskových střel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_EliteRandomLightning</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have the Lightning Bolts Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají Šéfův modifikátor Blesků</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají bossův modifikátor Bleskových střel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_modifier_LieutenantToxicProjectiles_RandomDirection</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have the Pestilent Scatter Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají Šéfův modifikátor Morové změti</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají bossův modifikátor Morového rozptylu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_modifier_EliteToxicProjectiles_RandomDirection</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have the Pestilent Scatter Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají Šéfův modifikátor Morové změti</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají bossův modifikátor Morové rozptylu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantAetherHomingProjectile</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have the Trailing Aether Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají Šéfův modifikátor Stopovacího éteru</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají bossův modifikátor Stopovacího éteru</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s82"><Data ss:Type="String">ui_modifier_EliteAetherHomingProjectile</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have the Trailing Aether Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají Šéfův modifikátor Stopovacího éteru</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají bossův modifikátor Stopovacího éteru</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_modifier_LieutenantRandomRend</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have the Rending Circles Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají Šéfův modifikátor Drásajících kruhů</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají bossův modifikátor Drásajících kruhů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_EliteRandomRend</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have the Rending Circles Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají Šéfův modifikátor Drásajících kruhů</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají bossův modifikátor Drásajících kruhů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantMeteors</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have the Meteor Strike Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají Šéfův modifikátor Meteoritického úderu</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají bossův modifikátor Meteoritického úderu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_EliteMeteors</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have the Meteor Strike Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají Šéfův modifikátor Meteoritického úderu</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají bossův modifikátor Meteoritického úderu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantBurnArea_Permanent</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have the Engulfing Flames Rain Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají Šéfův modifikátor Pohlcujícího deště plamenů</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají bossův modifikátor Pohlcujícího deště plamenů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_EliteBurnArea_Permanent</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have the Engulfing Flames Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají Šéfův modifikátor Pohlcujícího deště plamenů</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají bossův modifikátor Pohlcujícího deště plamenů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantFireHomingProjectile</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have the Flaming Missiles Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají Šéfův modifikátor Planoucích střel</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají bossův modifikátor Planoucích střel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_EliteFireHomingProjectile</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have the Flaming Missiles Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají Šéfův modifikátor Planoucích střel</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají bossův modifikátor Planoucích střel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantRendCircle</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have the Blood Ring Rain Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají Šéfův modifikátor Krvavého kruhu deště</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají bossův modifikátor Krvavého kruhu deště</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_EliteRendCircle</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have the Blood Ring Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají Šéfův modifikátor Krvavého kruhu deště</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají bossův modifikátor Krvavého kruhu deště</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_modifier_LieutenantSpearsFromSky</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have the Hail of Spears Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají Šéfův modifikátor Slávy oštěpů</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Specialisté mají bossův modifikátor Slávy oštěpů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_EliteSpearsFromSky</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Champion Enemies have the Hail of Spears Boss Modifier</Data></Cell>
-    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají Šéfův modifikátor Slávy oštěpů</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelští Šampioni mají bossův modifikátor Slávy oštěpů</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s87"/>
@@ -879,8 +879,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>9</ActiveRow>
-     <ActiveCol>5</ActiveCol>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
