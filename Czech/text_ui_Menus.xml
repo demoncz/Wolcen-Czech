@@ -1294,12 +1294,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_chat_to</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">To</Data></Cell>
-    <Cell><Data ss:Type="String">Jemu</Data></Cell>
+    <Cell><Data ss:Type="String">Pro</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_chat_whispers</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Whispers</Data></Cell>
-    <Cell><Data ss:Type="String">Šeptat</Data></Cell>
+    <Cell><Data ss:Type="String">šeptá</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_chat_w_help</Data></Cell>

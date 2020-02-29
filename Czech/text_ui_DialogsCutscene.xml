@@ -350,7 +350,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_10</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: The Children of Heimlock. My children.</Data></Cell>
-    <Cell><Data ss:Type="String">Heimlock: Heimlockovi děti. Mé děti.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Heimlockovy děti. Mé děti.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_11</Data></Cell>
@@ -2731,7 +2731,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_intertitle_transition1_subtitle</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Children of Heimlock</Data></Cell>
-    <Cell><Data ss:Type="String">Heimlockovi děti</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlockovy děti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_intertitle_transition2_title</Data></Cell>
@@ -2971,11 +2971,9 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
-   <TopRowVisible>492</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>518</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
