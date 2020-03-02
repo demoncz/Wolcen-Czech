@@ -2450,12 +2450,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_playonline</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Switch to Online mode</Data></Cell>
-    <Cell><Data ss:Type="String">Přepnout do Online režimu</Data></Cell>
+    <Cell><Data ss:Type="String">Do Online režimu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_playoffline</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Switch to Offline mode</Data></Cell>
-    <Cell><Data ss:Type="String">Přepnout do Offline režimu</Data></Cell>
+    <Cell><Data ss:Type="String">Do Offline režimu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_mm_play</Data></Cell>
