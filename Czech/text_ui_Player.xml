@@ -477,12 +477,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_agility</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Agility</Data></Cell>
-    <Cell><Data ss:Type="String">Obratnost</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Obratnost&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_agility_damage</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bonus Damage from Agility</Data></Cell>
-    <Cell><Data ss:Type="String">Bonusové poškození z obratnosti</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;12&quot;&gt;Bonusové poškození z obratnosti&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_ailmentbleed</Data></Cell>
@@ -792,12 +792,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_ferocity</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Ferocity</Data></Cell>
-    <Cell><Data ss:Type="String">Dravost</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Dravost&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_ferocity_damage</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bonus Damage from Ferocity</Data></Cell>
-    <Cell><Data ss:Type="String">Bonusové poškození z dravosti</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;12&quot;&gt;Bonusové poškození z dravosti&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_fire</Data></Cell>
@@ -1147,12 +1147,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_toughness</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Toughness</Data></Cell>
-    <Cell><Data ss:Type="String">Houževnatost</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Houževnatost&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_toughness_damage</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bonus Damage from Toughness</Data></Cell>
-    <Cell><Data ss:Type="String">Bonusové poškození z houževnatosti</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;12&quot;&gt;Bonusové poškození z houževnatosti&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_umbra</Data></Cell>
@@ -1202,7 +1202,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_willpower</Data></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Wisdom</Data></Cell>
-    <Cell><Data ss:Type="String">Moudrost</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot;&gt;Moudrost&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_willpowerPts</Data></Cell>
@@ -1212,7 +1212,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cs_willpower_damage</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">Bonus Damage from Wisdom</Data></Cell>
-    <Cell><Data ss:Type="String">Bonusové poškození z moudrosti</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;12&quot;&gt;Bonusové poškození z moudrosti&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_hide_adPanel</Data></Cell>
@@ -1267,7 +1267,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">not_in_town</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">This action can only be performed in town.</Data></Cell>
-    <Cell><Data ss:Type="String">Tato možnost lze provést pouze ve městě.</Data></Cell>
+    <Cell><Data ss:Type="String">Tuto možnost lze provést pouze ve městě.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_show_adPanel</Data></Cell>
@@ -1586,7 +1586,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_cs_experience_tooltip</Data></Cell>
     <Cell ss:StyleID="s88"><Data ss:Type="String">Your current experience at this level. You can gain experience by killing monsters and achieving Quests. Reaching the experience cap will increase your Character level.</Data></Cell>
-    <Cell><Data ss:Type="String">Tvé aktuální zkušenosti na daném levelu. Zkušenosti získáváš zabíjením monster a plněním úkolů.  Dosažením limitu zkušeností zvýší váš level postavy.</Data></Cell>
+    <Cell><Data ss:Type="String">Tvé aktuální zkušenosti na daném levelu. Zkušenosti získáváš zabíjením monster a plněním úkolů.  Dosažením limitu zkušeností zvýší vaší úroveň postavy.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_cs_fearduration_tooltip</Data></Cell>
