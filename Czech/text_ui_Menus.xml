@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>12855</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -556,7 +556,7 @@
    <Row ss:AutoFitHeight="0" ss:StyleID="Default">
     <Cell ss:StyleID="s64"><Data ss:Type="String">ui_welcomebeta1</Data></Cell>
     <Cell ss:StyleID="s79"><Data ss:Type="String">Welcome on Wolcen: Lords of Mayhem!\nHere are some useful links:\n\nOfficial Forums: www.wolcengame.com\nOfficial Discord server: discord.gg/wolcenstudio\nOfficial Facebook page: https://www.facebook.com/WolcenGame\nOfficial Twitter account: https://twitter.com/WolcenGame\nFollow us on Reddit: https://www.reddit.com/r/Wolcen/</Data></Cell>
-    <Cell><Data ss:Type="String">Vitejte ve Wolcen: Lords of Mayhem!\nTady jsou některé užitečné odkazy:\n\nOficiální Fórum: www.wolcengame.com\nOficiální Discord server: discord.gg/wolcenstudio\nOfficial Facebooková stránka: https://www.facebook.com/WolcenGame\nOficiální Twitter účet: https://twitter.com/WolcenGame\nSleduj nás na Redditu: https://www.reddit.com/r/Wolcen/\nNa češtině pracovali : DemonCZ, Loncore, StoneCZE, Sullysun, Drakefran\nNeoficiální CZ/SK fans web: http://www.wolcenfans.cz</Data></Cell>
+    <Cell><Data ss:Type="String">Vitejte ve Wolcen: Lords of Mayhem!\nTady jsou některé užitečné odkazy:\n\nOficiální Fórum: www.wolcengame.com\nOficiální Discord server: discord.gg/wolcenstudio\nOfficial Facebooková stránka: https://www.facebook.com/WolcenGame\nOficiální Twitter účet: https://twitter.com/WolcenGame\nSleduj nás na Redditu: https://www.reddit.com/r/Wolcen/\nNa češtině pracovali : DemonCZ, Loncore, StoneCZE, Sullysun, Drakefran\nNeoficiální CZ/SK fans Web: https://www.wolcenfans.cz \nCZ/SK fans Fórum: https://forum.wolcenfans.cz</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Apply</Data></Cell>

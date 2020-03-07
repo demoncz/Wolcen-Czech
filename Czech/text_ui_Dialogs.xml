@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>12855</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -425,7 +425,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">INTRO_Quest1_FlayersWarrior_Talk</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">Look, a Republican pup is trying to flank us. How cute.</Data></Cell>
-    <Cell><Data ss:Type="String">Podívej, republikánské štěně se nás snaží doprovodit. Jak roztomilé.</Data></Cell>
+    <Cell><Data ss:Type="String">Podívej, Republikánské štěně se nás snaží obklíčit. Jak roztomilé.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">INTRO_Quest1_FlayersArcher_Talk</Data></Cell>
@@ -445,7 +445,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">INTRO_Quest1_SapperDefeated_Talk</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Good riddance!</Data></Cell>
-    <Cell><Data ss:Type="String">Dobře, zbavil ses ho!</Data></Cell>
+    <Cell><Data ss:Type="String">Dobře, zbavil sem se ho!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">INTRO_Quest1_SoulTremor_Talk_1</Data></Cell>
@@ -525,7 +525,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">INTRO_Quest1_SoldierEncounter_Talk_3</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">A scout.</Data></Cell>
-    <Cell><Data ss:Type="String">Průzkumník.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvěd.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">INTRO_Quest1_SoldierEncounter_Talk_4</Data></Cell>
@@ -721,7 +721,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest1_SFGuardFight_3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Better them than us!</Data></Cell>
-    <Cell><Data ss:Type="String">Lepší oni než my!</Data></Cell>
+    <Cell><Data ss:Type="String">Raději oni než my!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest1_SFCrowd_1</Data></Cell>
@@ -771,17 +771,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest1_SFBridgeValeria_3</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">So here’s my plan. You wait for me in Stormfall, easy enough yes? Meanwhile, I meet up with our forces and try to talk with Edric about the situation, to see how we can convince our people that you’re not a bloody demon.</Data></Cell>
-    <Cell><Data ss:Type="String">Takže tady je můj plán. Počkáš na mě v Stormfallu, snadné, že ano? Já se mezitím setkám s našimi jednotkami a pokusím si promluvit o célé situaci s Edricem. Musíme zjistit jak přesvědčit naše lidi, že nejsi žádný zatracený démon.</Data></Cell>
+    <Cell><Data ss:Type="String">Takže tady je můj plán. Počkáš na mě ve Stormfallu, snadné, že ano? Já se mezitím setkám s našimi jednotkami a pokusím si promluvit o célé situaci s Edricem. Musíme zjistit jak přesvědčit naše lidi, že nejsi žádný zatracený démon.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="37.5">
     <Cell><Data ss:Type="String">ACT1_Quest1_SFBridgeValeria_4</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">{Agreed, I would rather appreciate not being executed. Where do we meet?|Agreed, I would rather appreciate not being executed. So, where do we meet?}</Data></Cell>
-    <Cell><Data ss:Type="String">{Souhlasím, byl bych radši kdybych nebyl popraven. Kde se setkáme?|Souhlasím, byl bych radši kdybych nebyl popraven. Kde se setkáme?}</Data></Cell>
+    <Cell><Data ss:Type="String">{Souhlasím, byl bych radši kdybych nebyl popraven. Kde se setkáme?|Souhlasím, byla bych radši kdybych nebyla popraven. Kde se setkáme?}</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest1_SFBridgeValeria_5</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">On the way here, I heard talk of an inn in Stormfall. The Laughing Sea Gal. I’ll meet you there. Keep a low profile until then.</Data></Cell>
-    <Cell><Data ss:Type="String">Cestou sem jsem slyšel řeči o hostinci ve Stormfallu. U Smějící se Mořské Panny. Sejdeme se tam. Snaž se na sebe nepřilákat pozornost.</Data></Cell>
+    <Cell><Data ss:Type="String">Cestou sem jsem slyšela řeči o hostinci ve Stormfallu. U Smějící se Mořské Panny. Sejdeme se tam. Snaž se na sebe nepřilákat pozornost.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest1_SFBridgeSFGuard_1</Data></Cell>
@@ -1154,7 +1154,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_FS_ThunderbladeSandor2_2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">I’m not letting your men die, Sandor.</Data></Cell>
-    <Cell><Data ss:Type="String">Nenechám vaše muže zemřít, Sandore.</Data></Cell>
+    <Cell><Data ss:Type="String">Nenechám tvé muže zemřít, Sandore.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest2_FS_PlayerComment1</Data></Cell>
@@ -1339,7 +1339,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelVulcain_1</Data></Cell>
     <Cell ss:StyleID="s104"><Data ss:Type="String">The best swords of the four realms come from here; Vulcaïn, The Jewel of steel.</Data></Cell>
-    <Cell><Data ss:Type="String">Nejlepší meče ze čtyř říší pocházejí odtud: Vulcain, Klenot oceli.</Data></Cell>
+    <Cell><Data ss:Type="String">Nejlepší meče ze čtyř říší pocházejí odtud: Vulcaïn, Klenot oceli.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT1_Quest2_JewelVulcain_2</Data></Cell>
@@ -2558,7 +2558,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest5_TPS_2ndFloorPlayerTalk</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Banishing Yudaï didn’t stop the haunting of this place.</Data></Cell>
-    <Cell><Data ss:Type="String">Vymýcení Yudaie nezastavilo prokletí tohoto místa.</Data></Cell>
+    <Cell><Data ss:Type="String">Vymýcení Yudaïe nezastavilo prokletí tohoto místa.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ACT1_Quest5_TPS_EntranceEdricArenaTalk</Data></Cell>
@@ -4585,7 +4585,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest4_HS_RiverWalk_8</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">I took Yudaï down, didn't I? How much worse can this one be?</Data></Cell>
-    <Cell><Data ss:Type="String">{Sejmul|Sejmula} jsem Yudai, že ano? O kolik horší může být tenhle?</Data></Cell>
+    <Cell><Data ss:Type="String">{Sejmul|Sejmula} jsem Yudaï, že ano? O kolik horší může být tenhle?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest4_HS_CultistChat_1</Data></Cell>
@@ -4595,7 +4595,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest4_HS_CultistChat_2</Data></Cell>
     <Cell ss:StyleID="s118"><Data ss:Type="String">Master Nerukaï wants us to transport them to the nearby city of Cordanon. A token of good faith toward our allies.</Data></Cell>
-    <Cell><Data ss:Type="String">Mistr Nerukai chce, abychom je převezli do nedalekého města Cordanon. Jako znamení dobré vůle pro naše spojence.</Data></Cell>
+    <Cell><Data ss:Type="String">Mistr Nerukaï chce, abychom je převezli do nedalekého města Cordanon. Jako znamení dobré vůle pro naše spojence.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest4_HS_CultistChat_3</Data></Cell>
@@ -4625,7 +4625,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest4_HS_CultistIntro_1</Data></Cell>
     <Cell ss:StyleID="s116"><Data ss:Type="String">Mmh. Seems that my troops did not get the best of you: Bane of Yudaï.</Data></Cell>
-    <Cell><Data ss:Type="String">Mmh. Vypadá to, že si s tebou mé jednotky neporadily: {Přemožiteli Yudai|Přemožitelko Yudai}.</Data></Cell>
+    <Cell><Data ss:Type="String">Mmh. Vypadá to, že si s tebou mé jednotky neporadily: {Přemožiteli Yudaï|Přemožitelko Yudaï}.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest4_HS_CultistIntro_2</Data></Cell>
@@ -4640,7 +4640,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest4_HS_CultistIntro_4</Data></Cell>
     <Cell ss:StyleID="s116"><Data ss:Type="String">Not really no. I just know that Yudaï greedily tried to make you his own, underestimating you in the process.</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">Ne tak docela. Vím jen, jak divoce se tě Yudai snažil ovládnout, ale podcenil tě.&#10;</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Ne tak docela. Vím jen, jak divoce se tě Yudaï snažil ovládnout, ale podcenil tě.&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest4_HS_CultistIntro_5</Data></Cell>
@@ -4680,7 +4680,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest4_HS_CultistIntro_12</Data></Cell>
     <Cell ss:StyleID="s116"><Data ss:Type="String">You're having fun? Yudaï had his moment too. Remember who you're talking to, demons don't last long against demonslayers, isn't that how it works?</Data></Cell>
-    <Cell><Data ss:Type="String">Bavíš se dobře? U Yudai taky nastala taková situace. Nezapomeň, s kým mluvíš! Démoni nevydrží dlouho proti lovcům démonů. Takhle to funguje, ne?</Data></Cell>
+    <Cell><Data ss:Type="String">Bavíš se dobře? U Yudaï taky nastala taková situace. Nezapomeň, s kým mluvíš! Démoni nevydrží dlouho proti lovcům démonů. Takhle to funguje, ne?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest4_HS_CultistIntro_13</Data></Cell>
@@ -5202,7 +5202,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest5_FF_LambachInfo_2</Data></Cell>
-    <Cell ss:StyleID="s116"><Data ss:Type="String">We are the Lambach. Lambach are we. We are one for only the Lambach thinks, and we are many for we become what we are thanks to the many disposable resources found in Cordanon.</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">We are the Lambach. Lambach are we. We are one for only the Lambach thinks, and we are many for we became what we are thanks to the many disposable resources found in Cordanon.</Data></Cell>
     <Cell><Data ss:Type="String">My jsme Lambach. Lambach jsme my. Jsme jednota, a je nás mnoho, protože díky mnoha zdrojům které jsou k dispozici v Cordanonu, stáváme se tím, kým jsme.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -5267,7 +5267,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest5_FF_LambachInfo_15</Data></Cell>
-    <Cell ss:StyleID="s116"><Data ss:Type="String">She? I'm not sure &quot;she&quot; applies to it. Do not mistake that thing for something relatable.</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">Her? I'm not sure &quot;her&quot; applies to it. Do not mistake that thing for something relatable.</Data></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">Její? Nejsem si jistý, zda &quot;její&quot; k tomuto pasuje. Nepleť si tu věc s něčím, co lze někam přiřadit.&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -5547,7 +5547,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT2_Quest5_CD_AfterFightTalk_2</Data></Cell>
-    <Cell ss:StyleID="s94"><Data ss:Type="String">That's not what we came here for. We have to find the Helion!</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">That's not what we came here for. We have to find the Helion first!</Data></Cell>
     <Cell><Data ss:Type="String">To není to, pro co jsme sem přišli. Musíme najít Helion!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -6654,7 +6654,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_22</Data></Cell>
     <Cell ss:StyleID="s124"><Data ss:Type="String">This weapon only ever served once, several centuries ago. While it fulfilled its function and brought victory, something else happened that we could not anticipate.&#10;</Data></Cell>
-    <Cell><Data ss:Type="String">Tato zbraň byla použita pouze jednou, před mnoha staletími. Zatímco plnila svou funkci a přinesla vítězství, stalo se něco jiného, ??co nikdo neočekával.</Data></Cell>
+    <Cell><Data ss:Type="String">Tato zbraň byla použita pouze jednou, před mnoha staletími. Zatímco plnila svou funkci a přinesla vítězství, stalo se něco jiného, ​​co nikdo neočekával.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell><Data ss:Type="String">ACT3_Quest1_NW_GendrisTalk1_23</Data></Cell>
@@ -7483,14 +7483,17 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ACT3_Quest2_RWT_HeimlockTalk1_10</Data></Cell>
     <Cell ss:StyleID="s125"><Data ss:Type="String">This world is off-course, off-balance. Abandoned. We humans are mere tools left to the numerous Fallen Primordials fighting and scheming to return from the Abyss or devising ways to change all of creation to fit their own design.</Data></Cell>
+    <Cell><Data ss:Type="String">Tento svět je mimo kurz, mimo rovnováhu. Opuštěný. My lidé jsme pouhými nástroji, které zůstaly početným Padlým Prvotním, kteří bojují a intrikují, aby se vrátili z Propasti, nebo vymýšlejí způsoby, jak změnit veškeré stvoření tak, aby odpovídalo jejich vlastnímu plánu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ACT3_Quest2_RWT_HeimlockTalk1_11</Data></Cell>
     <Cell ss:StyleID="s125"><Data ss:Type="String">I tried to find us a protector. Surely Primordials remained to shield mankind against these absolute threats. If the Daybreakers can conjure Dawn magic, Anathëa herself must still be watching over us.</Data></Cell>
+    <Cell><Data ss:Type="String">Snažil jsem se nám najít ochránce. Prvotní jistě zůstali, aby ochránili lidstvo před těmito absolutními hrozbami. Pokud Úsvitáři dokáží vyvolat Magii Úsvitu, musí na nás stále dohlížet samotná Anathěa.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ACT3_Quest2_RWT_HeimlockTalk1_12</Data></Cell>
     <Cell ss:StyleID="s124"><Data ss:Type="String">But Daybreakers themselves admitted that summoning her magic was all they could do: her voice, her insights were non existent.</Data></Cell>
+    <Cell><Data ss:Type="String">Ale sami Úsvitáři přiznali, že vyvolat její magii je jediné, co mohou udělat: Její hlas, její porozumění nebyly skutečné.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ACT3_Quest2_RWT_HeimlockTalk1_13</Data></Cell>
@@ -7505,6 +7508,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ACT3_Quest2_RWT_HeimlockTalk1_15</Data></Cell>
     <Cell ss:StyleID="s124"><Data ss:Type="String">He came to me to correct that failure, he offered peace to the four realms through unity. A way for the Republic to fulfil its vision and gather mankind under a single banner. But it came with a price: I needed to surrender my free will so he could... &quot;guide&quot; me.&#10;</Data></Cell>
+    <Cell><Data ss:Type="String">Přišel za mnou, aby tento neúspěch napravil, nabídl mír čtyřem říším skrze jednotu. Cestu, pro Republiku, jak naplnit svou vizi a shromáždit lidstvo pod jediným praporem. Ale nebylo to zadarmo: Musela jsem se vzdát své svobodné vůle, aby mě mohl... &quot;vést&quot;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ACT3_Quest2_RWT_HeimlockTalk1_16</Data></Cell>
@@ -7573,7 +7577,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ACT3_Quest3_RR1_Heimlock2_2</Data></Cell>
     <Cell ss:StyleID="s124"><Data ss:Type="String">You were interfering with the Covenant of the Blind when Yudaï was corrupting Anankis, the Blind Prince's whispers were too strong... you had to be stopped.&#10;</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">{Zasahoval|Zasahovala} jsi do Dohody Slepých, kdy Yudai kazil Anankis, šepoty Slepého Prince byly příliš silné... musel jsi být zastaven.&#10;</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">{Zasahoval|Zasahovala} jsi do Dohody Slepých, kdy Yudaï kazil Anankis, šepoty Slepého Prince byly příliš silné... musel jsi být zastaven.&#10;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">ACT3_Quest3_RTT_Heimlock3_1</Data></Cell>

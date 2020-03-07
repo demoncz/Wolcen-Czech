@@ -14,7 +14,7 @@
   <AllowPNG/>
  </OfficeDocumentSettings>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>12855</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -33676,12 +33676,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Outlaws_BanditWarlord_B</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Mercy</Data></Cell>
-    <Cell><Data ss:Type="String">Mercy</Data></Cell>
+    <Cell><Data ss:Type="String">Lítost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_CoS_Yudai_B</Data></Cell>
     <Cell ss:StyleID="s64"><Data ss:Type="String">Yudaï, Whisper of Anameterassü</Data></Cell>
-    <Cell><Data ss:Type="String">Yudai, Šepot Anameterassü</Data></Cell>
+    <Cell><Data ss:Type="String">Yudaï, Šepot Anameterassü</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Republic_Edric_B</Data></Cell>
@@ -33741,7 +33741,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_MercyArena_Mercy</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Mercy</Data></Cell>
-    <Cell><Data ss:Type="String">Mercy</Data></Cell>
+    <Cell><Data ss:Type="String">Lítost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_MercyArena_DenMaster</Data></Cell>
@@ -33791,12 +33791,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_VOS2_DemonOfSouls</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Nerukaï, Vision of the Sleeper</Data></Cell>
-    <Cell><Data ss:Type="String">Nerukai, Vize Spáče</Data></Cell>
+    <Cell><Data ss:Type="String">Nerukaï, Vize Spáče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_VOS2_Mercy_Zombie</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Risen Mercy</Data></Cell>
-    <Cell><Data ss:Type="String">Vzkříšená Mercy</Data></Cell>
+    <Cell><Data ss:Type="String">Vzkříšená Lítost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_InnerSanctum_Enforcer</Data></Cell>
@@ -33806,7 +33806,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_InnerSanctum_DemonOfSouls</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Lothaï, Echo of the Sleeper</Data></Cell>
-    <Cell><Data ss:Type="String">Lothai, Ozvěna Spáče</Data></Cell>
+    <Cell><Data ss:Type="String">Lothaï, Ozvěna Spáče</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s80"><Data ss:Type="String">ui_AIName_InnerSanctum_DemonOfFlesh</Data></Cell>
@@ -33879,32 +33879,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Wild_Spider_Melee</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Araneïs</Data></Cell>
-    <Cell><Data ss:Type="String">Araneis</Data></Cell>
+    <Cell><Data ss:Type="String">Araneïs</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Wild_Spider_Ranged</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Alba Araneïs</Data></Cell>
-    <Cell><Data ss:Type="String">Alba Araneis</Data></Cell>
+    <Cell><Data ss:Type="String">Alba Araneïs</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Wild_Spider_Melee_Small</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Parvus Araneïs</Data></Cell>
-    <Cell><Data ss:Type="String">Parvus Araneis</Data></Cell>
+    <Cell><Data ss:Type="String">Parvus Araneïs</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Wild_Spider_Melee_2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Crystallus Araneïs</Data></Cell>
-    <Cell><Data ss:Type="String">Crystallus Araneis</Data></Cell>
+    <Cell><Data ss:Type="String">Crystallus Araneïs</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Wild_Spider_Ranged_2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Minuere Araneïs</Data></Cell>
-    <Cell><Data ss:Type="String">Minuere Araneis</Data></Cell>
+    <Cell><Data ss:Type="String">Minuere Araneïs</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Wild_Spider_Melee_Small_2</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Vegrandis Araneïs</Data></Cell>
-    <Cell><Data ss:Type="String">Vegrandis Araneis</Data></Cell>
+    <Cell><Data ss:Type="String">Vegrandis Araneïs</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Wild_Snake_Desert</Data></Cell>
@@ -33977,7 +33977,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_Minispecter</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">P. Vincentus, Breath of Anulaï-Tai</Data></Cell>
-    <Cell><Data ss:Type="String">P. Vincentus, Dech Anulai-Tai</Data></Cell>
+    <Cell><Data ss:Type="String">P. Vincentus, Dech Anulaï-Tai</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AIName_Named_Spiker</Data></Cell>

@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>12855</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -226,7 +226,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C2:R1C2"/>
   </Names>
-  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="831" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="832" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="13.3125">
    <Column ss:Width="336.75"/>
    <Column ss:AutoFitWidth="0" ss:Width="441.75"/>
@@ -284,6 +284,10 @@
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_citybuilding_cannot_start_incompatible_item</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String">Cannot start project: chosen item is incompatible</Data></Cell>
     <Cell><Data ss:Type="String">Projekt nelze spustit: Zvolený předmět je nekompatibilní</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">ui_citybuilding_cannot_start_stacked_items_are_forbidden</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cannot start project: stacked items are incompatible</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s75"><Data ss:Type="String">ui_citybuilding_choose_rewards</Data></Cell>
@@ -512,7 +516,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s78"><Data ss:Type="String">ui_expedition_ui_enemy_level</Data></Cell>
     <Cell ss:StyleID="s63"><Data ss:Type="String" x:Ticked="1">%1 Enemy Level</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Level nepřátel</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Úroveň nepřátel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s69"><Data ss:Type="String">PRODUCTIVITY DIST SCREEN</Data></Cell>

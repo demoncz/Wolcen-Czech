@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>12855</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -648,17 +648,17 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_monsterCurseOnHit</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Enemies have +%1 Chance to inflict Cursed on Hit</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Enemies have +%1 Chance to inflict Curse on Hit</Data></Cell>
     <Cell><Data ss:Type="String">Nepřátelé mají +%1 k šanci způsobit při zásahu Prokletí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_TrashCurseOnHit</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Underling Enemies have +%1 Chance to inflict Cursed on Hit</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Underling Enemies have +%1 Chance to inflict Curse on Hit</Data></Cell>
     <Cell><Data ss:Type="String">Nepřátelští Poskoci mají +%1 k šanci způsobit při zásahu Prokletí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_modifier_LieutenantCurseOnHit</Data></Cell>
-    <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have +%1 Chance to inflict Cursed on Hit</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">Specialist Enemies have +%1 Chance to inflict Curse on Hit</Data></Cell>
     <Cell><Data ss:Type="String">Nepřátelští Specialisté mají +%1 k šanci způsobit při zásahu Prokletí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">

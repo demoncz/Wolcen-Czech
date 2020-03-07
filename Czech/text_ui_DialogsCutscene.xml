@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>12855</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -400,7 +400,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_20</Data></Cell>
     <Cell ss:StyleID="s80"><Data ss:Type="String">Heimlock: At ease.</Data></Cell>
-    <Cell><Data ss:Type="String">Heimlock: Odpočiň si.</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Pohov.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell ss:StyleID="Default"><Data ss:Type="String">ui_DialogCutscene_2DIntro_21</Data></Cell>
@@ -458,12 +458,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_6</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Maëlys: Permission to deal with the Flayers?</Data></Cell>
-    <Cell><Data ss:Type="String">Maëlys:Žádam o povolení vypořádat se se Stahovači.</Data></Cell>
+    <Cell><Data ss:Type="String">Maëlys: Žádam o povolení vypořádat se se Stahovači.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_7</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Heimlock: The clock ticks, Maëlys. We need to get through to engage the Brotherhood of Dawn before daybreak!</Data></Cell>
-    <Cell><Data ss:Type="String">Heimlock: Hodiny tikají, Maëlys. Musíme se dostat skrz, abychom zaútočili na  Bratrstvo Úsvitu před rozbřeskem!</Data></Cell>
+    <Cell><Data ss:Type="String">Heimlock: Hodiny tikají, Maëlys. Musíme se dostat skrz, abychom zaútočili na Bratrstvo Úsvitu před rozbřeskem!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_OperationDawnbane_8</Data></Cell>
@@ -491,7 +491,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SoulsTremors_1</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Flayer: We’ll flay you alive!</Data></Cell>
-    <Cell><Data ss:Type="String">Stahovač: Stáhneme tvou kůži zaživa!</Data></Cell>
+    <Cell><Data ss:Type="String">Stahovač: Stáhneme ti kůži zaživa!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SoulsTremors_2</Data></Cell>
@@ -552,12 +552,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_2</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Yudaï: Be at peace.</Data></Cell>
-    <Cell><Data ss:Type="String">Yudai: Buď v klidu.</Data></Cell>
+    <Cell><Data ss:Type="String">Yudaï: Buď v klidu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Yudaï: For soon, you shall be no more.</Data></Cell>
-    <Cell><Data ss:Type="String">Yudai: Brzy už nebudeš.</Data></Cell>
+    <Cell><Data ss:Type="String">Yudaï: Brzy už nebudeš.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_4</Data></Cell>
@@ -567,7 +567,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Yudaï: How can you…</Data></Cell>
-    <Cell><Data ss:Type="String">Yudai: Jak můžeš...</Data></Cell>
+    <Cell><Data ss:Type="String">Yudaï: Jak můžeš...</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_6</Data></Cell>
@@ -577,7 +577,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_7</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Yudaï: Only human after all. Disappointing.</Data></Cell>
-    <Cell><Data ss:Type="String">Yudai: Konec konců jsi jen člověk. Zklamání.</Data></Cell>
+    <Cell><Data ss:Type="String">Yudaï: Konec konců jsi jen člověk. Zklamání.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25">
     <Cell><Data ss:Type="String">ui_DialogCutscene_TempIntroEnd_8</Data></Cell>
@@ -686,7 +686,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_15</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">%1: I need help alright? But I’m not some demon goddamnit! Come on Val!</Data></Cell>
-    <Cell><Data ss:Type="String">%1: Já vím potřebuju pomoct? Ale nejsem k sakru nějaký zatracený démon! Notak Val!</Data></Cell>
+    <Cell><Data ss:Type="String">%1: Já vím potřebuju pomoct. Ale nejsem k sakru nějaký zatracený démon! Notak Val!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_MeetValeria_16</Data></Cell>
@@ -1087,22 +1087,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_YudaisCrystal_3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Yudaï: Only torment and oblivion await down there.</Data></Cell>
-    <Cell><Data ss:Type="String">Yudai: Tam dole tě čeká jen úzkost a zapomnění.</Data></Cell>
+    <Cell><Data ss:Type="String">Yudaï: Tam dole tě čeká jen úzkost a zapomnění.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_YudaisCrystal_4</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Yudaï: It might not be too late to return to the warmth of the surface.</Data></Cell>
-    <Cell><Data ss:Type="String">Yudai: Ještě není příliš pozdě vrátit se do tepla na povrch.</Data></Cell>
+    <Cell><Data ss:Type="String">Yudaï: Ještě není příliš pozdě vrátit se do tepla na povrch.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_YudaisCrystal_5</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Yudaï: Find a new life.</Data></Cell>
-    <Cell><Data ss:Type="String">Yudai: Najít nový život.</Data></Cell>
+    <Cell><Data ss:Type="String">Yudaï: Najít nový život.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_YudaisCrystal_6</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Yudaï: Forget about this foolish endeavour.</Data></Cell>
-    <Cell><Data ss:Type="String">Yudai: Zapomenout na tuto hloupou snahu.</Data></Cell>
+    <Cell><Data ss:Type="String">Yudaï: Zapomenout na tuto hloupou snahu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_YudaisCrystal_7</Data></Cell>
@@ -1130,7 +1130,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="30">
     <Cell><Data ss:Type="String">ui_DialogCutscene_PrimoGate_3</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Vhegguad: I suppose letting you grasp at hints of truth before taking your life is the least I could do. We do not get many guests around here. The deads can be dull sometimes. Anyway. My master you ask? His envoy, Yudaï, led us here.</Data></Cell>
-    <Cell><Data ss:Type="String">Vhegguad: Myslím, že říct ti trochu tajemství předtím, než ti vemu život je to nejmenší, co pro tebe můžu udělat. Nemíváme tu moc hostů. Mrtví dokážou být poslední dobou strašně nudní. Tak či tak. Ptáš se mého pána? Jeho vyslanec, Yudai, nás sem přivedl.</Data></Cell>
+    <Cell><Data ss:Type="String">Vhegguad: Myslím, že říct ti trochu tajemství předtím, než ti vemu život je to nejmenší, co pro tebe můžu udělat. Nemíváme tu moc hostů. Mrtví dokážou být poslední dobou strašně nudní. Tak či tak. Ptáš se mého pána? Jeho vyslanec, Yudaï, nás sem přivedl.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell><Data ss:Type="String">ui_DialogCutscene_PrimoGate_4</Data></Cell>
@@ -1153,12 +1153,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_DialogCutscene_YudaiTransformation_1</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Yudaï: I can feel your soul's primal fear!</Data></Cell>
-    <Cell><Data ss:Type="String">Yudai: Cítím prvotní strach z tvé duše!</Data></Cell>
+    <Cell><Data ss:Type="String">Yudaï: Cítím prvotní strach z tvé duše!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_DialogCutscene_YudaiTransformation_2</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">Yudaï: There is no-one to save you now!</Data></Cell>
-    <Cell><Data ss:Type="String">Yudai: Teď už není nikdo, kdo by tě zachránil!</Data></Cell>
+    <Cell><Data ss:Type="String">Yudaï: Teď už není nikdo, kdo by tě zachránil!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Core Gaining Power 1</Data></Cell>
@@ -2395,7 +2395,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_20</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">Sinadrahel: Ulzeragh, Lothaï, join me!&#10;</Data></Cell>
-    <Cell><Data ss:Type="String">Sinadrahel: Ulzeraghu, Lothaii, připojte se ke mě!</Data></Cell>
+    <Cell><Data ss:Type="String">Sinadrahel: Ulzeraghu, Lothaïi, připojte se ke mě!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_21</Data></Cell>
@@ -2410,7 +2410,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_DialogCutscene_SinadrehelFight_23</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">Lothaï: Now, we feast.</Data></Cell>
-    <Cell><Data ss:Type="String">Lothai: Nyní, pojďme hodovat!</Data></Cell>
+    <Cell><Data ss:Type="String">Lothaï: Nyní, pojďme hodovat!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s83"><Data ss:Type="String">Heimlock Overcomes Instigator Control</Data></Cell>

@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>12855</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -350,7 +350,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s72"><Data ss:Type="String">B_A2_Q_StepNameLabel1</Data></Cell>
     <Cell ss:StyleID="s75"><Data ss:Type="String">Expedition: +%1% Magic Find and Enemies are level %2</Data></Cell>
-    <Cell><Data ss:Type="String">Expedice: +%1% k nalezení magických předmětů a nepřátelé jsou level %2</Data></Cell>
+    <Cell><Data ss:Type="String">Expedice: +%1% k nalezení magických předmětů a nepřátelé jsou úrovně %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">B_A2_Q_StepNameLabel2</Data></Cell>
@@ -404,12 +404,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_05</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Ascended&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Vyvolený&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font size=&quot;37&quot;&gt;&lt;b&gt;Vznešený&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_adventure_mode_level_selection_modifier</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String" x:Ticked="1">+%1% Magic Find and Enemies are level %2</Data></Cell>
-    <Cell><Data ss:Type="String">+%1% k nalezení magických předmětů a nepřátelé jsou level %2</Data></Cell>
+    <Cell><Data ss:Type="String">+%1% k nalezení magických předmětů a nepřátelé jsou úrovně %2</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_confirm_end_npc2_quest_title</Data></Cell>
@@ -454,7 +454,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s72"><Data ss:Type="String">ui_cannot_start_npc2_quest_content</Data></Cell>
     <Cell ss:StyleID="s71"><Data ss:Type="String">You need to be level 15 in order to launch an expedition.</Data></Cell>
-    <Cell><Data ss:Type="String">Musíš být minimálně level 15, ke spuštění expedice.</Data></Cell>
+    <Cell><Data ss:Type="String">Musíš být minimálně úrovně 15, ke spuštění expedice.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s72"/>

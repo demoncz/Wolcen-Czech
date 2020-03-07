@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>12855</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -273,7 +273,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Maelys_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Justicar Maëlys</Data></Cell>
-    <Cell><Data ss:Type="String">Justikářka Maëlys</Data></Cell>
+    <Cell><Data ss:Type="String">Justiciářka Maëlys</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ThunderBlade_CharacterNameLabel</Data></Cell>
@@ -293,22 +293,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FlayerWarrior_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Flayer Warrior</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer válečník</Data></Cell>
+    <Cell><Data ss:Type="String">Stahovač válečník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FlayerArcher_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Flayer Archer</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer lučištník</Data></Cell>
+    <Cell><Data ss:Type="String">Stahovač lučištník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FlayerSapper_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Flayer Sapper</Data></Cell>
-    <Cell><Data ss:Type="String">Flayer saper</Data></Cell>
+    <Cell><Data ss:Type="String">Stahovač ženista</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Yudai_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Yudaï</Data></Cell>
-    <Cell><Data ss:Type="String">Yudai</Data></Cell>
+    <Cell><Data ss:Type="String">Yudaï</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_StormfallGuard_CharacterNameLabel</Data></Cell>
@@ -403,7 +403,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_JusticarAzenhal_CharacterNameLabel</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Justicar Azenhal</Data></Cell>
-    <Cell><Data ss:Type="String">Justikář Azenhal</Data></Cell>
+    <Cell><Data ss:Type="String">Justiciář Azenhal</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_RepublicanSoldier_CharacterNameLabel</Data></Cell>
@@ -434,7 +434,7 @@
     <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40">ui_Neruka<Font
        html:Face="Calibri" x:Family="Swiss">ï</Font><Font>_CharacterNameLabel</Font></ss:Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Nerukaï</Data></Cell>
-    <Cell><Data ss:Type="String">Nerukai</Data></Cell>
+    <Cell><Data ss:Type="String">Nerukaï</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Zaälbezül_CharacterNameLabel</Data></Cell>
@@ -850,6 +850,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_flayer_outpost_lore</Data></Cell>
     <Cell ss:StyleID="s86"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#E6C138&quot;&gt; &quot;&lt;i&gt;&lt;b&gt;The Flayers&lt;/b&gt; took the opportunity of the &lt;b&gt;Svriir&lt;/b&gt; crisis to raid the &lt;b&gt;farmlands&lt;/b&gt;. Now, they’re the ones being raided by these &lt;b&gt;souls&lt;/b&gt;. Sweet irony. Maybe the ghosts of the innocents they slaughtered are taking revenge on their sorry asses, who knows?&lt;/i&gt;&quot;&lt;/Font&gt;&lt;br/&gt;&lt;br/&gt;&lt;Font Size=&quot;17&quot; Color=&quot;#E6C138&quot;&gt;&lt;b&gt;Edric, Veteran Purifier of the Republic&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#E6C138&quot;&gt; &quot;&lt;i&gt;&lt;b&gt;The Flayers&lt;/b&gt; took the opportunity of the &lt;b&gt;Svriir&lt;/b&gt; crisis to raid the &lt;b&gt;farmlands&lt;/b&gt;. Now, they’re the ones being raided by these &lt;b&gt;souls&lt;/b&gt;. Sweet irony. Maybe the ghosts of the innocents they slaughtered are taking revenge on their sorry asses, who knows?&lt;/i&gt;&quot;&lt;/Font&gt;&lt;br/&gt;&lt;br/&gt;&lt;Font Size=&quot;17&quot; Color=&quot;#E6C138&quot;&gt;&lt;b&gt;Edric, Veteran Purifier of the Republic&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_act_1_ravaged_camp_lore</Data></Cell>
@@ -979,7 +980,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_TemplarCamp_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Daybreakers Breached Fort</Data></Cell>
-    <Cell><Data ss:Type="String">Narušená pevnost Daybreakerů</Data></Cell>
+    <Cell><Data ss:Type="String">Narušená pevnost Úsvitářů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_PSOverlook_name</Data></Cell>
@@ -1029,7 +1030,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_TemplarCampExterior_name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Daybreakers' Valley</Data></Cell>
-    <Cell><Data ss:Type="String">Údolí Daybreakerů</Data></Cell>
+    <Cell><Data ss:Type="String">Údolí Úsvitářů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_2_Flesh_City_Inner_name</Data></Cell>
@@ -1388,6 +1389,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_battlefield_overlook_desc</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">&lt;Font Size=&quot;18&quot; Color=&quot;#FFFFFF&quot;&gt;The Republic makes its move, dispatching units of Purifiers. They employ their usual strategy, dividing the terrain into a grid and assigning Justicars to lead the forces from cell to cell. But where they would easily have manipulated the enemy into the desired position, before Crimson Keep they contend both with the Daybreaker diversion, and the forces of Fury leeching pacified soldiers away.&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;18&quot; Color=&quot;#FFFFFF&quot;&gt;Republika podniká své kroky a vysílá jednotky Očistitelů. Používají svou obvyklou strategii, rozdělí terén na mřížku a pověří Justiciáře vedením sil od políčka k políčku. Ale tam, kde by měli snadno vmanévrovat nepřítele do požadované pozice, před Karmínovou tvrzí, se potýkají jak s diverzní činností Úsvitářů, tak se silami Zuřivosti, které odvlékají zpacifikované vojáky pryč..&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_redwaste_2_desc</Data></Cell>
@@ -1468,7 +1470,8 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_battlefield_overlook_lore</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#E6C138&quot;&gt;&quot;I refuse to concede to these games of intimidation. Retreat now? While the demons sleepwalk on the battlefield? I’d rather hand my resignation to the Inquisitor in person. Keep at them!&quot;&lt;/Font&gt;&lt;br/&gt;&lt;br/&gt;&lt;Font Size=&quot;17&quot; Color=&quot;#E6C138&quot;&gt; &lt;b&gt;Talrog, Justicar of the Purifier Army&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell ss:Index="4" ss:StyleID="s87"/>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#E6C138&quot;&gt;&quot;Odmítám přistoupit na tyto hry na zastrašování. Ustoupit teď? Zatímco démoni náměsíčně chodí po bojišti? Raději bych osobně podal Inkvizitorovi svou rezignaci. Držte se jich!&quot;&lt;/Font&gt;&lt;br/&gt;&lt;br/&gt;&lt;Font Size=&quot;17&quot; Color=&quot;#E6C138&quot;&gt; &lt;b&gt;Talrog, Justiciář Armády Očistitelů&lt;/b&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell ss:StyleID="s87"/>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_act_3_redwaste_2_lore</Data></Cell>
@@ -1521,17 +1524,17 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_TempleTemplar_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Daybreakers' Hold</Data></Cell>
-    <Cell><Data ss:Type="String">Država Daybreakerů</Data></Cell>
+    <Cell><Data ss:Type="String">Država Úsvitářů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_TempleFlesh_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Cordanon's Dawn Chapel</Data></Cell>
-    <Cell><Data ss:Type="String">Cardanonova kaple úsvitu</Data></Cell>
+    <Cell><Data ss:Type="String">Cardanonova kaple Úsvitu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_TempleDesert_Name</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Daybreakers' Abandoned Shrine</Data></Cell>
-    <Cell><Data ss:Type="String">Opuštěna svatyně Daybreakerů</Data></Cell>
+    <Cell><Data ss:Type="String">Opuštěná svatyně Úsvitářů</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s87"><Data ss:Type="String">ui_NPC2_Svriir_Name</Data></Cell>

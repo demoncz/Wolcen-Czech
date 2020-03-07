@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
-  <WindowWidth>24720</WindowWidth>
+  <WindowHeight>12855</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -127,7 +127,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m1241383838000" ss:Parent="s62">
+  <Style ss:ID="m2528127092112" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -138,7 +138,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1241383838020" ss:Parent="s62">
+  <Style ss:ID="m2528127092132" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -149,7 +149,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1241383838040" ss:Parent="s62">
+  <Style ss:ID="m2528127092152" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -160,7 +160,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1241383836336" ss:Parent="s62">
+  <Style ss:ID="m2528127089408" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -171,7 +171,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1241383836356" ss:Parent="s62">
+  <Style ss:ID="m2528127089428" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -182,7 +182,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1241383836376" ss:Parent="s62">
+  <Style ss:ID="m2528127089448" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -193,7 +193,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1241383836396" ss:Parent="s62">
+  <Style ss:ID="m2528127089468" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -204,7 +204,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1241383836416" ss:Parent="s62">
+  <Style ss:ID="m2528127089488" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -215,7 +215,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m1241383836436" ss:Parent="s62">
+  <Style ss:ID="m2528127089508" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -367,7 +367,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s68">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1241383836336"><Data ss:Type="String">AST INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2528127089408"><Data ss:Type="String">AST INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_title</Data></Cell>
@@ -382,7 +382,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_nextlevel</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Next level</Data></Cell>
-    <Cell><Data ss:Type="String">Další Level</Data></Cell>
+    <Cell><Data ss:Type="String">Další Úroveň</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_xp</Data></Cell>
@@ -392,7 +392,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_level</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Level</Data></Cell>
-    <Cell><Data ss:Type="String">Level</Data></Cell>
+    <Cell><Data ss:Type="String">Úroveň</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_skillselection</Data></Cell>
@@ -417,7 +417,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ast_variant_level</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Level %1</Data></Cell>
-    <Cell><Data ss:Type="String">Level %1</Data></Cell>
+    <Cell><Data ss:Type="String">Úroveň %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_archivist_xp</Data></Cell>
@@ -445,7 +445,7 @@
     <Cell><Data ss:Type="String">Duplikovaná dovednost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1241383836356"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2528127089428"><Data ss:Type="String">ACTIVE SKILLS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_enneract_of</Data></Cell>
@@ -520,7 +520,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboDualWield_lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Traditional fighters tend to consider the shield as the superior option. Clearly they have never fought the Screaming Furies of Laibon: a regiment of women dual wielding kopeshes while shouting fear away.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Tradiční bojovníci mají tendenci považovat štít za nejlepší volbu. Je jasné, že nikdy nebojovali s Ječícim fúriemi z Laibonu: Pluk žen bojujících dvěma válečnými srpy a zastrašujícím jekotem.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Tradiční bojovníci mají tendenci považovat štít za nejlepší volbu. Je jasné, že nikdy nebojovali s Ječícimi fúriemi z Laibonu: Pluk žen bojujících dvěma válečnými srpy a zastrašujícím jekotem.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_ComboGreatSword</Data></Cell>
@@ -725,7 +725,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BrutalStrike_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Summon a colossal hammer and bring it down on your foes, dealing area damage.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Attack:&lt;/font&gt; Only usable with melee weapons.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Attack&lt;/b&gt;, &lt;b&gt;Warrior&lt;/b&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">Vyvolej kolosální kladivo a spusť ho na své nepřátele, uděluje plošné poškození.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Útok:&lt;/font&gt; Použitelné pouze se zbraněmi na blízko.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní tagy&lt;/font&gt;: &lt;b&gt;Útok&lt;/b&gt;, &lt;b&gt;Válečník&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Vyvolej kolosální kladivo a spusť ho na své nepřátele, uděluje plošné poškození.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Útok:&lt;/font&gt; Použitelné pouze se zbraněmi na blízko.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Útok&lt;/b&gt;, &lt;b&gt;Válečník&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_BrutalStrike_Lore</Data></Cell>
@@ -770,7 +770,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Charge_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Summon a mighty shield and charge through your enemies, breaking their ranks.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Attack:&lt;/font&gt; Only usable with melee weapons.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Attack&lt;/b&gt;, &lt;b&gt;Warrior&lt;/b&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">Vyvolej mocný štít, zaútoč na tvé nepřátele a rozbij jejich řady.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Útok:&lt;/font&gt; Použitelné pouze se zbraněmi na blízko.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Útok&lt;/b&gt;, &lt;b&gt;Válečník&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Vyvolej mocný štít, vrhni se mezi tvé nepřátele a rozbij jejich řady.\n\n&lt;font color=&quot;#cb5316&quot;&gt;Útok:&lt;/font&gt; Použitelné pouze se zbraněmi na blízko.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Útok&lt;/b&gt;, &lt;b&gt;Válečník&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Charge_Lore</Data></Cell>
@@ -830,7 +830,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_FrostComet_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">A mass of ice forms above your enemies. After a short delay, it falls from the sky for huge damage.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;, &lt;b&gt;Projectile&lt;/b&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">Nad tvými nepřáteli se vytvoří masa ledu. Po krátké prodlevě spadne z nebe, aby způsobila obrovské škody.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt; Použitelné pouze s holemi nebo katalyzátory.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní tagy&lt;/font&gt;: &lt;b&gt;kouzlo&lt;/b&gt;, &lt;b&gt;Střela&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Nad tvými nepřáteli se vytvoří masa ledu. Po krátké prodlevě spadne z nebe, aby způsobila obrovské škody.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt; Použitelné pouze s holemi nebo katalyzátory.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;, &lt;b&gt;Střela&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_AST_FrostComet_Lore</Data></Cell>
@@ -860,7 +860,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FrostNova_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">An ice nova emanates around you and freezes your enemies.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">Kolem tebe vybuchne ledová nova a zmrazí tvé nepřátele.\n\n&lt;font color=&quot;#948ec6&quot;&gt;kouzlo:&lt;/font&gt;  Použitelné pouze s holemi nebo katalyzátory.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Kolem tebe vybuchne ledová nova a zmrazí tvé nepřátele.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt;  Použitelné pouze s holemi nebo katalyzátory.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_FrostNova_Lore</Data></Cell>
@@ -1070,7 +1070,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_HolyDive_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Charge a Sacred spell that deals damage in an area of effect and teleports your character. At each new charging step, the area of effect and the damage are increased.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;, &lt;b&gt;Movement&lt;/b&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">Nabij Posvátné kouzlo, které způsobí poškození ve své oblasti účinku a teleportuje vaši postavu. Při každém novém nabití se zvětší oblast účinku a poškození.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt; Použitelné pouze s holí nebo katalystem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;, &lt;b&gt;Pohyb&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Nabij Posvátné kouzlo, které způsobí poškození ve své oblasti účinku a teleportuje vaši postavu. Při každém novém nabití se zvětší oblast účinku a poškození.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt;Použitelné pouze s holí nebo katalyzátorem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;, &lt;b&gt;Pohyb&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_HolyDive_Lore</Data></Cell>
@@ -1160,7 +1160,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Solarfall_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Channel a damaging area of effect from the sky that follows the cursor.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">Nasměruj útočnou oblast z oblohy následující kurzor.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt; Použitelné pouze s holí nebo katalystem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Nasměruj útočnou oblast z oblohy následující kurzor.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt;Použitelné pouze s holí nebo katalyzátorem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Solarfall_Lore</Data></Cell>
@@ -1175,7 +1175,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_CorpseExplosion_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Cast an area of effect that causes enemies or summons to explode upon death, dealing Poison damage in an area of effect.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">Sešli oblast, způsobující, že po smrti nepřátelé nebo seslané bytosti explodují a způsobí poškození Otrávením.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt; Použitelné pouze s holí nebo katalystem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Sešli oblast, způsobující, že po smrti nepřátelé nebo seslané bytosti explodují a způsobí poškození Otrávením.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt; Použitelné pouze s holí nebo katalyzátorem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_CorpseExplosion_Lore</Data></Cell>
@@ -1190,7 +1190,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Vortex_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Cast a vortex that has two area of effects. The first, smaller areas deal damage over time, and after a short time the larger one pulls enemies into the center.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">Sešli vír, který má dvě oblasti působení. Menší oblasti způsobují poškození v průběhu času a po krátké době ta větší tahá nepřátele do středu.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt;  Použitelné pouze s holí nebo katalystem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Směřuj na cíl paprsek, který vysává jeho zdraví, dokud se nestane posedlým. Jakmile je posedlý, obnoví se zdraví cíle.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt; Použitelné pouze s holí nebo katalyzátorem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;, &lt;b&gt;Vyvolání&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_Vortex_Lore</Data></Cell>
@@ -1205,7 +1205,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SummonMelee_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Summon a zombie that deals damage with melee attacks. If the number of zombies is at a maximum, they charge toward the location of the cursor.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;, &lt;b&gt;Summon&lt;/b&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">Vyvolej zombie, které útočí útoky na blízko. Pokud je počet zombie na maximu, jsou svolávání směrem k umístění kurzoru.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt;  Použitelné pouze s holí nebo katalystem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;, &lt;b&gt;Vyvolání&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Vyvolej zombie, které útočí útoky na blízko. Pokud je počet zombie na maximu, jsou svolávání směrem k umístění kurzoru.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt;Použitelné pouze s holí nebo katalyzátorem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;, &lt;b&gt;Vyvolání&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SummonMelee_Lore</Data></Cell>
@@ -1220,7 +1220,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SummonRanged_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Summon a zombie that deals damage with ranged attacks. If the number of zombies is at a maximum, they focus fire on the target underneath the cursor.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;, &lt;b&gt;Summon&lt;/b&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">Vyvolej zombie, který způsobí poškození útoky na dálku. Pokud je počet zombie na maximu, soustředí palbu na cíl směrem ke kurzoru.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt; Použitelné pouze s holí nebo katalystem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;, &lt;b&gt;Vyvolání&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Vyvolej zombie, který způsobí poškození útoky na dálku. Pokud je počet zombie na maximu, soustředí palbu na cíl směrem ke kurzoru.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt;Použitelné pouze s holí nebo katalyzátorem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;, &lt;b&gt;Vyvolání&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SummonRanged_Lore</Data></Cell>
@@ -1235,7 +1235,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SummonChampion_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Summon a large Poison golem that cleaves enemies. If skill is cast again, golem shouts a warcry that generates Threat.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;, &lt;b&gt;Summon&lt;/b&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">Vyvolej velkého Jedového golema, který rozštípe nepřátele. Je-li dovednost znovu seslána, golem křičí válečný pokřik, generující Ohrožení.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt; Použitelné pouze s holí nebo katalystem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;, &lt;b&gt;Vyvolání&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Vyvolej velkého Jedového golema, který rozštípe nepřátele. Je-li dovednost znovu seslána, golem křičí válečný pokřik, generující Ohrožení.\n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt; Použitelné pouze s holí nebo katalyzátorem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;, &lt;b&gt;Vyvolání&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_SummonChampion_Lore</Data></Cell>
@@ -1265,7 +1265,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_AetherBlade_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Attack enemies multiple times in a combo, giving Willpower with each enemy hit. \n\n&lt;font color=&quot;#948ec6&quot;&gt;Spell:&lt;/font&gt; Only usable with staves or catalysts.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Skill Tags&lt;/font&gt;: &lt;b&gt;Spell&lt;/b&gt;.</Data></Cell>
-    <Cell><Data ss:Type="String">Zaútočí na nepřátele několikrát v za sebou, čímž získáš Vůli s každým zásahem nepřítele. \n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt; Použitelné pouze s holí nebo katalystem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;.</Data></Cell>
+    <Cell><Data ss:Type="String">Zaútočí na nepřátele několikrát v za sebou, čímž získáš Vůli s každým zásahem nepřítele. \n\n&lt;font color=&quot;#948ec6&quot;&gt;Kouzlo:&lt;/font&gt; Použitelné pouze s holí nebo katalyzátorem.\n\n&lt;font color=&quot;#509FFF&quot;&gt;Dovednostní Tagy&lt;/font&gt;: &lt;b&gt;Kouzlo&lt;/b&gt;.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_AST_AetherBlade_Lore</Data></Cell>
@@ -1288,7 +1288,7 @@
     <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Moros, Prvotní soumrak, ovládal závoje temnoty, k obrácení vývoje bitvy, když jeho síly vypadaly obklopené a ztracené.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1241383836376"><Data ss:Type="String">SKILLS VARIANTS  &lt;font color=&quot;#cb5316&quot;&gt; Rage  &lt;font color=&quot;#948ec6&quot;&gt; Willpower</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2528127089448"><Data ss:Type="String">SKILLS VARIANTS  &lt;font color=&quot;#cb5316&quot;&gt; Rage  &lt;font color=&quot;#948ec6&quot;&gt; Willpower</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_1</Data></Cell>
@@ -1343,7 +1343,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Abanazaar, once Primordial of Fire, ravaged a continent pursuing his unrequited love, his envy consuming and melting everything, the ground itself turning to lava in his wake.\n\nWhile Hephaäron was his enemy, he remained a keen opportunist. He got to work, installing a forge near the melting continent and shaping its burning metals into superdense flaming arrowheads meant to feed the mouth of Krearion.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
-    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Abanazaar, kdysi Prvotním ohněm, zpustošil kontinent, při pronásledování neopětované lásky. Jeho nenávist pohtila a roztavila vše, samotná země se po jeho boku proměnila v lávu.\n\nKdežto Hephaäron, který byl jeho nepřítelem, zůstal bystrým oportunistou. Začal pracovat na výrobě kovárny, blízko tavícího se kontinentu, a tvaroval si žhnoucí kovy do super-pevných planoucích špiček šípů, se záměrem jejich využití pro Kreariona.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Abanazaar, kdysi Prvotním ohněm, zpustošil kontinent, při pronásledování neopětované lásky. Jeho závist pohtila a roztavila vše, samotná země se po jeho boku proměnila v lávu.\n\nKdežto Hephaäron, který byl jeho nepřítelem, zůstal bystrým oportunistou. Začal pracovat na výrobě kovárny, blízko tavícího se kontinentu, a tvaroval si žhnoucí kovy do super-pevných planoucích špiček šípů, se záměrem jejich využití pro Kreariona.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_6</Data></Cell>
@@ -1408,7 +1408,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_11_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Cooldown is reduced upon killing an enemy.</Data></Cell>
-    <Cell><Data ss:Type="String">Cooldown je po zabití nepřítele znížen.</Data></Cell>
+    <Cell><Data ss:Type="String">Cooldown je po zabití nepřítele snížen.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_ArrowsRain_variant_11_Lore</Data></Cell>
@@ -2409,6 +2409,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_3_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Inflicts Stun on enemies at the end of the charge. Increases the cooldown of the skill.</Data></Cell>
+    <Cell><Data ss:Type="String">Způsobí Omráčení nepřátel na konci nabití. Zvýší cooldown dovednosti.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_4</Data></Cell>
@@ -2418,10 +2419,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_4_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Charge the skill to channel for longer.</Data></Cell>
+    <Cell><Data ss:Type="String">Nabije dovednost, takže působí déle.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_4_Lore</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Baäpheth commissioned Hephaäron to make something to protect himself, which manifested as Gleidhir, the First Shield. It was forged on a continent melted by Abanazaar’s rage, but it was hardened deep in the ocean by the immense pressure. Gleidhir was created to be an immovable object, to challenge Abanazaar’s unstoppable force.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Baäpheth pověřil Hefaärona, aby udělal něco, co by ho ochránil, a to něco bylo vytvoření Gleidhir, Prvotního šítu. Byl ukován na kontinentu roztaveném vztekem Abanazaara a ztvrdl pod obrovským tlakem oceánu. Gleidhir byl stvořen jako pevný objekt, aby zpochybnil nezastavitelnou sílu Abanazaara.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_5</Data></Cell>
@@ -2431,10 +2434,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_5_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Converts base Physical damage to Fire damage.\n\nIncreases damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Převede základní fyzické poškození na poškození Ohněm.\n\nZvýší poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Armed with Gleidhir, Baäpheth steeled his resolve and charged directly at Abanazaar. Both Primordials were rushing towards each other across the ravaged land, no fear to be seen. They collided with an almighty crash, the impact sending shockwaves of debris reverberating across the plain. As the dust cleared, only one figure remained standing, shield held aloft.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Vyzbrojen Gleidhirem, Baäpheth utvrdil své odhodlání, střetnout se přímo s Abanazaarem. Oba Prvotní se řítili naproti sobě navzájem po zpustošené zemi a beze strachu. Střetli se v ohlušujícím nárazu, který vyvolal obrovskou rázovou vlnu, díky které se trosky rozlétly po planině. Když se prach usadil, zůstala stát jen jedna postava držící štít ve vzduchu.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_6</Data></Cell>
@@ -2444,6 +2449,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_6_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Charge cannot be interrupted by crowd control effects.\n\nReduces damage from projectiles while charging.</Data></Cell>
+    <Cell><Data ss:Type="String">Nabití nemůže být přerušeno vlivem kontroly davu.\n\nSnižuje poškození střel během nabíjení.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_7</Data></Cell>
@@ -2453,6 +2459,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_7_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Creates a damage-dealing shockwave at the end of the charge.</Data></Cell>
+    <Cell><Data ss:Type="String">Na konci nabíjení vytvoří rázovou vlnu způsobující poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_8</Data></Cell>
@@ -2462,6 +2469,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_8_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Leaves damaging areas of effect on the ground behind you, each one lasting for a few seconds.</Data></Cell>
+    <Cell><Data ss:Type="String">Zanechává za tebou místa způsobující poškození, z nichž každá trvá několik sekund.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_9</Data></Cell>
@@ -2471,6 +2479,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_9_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Spawns a ghost ally that hits an enemy after they are hit by this skill.</Data></Cell>
+    <Cell><Data ss:Type="String">Vyvolá přátelského ducha, který udeří nepřítele poté, co je zasažen touto dovedností.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_10</Data></Cell>
@@ -2480,6 +2489,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_10_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Grant Rage when hitting enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">Dává Vztek při zasažení nepřátel.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_11</Data></Cell>
@@ -2489,6 +2499,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_11_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Increases damage based on block chance.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvyšuje poškození na základě šance na blok.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_12</Data></Cell>
@@ -2498,6 +2509,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_12_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Increases block chance while charging.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýší šanci na blokování při nabíjení.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_13</Data></Cell>
@@ -2507,6 +2519,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_13_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Grants buff to all resistances for yourself and allies when charging.</Data></Cell>
+    <Cell><Data ss:Type="String">Při nabíjení udělí buff všem Odolnostem pro tebe i spojence.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_14</Data></Cell>
@@ -2536,10 +2549,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_16_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Inflicts Stun on enemies caught in the charge. Adds a cooldown to the skill.</Data></Cell>
+    <Cell><Data ss:Type="String">Způsobí Omráčení nepřátelům, které si při výpadu zasáhl. Přidá dovednosti cooldown</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Charge_variant_16_Lore</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Victorious Baäpheth approached his fallen foe. He raised his shield, and slammed it repeatedly into the face of the Primordial of Fire, flames bursting from the injured entity and turning to smoke. Under the weight of Gleidhir, all flames in the world went out, choked by Ambition and Industry’s combined forces.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Baäpheth, který zvítězil, se přiblížil ke svému padlému nepříteli. Zvedl štít a opakovaně jej zabouchl do tváře Prvotního ohně. Plameny vytryskly z poraněné bytosti a změnili se v kouř. Pod tíhou Gleidhiru, plameny na celém světě vyhasly, dusené kombinovanými silami Ctižádosti a Průmyslu.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_1</Data></Cell>
@@ -2549,6 +2564,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_1_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Marked enemies are more vulnerable to damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Označení nepřátelé jsou zranitelnější vůči poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_2</Data></Cell>
@@ -2558,6 +2574,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_2_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Marked enemies are slowed.</Data></Cell>
+    <Cell><Data ss:Type="String">Označení nepřátelé jsou zpomaleni.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_3</Data></Cell>
@@ -2567,6 +2584,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_3_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Marks have longer duration.</Data></Cell>
+    <Cell><Data ss:Type="String">Označení mají delšího trvání.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_4</Data></Cell>
@@ -2576,10 +2594,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_4_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Enemies killed while under the effect of Mark of Impurity explode and deal damage based on the target's max Health in an area around them.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé zabití pod vlivem Mark of Impurity explodují a způsobují poškození na základě maximálního zdraví cíle v oblasti kolem nich.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_4_Lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The embodiment of purity is considered to be many things depending on perspective: one of the last Primordials is a lethal purifier, or the apex of all demonhunters. He is a relentless killer of all that he deems unworthy of Creation's prime vision. Some see him as an insane being, a murdering absolute, others as one of the last reasons the Fallen haven't taken over the world and still secretly fear his name: Sarisel. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ztělesnění čistoty je považováno za mnoho věcí, zavísící na úhlu pohledu: buď je to jeden z posledních Prvotních, smrtící Očistitel a nebo nejvyšší z lovců démonů. Je vytrvalým zabijákem všeho, co považuje za nehodné pro hlavní vizi Stvoření. Někteří ho považují za šílenou vražedící bytost, jiní za jeden z posledních důvodů, proč Padlí nepřevzali svět a stále se tajně bojí jeho jména: Sarisel. &lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_5</Data></Cell>
@@ -2589,6 +2609,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_5_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Increases critical damage on marked enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýší kritické poškození udělené označeném nepříteli.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_6</Data></Cell>
@@ -2598,6 +2619,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_6_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Increases chance to inflict Ailments on marked enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýší šanci způsobit Oslabení označenému nepříteli.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_7</Data></Cell>
@@ -2607,6 +2629,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_7_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Increases Ailment damage on marked enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýší Poškození oslabením udělené označenému nepřiteli.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_8</Data></Cell>
@@ -2616,10 +2639,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_8_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Mark of Impurity spreads to surrounding enemies on the death of the target.</Data></Cell>
+    <Cell><Data ss:Type="String">Mark of Impurity se šíří na okolní nepřátele až do té doby, než cíl zemře.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_8_Lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Sarisel isn't known for his tolerance or empathy. He is a killer, a punisher, a purifier. He destroys all those that he associates with the evils of the world and the abominations they create. Once Marked by Impurity, there is no explanation, no second chance and no justice, just blind purification for all involved.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Sarisel není známý pro svou toleranci nebo empatii. Je to vrah, trestač, očisťovatel. Ničí všechny, které si spojí se zlem světa a ohavností, kterou vytvářejí. Jakmile je označen Nečistotou, neexistuje žádné vysvětlování, žádná druhá šance a žádná spravedlnost, pouze slepé očištění všech zúčastněných.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_9</Data></Cell>
@@ -2629,10 +2654,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_9_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Marked enemies are inflicted with numerous stacks of Cursed.</Data></Cell>
+    <Cell><Data ss:Type="String">Označení nepřátelé jsou ovlivněni několika stacky Prokletí.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_9_Lore</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Sarisel buries his weapons in the ground when they have soaked up too much blood, justifying that no thing tainted with evil in its essence could possibly do good. They remain in the ground, seeming like the bones of the world. These relics of Primordial sins have a power, emanating a curse on the towns built above. Not only do they draw the life from all things above that once thrived, but they invite hate and gratuitous violence among the people on the surface.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Sarisel pohřbil své zbraně do země, když prolily až příliš mnoho krve, což vypovídá o tom, že nic, co bylo jakkoliv spojeno se zlem, by mohlo přetrvat dobré a dobré i vytvářet. Zůstávají v zemi a vypadají jako kosti světa. Tyto pozůstatky Prvotních hříchů mají moc vyzařovat prokletí na města postavená nad nimi. Nejenže čerpají život ze všech výše se nacházejích věcí, které kdysi prospívaly, ale zvou i nenávistné a bezdůvodné násilí mezi lidmi na povrchu.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_10</Data></Cell>
@@ -2642,6 +2669,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_10_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Marked enemies under 10% health die instantly when hit.</Data></Cell>
+    <Cell><Data ss:Type="String">Označení nepřátelé pod 10% zdraví umírají okamžitě, když jsou zasaženi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_11</Data></Cell>
@@ -2651,6 +2679,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_11_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Chance to spawn a ghost ally when a marked enemy is hit that will hit the enemy again.</Data></Cell>
+    <Cell><Data ss:Type="String">Když je označený nepřítel zasažen, je zde šance vyvolat spřáteleného ducha, který jej zasáhne znovu.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_12</Data></Cell>
@@ -2660,6 +2689,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_12_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Marked enemies are more vulnerable to damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Označení nepřátelé jsou zranitelnější vůči poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_13</Data></Cell>
@@ -2669,6 +2699,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_13_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Marks have longer duration.</Data></Cell>
+    <Cell><Data ss:Type="String">Označení má delšího trvání.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_14</Data></Cell>
@@ -2688,6 +2719,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_15_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Marked enemies are more vulnerable to damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Označení nepřátelé jsou zranitelnější vůči poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DeathMark_variant_16</Data></Cell>
@@ -2707,6 +2739,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_1_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Faster dash.</Data></Cell>
+    <Cell><Data ss:Type="String">Rychlejší výpad.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_2</Data></Cell>
@@ -2716,6 +2749,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_2_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Part of the overall damage dealt to the target is dealt in an area around it.</Data></Cell>
+    <Cell><Data ss:Type="String">Část celkového poškození způsobeného cíli, je rozprostřeno okolo něj.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_3</Data></Cell>
@@ -2735,10 +2769,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_4_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Teleport behind the target.\n\nIncreases damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Teleportuješ se za tvého nepřítele.\n\nZvýší poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_4_Lore</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Merging two moons inside something as tiny as a blade is a dangerous endeavor even for a Primordial. Without proper mastery the resulting object could become so dense that it would crumble and become an all-devouring black hole. This intense power can manipulate time and space itself.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Sloučení dvou měsíců uvnitř něčeho tak malého jako čepel, je nebezpečné i pro samotného Prvotního. Bez řádného plánování, by výsledný objekt mohl být tak hustý, že by se začal rozpadat a stal by se vše pohlcující černou dírou. Tato intenzivní síla může sama manipulovat s časem a prostorem.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_5</Data></Cell>
@@ -2748,10 +2784,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_5_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Converts base Physical damage to Shadow damage.\n\nIncreases chance of inflicting Cursed.</Data></Cell>
+    <Cell><Data ss:Type="String">Převede základní fyzické poškození na Stínové poškození .\n\nZvýší šanci způsobit Prokletí.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Sazanek was gifted to Moros to thank him for his assistance. The Primordial of Dusk had little use for such a weapon, but carried it with him as a sign of Hephaäron’s gratitude. Over time, the blades absorbed his crepuscular energy and changed color from a gleaming silver to a deep dark blue. It was returned to the Armory of Creation before long, Moros was concerned that a weapon of such quality would never be used.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Sazanek byl dán Morosovi, aby mu poděkoval za jeho pomoc. Prvotní Soumrak pro takovou zbraň neměl užitek, ale nosil ji s sebou jako znamení vděčnosti Hephaärona. V průběhu času čepele pohlcovaly jeho krepuskulární energii a změnily barvu ze zářícího stříbra na tmavě modrou. Už dávno byl navrácen do Zbrojnice Stvoření. Moros měl obavy, že zbraň takové kvality nebude nikdy použita.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_6</Data></Cell>
@@ -2761,6 +2799,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_6_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Every time the skill is re-cast within a short period of time, its damage is increased.</Data></Cell>
+    <Cell><Data ss:Type="String">Pokaždé, když je dovednost během krátké doby znovu-použita, její poškození se zvyšuje.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_7</Data></Cell>
@@ -2780,6 +2819,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_8_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Enemies killed by this skill transmit Ailments to other enemies.</Data></Cell>
+    <Cell><Data ss:Type="String">Nepřátelé zabití touto dovedností, přenášejí Oslabení na další nepřátele.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_9</Data></Cell>
@@ -2789,6 +2829,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_9_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">After completing a dash, enemies in 360 degrees are knocked back.</Data></Cell>
+    <Cell><Data ss:Type="String">Po dokončení výpadu, jsou nepřátelé v okruhu 360 stupňů, odraženi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_10</Data></Cell>
@@ -2798,6 +2839,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_10_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Chance to spawn a ghost ally that hits an enemy after they are hit by this skill.</Data></Cell>
+    <Cell><Data ss:Type="String">Je zde šance vyvolat spřáteleného ducha, který zasáhne nepřítele potom, co je zasažen touto dovedností.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_11</Data></Cell>
@@ -2807,6 +2849,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_11_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">All enemies in the path of the dash are hit.</Data></Cell>
+    <Cell><Data ss:Type="String">Všichni nepřátelé ve směru výpadu, jsou zasaženi.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_12</Data></Cell>
@@ -2816,10 +2859,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_12_desc</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">Hitting an enemy spawns two damaging projectiles behind them.</Data></Cell>
+    <Cell><Data ss:Type="String">Zasažením nepřítele se vyvolají dvě střely.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_12_Lore</Data></Cell>
     <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The two moons were hurled toward Hephaäron's forges to destroy them, a parting gift from his disciple Ezaneal. The Primordial Craftsman was out of time to save himself as well as his hard work. But Moros, the Primordial of Dusk intervened to shroud the enormous projectiles in his shadows, changing their course to collide against one another. Hephaäron seized the momentum to heat, fuse and concentrate the metal they contained into a blade that he would call Sazanek.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Oba měsíce byly vrženy k Hephaäronovým kovárnám, aby byly zničeny, což byl dar od jeho učedníka Ezaneala. Prvotní Řemeslník byl se nacházel mimo čas a tak se zachránil, spolu se svými výtvory. Ale Moros, Prvotní Soumrak zasáhl a oba obrovité měsíce zahalil ve svých stínech a změnil jejich směr, aby se srazil proti sobě. Hephaäron se chopil této příležitosti, aby roztavil a zkoncentroval všechen kov, který tyto měsíce obsahovaly, do čepele, kterou nazval Sazanek.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_DualStrike_variant_13</Data></Cell>
@@ -2889,10 +2934,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_3_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Projectiles no longer collide or explode. Instead, they gain an increased area of effect and Pierce enemies. </Data></Cell>
+    <Cell><Data ss:Type="String">Střely již nekolidují nebo explodují. Místo toho získávají větší plochu účinku a probodnou nepřátele.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_3_Lore</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Jealousy goes hand in hand with envy. Abanazaar's obsessive desire to own Anathëa created in him a raging madness when he discovered her heart already belonged to Moros, Primordial of Dusk. Ever since, Abanazaar has tried to smother all the darkness and twilights of the world, illuminating them with his fiery lights, turning landscapes to smoldering pile of embers if he has to, as long as no shadows remain, eradicating all traces of his rival's legacy.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Žárlivost jde ruku v ruce se závistí. Abanazaarova posedlá touha vlastnit Anathëu v něm vyvolala zuřící šílenství, když zjistil, že její srdce již patřilo Morosovi, Prvotnímu soumraku. Od té doby se Abanazaar pokoušel zadusit veškerou temnotu a soumraky světa, osvětlil je svými ohnivými světly, proměnil krajinu v doutnající hromadu uhlíků, a bude tak činit tak dlouho, dokud budou jakékoliv stíny existovat a nevymýtí všechny stopy po svém soupeři.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_4</Data></Cell>
@@ -2902,6 +2949,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_4_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Adds one projectile at an increased cost.</Data></Cell>
+    <Cell><Data ss:Type="String">Přidá jednu střelu, ale zvýší náklady.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_5</Data></Cell>
@@ -2911,10 +2959,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_5_desc</Data></Cell>
     <Cell ss:StyleID="s67"><Data ss:Type="String">Converts base Fire damage to Lightning damage.\n\nIncreases damage.</Data></Cell>
+    <Cell><Data ss:Type="String">Převede základní Ohnivé poškození na poškození Bleskem.\n\nZvýší poškození.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_5_Lore</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;As much as Abanazaar and his cult represent a powerful and destructive force, they remain both predator and prey. Beelmalik, Fallen Lord of Punishment, aims to destroy the cult of Envy to reunite with his brother. His Entropic Judges are always on the hunt to reveal and obliterate secret organizations devoted to Abanazaar.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ačkoliv Abanazaar a jeho kult představují mocnou a destruktivní sílu, jsou jak predátory, tak ale i kořistí. Cílem Beelmalika, Padlého lorda Trestu, je zničit kult Závisti , aby se znovu setkal se svým bratrem. Jeho entropičtí soudci jsou vždy na stopě k odhalení a zničení tajných sekt oddaných Abanazaarovi.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_6</Data></Cell>
@@ -2944,6 +2994,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_8_desc</Data></Cell>
     <Cell ss:StyleID="s66"><Data ss:Type="String">Gives a buff that allows you to deal additional damage based on the base element of this skill. Allies affected by the skill’s area of effect will also receive this buff.</Data></Cell>
+    <Cell><Data ss:Type="String">Dává buff, který umožňuje způsobit dodatečné poškození na základě základního prvku této dovednosti. Členové družiny, kteří jsou ovlivněni touto dovedností, tento buff obdrží také.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_Variant_Fireball_variant_8_Lore</Data></Cell>
@@ -7911,7 +7962,7 @@
     <Cell><Data ss:Type="String">Sníží cooldown.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1241383836396"><Data ss:Type="String">AST BUFF VARIANTS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2528127089468"><Data ss:Type="String">AST BUFF VARIANTS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_FireballFiredamageBoost_Desc</Data></Cell>
@@ -8026,7 +8077,7 @@
     <Cell ss:StyleID="s66"><Data ss:Type="String">Stamina Regeneration buff</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1241383836416"><Data ss:Type="String">Aspect of Apocalypse SKILLS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2528127089488"><Data ss:Type="String">Aspect of Apocalypse SKILLS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_APO_Menu_Title</Data></Cell>
@@ -8330,7 +8381,7 @@
     <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;As the First Warrior, Baäpheth understands the true value of patience; strength is worthless if one knows not when to strike.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1241383836436"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2528127089508"><Data ss:Type="String">SKILLS INFORMATION (ESP)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s102"><Data ss:Type="String">ui_AST_Param_Averagedamage</Data></Cell>
@@ -8731,7 +8782,7 @@
     <Cell ss:StyleID="s103"><Data ss:Type="String">Knockback Distance: %1m</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1241383838000"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2528127092112"><Data ss:Type="String">SKILLS LEVELLING BONUS (EASTM)</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s105"><Data ss:Type="String">ui_AST_ParamBonus_damage</Data></Cell>
@@ -8762,7 +8813,7 @@
     <Cell ss:StyleID="s106"><Data ss:Type="String">%1 Freeze Duration Bonus</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1241383838020"><Data ss:Type="String">SUMMONS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2528127092132"><Data ss:Type="String">SUMMONS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s108"><Data ss:Type="String">UI_AIName_Summon_Melee</Data></Cell>
@@ -8787,7 +8838,7 @@
     <Cell><Data ss:Type="String">Rubáš šera</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m1241383838040"><Data ss:Type="String">ACTIVE SKILL BUFFS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2528127092152"><Data ss:Type="String">ACTIVE SKILL BUFFS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s108"><Data ss:Type="String">ui_Aetherblade_buff_title</Data></Cell>

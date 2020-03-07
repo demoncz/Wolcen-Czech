@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>12855</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -1092,6 +1092,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_bow_projectile_lore</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;The bow handle is engraved with an elegant symbol, a blazing phoenix with purple eyes. Closer inspection reveals thirteen small markings on the bow wings, as if the previous owner was keeping track of a grim score. Whoever it was, its legacy is not meant to end here: time to start big game hunting and keep the death toll rolling.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Elegantní symbol byl vyryt na rukojeti tohoto luku, planoucí fénix s fialovýma očima. Při bližším pohledu můžeš vidět třináct drobných značek, jako by předchozí majitel označoval své smrtící výsledky. Ať to byl kdokoliv, jeho odkaz tím nekončí: je čas začít lovit a zvýšit počet obětí.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_shield_sacred</Data></Cell>
@@ -1105,7 +1106,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_fire_sword</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Vulcaïn Steel Sword</Data></Cell>
-    <Cell><Data ss:Type="String">Vulcain Steel Sword</Data></Cell>
+    <Cell><Data ss:Type="String">Vulcaïn Steel Sword</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_fire_sword_lore</Data></Cell>
@@ -1299,6 +1300,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s92"><Data ss:Type="String">ui_unique_dominion_staff_lore</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Engraved along the staff:\n\n“An aching hunger drives me forward. Constant temptation, an interminable quest, craving for power.”&lt;/i&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Na holi je vyryto:\n\n“Bolestivý hlad mě pohání kupředu. Neustálé pokušení, nekonečný úkol, touha po moci.”&lt;/i&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">ui_unique_driftwood_bow</Data></Cell>
@@ -1308,6 +1310,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">ui_unique_driftwood_bow_lore</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ebba of Varg awoke swaddled in seaweed, two hundred feet away from her shipwreck. She found a wrought-iron joint in the debris: a miracle. With it, she fashioned a ramshackle bow stringed with plant fibres to hunt the beasts of the Baktorai islands.\n\nWhen Macksfesten found her and had her board his ship, she threw the bow overboard and announced: “Here’s a miracle for the next castaway.”&lt;/i&gt;&lt;/font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Ebba z Varg se probudila obklopená mořskými řasami, dvěstě stop od jejího vraku. V troskách našla kovaný kloub: zázrak. S jeho pomocí vytvořila chatrný luk s rostlinnými vlákny k lovu zvířat na ostrovech Baktorai.\n\n Když ji Macksfesten našel a vzal ji na loď, hodila luk přes palubu prohlásila: &quot;To je zázrak pro dalšího trosečníka.&quot;&lt;/i&gt;&lt;/font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">Staves</Data></Cell>
@@ -1567,67 +1570,67 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorTypePrisoner</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Rags</Data></Cell>
-    <Cell><Data ss:Type="String">Rags</Data></Cell>
+    <Cell><Data ss:Type="String">Hadry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorTypeHeavy</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Heavy</Data></Cell>
-    <Cell><Data ss:Type="String">Heavy</Data></Cell>
+    <Cell><Data ss:Type="String">Těžkooděnec</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorTypeWarrior</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Bruiser</Data></Cell>
-    <Cell><Data ss:Type="String">Bruiser</Data></Cell>
+    <Cell><Data ss:Type="String">Rváč</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorTypeRogue</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Rogue</Data></Cell>
-    <Cell><Data ss:Type="String">Rogue</Data></Cell>
+    <Cell><Data ss:Type="String">Tulák</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorTypeMage</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Sorcerer</Data></Cell>
-    <Cell><Data ss:Type="String">Sorcerer</Data></Cell>
+    <Cell><Data ss:Type="String">Čaroděj</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ArmorTypeAccessory</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Accessory</Data></Cell>
-    <Cell><Data ss:Type="String">Accessory</Data></Cell>
+    <Cell><Data ss:Type="String">Doplněk</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorHead</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Helmet</Data></Cell>
-    <Cell><Data ss:Type="String">Helmet</Data></Cell>
+    <Cell><Data ss:Type="String">Helma</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorShoulder</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Spaulder</Data></Cell>
-    <Cell><Data ss:Type="String">Spaulder</Data></Cell>
+    <Cell><Data ss:Type="String">Narámeník</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorChest</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Chest-piece</Data></Cell>
-    <Cell><Data ss:Type="String">Chest-piece</Data></Cell>
+    <Cell><Data ss:Type="String">Brnění</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorArm</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Gauntlet</Data></Cell>
-    <Cell><Data ss:Type="String">Gauntlet</Data></Cell>
+    <Cell><Data ss:Type="String">Rukavice</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorBelt</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Belt</Data></Cell>
-    <Cell><Data ss:Type="String">Belt</Data></Cell>
+    <Cell><Data ss:Type="String">Opasek</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorLegs</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Pants</Data></Cell>
-    <Cell><Data ss:Type="String">Pants</Data></Cell>
+    <Cell><Data ss:Type="String">Kalhoty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_ArmorFeet</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Boots</Data></Cell>
-    <Cell><Data ss:Type="String">Boots</Data></Cell>
+    <Cell><Data ss:Type="String">Boty</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_Amulet</Data></Cell>
@@ -1637,12 +1640,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s91"><Data ss:Type="String">ui_Ring</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ring</Data></Cell>
-    <Cell><Data ss:Type="String">Ring</Data></Cell>
+    <Cell><Data ss:Type="String">Prsten</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s94"><Data ss:Type="String">ui_itemtype_reagent</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Ethereal Reagent</Data></Cell>
-    <Cell><Data ss:Type="String">Ethereal Reagent</Data></Cell>
+    <Cell><Data ss:Type="String">Éterický Reagent</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:MergeAcross="1" ss:StyleID="s73"><Data ss:Type="String">ARMORS</Data></Cell>
@@ -1709,6 +1712,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_OutfitVeteran_Boots_lore</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Thin and fragile, but the armored boots were too heavy to stay afloat.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Tenké a křehké, ale opancéřované boty byly příliš těžké, aby zůstaly nad vodou.&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_poison</Data></Cell>
@@ -1745,6 +1749,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_all_mighty_lore</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Looks like Owlcen hid a little present for you!&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;Font Size=&quot;15&quot; Color=&quot;#ccb270&quot;&gt;&lt;i&gt;Vypadá to, že má pro tebe Owlcen malý dárek!&lt;/i&gt;&lt;/Font&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_unique_belt_lucky</Data></Cell>
@@ -1966,7 +1971,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">ui_unique_ezaneal_chest</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">Bio-Flow Symbiosis </Data></Cell>
-    <Cell><Data ss:Type="String">Bio-Flow Symbiosis</Data></Cell>
+    <Cell><Data ss:Type="String">Bio-Flow Symbiosis </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s90"><Data ss:Type="String">ui_unique_ezaneal_chest_lore</Data></Cell>
@@ -2331,7 +2336,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_Heavy_Sollerets_T8</Data></Cell>
     <Cell ss:StyleID="s89"><Data ss:Type="String">Vertebrate Ankleguards</Data></Cell>
-    <Cell><Data ss:Type="String">Treasonous Erasers</Data></Cell>
+    <Cell><Data ss:Type="String">Vertebrate Ankleguards</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_Armor_Heavy_Helmet_T9</Data></Cell>
@@ -4275,7 +4280,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_level</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">Level</Data></Cell>
-    <Cell><Data ss:Type="String">Level</Data></Cell>
+    <Cell><Data ss:Type="String">Úroveň</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_deprecated</Data></Cell>
@@ -6735,12 +6740,10 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>1305</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>1322</ActiveRow>
-     <ActiveCol>6</ActiveCol>
+     <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>

@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>12855</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -273,12 +273,12 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Cursed_title</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Cursed</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Curse</Data></Cell>
     <Cell><Data ss:Type="String">Prokletí</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ActiveEffect_Cursed_desc</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Cursed increases the Damage taken by the target.</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Curse increases the Damage taken by the target.</Data></Cell>
     <Cell><Data ss:Type="String">Prokletí zvýší poškození způsobené cílem.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
@@ -290,7 +290,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PressSpaceToRevive</Data></Cell>
-    <Cell ss:StyleID="s81"><Data ss:Type="String">Hold Space for second wind\n%1/%2 Tokens Remaining</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">Hold Space for second wind\n%1/%2 Revive Tokens Remaining</Data></Cell>
     <Cell><Data ss:Type="String">Podrž mezerník pro druhou šanci\n%1/%2 Zbývá oživení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">

@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12315</WindowHeight>
+  <WindowHeight>12855</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -304,7 +304,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KON_StepNameLabel_COSS_NamedMiniSpecter</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Kill &quot;P. Vincentus, Breath of Anulaï-Tai&quot;</Data></Cell>
-    <Cell><Data ss:Type="String">Zabij pána &quot;P. Vincentus, dech Anulai-Tai&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">Zabij pána &quot;P. Vincentus, dech Anulaï-Tai&quot;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_SC_KOT_StepNameLabel_COFE_Cultist</Data></Cell>
@@ -888,7 +888,9 @@
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>2</ActiveRow>
      <ActiveCol>2</ActiveCol>
+     <RangeSelection>R3C3:R126C3</RangeSelection>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
