@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12855</WindowHeight>
-  <WindowWidth>28800</WindowWidth>
+  <WindowHeight>6390</WindowHeight>
+  <WindowWidth>7470</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -123,7 +123,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#008000"/>
    <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2627587128400">
+  <Style ss:ID="m1233281879648">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -134,7 +134,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2627587126320">
+  <Style ss:ID="m1233281879232">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -145,7 +145,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2627587126340">
+  <Style ss:ID="m1233281879252">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -156,7 +156,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2627587126360">
+  <Style ss:ID="m1233281879272">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -167,7 +167,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2627587126380">
+  <Style ss:ID="m1233281879292">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -178,7 +178,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2627587126400">
+  <Style ss:ID="m1233281879312">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -189,7 +189,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2627587126420">
+  <Style ss:ID="m1233281879332">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -200,7 +200,7 @@
    <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2627587127568" ss:Parent="s62">
+  <Style ss:ID="m1233031247616" ss:Parent="s62">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -211,7 +211,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
     ss:Bold="1"/>
   </Style>
-  <Style ss:ID="m2627587127588">
+  <Style ss:ID="m1233031247636">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -222,7 +222,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2627587127608">
+  <Style ss:ID="m1233031247656">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -233,7 +233,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2627587127628">
+  <Style ss:ID="m1233031247676">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -244,7 +244,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2627587127648">
+  <Style ss:ID="m1233031247696">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -255,7 +255,7 @@
    <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
    <Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
   </Style>
-  <Style ss:ID="m2627587127668">
+  <Style ss:ID="m1233031247716">
    <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -392,7 +392,7 @@
       ss:Name="Print_Area"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587127568"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233031247616"><Data ss:Type="String">MAIN USER INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_PlayerChest_UnlockCost</Data></Cell>
@@ -410,7 +410,7 @@
     <Cell ss:StyleID="s81"><Data ss:Type="String">Inventář</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587127588"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233031247636"><Data ss:Type="String">ON-SCREEN MESSAGES</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_party_leader_is_choosing_adventure</Data></Cell>
@@ -843,7 +843,7 @@
     <Cell><Data ss:Type="String">Hněv Sarisel není v tomto herní režimu dostupný.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587127608"><Data ss:Type="String">ARCHIVIST</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233031247656"><Data ss:Type="String">ARCHIVIST</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_knowledge</Data></Cell>
@@ -858,7 +858,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_level_up</Data></Cell>
     <Cell ss:StyleID="s65"><Data ss:Type="String">Level up</Data></Cell>
-    <Cell><Data ss:Type="String">Úroveň navýšena</Data></Cell>
+    <Cell><Data ss:Type="String">Zvýšit úroveň</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_skill_levelup</Data></Cell>
@@ -876,7 +876,7 @@
     <Cell><Data ss:Type="String">Duplikát</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587127628"><Data ss:Type="String">JEWELER</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233031247676"><Data ss:Type="String">JEWELER</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_jeweler_title</Data></Cell>
@@ -934,7 +934,7 @@
     <Cell><Data ss:Type="String">Nelze změnit počet socketů na předmětech, kde jsou sockety uzamčené. </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587127648"><Data ss:Type="String">VOTING + EVENTS + SARISEL MODE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233031247696"><Data ss:Type="String">VOTING + EVENTS + SARISEL MODE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_reset_sarisel_adventure_popup_title</Data></Cell>
@@ -1262,7 +1262,7 @@
     <Cell><Data ss:Type="String">Odmítnout</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587127668"><Data ss:Type="String">OBJECTS AND ALTARS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233031247716"><Data ss:Type="String">OBJECTS AND ALTARS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_cursed_chest</Data></Cell>
@@ -1410,7 +1410,7 @@
     <Cell><Data ss:Type="String">Katalyzátor tělesné víry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587126320"><Data ss:Type="String">AREA MODIFIER ALTAR UI</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233281879232"><Data ss:Type="String">AREA MODIFIER ALTAR UI</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_map_modifier</Data></Cell>
@@ -1553,7 +1553,7 @@
     <Cell><Data ss:Type="String">Hráči mají %1</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587126340"><Data ss:Type="String">AREA MODIFIERS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233281879252"><Data ss:Type="String">AREA MODIFIERS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_modifier_desc</Data></Cell>
@@ -1611,7 +1611,7 @@
     <Cell><Data ss:Type="String">Nepřátele mají %1 Odolnost vůči Fyzickému poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587126360"><Data ss:Type="String">SARISEL MODE VICTORY SCREEN</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233281879272"><Data ss:Type="String">SARISEL MODE VICTORY SCREEN</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s107"><Data ss:Type="String">ui_BuffAppliedCountPerPlayer</Data></Cell>
@@ -1744,7 +1744,7 @@
     <Cell><Data ss:Type="String">Pokročilé statistiky</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587126380"><Data ss:Type="String">TRADING INTERFACE</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233281879292"><Data ss:Type="String">TRADING INTERFACE</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s110"><Data ss:Type="String">ui_notif_TradeInvitation</Data></Cell>
@@ -1827,7 +1827,7 @@
     <Cell><Data ss:Type="String">Klikni pravým tlačítkem k nabídnutí předmětu k obchodu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587126400"><Data ss:Type="String">MERCHANT TOOLTIPS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233281879312"><Data ss:Type="String">MERCHANT TOOLTIPS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_ic_click_to_buy</Data></Cell>
@@ -1885,7 +1885,7 @@
     <Cell><Data ss:Type="String">Přetáhni tento drahokam na prázdný socket předmětu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587126420"><Data ss:Type="String">WEAPON TOOLTIPS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233281879332"><Data ss:Type="String">WEAPON TOOLTIPS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell><Data ss:Type="String">ui_elementalDamage</Data></Cell>
@@ -1958,7 +1958,7 @@
     <Cell><Data ss:Type="String">%1 Éter</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
-    <Cell ss:MergeAcross="2" ss:StyleID="m2627587128400"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m1233281879648"><Data ss:Type="String">MISC / UNSORTED / REFACTORING IN PROGRESS</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s81"><Data ss:Type="String">ui_xp_at_level</Data></Cell>
@@ -2415,9 +2415,11 @@
    </Print>
    <Zoom>85</Zoom>
    <Selected/>
+   <TopRowVisible>72</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>95</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>

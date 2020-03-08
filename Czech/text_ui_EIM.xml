@@ -85,7 +85,7 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12855</WindowHeight>
+  <WindowHeight>13755</WindowHeight>
   <WindowWidth>28800</WindowWidth>
   <WindowTopX>32767</WindowTopX>
   <WindowTopY>32767</WindowTopY>
@@ -367,7 +367,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_all_attribute_pts</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 to All Attributes</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Ke všem atributům</Data></Cell>
+    <Cell><Data ss:Type="String">%1 ke všem atributům</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_all_resistance</Data></Cell>
@@ -377,7 +377,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_all_resistance_final_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 to All Resistances</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Ke všem odolnostem</Data></Cell>
+    <Cell><Data ss:Type="String">%1 ke všem odolnostem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_all_resistance_percent</Data></Cell>
@@ -437,6 +437,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_bleed_on_hit_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Bleed Chance Score when dealing all Damage Types</Data></Cell>
+    <Cell><Data ss:Type="String">%1 skóre šance na Krvácení při všech typech poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s65">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_bleedchance_on_rend_damage_score_percent</Data></Cell>
@@ -476,192 +477,202 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_arrowsrain</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Wailing Arrows</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Šípy nářku</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Wailing Arrows</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_bladeslinger</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Phantom Blades</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Přízračnou čepel</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Phantom Blades</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_bomb</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Havoc Orb</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Kouly skázy</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Havoc Orb</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_brutalstrike</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Anvil's Woe</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Kovadlinu žalu</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Anvil's Woe</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_bullseye</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Gunslinger's Brand</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Pistolníkuv cejch</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Gunslinger's Brand</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_chainlightning</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Thunderstrike</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Úder blesku</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Thunderstrike</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_charge</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Warpath</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Válečnou stezku</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Warpath</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_deathmark</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Mark of Impurity</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Značku nečistoty</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Mark of Impurity</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_dualstrike</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Slayer's Flurry</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Závan Zabijáka</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Slayer's Flurry</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_fireball</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Consuming Embers</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Žhavé Uhlíky</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Consuming Embers</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_frostcomet</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Tear of Etheliel</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Slzu Etheliel</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Tear of Etheliel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_frostlance</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Arctic Spear</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Arktické Kopí</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Arctic Spear</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_frostnova</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Winter's Grasp</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Zimní Sevření</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Winter's Grasp</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_hook</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Tracker's Reach</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Stopařuv hák</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Tracker's Reach</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_laceration</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Bleeding Edge</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Krvácejíci ostří</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Bleeding Edge</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_laser</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Annihilation</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Vyhlazení</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Annihilation</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_leap</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Wings of Ishmir</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Křídla Ishmir</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Wings of Ishmir</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_reave</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Wrath of Baäpheth</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Baäphethuv hněv</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Wrath of Baäpheth</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_sacredground</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Bulwark of Dawn</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Hradba úsvitu</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Bulwark of Dawn</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_spreadshot</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Stings of Krearion</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Krearionové žihadla</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Stings of Krearion</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_teleport</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Aether Jump</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Aetherický skok</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Aether Jump</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_turret</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast 'Avenger' Autoturret</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat 'Mstitelová' střílna</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat 'Avenger' Autoturret</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_warcry</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Sovereign Shout</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Suverenní výkřik</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Sovereign Shout</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_whirlwind</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Bladestorm</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Čepele bouře</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Bladestorm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_aetherblade</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Infinity Blades</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Infinity Blades</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_aetherblast</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Eclipse</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Zatmění</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Eclipse</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_corpse_explosion</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Plagueburst</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Plagueburst</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_hammer</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Flight of Gaavanir</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Flight of Gaavanir</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_holydive</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Light-bringer</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Nositél světla</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Light-bringer</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_ironguard</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Juggernaut</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Kolos</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Juggernaut</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_possession</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Parasite</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Parazita</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Parasite</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_ringofpain</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Blood for Blood</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Krev za krev</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Blood for Blood</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_smokebomb</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Duskshroud</Data></Cell>
-    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Rubáš šera</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Duskshroud</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_sniper</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast “Deathgazer” Railgun</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat “Deathgazer” Railgun</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_solarfall</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Solarfall</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Solarfall</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_summon_champion</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Livor Mortis</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Livor Mortis</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_summon_melee</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Feeding Swarm</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Feeding Swarm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_summon_ranged</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Hunting Swarm</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Hunting Swarm</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_vault</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Evasion</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Evasion</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_cast_vortex</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Allows the Bearer to Cast Anomaly</Data></Cell>
+    <Cell><Data ss:Type="String">Umožňuje nositeli seslat Anomaly</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s88"><Data ss:Type="String">ui_eim_can_not_dodge</Data></Cell>
@@ -674,6 +685,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_cc_immunity</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">Crowd Control Immunity</Data></Cell>
+    <Cell><Data ss:Type="String">Imunita proti davu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_fire_to_frost</Data></Cell>
@@ -1018,6 +1030,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_umbra_to_poison</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Aether Damage converted into Toxic Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Étherického poškození převedeno na poškození jedem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_convert_umbra_to_rend</Data></Cell>
@@ -1047,62 +1060,77 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_attackskill_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Attack Critical Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre kritické šance na útok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_attackskill_final_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Attack Critical Chance</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Kritická šance na útok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_attackskill_score</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Attack Critical Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre kritické šance na útok</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_final_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Critical Chance</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Kritická šance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_magicspell_final_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Spell Critical Chance</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Šance na kritické kouzlo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_magicspell_score</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Spell Critical Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre kritické šance na kouzlo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_magicspell_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Spell Critical Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre kritické šance na kouzlo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_on_ailment_final_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Ailment Critical Chance </Data></Cell>
+    <Cell><Data ss:Type="String">%1 Kritická šance na oslabení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_on_ailment_score</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Ailment Critical Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre kritické šance na oslabení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_on_ailment_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Ailment Critical Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre kritické šance na oslabení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_projectiles_final_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 All Projectiles Critical Chance</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Kritická šance všech střel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_projectiles_score</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 All Projectiles Critical Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre kritické šance všech střel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_projectiles_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 All Projectiles Critical Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre kritické šance všech střel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_score</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Critical Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre kritické šance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticalchance_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Critical Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre kritické šance</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticaldamage_attackskill_pts</Data></Cell>
@@ -1125,6 +1153,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticaldamage_projectiles_pts</Data></Cell>
     <Cell ss:StyleID="s85"><Data ss:Type="String">%1 All Projectiles Critical Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Kritické poškození všech střel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="20.0625">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_criticaldamage_pts</Data></Cell>
@@ -1163,7 +1192,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_damage_from_physical_resistance</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Damage per percent of Physical Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Do všech Odolností</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Procentuální poškození z fyzické odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_damage_percent</Data></Cell>
@@ -1256,6 +1285,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_damage_percent_per_enemy_in_range</Data></Cell>
     <Cell ss:StyleID="s90"><Data ss:Type="String">%1 Damage for each Nearby enemy within a %3m Radius</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Poškození pro nejbližší nepřátele v okruhu %3m</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_damage_percent_per_enemy_in_range_damage</Data></Cell>
@@ -1390,29 +1420,32 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_elemental_damage_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Elemental Damage </Data></Cell>
-    <Cell><Data ss:Type="String">%1 Elementální poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Elementární poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_elemental_resistance</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Elemental Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre elementární odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_elemental_resistance_final_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Elemental Resistance</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Elementální odolnost</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Elementární odolnost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_elemental_resistance_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Elemental Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre elementární odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_elemental_resistance_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Elemental Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre elementární odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_elemental_protection</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Elemental Protection</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Elementální ochrana</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Elementární ochrana</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_elemental_stacks_to_shock</Data></Cell>
@@ -1548,6 +1581,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_frost_resistance</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Frost Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre mrazivé odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_frost_resistance_final_percent</Data></Cell>
@@ -1557,10 +1591,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_frost_resistance_percent</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">%1 Frost Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre mrazivé odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_frost_resistance_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Frost Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre mrazivé odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_globes_pickup_radius</Data></Cell>
@@ -1591,7 +1627,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_health_regen_frequency</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Health Regeneration Rate</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Rychlost obnovy zdraví</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Rychlost regenerace zdraví</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_health_regen_on_low_health</Data></Cell>
@@ -1715,6 +1751,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_lightning_resistance</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Lightning Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre bleskové odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_lightning_resistance_final_percent</Data></Cell>
@@ -1724,10 +1761,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_lightning_resistance_percent</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Lightning Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre bleskové odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_lightning_resistance_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Lightning Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre bleskové odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_lightning_strike_on_critical_hit</Data></Cell>
@@ -1756,6 +1795,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_material_resistance</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Material Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre materiální odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_material_resistance_final_percent</Data></Cell>
@@ -1765,10 +1805,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_material_resistance_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Material Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre materiální odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_material_resistance_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Material Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre materiální odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_max_stacks_capacity</Data></Cell>
@@ -1805,6 +1847,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_occult_resistance</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Occult Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre okultní odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_occult_resistance_final_percent</Data></Cell>
@@ -1814,10 +1857,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_occult_resistance_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Occult Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre okultní odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_occult_resistance_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Occult Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre okultní odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_offensivespeed_final_percent</Data></Cell>
@@ -1827,10 +1872,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_offensivespeed_score</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Attack and Spell Casting Speed Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre rychlosti útoků a kouzel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_offensivespeed_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Attack and Spell Casting Speed Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre rychlosti útoků a kouzel</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_only_weakness</Data></Cell>
@@ -1869,6 +1916,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_physical_resistance</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Physical Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre fyzické odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_physical_resistance_final_percent</Data></Cell>
@@ -1878,10 +1926,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_physical_resistance_percent</Data></Cell>
     <Cell ss:StyleID="s95"><Data ss:Type="String">%1 Physical Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre fyzické odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_physical_resistance_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Physical Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre fyzické odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_piercing</Data></Cell>
@@ -1952,6 +2002,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rage_per_strike_when_empty</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Rage Generation on Hit when your Rage is Empty</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Obnova vzteku za úder když je váš vztek prázdný</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rage_to_umbra_transfer_percent</Data></Cell>
@@ -1964,10 +2015,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rageandumbra_cost_percent</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Rage and Willpower Cost decrease</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Snížení nákladů na Vztek a Vůli</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_ragecosts_percent</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Rage Cost decrease</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Snížení nákladů Vůle</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_refill_stamina_on_low_health</Data></Cell>
@@ -1981,12 +2034,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rend_damage_percent_spell</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Rend Damage added to Spells</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Přidá ke kouzlům tržné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Přidá do kouzel tržné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rend_damage_percent_weapon</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Rend Damage added to Attacks</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Přidá k útoku tržné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Přidá do útoku tržné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rend_damage_spell</Data></Cell>
@@ -2006,6 +2059,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rend_resistance</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Rend Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre tržné odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rend_resistance_final_percent</Data></Cell>
@@ -2015,10 +2069,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rend_resistance_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Rend Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre tržné odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_rend_resistance_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Rend Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre tržné odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_resource_points</Data></Cell>
@@ -2033,22 +2089,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_sacred_damage_percent_spell</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Sacred Damage added to Spells</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Přidá ke kouzlům posvátné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Přidá do kouzel posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_eim_sacred_damage_percent_weapon</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Sacred Damage added to Attacks</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Přidá k útoku posvátné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Přidá do útoku posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_sacred_damage_spell</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1-%2 Sacred Damage added to Spells</Data></Cell>
-    <Cell><Data ss:Type="String">%1-%2 Přidá ke kouzlům posvátné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1-%2 Přidá do kouzel posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_sacred_damage_weapon</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1-%2 Sacred Damage added to Attacks</Data></Cell>
-    <Cell><Data ss:Type="String">%1-%2 Přidá k útoku posvátné poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1-%2 Přidá do útoku posvátné poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_sacred_ground_on_cursed_stacks</Data></Cell>
@@ -2062,6 +2118,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_sacred_resistance_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Sacred Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre posvátné odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_sacred_resistance_final_percent</Data></Cell>
@@ -2071,6 +2128,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_sacred_resistance_percent</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Sacred Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre posvátné odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_self_shock</Data></Cell>
@@ -2084,22 +2142,22 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_shadow_damage_percent_spell</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shadow Damage added to Spells</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Přidá ke kouzlům stínové poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Přidá do kouzel stínové poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_shadow_damage_percent_weapon</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shadow Damage added to Attacks</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Přidá k útoku stínové poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Přidá do útoku stínové poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_shadow_damage_spell</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1-%2 Shadow Damage added to Spells</Data></Cell>
-    <Cell><Data ss:Type="String">%1-%2 Přidá ke kouzlům stínové poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1-%2 Přidá do kouzel stínové poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_shadow_damage_weapon</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1-%2 Shadow Damage added to Attacks</Data></Cell>
-    <Cell><Data ss:Type="String">%1-%2 Přidá k útoku stínové poškození</Data></Cell>
+    <Cell><Data ss:Type="String">%1-%2 Přidá do útoku stínové poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_shadow_nova_on_weakness_stacks</Data></Cell>
@@ -2113,6 +2171,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_shadow_resistance_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shadow Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre stínové odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_shadow_resistance_final_percent</Data></Cell>
@@ -2122,6 +2181,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_shadow_resistance_percent</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Shadow Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre stínové odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_shadow_spells_cost_to_rage</Data></Cell>
@@ -2139,10 +2199,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_shockchance_on_lightning_damage_score_flat</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shock Chance Score on Lightning Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre šokové šance na poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_shockchance_on_lightning_damage_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Shock Chance Score on Lightning Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre šokové šance na poškození bleskem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_skill_cooldownreduction_percent</Data></Cell>
@@ -2211,10 +2273,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_spellcastingspeed_score</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Spell Casting Speed Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre rychlosti kouzlení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_spellcastingspeed_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Spell Casting Speed Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre rychlosti kouzlení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_stamina_regeneration_percent</Data></Cell>
@@ -2232,10 +2296,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_stasischance_on_umbra_damage_score_flat</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Stasis Chance Score on Aether Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre stázové šance na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_stasischance_on_umbra_damage_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Stasis Chance Score on Aether Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre stázové šance na poškození étherem</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_statusailment_inflict_chance_final_percent</Data></Cell>
@@ -2245,42 +2311,52 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_statusailment_inflict_score_flat_elemental</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Elemental Ailment Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre šance na elementarní slabost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_statusailment_inflict_score_flat_material</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Material Ailment Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre šance na materiální slabost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_statusailment_inflict_score_flat_occult</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Occult Ailment Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre šance na okultní slabost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_statusailment_inflict_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Ailment Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre šance na oslabení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_statusailment_inflict_chance_score</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Ailment Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre šance na oslabení</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_statusailment_inflict_score_percent_elemental</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Elemental Ailment Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre šance na elementarní slabost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_statusailment_inflict_score_percent_material</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Material Ailment Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre šance na materiální slabost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_statusailment_inflict_score_percent_occult</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Occult Ailment Chance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre šance na okultní slabost</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_statusailment_resist_score</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Ailment Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre oslabující odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_statusailment_resist_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Ailment Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre oslabující odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_stavesattacks_consideredspells</Data></Cell>
@@ -2289,6 +2365,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_stun_on_hit_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Stun Chance on Hit</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Šance na omráčení za zásah</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_stunchance_on_dash</Data></Cell>
@@ -2297,10 +2374,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_stunchance_on_physical_damage_score_flat</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">%1 Stun Chance Score on Physical Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre šance na omráčení při fyzickém poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_stunchance_on_physical_damage_score_percent</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">%1 Stun Chance Score on Physical Damage</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre šance na omráčení při fyzickém poškození</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_toughness_pts</Data></Cell>
@@ -2340,6 +2419,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_toxic_resistance_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Toxic Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre jedové odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_toxic_resistance_final_percent</Data></Cell>
@@ -2349,6 +2429,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_toxic_resistance_percent</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Toxic Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre jedové odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_transfer_time_percent</Data></Cell>
@@ -2357,11 +2438,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_onehanded_blockchance_flat</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Block Chance while a One-handed Weapon is equipped</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Šance na blok s jednoruční zbraní</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_twohanded_blockchance_flat</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Block Chance while a Two-handed Weapon is equipped</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Šance na blok</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Šance na blok s obouruční zbraní</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_umbra_damage_percent</Data></Cell>
@@ -2411,6 +2493,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_umbra_resistance_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Aether Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre étherové odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_umbra_resistance_final_percent</Data></Cell>
@@ -2420,6 +2503,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_umbra_resistance_percent</Data></Cell>
     <Cell ss:StyleID="s83"><Data ss:Type="String">%1 Aether Resistance Score</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre étherové odolnosti</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_umbra_to_rage_transfer_percent</Data></Cell>
@@ -2442,6 +2526,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_umbracost_percent_elemental</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Elemental Spell Cost decrease</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Snížení ceny elementárního kouzla</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_vulnerability</Data></Cell>
@@ -2450,6 +2535,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_weaknes_on_hit_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String">%1 Weakness Chance on Hit</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Šance na slabost při zásahu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell ss:StyleID="s79"><Data ss:Type="String">ui_eim_weakness_aoe_onblock</Data></Cell>
@@ -2491,10 +2577,12 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_eim_local_allresistances_score_flat</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String" x:Ticked="1">%1 All Resistances Score on this item</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre všech odolností na tomto předmětu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_eim_local_allresistances_score_percent</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String" x:Ticked="1">%1 All Resistances Score on this item</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Skóre všech odolností na tomto předmětu</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_eim_local_blockchance_flat</Data></Cell>
@@ -2564,7 +2652,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_eim_local_damage_percent_elemental</Data></Cell>
     <Cell ss:StyleID="s81"><Data ss:Type="String" x:Ticked="1">%1 Elemental Damage on Attacks with this weapon</Data></Cell>
-    <Cell><Data ss:Type="String">%1 Elementální poškození při útoku s touto zbraní</Data></Cell>
+    <Cell><Data ss:Type="String">%1 Elementární poškození při útoku s touto zbraní</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="15.75">
     <Cell><Data ss:Type="String">ui_eim_local_damage_percent_material</Data></Cell>
@@ -3348,6 +3436,7 @@
    <Panes>
     <Pane>
      <Number>3</Number>
+     <ActiveRow>2</ActiveRow>
      <ActiveCol>2</ActiveCol>
     </Pane>
    </Panes>
