@@ -7,3 +7,5 @@ Stav : 49,95%
 Discord : https://discord.gg/mCuwYm
 
 Web : http://wolcenfans.cz/
+
+Forum : https://forum.wolcenfans.cz/
